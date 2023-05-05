@@ -1,0 +1,52 @@
+{
+  "sections": [
+    {
+      "id": "tp2Summary",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Parameters.Model"
+        },
+        {
+          "id": "Parameters.Factory"
+        },
+        {
+          "id": "Parameters.Factory_Quote_Num"
+        },
+        {
+          "id": "Parameters.Factory_Quote_Price"
+        },
+        {
+          "id": "Parameters.Factory_Quote_Exp_Date"
+        },
+        {
+          "id": "Parameters.Location"
+        },
+        {
+          "id": "Parameters.Inclined"
+        },
+        {
+          "id": "Parameters.Arrangement"
+        },
+        {
+          "id": "Parameters.Truss_Design"
+        },
+        {
+          "id": "Parameters.Rise"
+        },
+        {
+          "id": "Parameters.Speed"
+        },
+        {
+          "id": "Parameters.StepWidth"
+        },
+        {
+          "id": "Parameters.Ballustrade_Type"
+        },
+        {
+          "id": "Parameters.Num_FlatSteps"
+        }
+      ]
+    }
+  ]
+}

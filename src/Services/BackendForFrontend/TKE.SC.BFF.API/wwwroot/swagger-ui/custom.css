@@ -1,0 +1,38 @@
+﻿/*.topbar-wrapper img[alt="Swagger UI"], .topbar-wrapper span {
+    visibility: hidden;
+}
+*/
+.topbar-wrapper .link:after {
+    content: 'C2D Sales Configurator AppGateway';
+    color: #fff;
+    visibility: visible;
+    display: block;
+    flex: 2;
+    max-width: 400px;
+    font-size: 0.9rem;
+    font-weight: 500
+}
+
+.swagger-ui .topbar a {
+    flex: 2!important;
+    max-width: 400px!important;
+}
+
+.topbar {
+    background-color: #343a40 !important;
+}
+
+.information-container{
+    display:none;
+}
+
+.topbar-wrapper img[alt="Swagger UI"] {
+    content: url(/api-docs/tkelogo.svg);
+    height: 28px !important;
+    padding-right: 1rem !important;
+    margin-right: 1rem !important;
+}
+
+* {
+    font-family: Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}

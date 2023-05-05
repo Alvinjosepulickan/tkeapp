@@ -1,0 +1,10 @@
+﻿{
+  "consoleName": "BACNet",
+  "consoleId": 10,
+  "variableAssignments": [
+    {
+      "variableId": "Building_Configuration.Parameters_SP.controllerBACNet_SP",
+      "value": true
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "packagePath": "ProductTree_6.5",
+  "currentLineId": "ROOT",
+  "language": "Name",
+  "currency": "USD",
+  "date": "2021-06-24T19:38:24.6384532+05:30",
+  "globalArguments": {
+    "plant": "US01",
+    "salesArea": {
+      "salesOrganization": "US01",
+      "distributionChannel": "01",
+      "salesDivision": "02"
+    },
+    "shipTo": {
+      "countryCode": "US"
+    },
+    "soldTo": {
+      "countryCode": "US"
+    },
+    "materialVariant": {
+      "Material": {
+        "ConfigurableMaterialName": "ProductTree_SP",
+        "ExternalId": "ProductTree_SP"
+      }
+    },
+    "variants": []
+  },
+  "priceProcedureId": "ZRVA01",
+  "line": {
+    "productId": "ProductTree_SP",
+    "variableAssignments": [
+    ],
+    "priceLineAssignments": [],
+    "product": {
+      "id": "ProductTree_SP",
+      "isConfigurable": true
+    },
+    "quantity": {
+      "value": 1.0,
+      "unit": "EA"
+    },
+    "sublines": []
+  },
+  "settings": {
+    "debug": true,
+    "includeStateAndJustification": true,
+    "includeAllValues": false,
+    "includePriceLines": false,
+    "onlyPriceTotals": false,
+    "includeSections": [
+      ""
+    ]
+  }
+}

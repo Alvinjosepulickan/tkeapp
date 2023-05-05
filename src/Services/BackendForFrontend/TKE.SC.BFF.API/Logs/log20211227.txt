@@ -1,0 +1,946 @@
+12/27/2021 11:07:49 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetSystemValidationMainValues' started:
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'SystemValidationForUnitBl' started:
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 38.355 milliseconds
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.3499 milliseconds
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 2.4011 milliseconds
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of unitvalidationevo200 JSME call 
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/27/2021 11:13:07 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 3309.5709 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 3323.9267 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of unitvalidationevo200 JSME call 
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 3326.1074 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 3326.7839 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 5.6903 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1387 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.5719 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of Evo200SysVal JSME call 
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 94.0113 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 95.4313 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of Evo200SysVal JSME call 
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 96.0405 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 96.7021 milliseconds
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:13:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.3727 milliseconds
+12/27/2021 11:13:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:13:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.5291 milliseconds
+12/27/2021 11:13:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:13:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:13:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1356 milliseconds
+12/27/2021 11:13:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.4743 milliseconds
+12/27/2021 11:13:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'RequestEmptyCarWeightCalculation' started:
+12/27/2021 11:13:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'MakeHttpRequest' started:
+12/27/2021 11:13:12 +05:30 [VRB] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) API request to https://emptycarweightcalculations.azurewebsites.net/api/v1/EmptyCar_WeightCalculations/EmptyCarWeight
+12/27/2021 11:13:24 +05:30 [VRB] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) API response from https://emptycarweightcalculations.azurewebsites.net/api/v1/EmptyCar_WeightCalculations/EmptyCarWeight
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'MakeHttpRequest' execution ended: Time elapsed 11921.82 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'RequestEmptyCarWeightCalculation' execution ended: Time elapsed 11962.5296 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.9933 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.137 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.6162 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.3553 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2002 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.7387 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of Evo200SysVal JSME call 
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 82.2785 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 83.3601 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of Evo200SysVal JSME call 
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 83.9047 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 84.4803 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.9071 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2054 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.5578 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'SystemValidationForUnitBl' execution ended: Time elapsed 16716.4651 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetLatestSystemsValValues' started:
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetLatestSystemsValValues' execution ended: Time elapsed 518.5308 milliseconds
+12/27/2021 11:13:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetSystemValidationMainValues' execution ended: Time elapsed 17271.359 milliseconds
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetSystemValidationMainValues' started:
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'SystemValidationForUnitBl' started:
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.5692 milliseconds
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1877 milliseconds
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.641 milliseconds
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of unitvalidationevo200 JSME call 
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/27/2021 11:26:28 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 11:26:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 3075.2522 milliseconds
+12/27/2021 11:26:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 3077.2784 milliseconds
+12/27/2021 11:26:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of unitvalidationevo200 JSME call 
+12/27/2021 11:26:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 3078.506 milliseconds
+12/27/2021 11:26:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 3080.718 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.9464 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2455 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.8071 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of Evo200SysVal JSME call 
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 80.7311 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 81.6228 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of Evo200SysVal JSME call 
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 82.1415 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 82.5623 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.5802 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.6852 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 6.7036 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 7.2986 milliseconds
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'RequestEmptyCarWeightCalculation' started:
+12/27/2021 11:26:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'MakeHttpRequest' started:
+12/27/2021 11:26:32 +05:30 [VRB] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) API request to https://emptycarweightcalculations.azurewebsites.net/api/v1/EmptyCar_WeightCalculations/EmptyCarWeight
+12/27/2021 11:26:43 +05:30 [VRB] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) API response from https://emptycarweightcalculations.azurewebsites.net/api/v1/EmptyCar_WeightCalculations/EmptyCarWeight
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'MakeHttpRequest' execution ended: Time elapsed 10876.0238 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'RequestEmptyCarWeightCalculation' execution ended: Time elapsed 10877.9078 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.7928 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.4646 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 1.6624 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.7141 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.3768 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 1.3021 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of Evo200SysVal JSME call 
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 83.7272 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 85.1796 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of Evo200SysVal JSME call 
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 86.1668 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 86.7687 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.5212 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2056 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.6564 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'SystemValidationForUnitBl' execution ended: Time elapsed 14859.1213 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetLatestSystemsValValues' started:
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetLatestSystemsValValues' execution ended: Time elapsed 448.6617 milliseconds
+12/27/2021 11:26:43 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetSystemValidationMainValues' execution ended: Time elapsed 15309.4437 milliseconds
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetSystemValidationMainValues' started:
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'SystemValidationForUnitBl' started:
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.4039 milliseconds
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1511 milliseconds
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.4536 milliseconds
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of unitvalidationevo200 JSME call 
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/27/2021 11:45:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 11:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 3956.2496 milliseconds
+12/27/2021 11:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 3957.123 milliseconds
+12/27/2021 11:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of unitvalidationevo200 JSME call 
+12/27/2021 11:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 3957.5069 milliseconds
+12/27/2021 11:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 3958.3219 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.8408 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1448 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.4622 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of Evo200SysVal JSME call 
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 83.334 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 84.2243 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of Evo200SysVal JSME call 
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 84.6555 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 85.1443 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.7165 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.4393 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1284 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.4118 milliseconds
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'RequestEmptyCarWeightCalculation' started:
+12/27/2021 11:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'MakeHttpRequest' started:
+12/27/2021 11:45:47 +05:30 [VRB] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) API request to https://emptycarweightcalculations.azurewebsites.net/api/v1/EmptyCar_WeightCalculations/EmptyCarWeight
+12/27/2021 11:46:00 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/27/2021 13:03:03 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution RecurringJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/27/2021 13:03:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution DelayedJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/27/2021 13:03:19 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:03:41 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution Worker is in the Failed state now due to an exception, execution will be retried no more than in 00:00:09
+12/27/2021 13:03:49 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:04:21 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:04:55 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:05:42 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:06:18 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:06:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution ServerWatchdog is in the Failed state now due to an exception, execution will be retried no more than in 00:00:09
+12/27/2021 13:06:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution CountersAggregator is in the Failed state now due to an exception, execution will be retried no more than in 00:00:16
+12/27/2021 13:06:48 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:07:21 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:08:02 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:08:48 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 encountered an exception while sending heartbeat
+12/27/2021 13:08:48 +05:30 [ERR] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:1fb0c110 will be restarted due to server time out
+12/27/2021 13:08:48 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:17940:1fb0c110 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+12/27/2021 13:08:48 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:17940:1fb0c110 there was an exception, server may not be removed
+12/27/2021 13:08:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/27/2021 13:09:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:31.6191546 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:09:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:03.4443254 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:10:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:35.1282874 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:10:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:06.8676450 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:11:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:38.7245384 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:11:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:10.4034151 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:12:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:25.4164784 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:12:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:56.8638119 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:13:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:28.3788674 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:13:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:59.8757414 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:14:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:31.4520728 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:14:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:03.0807461 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:15:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:34.4968748 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:15:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:06.0688273 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:16:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:37.6100679 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:16:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:09.0741068 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:17:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:24.0844567 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:17:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:55.5189705 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:18:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:26.9332073 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:18:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:58.3256257 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:19:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:10:29.9661557 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:19:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:11:01.5098507 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:20:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:11:33.1228379 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:20:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:12:04.5542540 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:21:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:12:36.0823862 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:21:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:13:07.5378635 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:22:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:13:39.0715264 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:22:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:13:54.0813187 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:23:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:25.5428577 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:23:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:57.0511802 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:24:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:15:28.6087729 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:24:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:16:00.1495233 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:25:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:16:31.6490526 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:25:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:17:03.0935377 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:26:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:17:34.6810034 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:26:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:18:06.2227587 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:27:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:18:37.7728089 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:27:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:09.2223475 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:28:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:24.2392930 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:28:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:55.7061866 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:29:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:20:27.1792734 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:29:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:20:58.8504801 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:30:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:21:30.2980642 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:30:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:22:01.8446167 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:31:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:22:33.2560958 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:31:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:23:04.9202798 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:32:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:23:36.4350306 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:32:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:24:07.9248375 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:33:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:24:39.4132250 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:33:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:24:54.4166350 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:34:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:25:25.8408171 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:34:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:25:57.3709101 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:35:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:28.9713837 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:35:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:27:00.5264126 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:36:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:27:31.9410861 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:36:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:28:03.4105581 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:37:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:28:35.0174710 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:37:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:29:06.5783912 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:38:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:29:38.1939505 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:38:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:09.6598417 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:39:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:24.6719187 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:39:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:56.0944283 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:40:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:27.5878905 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:40:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:59.0130392 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:41:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:32:30.4744139 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:41:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:33:02.1622007 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:42:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:33:33.6145794 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:42:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:34:05.1358453 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:43:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:34:36.5935445 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:43:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:08.1532331 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:44:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:39.6213512 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:44:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:54.6242992 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:45:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:36:26.3993296 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:45:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:36:57.8594040 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:46:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:37:29.3358734 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:46:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:38:00.8615398 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:47:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:38:32.4624780 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:47:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:39:03.8750948 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:48:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:39:35.3416746 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:48:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:40:06.8350497 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:49:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:40:38.3353025 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:49:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:09.8368362 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:50:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:24.8483466 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:50:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:56.3907622 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:51:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:42:27.9121065 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:51:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:42:59.4715691 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:52:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:43:30.9976131 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:52:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:44:02.5547813 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:53:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:44:34.0703066 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:53:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:45:05.5421710 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:54:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:45:37.0032640 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:54:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:08.4310309 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:55:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:39.9432728 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:55:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:54.9484011 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:56:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:47:26.4078382 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:56:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:47:57.9684547 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:57:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:48:29.6405190 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:57:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:49:01.1088752 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:58:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:49:32.5817370 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:58:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:50:03.9689068 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:59:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:50:35.5030447 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 13:59:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:51:06.9621749 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:00:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:51:38.4139607 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:00:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:52:09.8703534 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:01:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:52:24.8747004 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:01:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:52:56.4335930 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:02:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:53:27.9400269 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:02:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:53:59.3627903 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:03:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:54:30.7657074 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:03:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:55:02.1760770 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:04:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:55:33.6458759 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:04:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:56:05.2541857 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:05:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:56:36.7093044 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:05:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:57:08.1416494 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:06:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:57:39.5496803 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:06:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:57:54.5584377 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:07:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:58:26.0721146 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:07:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:58:57.5435577 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:08:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:59:29.0992046 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:08:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:00:00.5816282 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:09:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:00:32.0964938 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:09:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:01:03.5423908 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:10:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:01:35.0589398 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:10:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:02:06.5584877 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:11:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:02:38.0003853 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:11:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:03:09.4532932 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:12:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:03:24.4629548 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:12:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:03:55.8882432 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:13:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:04:27.4497804 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:13:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:04:58.9427248 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:14:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:05:30.4781811 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:14:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:06:02.0020576 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:15:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:06:33.5662720 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:15:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:07:04.9698476 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:16:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:07:36.3838861 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:16:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:08:07.8690212 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:17:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:08:39.3151886 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:17:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:08:54.3254619 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:18:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:09:25.9214067 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:18:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:09:57.3898438 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:19:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:10:28.9158828 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:19:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:11:00.3239060 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:20:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:11:31.8032798 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:20:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:12:03.2598753 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:21:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:12:34.7153666 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:21:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:13:06.1596404 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:22:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:13:37.6596421 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:22:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:14:09.0758797 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:23:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:14:24.0778994 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:23:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:14:55.6586279 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:24:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:15:27.2149226 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:24:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:15:58.7301990 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:25:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:16:30.1956103 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:25:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:17:01.7099326 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:26:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:17:33.2259558 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:26:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:18:04.7047830 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:27:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:18:36.1520077 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:27:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:19:07.6077636 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:28:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:19:39.0839535 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:28:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:19:54.1004813 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:29:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:20:25.6959410 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:29:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:20:57.2019696 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:30:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:21:28.6519372 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:30:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:22:00.0288919 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:31:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:22:31.4918361 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:31:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:23:02.9928590 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:32:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:23:34.4407856 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:32:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:24:05.8781280 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:33:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:24:37.4130882 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:33:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:25:08.9079104 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:34:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:25:23.9122649 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:34:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:25:55.4812254 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:35:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:26:27.0255921 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:35:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:26:58.4562221 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:36:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:27:29.8968091 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:36:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:28:01.4009008 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:37:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:28:32.8504388 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:37:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:29:04.2845696 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:38:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:29:35.8548286 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:38:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:30:07.2873902 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:39:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:30:38.8884255 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:39:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:30:53.9009215 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:40:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:31:25.5942461 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:40:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:31:57.0653133 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:41:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:32:28.6169585 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:41:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:33:00.0253502 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:42:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:33:31.4334806 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:42:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:34:02.8440555 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:43:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:34:34.3014622 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:43:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:35:05.8006533 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:44:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:35:37.4058531 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:44:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:36:08.8837160 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:45:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:36:23.8884801 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:45:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:36:53.4831576 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:46:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:37:24.9401520 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:46:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:37:56.5051857 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:47:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:38:27.9536889 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:47:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:38:59.4150532 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:48:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:39:30.8782547 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:48:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:40:02.3768033 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:49:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:40:33.8815316 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:49:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:41:05.5104967 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:50:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:41:36.8783414 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:50:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:42:08.3696788 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:51:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:42:39.8138821 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:51:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:42:54.8250090 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:52:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:43:26.3754416 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:52:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:43:57.9082276 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:53:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:44:29.3427929 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:53:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:45:00.7733325 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:54:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:45:32.3072354 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:54:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:46:03.7926224 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:55:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:46:35.3317929 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:55:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:47:06.8939493 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:56:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:47:38.3070670 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:56:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:48:09.7339106 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:57:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:48:24.7443212 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:57:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:48:56.2719377 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:58:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:49:27.7144137 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:58:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:49:59.2109351 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:59:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:50:30.6611154 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 14:59:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:51:02.1474442 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:00:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:51:33.7339802 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:00:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:52:05.2739849 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:01:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:52:36.7049389 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:01:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:53:08.1483327 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:02:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:53:39.6355383 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:02:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:53:54.6536080 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:09:15 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'RequestDrawings' started:
+12/27/2021 15:09:15 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingGroupUnitVariableAssignmentsAsync' started:
+12/27/2021 15:09:15 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingGroupVariablesWithUnitByGroupId' started:
+12/27/2021 15:09:15 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingGroupVariablesWithUnitByGroupId' execution ended: Time elapsed 203.2548 milliseconds
+12/27/2021 15:09:15 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrossPackageVariables' started:
+12/27/2021 15:09:15 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrossPackageVariables' execution ended: Time elapsed 20.6896 milliseconds
+12/27/2021 15:09:15 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrossPackageVariables' started:
+12/27/2021 15:09:15 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrossPackageVariables' execution ended: Time elapsed 11.2378 milliseconds
+12/27/2021 15:09:15 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitsVariablesWithUnitByGroupId' started:
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitsVariablesWithUnitByGroupId' execution ended: Time elapsed 439.8745 milliseconds
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingGroupUnitVariableAssignmentsAsync' execution ended: Time elapsed 750.735 milliseconds
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetLiftDesignerStatus' started:
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' started:
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 46.0048 milliseconds
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of unitvalidationevo100 JSME call 
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:09:16 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:09:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 8712.8092 milliseconds
+12/27/2021 15:09:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 8731.5545 milliseconds
+12/27/2021 15:09:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of unitvalidationevo100 JSME call 
+12/27/2021 15:09:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 8733.2456 milliseconds
+12/27/2021 15:09:24 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 8733.9611 milliseconds
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' execution ended: Time elapsed 8965.4318 milliseconds
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GettingVariablesForLiftDesigner' started:
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrossPackageVariables' started:
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrossPackageVariables' execution ended: Time elapsed 784.6477 milliseconds
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' started:
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetRequestBodyWithAssignments' started:
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CLMRequestPayloadAssignments' started:
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CLMRequestPayloadAssignments' execution ended: Time elapsed 4.3981 milliseconds
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetRequestBodyWithAssignments' execution ended: Time elapsed 11.6369 milliseconds
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 13.7627 milliseconds
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of LDEvo100 JSME call 
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:09:25 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 5822.175 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 5824.279 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of LDEvo100 JSME call 
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 5824.6296 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 5824.9047 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' execution ended: Time elapsed 5851.8159 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GettingVariablesForLiftDesigner' execution ended: Time elapsed 6643.8295 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'UpdateFdaDrawingMethodByGroupId' started:
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'UpdateFdaDrawingMethodByGroupId' execution ended: Time elapsed 31.6182 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetLiftDesignerStatus' execution ended: Time elapsed 15661.205 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'XMLGenerationandRequestLayout' started:
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'LDXMLGenerationAsync' started:
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUserId' started:
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUserId' execution ended: Time elapsed 149.0133 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetOpportunityAndVersionByQuoteId' started:
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetOpportunityAndVersionByQuoteId' execution ended: Time elapsed 31.5217 milliseconds
+12/27/2021 15:09:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetGroupConfigurationDetailsByGroupId' started:
+12/27/2021 15:09:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetGroupConfigurationDetailsByGroupId' execution ended: Time elapsed 105.6357 milliseconds
+12/27/2021 15:09:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:09:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.0237 milliseconds
+12/27/2021 15:09:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of groupconfiguration JSME call 
+12/27/2021 15:09:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:09:32 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:09:39 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 7857.8737 milliseconds
+12/27/2021 15:09:39 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 7858.6421 milliseconds
+12/27/2021 15:09:39 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of groupconfiguration JSME call 
+12/27/2021 15:09:39 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 7859.199 milliseconds
+12/27/2021 15:09:39 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 7859.6298 milliseconds
+12/27/2021 15:09:39 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetXMLVariablesWithUnitByGroupId' started:
+12/27/2021 15:09:40 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetXMLVariablesWithUnitByGroupId' execution ended: Time elapsed 1037.0305 milliseconds
+12/27/2021 15:09:40 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingId' started:
+12/27/2021 15:09:40 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingId' execution ended: Time elapsed 28.5898 milliseconds
+12/27/2021 15:09:40 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingConfigurationByGroupIdAsync' started:
+12/27/2021 15:09:40 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateBuildingConfigurationRequest' started:
+12/27/2021 15:09:40 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateBuildingConfigurationRequest' execution ended: Time elapsed 2.2662 milliseconds
+12/27/2021 15:09:40 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingConfigurationById' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingConfigurationById' execution ended: Time elapsed 30.3649 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'SetCrosspackageVariableAssignments' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'SetCrosspackageVariableAssignments' execution ended: Time elapsed 5.2093 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ChangeBuildingConfigure' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrosspackageVariableAssignments' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrosspackageVariableAssignments' execution ended: Time elapsed 0.1459 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GenerateVariableAssignmentsForUnitConfiguration' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GenerateVariableAssignmentsForUnitConfiguration' execution ended: Time elapsed 0.7861 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'SetCrosspackageVariableAssignments' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'SetCrosspackageVariableAssignments' execution ended: Time elapsed 5.3524 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.3144 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GenerateIncludeSections' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GenerateIncludeSections' execution ended: Time elapsed 4.762 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of buildingconfiguration JSME call 
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 805.6118 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 806.5244 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of buildingconfiguration JSME call 
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 806.9173 milliseconds
+12/27/2021 15:09:41 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 807.5153 milliseconds
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CompareChangeInConfigResponse' started:
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CompareChangeInConfigResponse' execution ended: Time elapsed 4.4828 milliseconds
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ChangeBuildingConfigure' execution ended: Time elapsed 1169.8995 milliseconds
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetBuildingConfigurationByGroupIdAsync' execution ended: Time elapsed 1226.5247 milliseconds
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetGroupConfigurationDetailsByGroupId' started:
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetGroupConfigurationDetailsByGroupId' execution ended: Time elapsed 118.784 milliseconds
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.1435 milliseconds
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of groupconfiguration JSME call 
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:09:42 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 9171.7117 milliseconds
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 9172.5735 milliseconds
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of groupconfiguration JSME call 
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 9172.95 milliseconds
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 9173.4195 milliseconds
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetGroupInformationByGroupId' started:
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetGroupInformationByGroupId' execution ended: Time elapsed 29.0505 milliseconds
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitVariableAssignments' started:
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitVariableAssignments' started:
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitVariableAssignments' execution ended: Time elapsed 316.6335 milliseconds
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.7296 milliseconds
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of buildingconfiguration JSME call 
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:09:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 674.1165 milliseconds
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 675.2442 milliseconds
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of buildingconfiguration JSME call 
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 675.703 milliseconds
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 676.3309 milliseconds
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 683.6147 milliseconds
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitVariableAssignments' execution ended: Time elapsed 1153.3746 milliseconds
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetGroupInfoAsync' started:
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateProductConfigurationRequest' started:
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateProductConfigurationRequest' execution ended: Time elapsed 4.2189 milliseconds
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 4.1175 milliseconds
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of groupconfiguration JSME call 
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:09:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:10:01 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 9107.5643 milliseconds
+12/27/2021 15:10:01 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 9110.9096 milliseconds
+12/27/2021 15:10:01 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of groupconfiguration JSME call 
+12/27/2021 15:10:01 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 9111.292 milliseconds
+12/27/2021 15:10:01 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 9111.6262 milliseconds
+12/27/2021 15:10:01 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitDetails' started:
+12/27/2021 15:10:02 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitDetails' execution ended: Time elapsed 72.4881 milliseconds
+12/27/2021 15:10:02 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' started:
+12/27/2021 15:10:02 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:10:02 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 4.3899 milliseconds
+12/27/2021 15:10:02 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:10:02 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:10:02 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of unitvalidationevo100 JSME call 
+12/27/2021 15:10:02 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:10:02 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 7976.5209 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 7979.5906 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of unitvalidationevo100 JSME call 
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 7979.9613 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 7980.266 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' execution ended: Time elapsed 8041.5322 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GettingVariablesForLiftDesignerXmlGeneration' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrossPackageVariables' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetCrossPackageVariables' execution ended: Time elapsed 371.4569 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetRequestBodyWithAssignments' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CLMRequestPayloadAssignments' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CLMRequestPayloadAssignments' execution ended: Time elapsed 0.6154 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetRequestBodyWithAssignments' execution ended: Time elapsed 2.5479 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 4.4124 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of LDEvo100 JSME call 
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 401.647 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 402.836 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of LDEvo100 JSME call 
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 403.345 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 404.046 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' execution ended: Time elapsed 412.7067 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GettingVariablesForLiftDesignerXmlGeneration' execution ended: Time elapsed 785.1029 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitVariablestoDictionary' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitVariablestoDictionary' execution ended: Time elapsed 3.5861 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetLiftDesignerHeatBracketPackageVariables' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetRequestBodyWithAssignments' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CLMRequestPayloadAssignments' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CLMRequestPayloadAssignments' execution ended: Time elapsed 0.4449 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetRequestBodyWithAssignments' execution ended: Time elapsed 1.6092 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.1758 milliseconds
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of LDEvo100 JSME call 
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:10:10 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 217.9757 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 218.5118 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of LDEvo100 JSME call 
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 218.7499 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 218.9822 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' execution ended: Time elapsed 228.0178 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetLiftDesignerHeatBracketPackageVariables' execution ended: Time elapsed 228.5013 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitVariablestoDictionary' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetUnitVariablestoDictionary' execution ended: Time elapsed 1.5809 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetLiftDesignerHeatBracketPackageVariables' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetRequestBodyWithAssignments' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CLMRequestPayloadAssignments' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CLMRequestPayloadAssignments' execution ended: Time elapsed 0.5739 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetRequestBodyWithAssignments' execution ended: Time elapsed 1.8084 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.5786 milliseconds
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Start of LDEvo100 JSME call 
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' started:
+12/27/2021 15:10:11 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' started:
+12/27/2021 15:10:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 515.763 milliseconds
+12/27/2021 15:10:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'Configure' execution ended: Time elapsed 516.8721 milliseconds
+12/27/2021 15:10:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) End of LDEvo100 JSME call 
+12/27/2021 15:10:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 517.3524 milliseconds
+12/27/2021 15:10:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'ConfigurationBl' execution ended: Time elapsed 517.7921 milliseconds
+12/27/2021 15:10:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetPackageVariableArguments' execution ended: Time elapsed 543.3649 milliseconds
+12/27/2021 15:10:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'GetLiftDesignerHeatBracketPackageVariables' execution ended: Time elapsed 543.9524 milliseconds
+12/27/2021 15:10:12 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.FieldDrawingAutomationBL) Method 'SaveVariableArguments' started:
+12/27/2021 15:10:12 +05:30 [WRN] (Hangfire.AutomaticRetryAttribute) Failed to process the job '14612': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:36.
+12/27/2021 15:36:29 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:36:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution DelayedJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/27/2021 15:36:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution Worker is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/27/2021 15:36:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution RecurringJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/27/2021 15:37:15 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:37:47 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:38:28 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:38:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution CountersAggregator is in the Failed state now due to an exception, execution will be retried no more than in 00:00:16
+12/27/2021 15:38:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution ServerWatchdog is in the Failed state now due to an exception, execution will be retried no more than in 00:00:16
+12/27/2021 15:38:58 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:39:29 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:40:08 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:40:54 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:41:29 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:42:00 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 encountered an exception while sending heartbeat
+12/27/2021 15:42:00 +05:30 [ERR] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:17940:82de57a8 will be restarted due to server time out
+12/27/2021 15:42:00 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:17940:82de57a8 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+12/27/2021 15:42:17 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:17940:82de57a8 there was an exception, server may not be removed
+12/27/2021 15:42:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/27/2021 15:42:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:31.3893246 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:43:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:02.9315066 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:43:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:34.3993928 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:44:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:05.9237207 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:44:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:37.4399187 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:45:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:08.8568705 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:45:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:38.4066049 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:46:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:53.4191476 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:46:41 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:24.8379199 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:47:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:56.3680826 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:47:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:27.9391822 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:48:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:59.4509457 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:48:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:31.0115528 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:49:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:02.4652297 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:49:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:33.9599475 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:50:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:05.4610219 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:50:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:37.0467811 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:51:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:08.4735345 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:51:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:39.8778378 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:52:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:54.8941808 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:52:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:10:26.5026862 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:53:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:10:58.0655367 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:53:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:11:29.6619280 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:54:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:12:01.2444309 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:54:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:12:32.7652255 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:55:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:13:04.2170167 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:55:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:13:35.7153504 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:56:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:07.2553862 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:56:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:38.7875887 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:57:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:15:10.3095813 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:57:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:15:25.3156804 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:58:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:15:56.8589504 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:58:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:16:28.3817455 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:59:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:16:59.8222783 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 15:59:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:17:31.4363064 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:00:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:18:02.9175077 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:00:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:18:34.4228375 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:01:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:05.9218328 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:01:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:37.3233830 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:02:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:20:08.8607034 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:02:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:20:40.2292715 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:03:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:20:55.2329915 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:03:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:21:26.8262135 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:04:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:21:58.2787214 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:04:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:22:29.7952878 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:05:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:23:01.3223931 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:05:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:23:32.7524885 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:06:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:24:04.1802000 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:06:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:24:35.5989494 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:07:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:25:07.1649705 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:07:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:25:38.5833356 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:08:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:10.0266436 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:08:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:25.0283125 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:09:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:56.6990886 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:09:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:27:28.2364113 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:10:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:27:59.6447131 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:10:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:28:31.2452743 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:11:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:29:02.6428983 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:11:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:29:34.2084093 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:12:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:05.6927823 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:12:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:37.1110479 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:13:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:08.6744405 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:13:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:40.2157668 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:14:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:55.2309062 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:14:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:32:26.7864934 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:15:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:32:58.2632485 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:15:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:33:29.6505070 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:16:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:34:01.1028396 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:16:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:34:32.5918488 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:17:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:04.1524526 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:17:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:35.5860634 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:18:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:36:07.0419523 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:18:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:36:38.5242562 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:19:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:37:10.0209436 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:19:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:37:25.0238411 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:20:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:37:56.5855693 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:20:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:38:28.0445850 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:21:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:38:59.5230498 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:21:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:39:30.9893994 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:22:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:40:02.4700906 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:22:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:40:33.9584258 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:23:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:05.3694435 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:23:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:36.8652208 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:24:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:42:08.2602392 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:24:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:42:39.6830586 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:25:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:43:11.2979275 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:25:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:43:26.3058347 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:26:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:43:57.7244546 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:26:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:44:29.2041735 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:27:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:45:00.6924043 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:27:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:45:32.1218851 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:28:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:03.6019084 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:28:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:35.0230807 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:29:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:47:06.4694029 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:29:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:47:37.9688760 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:30:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:48:09.4118131 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:30:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:48:40.9429234 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:31:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:48:55.9504537 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:31:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:49:27.4226458 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:32:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:49:58.8479250 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:32:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:50:30.2814195 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:33:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:51:01.7576926 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:33:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:51:33.2050694 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:34:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:52:04.6622924 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:34:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:52:36.1971586 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:35:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:53:07.6907641 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:35:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:53:39.1200260 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:36:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:54:10.5711401 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:36:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:54:25.5740228 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:37:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:54:57.1149932 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:37:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:55:28.5452918 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:38:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:56:00.1185899 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:38:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:56:31.5312003 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:39:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:57:03.0314641 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:39:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:57:34.4281726 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:40:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:58:05.9560645 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:40:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:58:37.3714919 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:41:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:59:08.9095397 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:41:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:59:40.2935020 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:42:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:59:55.2965757 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:42:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:00:26.7306954 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:43:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:01:10.3604301 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:43:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:01:40.7979446 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:44:29 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:02:12.4057572 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:45:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:02:52.1725112 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:45:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:03:34.9945208 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:46:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:04:17.4965079 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:47:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:04:58.9411615 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:47:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:05:41.2107356 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:48:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:06:23.9277281 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:49:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:07:07.4264626 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:50:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:07:50.0987169 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:50:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:08:20.0362036 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:51:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:09:02.1179703 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:52:00 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:09:43.6844271 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:52:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:10:25.5819469 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:53:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:11:08.9248244 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:54:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:11:50.3127467 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:54:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:12:32.0638064 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:55:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:13:14.1270728 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:56:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:13:56.2187117 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:56:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:14:36.8758112 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:57:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:15:18.3313655 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:58:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:16:00.0877746 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:58:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:16:40.7041431 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 16:59:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:17:23.8069836 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:00:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:18:06.2584480 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:01:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:18:47.9748196 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:01:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:19:31.1932532 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:02:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:20:13.8721323 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:03:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:20:55.8334772 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:03:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:21:37.2915561 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:04:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:22:18.8628857 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:05:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:23:02.3749219 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:06:01 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:23:44.1488973 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:06:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:24:25.5463237 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:07:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:25:07.2686936 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:08:06 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:25:49.9057255 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:08:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:26:20.7166305 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:09:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:27:03.9105706 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:10:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:27:45.5620493 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:10:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:28:28.3202500 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:11:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:29:09.7293827 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:12:08 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:29:51.5153448 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:12:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:30:32.8808082 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:13:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:31:14.9262191 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:14:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:31:56.2422521 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:14:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:32:38.8905489 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:15:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:33:20.4471848 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:16:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:34:02.4334416 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:17:01 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:34:44.6481549 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:17:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:35:26.5556823 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:18:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:36:08.3636452 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:19:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:36:50.5588298 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:19:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:37:32.1702748 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:20:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:38:14.2095597 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:21:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:38:54.2299131 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:21:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:39:35.8673618 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:22:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:40:17.4020104 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:23:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:40:59.2356920 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:23:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:41:42.8080173 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:24:41 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:42:24.4038411 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:25:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:43:06.0829347 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:26:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:43:47.5416887 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:26:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:44:29.2336796 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:27:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:45:10.6663526 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:28:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:45:52.2592567 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:28:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:46:32.9818405 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:29:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:47:14.1454027 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:30:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:47:45.9723830 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:30:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:48:27.1587504 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:31:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:49:08.6605526 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:31:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:49:40.0781689 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:32:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:50:21.7596457 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:33:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:51:03.6701684 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:34:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:51:45.5691687 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:34:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:52:27.1490529 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:35:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:53:08.7333541 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:36:08 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:53:51.1179796 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:36:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:54:33.9432386 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:37:32 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:55:15.4854457 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:38:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:55:56.0724128 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:38:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:56:37.8437360 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:39:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:57:21.4704143 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:40:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:58:03.0857537 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:41:01 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:58:44.8574608 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:41:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:59:26.6398894 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:42:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:00:08.9409933 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:43:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:00:50.5043904 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:43:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:01:34.1329159 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:44:32 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:02:15.6938493 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:45:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:02:57.3232620 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:45:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:03:38.9560866 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:46:29 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:04:12.2236416 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:47:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:04:53.6390712 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:47:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:05:35.4686193 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:48:33 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:06:16.1888831 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:49:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:06:57.6785206 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:49:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:07:39.2542985 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:50:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:08:22.8297212 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:51:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:09:04.7813524 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:52:03 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:09:46.3837882 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:52:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:10:30.0118754 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:53:29 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:11:12.4392963 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:54:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:11:54.3256037 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:54:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:12:36.0100772 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:55:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:13:17.7105193 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:56:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:13:59.9351267 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:56:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:14:42.8627770 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:57:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:15:25.1102547 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:58:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:16:08.2681192 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 17:59:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 02:16:50.4716716 due to an exception, will be retried no more than in 00:00:15
+12/27/2021 22:19:49 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.

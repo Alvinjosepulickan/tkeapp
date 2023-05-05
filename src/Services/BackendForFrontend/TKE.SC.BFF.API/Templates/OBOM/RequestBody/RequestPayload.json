@@ -1,0 +1,1835 @@
+[
+
+	{
+		"variableId": "Parameters.DOORTYPF",
+		"value": "1SLH"
+	},
+	{
+		"variableId": "Parameters.REAROPEN",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "Parameters.CONTROLTYP",
+		"value": "SLIM32T"
+	},
+	{
+		"variableId": "Parameters.LADLOC",
+		"value": "Q1"
+	},
+	{
+		"variableId": "Parameters.ENTSYS",
+		"value": "M721"
+	},
+	{
+		"variableId": "Parameters.DOORTYPR",
+		"value": "NA"
+	},
+	{
+		"variableId": "Parameters.BLANDINGS",
+		"value": "5"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDOHF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDOHR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDORFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDORFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDORFINFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDORFINRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDORFINFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDORFINRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDORGA",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDOWF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDOWR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRBINDF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRBINDR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRBINDFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRBINDRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRBINDFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRBINDRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRKPLF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRKPLR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRKPLFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRKPLRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRKPLFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRKPLRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRLETF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRLETR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRLETFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRLETRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRLETFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRLETRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRLMFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDRLMFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTFRAFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTFRAFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTFRAFINMATF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTFRAFINMATR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTKEYHOLE",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTWLTYPF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTWLTYPR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.COLFACEF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.COLFACER",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ELEVATION",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.LANDING",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ParameterREV",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDOHF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDOHR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDORFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDORFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDORFINFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDORFINRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDORFINFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDORFINRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDORGA",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDOWF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDOWR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRBINDF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRBINDR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRBINDFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRBINDRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRBINDFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRBINDRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRKPLF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRKPLR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRKPLFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRKPLRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRKPLFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRKPLRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRLETF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRLETR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRLETFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRLETRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRLETFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRLETRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRLMFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDRLMFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTFRAFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTFRAFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTFRAFINMATF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTFRAFINMATR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTKEYHOLE",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTWLTYPF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTWLTYPR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.COLFACEF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.COLFACER",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ELEVATION",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.LANDING",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ParameterREV",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDOHF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDOHR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDORFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDORFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDORFINFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDORFINRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDORFINFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDORFINRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDORGA",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDOWF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDOWR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRBINDF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRBINDR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRBINDFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRBINDRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRBINDFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRBINDRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRKPLF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRKPLR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRKPLFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRKPLRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRKPLFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRKPLRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRLETF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRLETR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRLETFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRLETRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRLETFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRLETRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRLMFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDRLMFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTFRAFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTFRAFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTFRAFINMATF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTFRAFINMATR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTKEYHOLE",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTWLTYPF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTWLTYPR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.COLFACEF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.COLFACER",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ELEVATION",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.LANDING",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ParameterREV",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDOHF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDOHR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDORFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDORFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDORFINFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDORFINRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDORFINFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDORFINRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDORGA",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDOWF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDOWR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRBINDF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRBINDR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRBINDFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRBINDRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRBINDFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRBINDRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRKPLF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRKPLR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRKPLFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRKPLRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRKPLFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRKPLRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRLETF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRLETR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRLETFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRLETRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRLETFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRLETRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRLMFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDRLMFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTFRAFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTFRAFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTFRAFINMATF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTFRAFINMATR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTKEYHOLE",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTWLTYPF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTWLTYPR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.COLFACEF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.COLFACER",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ELEVATION",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.LANDING",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ParameterREV",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDOHF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDOHR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDORFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDORFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDORFINFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDORFINRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDORFINFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDORFINRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDORGA",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDOWF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDOWR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRBINDF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRBINDR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRBINDFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRBINDRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRBINDFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRBINDRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRKPLF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRKPLR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRKPLFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRKPLRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRKPLFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRKPLRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRLETF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRLETR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRLETFMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRLETRMAT",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRLETFTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRLETRTYP",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRLMFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDRLMFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTFRAFINF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTFRAFINR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTFRAFINMATF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTFRAFINMATR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTKEYHOLE",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTWLTYPF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTWLTYPR",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.COLFACEF",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.COLFACER",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ELEVATION",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.LANDING",
+		"value": ""
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ParameterREV",
+		"value": ""
+	},
+	{
+		"variableId": "Parameters.BLANDINGS",
+		"value": "5"
+	},
+	{
+		"variableId": "Parameters.COPMAIN",
+		"value": "WRAP"
+	},
+	{
+		"variableId": "Parameters.COPLOCM",
+		"value": "Q4"
+	},
+	{
+		"variableId": "Parameters.AGILECOP",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "Parameters.CARID",
+		"value": "1"
+	},
+	{
+		"variableId": "Parameters.CONTGS",
+		"value": "2"
+	},
+	{
+		"variableId": "Parameters.ASTYPE",
+		"value": "A17.1"
+	},
+	{
+		"variableId": "Parameters.ASYEAR",
+		"value": "2010"
+	},
+	{
+		"variableId": "Parameters.ENTDOWF",
+		"value": "42"
+	},
+	{
+		"variableId": "Parameters.ENTDOWR",
+		"value": "42"
+	},
+	{
+		"variableId": "Parameters.AZMED",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "Parameters.HS1QUAD",
+		"value": "Q4"
+	},
+	{
+		"variableId": "Parameters.HS2QUAD",
+		"value": "Q1"
+	},
+	{
+		"variableId": "Parameters.MASSMED",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HALOCBTMF",
+		"value": "WMBL"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.EMPI",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.INCONF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.COMFAIL",
+		"value": "WMS"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.FIRE",
+		"value": "WMS"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.FIREAD",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.MASSMED",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HLTYPEF",
+		"value": "TRIANGLE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.PITYPEF",
+		"value": "CANPI"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.COMBOF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.EMERP",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.EMERP08",
+		"value": "WMS"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HALLLOF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HALLREGF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.PHJKF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.EMERSIGNF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HALLPBTP",
+		"value": "T2"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.CODEBLUEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HALOCTOPF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HALOCTOPR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HALOCBTMR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HLTYPER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.PITYPER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.COMBOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HALLLOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.HALLREGR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.PHJKR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.EMERSIGNR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.INCONR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.CODEBLUER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.TORILANDF",
+		"value": "TERMUP"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.TORILANDR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDOWF",
+		"value": "42"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.ENTDOWR",
+		"value": "0"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.PARK",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING001.Parameters.RETURN",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HALOCBTMF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.EMPI",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.INCONF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.COMFAIL",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.FIRE",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.FIREAD",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.MASSMED",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HLTYPEF",
+		"value": "TRIANGLE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.PITYPEF",
+		"value": "CANPI"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.COMBOF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.EMERP",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.EMERP08",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HALLLOF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HALLREGF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.PHJKF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.EMERSIGNF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HALLPBTP",
+		"value": "T2"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.CODEBLUEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HALOCTOPF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HALOCTOPR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HALOCBTMR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HLTYPER",
+		"value": "TRIANGLE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.PITYPER",
+		"value": "CANPI"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.COMBOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HALLLOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.HALLREGR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.PHJKR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.EMERSIGNR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.INCONR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.CODEBLUER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.TORILANDF",
+		"value": "INTER"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.TORILANDR",
+		"value": "INTER"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDOWF",
+		"value": "42"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.ENTDOWR",
+		"value": "42"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.PARK",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING002.Parameters.RETURN",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HALOCBTMF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.EMPI",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.INCONF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.COMFAIL",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.FIRE",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.FIREAD",
+		"value": "WMS"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.MASSMED",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HLTYPEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.PITYPEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.COMBOF",
+		"value": "TRICAN"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.EMERP",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.EMERP08",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HALLLOF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HALLREGF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.PHJKF",
+		"value": "TRUE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.EMERSIGNF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HALLPBTP",
+		"value": "T2"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.CODEBLUEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HALOCTOPF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HALOCTOPR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HALOCBTMR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HLTYPER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.PITYPER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.COMBOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HALLLOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.HALLREGR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.PHJKR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.EMERSIGNR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.INCONR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.CODEBLUER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.TORILANDF",
+		"value": "INTER"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.TORILANDR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDOWF",
+		"value": "42"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.ENTDOWR",
+		"value": "0"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.PARK",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING003.Parameters.RETURN",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HALOCBTMF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.EMPI",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.INCONF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.COMFAIL",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.FIRE",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.FIREAD",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.MASSMED",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HLTYPEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.PITYPEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.COMBOF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.EMERP",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.EMERP08",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HALLLOF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HALLREGF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.PHJKF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.EMERSIGNF",
+		"value": "APPHS"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HALLPBTP",
+		"value": "T2"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.CODEBLUEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HALOCTOPF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HALOCTOPR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HALOCBTMR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HLTYPER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.PITYPER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.COMBOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HALLLOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.HALLREGR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.PHJKR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.EMERSIGNR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.INCONR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.CODEBLUER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.TORILANDF",
+		"value": "INTER"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.TORILANDR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDOWF",
+		"value": "42"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.ENTDOWR",
+		"value": "0"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.PARK",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING004.Parameters.RETURN",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HALOCBTMF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.EMPI",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.INCONF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.COMFAIL",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.FIRE",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.FIREAD",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.MASSMED",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HLTYPEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.PITYPEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.COMBOF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.EMERP",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.EMERP08",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HALLLOF",
+		"value": "TRUE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HALLREGF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.PHJKF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.EMERSIGNF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HALLPBTP",
+		"value": "T2"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.CODEBLUEF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HALOCTOPF",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HALOCTOPR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HALOCBTMR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HLTYPER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.PITYPER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.COMBOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HALLLOR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.HALLREGR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.PHJKR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.EMERSIGNR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.INCONR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.CODEBLUER",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.TORILANDF",
+		"value": "INTER"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.TORILANDR",
+		"value": "NR"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDOWF",
+		"value": "42"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.ENTDOWR",
+		"value": "0"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.PARK",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "FloorMatrix.LANDING005.Parameters.RETURN",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "Parameters.PLATISO",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "Parameters.REAROPEN",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "Parameters.SFTYTYP",
+		"value": "DONG"
+	},
+	{
+		"variableId": "Parameters.BCRLTOBCRL",
+		"value": "10"
+	},
+	{
+		"variableId": "Parameters.CABHGTUCT",
+		"value": "100"
+	},
+	{
+		"variableId": "Parameters.CAPACITY",
+		"value": "3000"
+	},
+	{
+		"variableId": "Parameters.CARBRKQTY",
+		"value": "10"
+	},
+	{
+		"variableId": "Parameters.CARGUIDES",
+		"value": "YUJESLIDE"
+	},
+	{
+		"variableId": "Parameters.CARRLTOW",
+		"value": "4"
+	},
+	{
+		"variableId": "Parameters.CARSPEED",
+		"value": "200"
+	},
+	{
+		"variableId": "Parameters.CARSPLICE",
+		"value": "12"
+	},
+	{
+		"variableId": "Parameters.COMPDAMP",
+		"value": "TRUE"
+	},
+	{
+		"variableId": "Parameters.COMPTYP",
+		"value": "NR"
+	},
+	{
+		"variableId": "Parameters.CWTBRKQTY",
+		"value": "10"
+	},
+	{
+		"variableId": "Parameters.CWTBSHT",
+		"value": "8"
+	},
+	{
+		"variableId": "Parameters.CWTCLWALL",
+		"value": "13"
+	},
+	{
+		"variableId": "Parameters.CWTDBG",
+		"value": "35.750"
+	},
+	{
+		"variableId": "Parameters.CWTHT",
+		"value": "60"
+	},
+	{
+		"variableId": "Parameters.CWTRLTYP",
+		"value": "T15"
+	},
+	{
+		"variableId": "Parameters.CWTSPLICE",
+		"value": "12"
+	},
+	{
+		"variableId": "Parameters.DIVBRKQTY",
+		"value": "8"
+	},
+	{
+		"variableId": "Parameters.ISSEISMIC",
+		"value": "TRUE"
+	},
+	{
+		"variableId": "Parameters.MAXSFXCAR",
+		"value": "1800"
+	},
+	{
+		"variableId": "Parameters.MAXSFYCAR",
+		"value": "800"
+	},
+	{
+		"variableId": "Parameters.NUMCWTBUFF",
+		"value": "2"
+	},
+	{
+		"variableId": "Parameters.NUMCARBUFF",
+		"value": "2"
+	},
+	{
+		"variableId": "Parameters.NUMSUSP",
+		"value": "4"
+	},
+	{
+		"variableId": "Parameters.OVHEAD",
+		"value": "72"
+	},
+	{
+		"variableId": "Parameters.PITDEPTH",
+		"value": "60"
+	},
+	{
+		"variableId": "Parameters.PITLADCLR",
+		"value": "4.5"
+	},
+	{
+		"variableId": "Parameters.PITLADDMNTG",
+		"value": "FALSE"
+	},
+	{
+		"variableId": "Parameters.SEISEQUIP",
+		"value": "TRUE"
+	},
+	{
+		"variableId": "Parameters.SFTYTYP",
+		"value": "FLEX"
+	},
+	{
+		"variableId": "Parameters.TRAIL1516",
+		"value": "10"
+	},
+	{
+		"variableId": "Parameters.TRAIL158",
+		"value": "10"
+	},
+	{
+		"variableId": "Parameters.TRAIL816",
+		"value": "10"
+	},
+	{
+		"variableId": "Parameters.TRAIL88",
+		"value": "10"
+	},
+	{
+		"variableId": "Parameters.TRAVEL",
+		"value": "1200"
+	},
+	{
+		"variableId": "Parameters.TIEBRKQTY",
+		"value": "10"
+	},
+	{
+		"variableId": "Parameters.CWTRUNBY",
+		"value": "2"
+	},
+	{
+		"variableId": "Parameters.DBTYP",
+		"value": "WALL"
+	},
+	{
+		"variableId": "Parameters.DBW",
+		"value": "4"
+	}
+]

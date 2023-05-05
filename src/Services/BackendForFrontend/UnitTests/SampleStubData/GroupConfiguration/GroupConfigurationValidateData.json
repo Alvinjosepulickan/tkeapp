@@ -1,0 +1,242 @@
+{
+  "sections": [
+    {
+      "id": "Group_Validation",
+      "name": "Group_Validation",
+      "sections": [
+        {
+          "id": "Group_Validation.Parameters",
+          "name": "Group_Validation.Parameters",
+          "sections": [
+            {
+              "id": "Group_Validation.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [
+                {
+                  "id": "Group_Validation.Parameters.Basic_Info.GRPDESG",
+                  "variables": [
+                    {
+                      "id": "Group_Validation.Parameters.Basic_Info.GRPDESG",
+                      "name": "GROUP DESIGNATION",
+                      "valueType": "String",
+                      "allowMultipleAssignments": false,
+                      "values": [
+                        {
+                          "type": "IntervalValue",
+                          "incompatible": false
+                        }
+                      ],
+                      "properties": [
+                        {
+                          "id": "showas",
+                          "value": "InputField",
+                          "type": "String"
+                        },
+                        {
+                          "id": "sequence",
+                          "value": "1",
+                          "type": "number"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "variables": [
+                {
+                  "id": "Group_Validation.Parameters.Basic_Info.GRPDESG",
+                  "name": "GROUP DESIGNATION",
+                  "valueType": "String",
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "IntervalValue",
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "InputField",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "1",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Group_Validation.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "Group_Validation.Parameters.Layout",
+              "name": "LAYOUT INFORMATION",
+              "sections": [
+                {
+                  "id": "Group_Validation.Parameters.Layout.B1P2",
+                  "variables": [
+                    {
+                      "id": "Group_Validation.Parameters.Layout.B1P2",
+                      "name": "ELEVATOR IN LAYOUT POSITION B1P1",
+                      "valueType": "String",
+                      "distinctValueCount": 2,
+                      "allowMultipleAssignments": false,
+                      "values": [
+                        {
+                          "type": "SingletonValue",
+                          "name": "TRUE",
+                          "value": "TRUE",
+                          "properties": [
+                            {
+                              "id": "fullyqualifiedname",
+                              "value": "TRUE",
+                              "type": "String"
+                            },
+                            {
+                              "id": "name",
+                              "value": "TRUE",
+                              "type": "String"
+                            }
+                          ],
+                          "assigned": "byDefault",
+                          "incompatible": false
+                        }
+                      ],
+                      "properties": [
+                        {
+                          "id": "fromgroup",
+                          "value": true,
+                          "type": "Boolean"
+                        },
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "Group_Validation.Parameters.Layout.B1P1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "B1P1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "readonly",
+                          "value": true,
+                          "type": "Boolean"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "variables": [
+                {
+                  "id": "Group_Validation.Parameters.Layout.B1P1",
+                  "name": "ELEVATOR IN LAYOUT POSITION B1P1",
+                  "valueType": "String",
+                  "distinctValueCount": 2,
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "name": "TRUE",
+                      "value": "TRUE",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "TRUE",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "TRUE",
+                          "type": "String"
+                        }
+                      ],
+                      "assigned": "byDefault",
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "fromgroup",
+                      "value": true,
+                      "type": "Boolean"
+                    },
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "Group_Validation.Parameters.Layout.B1P1",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "B1P1",
+                      "type": "String"
+                    },
+                    {
+                      "id": "readonly",
+                      "value": true,
+                      "type": "Boolean"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Group_Validation.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            },
+            {
+              "id": "show",
+              "value": true,
+              "type": "Boolean"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Group_Validation",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Group_Validation",
+          "type": "String"
+        }
+      ]
+    }
+  ],
+  "removedAssignments": {
+    "variableAssignments": [],
+    "priceLineAssignments": []
+  },
+  "isComplete": false,
+  "isConfigurable": true,
+  "debug": {},
+  "language": "english",
+  "packagePath": "groupconfiguration~1af3d1cb-8dc1-465a-ab60-0bc51a353a34"
+}

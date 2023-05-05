@@ -1,0 +1,18 @@
+[
+  "ELEVATOR.Parameters.BMPRLHGT",
+  "ELEVATOR.Parameters.CABHGTOVL",
+  "ELEVATOR.Parameters.OVHEAD",
+  "ELEVATOR.Parameters.PITDEPTH",
+  "ELEVATOR.Parameters.HWYWID",
+  "ELEVATOR.Parameters.HWYDEP",
+  "ELEVATOR.Parameters.ENTDOHR",
+  "ELEVATOR.Parameters.ENTDOWF",
+  "ELEVATOR.Parameters.ENTDOHF",
+  "ELEVATOR.Parameters.ENTDOWR",
+  "Building_Configuration.Parameters.AVGRFHT",
+  "Building_Configuration.Parameters.ELEVBASE",
+  "Building_Configuration.Parameters_SP.totalBuildingFloorToFloorHeight_SP",
+  "Face of Frame",
+  "Building_Configuration.Parameters_SP.cat5CableFeetRequired_SP",
+  "Building_Configuration.Parameters_SP.fiberOpticConnectorsSetOf4_SP"
+]

@@ -1,0 +1,68 @@
+﻿{
+  "displayVariableAssignments": [
+    {
+      "variableId": "Parameters.B1P1",
+      "value": "TRUE",
+      "mappedTo": "Parameters.B1P1",
+      "unitDesignation": "",
+      "isFutureElevator": false,
+      "key": "B1P1"
+    },
+    {
+      "variableId": "Parameters.B1P2",
+      "value": "FALSE",
+      "mappedTo": "Parameters.B1P2",
+      "unitDesignation": "",
+      "isFutureElevator": false,
+      "key": "B1P2"
+    },
+    {
+      "variableId": "Parameters.B1P3",
+      "value": "FALSE",
+      "mappedTo": "Parameters.B1P3",
+      "unitDesignation": "",
+      "isFutureElevator": false,
+      "key": "B1P3"
+    },
+    {
+      "variableId": "Parameters.B1P4",
+      "value": "FALSE",
+      "mappedTo": "Parameters.B1P4",
+      "unitDesignation": "",
+      "isFutureElevator": false,
+      "key": "B1P4"
+    },
+    {
+      "variableId": "Parameters.B2P1",
+      "value": "FALSE",
+      "mappedTo": "Parameters.B2P1",
+      "unitDesignation": "",
+      "isFutureElevator": false,
+      "key": "B2P1"
+    },
+    {
+      "variableId": "Parameters.B2P2",
+      "value": "FALSE",
+      "mappedTo": "Parameters.B2P2",
+      "unitDesignation": "",
+      "isFutureElevator": false,
+      "key": "B2P2"
+    },
+    {
+      "variableId": "Parameters.B2P3",
+      "value": "FALSE",
+      "mappedTo": "Parameters.B2P3",
+      "unitDesignation": "",
+      "isFutureElevator": false,
+      "key": "B2P3"
+    },
+    {
+      "variableId": "Parameters.B2P4",
+      "value": "FALSE",
+      "mappedTo": "Parameters.B2P4",
+      "unitDesignation": "",
+      "isFutureElevator": false,
+      "key": "B2P4"
+    }
+  ]
+}

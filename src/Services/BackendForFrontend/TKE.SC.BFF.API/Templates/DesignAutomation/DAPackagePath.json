@@ -1,0 +1,37 @@
+{
+  "PackagePath": {
+    "CSC1003AAEXTF": "CSC1003AAEXTF",
+    "CSC1003AAEXTE": "CSC1003AAEXTE",
+    "CSC1003AAINT": "CSC1003AAINT",
+    "CSC1003AAINTF": "CSC1003AAINTF"
+  },
+
+  "drawingTypesExteriorArchitecturalPackage": {
+    "EVO_200": {
+      "CSC1003AAEXTF": "CSC1003AAEXTF",
+      "CSC1003AAEXTE": "CSC1003AAEXTE"
+    },
+    "EVO_100": {
+      "CSC1003ACEXTE": "CSC1003ACEXTE",
+      "CSC1003ACEXTF": "CSC1003ACEXTF"
+    }
+    
+  },
+
+  "drawingTypesInteriorArchitecturalPackage": {
+    "EVO_200": {
+      "CSC1003AAINT": "CSC1003AAINT",
+      "CSC1003AAINTF": "CSC1003AAINTF"
+    },
+    "EVO_100": {
+      "CSC1003ACINT": "CSC1003ACINT",
+      "CSC1003AAINTF": "CSC1003AAINTF"
+    }
+    
+  },
+
+  "OutputTypes": {
+    "outputTypesPdf": "PdfExport",
+    "outputTypesDWG": "DwgExportR2018"
+  }
+}

@@ -1,0 +1,3167 @@
+{
+  "sections": {
+    "fda": {
+      "name": "fda",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Drawings",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.beamWall": {
+      "name": "fda.beamWall",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.unitLayoutDetails": {
+      "name": "fda.unitLayoutDetails",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.fieldDrawingAutomationParameters": {
+      "name": "fda.fieldDrawingAutomationParameters",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.layoutGenerationSettings": {
+      "name": "fda.layoutGenerationSettings",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Layout Generation Settings",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.layoutGenerationSettings.outputTypes": {
+      "name": "fda.layoutGenerationSettings.outputTypes",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Output Types",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda.layoutGenerationSettings",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.layoutGenerationSettings.drawingTypes": {
+      "name": "fda.layoutGenerationSettings.drawingTypes",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Drawing Types",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda.layoutGenerationSettings",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.beamWall.divider001": {
+      "name": "fda.beamWall.divider001",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda.beamWall",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.beamWall.divider002": {
+      "name": "fda.beamWall.divider002",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda.beamWall",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.beamWall.divider003": {
+      "name": "fda.beamWall.divider003",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda.beamWall",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.beamWall.divider004": {
+      "name": "fda.beamWall.divider004",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda.beamWall",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.beamWall.divider005": {
+      "name": "fda.beamWall.divider005",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda.beamWall",
+          "type": "String"
+        }
+      ]
+    },
+    "fda.beamWall.divider006": {
+      "name": "fda.beamWall.divider006",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "fda.beamWall",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "variables": {
+    "Parameters.NOARROW": {
+      "name": "Parameters.NOARROW",
+      "properties": [
+        {
+          "id": "key",
+          "value": "NOARROW",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "North Arrow Orientation",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select North Arrow Orientation",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        }
+      ]
+    },
+    "Parameters.SUMPTYP": {
+      "name": "Parameters.SUMPTYP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "SUMPTYP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "7",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Sump Pit Type",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Sump Pit Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        }
+      ]
+    },
+    "ELEVATOR001.Parameters.DBTYP": {
+      "name": "ELEVATOR001.Parameters.DBTYP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBTYP001",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR001.Parameters.DBW": {
+      "name": "ELEVATOR001.Parameters.DBW",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBW001",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dimensions",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Width",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 4
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Width",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Width should be between 4-12 inches",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR001.Parameters.DBH": {
+      "name": "ELEVATOR001.Parameters.DBH",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBH001",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Height",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 6
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Height",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Height should be between 6-12 feet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR001.Parameters.INSERTS": {
+      "name": "ELEVATOR001.Parameters.INSERTS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "INSERTS001",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR002.Parameters.DBTYP": {
+      "name": "ELEVATOR002.Parameters.DBTYP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBTYP002",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR002.Parameters.DBW": {
+      "name": "ELEVATOR002.Parameters.DBW",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBW002",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dimensions",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Width",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 4
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Width",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Width should be between 4-12 inches",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR002.Parameters.DBH": {
+      "name": "ELEVATOR002.Parameters.DBH",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBH002",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Height",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 6
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Height",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Height should be between 6-12 feet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR002.Parameters.INSERTS": {
+      "name": "ELEVATOR002.Parameters.INSERTS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "INSERTS002",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR003.Parameters.DBTYP": {
+      "name": "ELEVATOR003.Parameters.DBTYP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBTYP003",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR003.Parameters.DBW": {
+      "name": "ELEVATOR003.Parameters.DBW",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBW003",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dimensions",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Width",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 4
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Width",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Width should be between 4-12 inches",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR003.Parameters.DBH": {
+      "name": "ELEVATOR003.Parameters.DBH",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBH003",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Height",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 6
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Height",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Height should be between 6-12 feet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR003.Parameters.INSERTS": {
+      "name": "ELEVATOR003.Parameters.INSERTS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "INSERTS003",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR004.Parameters.DBTYP": {
+      "name": "ELEVATOR004.Parameters.DBTYP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBTYP004",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR004.Parameters.DBW": {
+      "name": "ELEVATOR004.Parameters.DBW",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBW004",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dimensions",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Width",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 4
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Width",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Width should be between 4-12 inches",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR004.Parameters.DBH": {
+      "name": "ELEVATOR004.Parameters.DBH",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBH004",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Height",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 6
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Height",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Height should be between 6-12 feet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR004.Parameters.INSERTS": {
+      "name": "ELEVATOR004.Parameters.INSERTS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "INSERTS004",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR005.Parameters.DBTYP": {
+      "name": "ELEVATOR005.Parameters.DBTYP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBTYP005",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR005.Parameters.DBW": {
+      "name": "ELEVATOR005.Parameters.DBW",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBW005",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dimensions",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Width",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 4
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Width",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Width should be between 4-12 inches",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR005.Parameters.DBH": {
+      "name": "ELEVATOR005.Parameters.DBH",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBH005",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Height",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 6
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Height",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Height should be between 6-12 feet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR005.Parameters.INSERTS": {
+      "name": "ELEVATOR005.Parameters.INSERTS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "INSERTS005",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR006.Parameters.DBTYP": {
+      "name": "ELEVATOR006.Parameters.DBTYP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBTYP006",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR006.Parameters.DBW": {
+      "name": "ELEVATOR006.Parameters.DBW",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBW006",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dimensions",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Width",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 4
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Width",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Width should be between 4-12 inches",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR006.Parameters.DBH": {
+      "name": "ELEVATOR006.Parameters.DBH",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBH006",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Height",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 6
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Height",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Height should be between 6-12 feet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR006.Parameters.INSERTS": {
+      "name": "ELEVATOR006.Parameters.INSERTS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "INSERTS006",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR007.Parameters.DBTYP": {
+      "name": "ELEVATOR007.Parameters.DBTYP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBTYP007",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR007.Parameters.DBW": {
+      "name": "ELEVATOR007.Parameters.DBW",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBW007",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dimensions",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Width",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 4
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Width",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Width should be between 4-12 inches",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR007.Parameters.DBH": {
+      "name": "ELEVATOR007.Parameters.DBH",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBH007",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Height",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 6
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Height",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Height should be between 6-12 feet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR007.Parameters.INSERTS": {
+      "name": "ELEVATOR007.Parameters.INSERTS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "INSERTS007",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR008.Parameters.DBTYP": {
+      "name": "ELEVATOR008.Parameters.DBTYP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBTYP008",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR008.Parameters.DBW": {
+      "name": "ELEVATOR008.Parameters.DBW",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBW008",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dimensions",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Width",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 4
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Width",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Width should be between 4-12 inches",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR008.Parameters.DBH": {
+      "name": "ELEVATOR008.Parameters.DBH",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DBH008",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Height",
+          "type": "String"
+        },
+        {
+          "id": "minimumValue",
+          "value": 6
+        },
+        {
+          "id": "maximumValue",
+          "value": 12
+        },
+        {
+          "id": "isRangeInputType",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Height",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Height should be between 6-12 feet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR008.Parameters.INSERTS": {
+      "name": "ELEVATOR008.Parameters.INSERTS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "INSERTS008",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Concrete Inserts",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR001.Parameters.GOVACCESS": {
+      "name": "ELEVATOR001.Parameters.GOVACCESS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "GOVACCESS001",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR002.Parameters.GOVACCESS": {
+      "name": "ELEVATOR002.Parameters.GOVACCESS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "GOVACCESS002",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR003.Parameters.GOVACCESS": {
+      "name": "ELEVATOR003.Parameters.GOVACCESS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "GOVACCESS003",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR004.Parameters.GOVACCESS": {
+      "name": "ELEVATOR004.Parameters.GOVACCESS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "GOVACCESS004",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR005.Parameters.GOVACCESS": {
+      "name": "ELEVATOR005.Parameters.GOVACCESS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "GOVACCESS005",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR006.Parameters.GOVACCESS": {
+      "name": "ELEVATOR006.Parameters.GOVACCESS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "GOVACCESS006",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR007.Parameters.GOVACCESS": {
+      "name": "ELEVATOR007.Parameters.GOVACCESS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "GOVACCESS007",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR008.Parameters.GOVACCESS": {
+      "name": "ELEVATOR008.Parameters.GOVACCESS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "GOVACCESS008",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Governor Access",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "beam",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR001.Parameters_SP.SUMPQTY_SP": {
+      "name": "ELEVATOR001.Parameters_SP.SUMPQTY_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "SUMPQTY_SP001",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "layout",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR002.Parameters_SP.SUMPQTY_SP": {
+      "name": "ELEVATOR002.Parameters_SP.SUMPQTY_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "SUMPQTY_SP002",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "layout",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR003.Parameters_SP.SUMPQTY_SP": {
+      "name": "ELEVATOR003.Parameters_SP.SUMPQTY_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "SUMPQTY_SP003",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "layout",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR004.Parameters_SP.SUMPQTY_SP": {
+      "name": "ELEVATOR004.Parameters_SP.SUMPQTY_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "SUMPQTY_SP004",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "layout",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR005.Parameters_SP.SUMPQTY_SP": {
+      "name": "ELEVATOR005.Parameters_SP.SUMPQTY_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "SUMPQTY_SP005",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "layout",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR006.Parameters_SP.SUMPQTY_SP": {
+      "name": "ELEVATOR006.Parameters_SP.SUMPQTY_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "SUMPQTY_SP006",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "layout",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR007.Parameters_SP.SUMPQTY_SP": {
+      "name": "ELEVATOR007.Parameters_SP.SUMPQTY_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "SUMPQTY_SP007",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "layout",
+          "type": "string"
+        }
+      ]
+    },
+    "ELEVATOR008.Parameters_SP.SUMPQTY_SP": {
+      "name": "ELEVATOR008.Parameters_SP.SUMPQTY_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "SUMPQTY_SP008",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Sump Pit",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "sectionType",
+          "value": "layout",
+          "type": "string"
+        }
+      ]
+    },
+    "outputTypesPdf": {
+      "name": "outputTypesPdf",
+      "properties": [
+        {
+          "id": "key",
+          "value": "outputTypesPdf",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "checkbox",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": ".pdf",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-5",
+          "type": "String"
+        }
+      ]
+    },
+    "outputTypesDWG": {
+      "name": "outputTypesDWG",
+      "properties": [
+        {
+          "id": "key",
+          "value": "outputTypesDWG",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "checkbox",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": ".dwg",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-5",
+          "type": "String"
+        }
+      ]
+    },
+    "outputTypesBIMIFC": {
+      "name": "outputTypesBIMIFC",
+      "properties": [
+        {
+          "id": "key",
+          "value": "outputTypesBIMIFC",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "checkbox",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "BIM (.ifc, applicable to layouts only)",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-5",
+          "type": "String"
+        }
+      ]
+    },
+    "outputTypesBIMIDBIM": {
+      "name": "outputTypesBIMIDBIM",
+      "properties": [
+        {
+          "id": "key",
+          "value": "outputTypesBIMIDBIM",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "checkbox",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "BIM (.ldbim, applicable to layouts only)",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-5",
+          "type": "String"
+        }
+      ]
+    },
+    "drawingTypesBasePackage": {
+      "name": "drawingTypesBasePackage",
+      "properties": [
+        {
+          "id": "key",
+          "value": "drawingTypesBasePackage",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "checkbox",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Base Package",
+          "type": "String"
+        },
+        {
+          "id": "readonly",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "layout",
+          "value": "col-5",
+          "type": "String"
+        }
+      ]
+    },
+    "drawingTypesExteriorArchitecturalPackage": {
+      "name": "drawingTypesExteriorArchitecturalPackage",
+      "properties": [
+        {
+          "id": "key",
+          "value": "drawingTypesExteriorArchitecturalPackage",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "checkbox",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Exterior Architectural Package",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-5",
+          "type": "String"
+        }
+      ]
+    },
+    "drawingTypesInteriorArchitecturalPackage": {
+      "name": "drawingTypesInteriorArchitecturalPackage",
+      "properties": [
+        {
+          "id": "key",
+          "value": "drawingTypesInteriorArchitecturalPackage",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "checkbox",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Interior Architectural Package",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-5",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "options": {
+    "HTUBE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Tube",
+          "type": "String"
+        }
+      ]
+    },
+    "IBEAM": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Beam",
+          "type": "String"
+        }
+      ]
+    },
+    "WLANDBM": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Wall and Beam",
+          "type": "String"
+        }
+      ]
+    },
+    "WALL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Wall",
+          "type": "String"
+        }
+      ]
+    },
+    "NONE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "None",
+          "type": "String"
+        }
+      ]
+    },
+    "BEAM": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Beam",
+          "type": "String"
+        }
+      ]
+    },
+    "CAN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "CANADA",
+          "type": "String"
+        }
+      ]
+    },
+    "INSIDE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "INSIDE",
+          "type": "String"
+        }
+      ]
+    },
+    "OUTSIDE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "OUTSIDE",
+          "type": "String"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"HALOCTOPF": ".Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.",
+	"HALOCTOPR": ".Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.",
+	"HLBRLTYPE": ".Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.",
+	"HLSOL": ".Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.",
+	"INCONSWF": ".Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.",
+	"INCONSWR": ".Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.",
+	"RETURN": ".Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.",
+	"PARK": ".Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.",
+	"chicagoFire_SP": ".Parameters_SP.",
+	"vIPSwitch_SP": ".Parameters_SP.",
+	"dDHallFlagType_SP": ".Parameters_SP.",
+	"dDHallTargetIndicator_SP": ".Parameters_SP.",
+	"ENTDORGA": ".Parameters.Doors.Landing_Doors_Assembly."
+	
+}

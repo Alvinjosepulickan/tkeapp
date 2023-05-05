@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DebugType>Full</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire.Core" Version="1.7.22" />
+    <PackageReference Include="IronXL.Excel" Version="2021.12.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Localization" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="RestSharp" Version="106.11.7" />
+    <PackageReference Include="Stubble.Core" Version="1.9.3" />
+    <PackageReference Include="System.Collections.NonGeneric" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Common\TKE.SC.Common.Caching\TKE.SC.Common.Caching.csproj" />
+    <ProjectReference Include="..\..\..\..\Common\TKE.SC.Common.Model\TKE.SC.Common.Model.csproj" />
+    <ProjectReference Include="..\..\..\PIPO\TKE.SC.PIPO.Connector\TKE.SC.PIPO.Connector.csproj" />
+    <ProjectReference Include="..\..\DataAccess\TKE.SC.BFF.DataAccess.Interfaces\TKE.SC.BFF.DataAccess.Interfaces.csproj" />
+    <ProjectReference Include="..\TKE.SC.BFF.BusinessProcess.Helpers\TKE.SC.BFF.BusinessProcess.Helpers.csproj" />
+    <ProjectReference Include="..\TKE.SC.BFF.BusinessProcess.Interfaces\TKE.SC.BFF.BusinessProcess.Interfaces.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Configit.Configurator.Server.Common">
+      <HintPath>References\Configit.Configurator.Server.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Engineer.Grid">
+      <HintPath>..\Configit_OBOM_DA_Refs\Configit.Engineer.Grid.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Grid.Core">
+      <HintPath>..\Configit_OBOM_DA_Refs\Configit.Grid.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Product.Search.Service">
+      <HintPath>References\Configit.Product.Search.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.Models">
+      <HintPath>..\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.Services">
+      <HintPath>..\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.WebApi">
+      <HintPath>..\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.CLMPlatform">
+      <HintPath>..\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.CLMPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.Models">
+      <HintPath>..\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.Services">
+      <HintPath>..\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.WebApi">
+      <HintPath>..\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.VtSdk.Configurator.Service">
+      <HintPath>References\Configit.VtSdk.Configurator.Service.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

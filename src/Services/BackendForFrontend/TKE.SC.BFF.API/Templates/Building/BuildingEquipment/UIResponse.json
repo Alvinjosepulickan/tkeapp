@@ -1,0 +1,119 @@
+{
+  "sections": [
+    {
+      "id": "buildingEquipment",
+      "sections": [
+        {
+          "id": "buildingEquipment.lobbyPanel",
+          "sections": [],
+          "variables": []
+        },
+        {
+          "id": "buildingEquipment.smartRescuePhone(Standalone)",
+          "sections": [],
+          "variables": [
+            {
+              "id": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone10_StndAlone_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone5_StndAlone_SP"
+            }
+          ]
+        },
+        {
+          "id": "buildingEquipment.intergroupEmergencyPower",
+          "variables": [
+            {
+              "id": "Building_Configuration.Parameters_SP.interGroupEmergencyPower_SP"
+            }
+          ]
+        },
+        {
+          "id": "buildingEquipment.agileBuildingManagement",
+          "sections": [
+            {
+              "id": "buildingEquipment.agileBuildingManagement.agileBuildingManagement",
+              "variables": [
+                {
+                  "id": "Building_Configuration.Parameters_SP.includeAGILEDesignCenter_SP"
+                },
+                {
+                  "id": "Building_Configuration.Parameters_SP.qtyKiosksOver300Ft_SP"
+                },
+                {
+                  "id": "Building_Configuration.Parameters_SP.dDSecurityInterfaceType_SP"
+                }
+              ]
+            },
+            {
+              "id": "buildingEquipment.agileBuildingManagement.monitoring(IMS)",
+              "variables": [
+                {
+                  "id": "Building_Configuration.Parameters_SP.iMSOwnersStandard_SP"
+                },
+                {
+                  "id": "Building_Configuration.Parameters_SP.qtyOfIMSOwnersEnhanced_SP"
+                },
+                {
+                  "id": "Building_Configuration.Parameters_SP.qtyOfGroupEthernetBoxWIMSSoftwareOnly_SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "buildingEquipment.thirdPartyInterfaces",
+          "sections": [
+            {
+              "id": "buildingEquipment.roboticControllerInterface",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Building_Configuration.Parameters_SP.controllerRobotic_SP"
+                }
+              ]
+            },
+            {
+              "id": "buildingEquipment.bacNet",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Building_Configuration.Parameters_SP.controllerBACNet_SP"
+                }
+              ]
+            },
+            {
+              "id": "buildingEquipment.gatewayForLiftnet",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Building_Configuration.Parameters_SP.qtyOfGatewayForLiftNet_SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "buildingEquipment.networkingequipment",
+          "variables": [
+            {
+              "id": "Building_Configuration.Parameters_SP.mediaConverterAndPowerSource_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.cat5CableFeetRequired_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.cGADevices_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.interGroupStarBox_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.fiberOpticConnectorsSetOf4_SP"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

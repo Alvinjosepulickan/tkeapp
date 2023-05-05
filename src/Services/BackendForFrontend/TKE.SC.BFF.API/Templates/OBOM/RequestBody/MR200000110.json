@@ -1,0 +1,3020 @@
+[
+	{
+		"Id": "TP0000295-OBOM-TC0001",
+		"Type": "OBOM",
+		"Name": "TC0001",
+		"PartNumber": "R20000110",
+		"NumberOfLandings": 5,
+		"NumberOfElevators": 1,
+		"ExportTypes": [],
+		"AvailableDrawings": [],
+		"SelectedDrawingFilePaths": [],
+		"GlobalParameters": {
+			"DOORTYPF": {
+				"Value": "1SLH",
+				"Included": true
+			},
+			"REAROPEN": {
+				"Value": "FALSE",
+				"Included": true
+			},
+			"CONTROLTYP": {
+				"Value": "SLIM32T",
+				"Included": true
+			},
+			"LADLOC": {
+				"Value": "Q1",
+				"Included": true
+			},
+			"ENTSYS": {
+				"Value": "M721",
+				"Included": true
+			},
+			"DOORTYPR": {
+				"Value": "NA",
+				"Included": true
+			},
+			"BLANDINGS": {
+				"Value": "5",
+				"Included": true
+			}
+		},
+		"ElevatorParameters": [
+			{}
+		],
+		"FloorMatrixParameters": [
+			[
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				}
+			]
+		],
+		"OutputBOM": [
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623351980594_0.9954651429856909",
+				"PartNumber": "1506CX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353456030_1.143222371777055",
+				"PartNumber": "1506CW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353462795_0.7767085683656649",
+				"PartNumber": "1506CV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353467604_2.655559542426621",
+				"PartNumber": "1506DC001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353468398_2.0034258222003123",
+				"PartNumber": "1506CT001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353548601_0.28030451212372687",
+				"PartNumber": "1506CR001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353576707_4.819463859392564",
+				"PartNumber": "3504BV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353608448_4.142850489763264",
+				"PartNumber": "3504BW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353607684_0.8248015179901302",
+				"PartNumber": "3504CA001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353606113_1.2247321345842421",
+				"PartNumber": "3504BX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353600756_1.3676153091209609",
+				"PartNumber": "3504BY001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354083842_2.0877746230997882",
+				"PartNumber": "3502CG001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354110159_3.2200466921371906",
+				"PartNumber": "3502CH001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354109115_1.2417870956798482",
+				"PartNumber": "3502CJ001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354104031_2.3467314466546405",
+				"PartNumber": "3502CK001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354102845_1.5581805150353156",
+				"PartNumber": "3502CL001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354101823_1.219950021620263",
+				"PartNumber": "3502CM001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354198027_3.532064862904789",
+				"PartNumber": "800JE001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354197216_2.877264637729634",
+				"PartNumber": "800JD001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357651303_1.6027480850759734",
+				"PartNumber": "1506CX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357650855_4.280552061238709",
+				"PartNumber": "1506CW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357650179_3.0819728852195736",
+				"PartNumber": "1506CV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357649613_4.40986759086321",
+				"PartNumber": "1506DC001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357649047_0.13546531368811565",
+				"PartNumber": "1506CT001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357648457_4.904194190902689",
+				"PartNumber": "1506CR001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359867559_4.849838042570241",
+				"PartNumber": "3504BV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359881477_3.553464912597267",
+				"PartNumber": "3504BW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359879787_4.811195496197707",
+				"PartNumber": "3504CA001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359877781_2.9113763232047782",
+				"PartNumber": "3504BX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359930437_1.656590158634943",
+				"PartNumber": "3504BY001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357647821_4.546189494009974",
+				"PartNumber": "3502CG001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357647255_2.9207831430592446",
+				"PartNumber": "3502CH001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357646641_0.9882731634003317",
+				"PartNumber": "3502CJ001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357646059_1.5773455750577625",
+				"PartNumber": "3502CK001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359295927_3.0508071124920066",
+				"PartNumber": "3502CL001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359295360_2.151155456228401",
+				"PartNumber": "3502CM001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359294127_2.969429838417331",
+				"PartNumber": "800JE001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359293297_1.8438034301184658",
+				"PartNumber": "800JD001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			}
+		],
+		"OutputParameters": {},
+		"GlobalFlrMatrxParameters": [],
+		"NumberOfLandingsPerElev": 2,
+		"OutputGlobalFlrMatrxParameters": [],
+		"OutputElevatorParameters": [
+			{}
+		],
+		"OutputElevFloorMatrixParameters": [],
+		"AssemblyFile": ""
+	},
+	{
+		"Id": "TP0000295-OBOM-TC0002",
+		"Type": "OBOM",
+		"Name": "TC0002",
+		"PartNumber": "R20000110",
+		"NumberOfLandings": 5,
+		"NumberOfElevators": 1,
+		"ExportTypes": [],
+		"AvailableDrawings": [],
+		"SelectedDrawingFilePaths": [],
+		"GlobalParameters": {
+			"DOORTYPF": {
+				"Value": "CO",
+				"Included": true
+			},
+			"REAROPEN": {
+				"Value": "TRUE",
+				"Included": true
+			},
+			"CONTROLTYP": {
+				"Value": "SLIM32T",
+				"Included": true
+			},
+			"LADLOC": {
+				"Value": "Q1",
+				"Included": true
+			},
+			"ENTSYS": {
+				"Value": "M721",
+				"Included": true
+			},
+			"DOORTYPR": {
+				"Value": "CO",
+				"Included": true
+			},
+			"BLANDINGS": {
+				"Value": "5",
+				"Included": true
+			}
+		},
+		"ElevatorParameters": [
+			{}
+		],
+		"FloorMatrixParameters": [
+			[
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				}
+			]
+		],
+		"OutputBOM": [
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623351980594_0.9954651429856909",
+				"PartNumber": "1506CX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353456030_1.143222371777055",
+				"PartNumber": "1506CW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353462795_0.7767085683656649",
+				"PartNumber": "1506CV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353467604_2.655559542426621",
+				"PartNumber": "1506DC001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353468398_2.0034258222003123",
+				"PartNumber": "1506CT001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353548601_0.28030451212372687",
+				"PartNumber": "1506CR001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353576707_4.819463859392564",
+				"PartNumber": "3504BV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353608448_4.142850489763264",
+				"PartNumber": "3504BW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353607684_0.8248015179901302",
+				"PartNumber": "3504CA001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353606113_1.2247321345842421",
+				"PartNumber": "3504BX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353600756_1.3676153091209609",
+				"PartNumber": "3504BY001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354083842_2.0877746230997882",
+				"PartNumber": "3502CG001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354110159_3.2200466921371906",
+				"PartNumber": "3502CH001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354109115_1.2417870956798482",
+				"PartNumber": "3502CJ001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354104031_2.3467314466546405",
+				"PartNumber": "3502CK001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354102845_1.5581805150353156",
+				"PartNumber": "3502CL001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354101823_1.219950021620263",
+				"PartNumber": "3502CM001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354198027_3.532064862904789",
+				"PartNumber": "800JE001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354197216_2.877264637729634",
+				"PartNumber": "800JD001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357651303_1.6027480850759734",
+				"PartNumber": "1506CX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357650855_4.280552061238709",
+				"PartNumber": "1506CW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357650179_3.0819728852195736",
+				"PartNumber": "1506CV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357649613_4.40986759086321",
+				"PartNumber": "1506DC001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357649047_0.13546531368811565",
+				"PartNumber": "1506CT001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357648457_4.904194190902689",
+				"PartNumber": "1506CR001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359867559_4.849838042570241",
+				"PartNumber": "3504BV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359881477_3.553464912597267",
+				"PartNumber": "3504BW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359879787_4.811195496197707",
+				"PartNumber": "3504CA001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359877781_2.9113763232047782",
+				"PartNumber": "3504BX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359930437_1.656590158634943",
+				"PartNumber": "3504BY001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357647821_4.546189494009974",
+				"PartNumber": "3502CG001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357647255_2.9207831430592446",
+				"PartNumber": "3502CH001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357646641_0.9882731634003317",
+				"PartNumber": "3502CJ001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357646059_1.5773455750577625",
+				"PartNumber": "3502CK001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359295927_3.0508071124920066",
+				"PartNumber": "3502CL001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359295360_2.151155456228401",
+				"PartNumber": "3502CM001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359294127_2.969429838417331",
+				"PartNumber": "800JE001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359293297_1.8438034301184658",
+				"PartNumber": "800JD001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			}
+		],
+		"OutputParameters": {},
+		"GlobalFlrMatrxParameters": [],
+		"NumberOfLandingsPerElev": 2,
+		"OutputGlobalFlrMatrxParameters": [],
+		"OutputElevatorParameters": [
+			{}
+		],
+		"OutputElevFloorMatrixParameters": [],
+		"AssemblyFile": ""
+	},
+	{
+		"Id": "TP0000295-OBOM-TC0003",
+		"Type": "OBOM",
+		"Name": "TC0003",
+		"PartNumber": "R20000110",
+		"NumberOfLandings": 5,
+		"NumberOfElevators": 1,
+		"ExportTypes": [],
+		"AvailableDrawings": [],
+		"SelectedDrawingFilePaths": [],
+		"GlobalParameters": {
+			"DOORTYPF": {
+				"Value": "2SRH",
+				"Included": true
+			},
+			"REAROPEN": {
+				"Value": "FALSE",
+				"Included": true
+			},
+			"CONTROLTYP": {
+				"Value": "SLIM32T",
+				"Included": true
+			},
+			"LADLOC": {
+				"Value": "Q1",
+				"Included": true
+			},
+			"ENTSYS": {
+				"Value": "M721",
+				"Included": true
+			},
+			"DOORTYPR": {
+				"Value": "NA",
+				"Included": true
+			},
+			"BLANDINGS": {
+				"Value": "5",
+				"Included": true
+			}
+		},
+		"ElevatorParameters": [
+			{}
+		],
+		"FloorMatrixParameters": [
+			[
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				},
+				{
+					"ENTDOHF": "",
+					"ENTDOHR": "",
+					"ENTDORFINF": "",
+					"ENTDORFINR": "",
+					"ENTDORFINFMAT": "",
+					"ENTDORFINRMAT": "",
+					"ENTDORFINFTYP": "",
+					"ENTDORFINRTYP": "",
+					"ENTDORGA": "",
+					"ENTDOWF": "",
+					"ENTDOWR": "",
+					"ENTDRBINDF": "",
+					"ENTDRBINDR": "",
+					"ENTDRBINDFMAT": "",
+					"ENTDRBINDRMAT": "",
+					"ENTDRBINDFTYP": "",
+					"ENTDRBINDRTYP": "",
+					"ENTDRKPLF": "",
+					"ENTDRKPLR": "",
+					"ENTDRKPLFMAT": "",
+					"ENTDRKPLRMAT": "",
+					"ENTDRKPLFTYP": "",
+					"ENTDRKPLRTYP": "",
+					"ENTDRLETF": "",
+					"ENTDRLETR": "",
+					"ENTDRLETFMAT": "",
+					"ENTDRLETRMAT": "",
+					"ENTDRLETFTYP": "",
+					"ENTDRLETRTYP": "",
+					"ENTDRLMFINF": "",
+					"ENTDRLMFINR": "",
+					"ENTFRAFINF": "",
+					"ENTFRAFINR": "",
+					"ENTFRAFINMATF": "",
+					"ENTFRAFINMATR": "",
+					"ENTKEYHOLE": "",
+					"ENTWLTYPF": "",
+					"ENTWLTYPR": "",
+					"COLFACEF": "",
+					"COLFACER": "",
+					"ELEVATION": "",
+					"LANDING": "",
+					"ParameterREV": ""
+				}
+			]
+		],
+		"OutputBOM": [
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623351980594_0.9954651429856909",
+				"PartNumber": "1506CX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353456030_1.143222371777055",
+				"PartNumber": "1506CW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353462795_0.7767085683656649",
+				"PartNumber": "1506CV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353467604_2.655559542426621",
+				"PartNumber": "1506DC001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353468398_2.0034258222003123",
+				"PartNumber": "1506CT001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353548601_0.28030451212372687",
+				"PartNumber": "1506CR001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353576707_4.819463859392564",
+				"PartNumber": "3504BV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353608448_4.142850489763264",
+				"PartNumber": "3504BW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353607684_0.8248015179901302",
+				"PartNumber": "3504CA001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353606113_1.2247321345842421",
+				"PartNumber": "3504BX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623353600756_1.3676153091209609",
+				"PartNumber": "3504BY001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354083842_2.0877746230997882",
+				"PartNumber": "3502CG001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354110159_3.2200466921371906",
+				"PartNumber": "3502CH001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354109115_1.2417870956798482",
+				"PartNumber": "3502CJ001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354104031_2.3467314466546405",
+				"PartNumber": "3502CK001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354102845_1.5581805150353156",
+				"PartNumber": "3502CL001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354101823_1.219950021620263",
+				"PartNumber": "3502CM001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354198027_3.532064862904789",
+				"PartNumber": "800JE001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "1",
+							"Included": true
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623354197216_2.877264637729634",
+				"PartNumber": "800JD001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": true,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357651303_1.6027480850759734",
+				"PartNumber": "1506CX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357650855_4.280552061238709",
+				"PartNumber": "1506CW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357650179_3.0819728852195736",
+				"PartNumber": "1506CV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357649613_4.40986759086321",
+				"PartNumber": "1506DC001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357649047_0.13546531368811565",
+				"PartNumber": "1506CT001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357648457_4.904194190902689",
+				"PartNumber": "1506CR001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359867559_4.849838042570241",
+				"PartNumber": "3504BV001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359881477_3.553464912597267",
+				"PartNumber": "3504BW001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359879787_4.811195496197707",
+				"PartNumber": "3504CA001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359877781_2.9113763232047782",
+				"PartNumber": "3504BX001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359930437_1.656590158634943",
+				"PartNumber": "3504BY001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357647821_4.546189494009974",
+				"PartNumber": "3502CG001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357647255_2.9207831430592446",
+				"PartNumber": "3502CH001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357646641_0.9882731634003317",
+				"PartNumber": "3502CJ001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623357646059_1.5773455750577625",
+				"PartNumber": "3502CK001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359295927_3.0508071124920066",
+				"PartNumber": "3502CL001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359295360_2.151155456228401",
+				"PartNumber": "3502CM001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359294127_2.969429838417331",
+				"PartNumber": "800JE001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			},
+			{
+				"ParametersValues": [
+					{
+						"QTY": {
+							"Value": "",
+							"Included": false
+						}
+					}
+				],
+				"ChildParts": [],
+				"Id": "id_1623359293297_1.8438034301184658",
+				"PartNumber": "800JD001",
+				"Parent": "",
+				"IsPerLandingComp": false,
+				"IsParentPLC": false,
+				"Included": false,
+				"FullyQualifiedName": "",
+				"AssemblyFile": ""
+			}
+		],
+		"OutputParameters": {},
+		"GlobalFlrMatrxParameters": [],
+		"NumberOfLandingsPerElev": 2,
+		"OutputGlobalFlrMatrxParameters": [],
+		"OutputElevatorParameters": [
+			{}
+		],
+		"OutputElevFloorMatrixParameters": [],
+		"AssemblyFile": ""
+	}
+]

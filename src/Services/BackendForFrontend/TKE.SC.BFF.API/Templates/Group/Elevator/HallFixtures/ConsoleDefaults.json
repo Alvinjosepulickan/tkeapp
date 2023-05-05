@@ -1,0 +1,55 @@
+{
+  "Traditional_Hall_Stations": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLPBIM": "WHITE",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLPBTP": "T2",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP": "4SS441"
+  },
+  "AGILE_Hall_Stations": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskSize_SP": "7",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskMounting_SP": "Standard Bracket",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskColor_SP": "Black",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskCamera_SP": "FALSE",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskSpareQty_SP": "0"
+  },
+  "Appendix_H/O_Signage": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.EMERSIGNF": "APPHS",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.EMERSIGNF_Loc_SP": "HS"
+  },
+  "Fire_Service": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIRE": "HS",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIRESIGN": "APPLIED",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIREBOX": "TRUE"
+  },
+  "Emergency_Power": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.EMPI": "TRUE",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HOISTKEY": "TRUE",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HOISTKEY_Loc_SP": "HS"
+  },
+  "Code_Blue_Key_Switch": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.CODEBLUEF": "HIS"
+  },
+  "VIP_Service_Switch": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.vIPSwitch_SP": "HS"
+  },
+  "Medical_Emergency_Key_Switch": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.medicalEmergencyHall_SP": "HS"
+  },
+  "Elevator_Communication_Failure_Jewel": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.COMFAIL": "HS"
+  },
+  "Fire_Phone_Jack": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.PHJKF": "TRUE",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.PHJKF_Loc_SP": "HS"
+  },
+  "Card_Reader_Provision": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.CARD": "CARD"
+  },
+  "Hall_Call_Registration": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLREGF": "TRUE",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HALLREGF_Loc_SP": "WMS"
+  },
+  "Hall_Call_Lockout": {
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLLOF": "TRUE",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HALLLOF_Loc_SP": "HS"
+  }
+  }

@@ -1,0 +1,124 @@
+{
+  "variableAssignments": [
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B1P1",
+      "value": "TRUE"
+    },
+    {
+      "variableId": "ELEVATOR001.Parameters.Layout.HS1QUAD",
+      "Value": "Q3"
+    },
+    {
+      "variableId": "ELEVATOR001.Parameters_SP.Door",
+      "Value": "Q3"
+    },
+    {
+      "variableId": "Parameters_SP.ControlLocation",
+      "Value": "Q3"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B1P2",
+      "value": "TRUE"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B1P3",
+      "value": false
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B1P4",
+      "value": false
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B2P1",
+      "value": false
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B2P2",
+      "value": false
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B2P3",
+      "value": false
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B2P4",
+      "value": false
+    }
+  ],
+  "displayVariableAssignments": [
+    {
+      "mappedTo": "Parameters.Layout.B1P1",
+      "variableId": "Parameters.Layout.B1P1",
+      "value": "TRUE",
+      "unitDesignation": "U61",
+      "isFutureElevator": "FALSE"
+    },
+    {
+      "mappedTo": "Parameters.Layout.B1P2",
+      "variableId": "Parameters.Layout.B1P2",
+      "value": "TRUE",
+      "unitDesignation": "U62",
+      "isFutureElevator": "FALSE"
+    },
+    {
+      "mappedTo": "Parameters.Layout.B1P3",
+      "variableId": "Parameters.Layout.B1P3",
+      "value": "TRUE",
+      "unitDesignation": "U63",
+      "isFutureElevator": "FALSE"
+    },
+    {
+      "mappedTo": "Parameters.Layout.B1P4",
+      "variableId": "Parameters.Layout.B1P4",
+      "value": "TRUE",
+      "unitDesignation": "U64",
+      "isFutureElevator": "FALSE"
+    },
+    {
+      "mappedTo": "Parameters.Layout.B2P1",
+      "variableId": "Parameters.Layout.B2P1",
+      "value": "FALSE",
+      "unitDesignation": "U65",
+      "isFutureElevator": "FALSE"
+    },
+    {
+      "mappedTo": "Parameters.Layout.B2P2",
+      "variableId": "Parameters.Layout.B2P2",
+      "value": "FALSE",
+      "unitDesignation": "U66",
+      "isFutureElevator": "FALSE"
+    },
+    {
+      "mappedTo": "Parameters.Layout.B2P3",
+      "variableId": "Parameters.Layout.B2P3",
+      "value": "FALSE",
+      "unitDesignation": "U67",
+      "isFutureElevator": "TRUE"
+    },
+    {
+      "mappedTo": "Parameters.Layout.B2P4",
+      "variableId": "Parameters.Layout.B2P4",
+      "value": "FALSE",
+      "unitDesignation": "U68",
+      "isFutureElevator": "TRUE"
+    }
+  ],
+  "ReleaseQueries": [
+
+    {
+      "ReleaseQueId": "",
+      "ReleaseQueDesc": "",
+      "ReleaseQueCheck":true
+
+    }
+  ],
+  "UnitDetails": [
+    {
+      "Id": 1,
+      "UnitName": "",
+      "SetId": 1,
+      "ReleaseComments": "",
+      "FactoryJobId": ""
+    }
+  ]
+}

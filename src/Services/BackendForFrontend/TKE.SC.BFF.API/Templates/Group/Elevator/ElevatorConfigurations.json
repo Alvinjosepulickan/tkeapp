@@ -1,0 +1,48 @@
+﻿{
+  "sections": [
+    {
+      "id": "ELEVATOR00#",
+      "variables": [
+        {
+          "id": "ELEVATOR00#.Parameters.CARPOS"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters.HS1QUAD"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters.HS2QUAD"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters.NXVM"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters.CONTROLOC"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters_SP.frontDoorTypeAndHand_SP"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters_SP.rearDoorTypeAndHand_SP"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters_SP.sideDoorTypeAndHand1_SP"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters_SP.sideDoorTypeAndHand2_SP"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters_SP.sideHSLocation1_SP"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters_SP.sideHSLocation2_SP"
+        },
+        {
+          "id": "ELEVATOR00#.Parameters_SP.controlRoomXdimension_SP"
+        },
+        {
+          "id": "ELEVATOR00#.totalNumLandings_SP"
+        }
+      ]
+    }
+  ]
+}

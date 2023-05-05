@@ -1,0 +1,200 @@
+{
+    "variableAssignments": [
+        {
+            "variableId": "Parameters.BPV",
+            "value": "460"
+        },
+        {
+            "variableId": "Parameters.CABDOWF",
+            "value": 42
+        },
+        {
+            "variableId": "Parameters.CABHGTOVL",
+            "value": 107.5
+        },
+        {
+            "variableId": "Parameters.CAPACITY",
+            "value": "2500"
+        },
+        {
+            "variableId": "Parameters.CARGUIDES",
+            "value": "8INROLL"
+        },
+        {
+            "variableId": "Parameters.CARSPEED",
+            "value": 500
+        },
+        {
+            "variableId": "Parameters.DOORTYPF",
+            "value": "1SRH"
+        },
+        {
+            "variableId": "Parameters.ISSEISMIC",
+            "value": "FALSE"
+        },
+        {
+            "variableId": "Parameters.NUMSUSP",
+            "value": 4
+        },
+        {
+            "variableId": "Parameters.PLATDEP",
+            "value": 59.875
+        },
+        {
+            "variableId": "Parameters.PLATWID",
+            "value": 81
+        },
+        {
+            "variableId": "Parameters.REAROPEN",
+            "value": "FALSE"
+        },
+        {
+            "variableId": "Parameters.TRAVEL",
+            "value": 2280
+        },
+        {
+            "variableId": "Parameters.TYPSVC",
+            "value": "PASS"
+        },
+        {
+            "variableId": "Parameters.BMPRLSZS",
+            "value": "2BAR"
+        },
+        {
+            "variableId": "Parameters.BMPRLTYP",
+            "value": "2BAR"
+        },
+        {
+            "variableId": "Parameters.CABAPFINTYP",
+            "value": "BARREM"
+        },
+        {
+            "variableId": "Parameters.CABBASEFIN",
+            "value": "SS"
+        },
+        {
+            "variableId": "Parameters.CABCEILHGT",
+            "value": "4SS"
+        },
+        {
+            "variableId": "Parameters.CABCEILTYP",
+            "value": 100.375
+        },
+        {
+            "variableId": "Parameters.CABCPTFIN",
+            "value": "SUSP"
+        },
+        {
+            "variableId": "Parameters.CABCSTFIN",
+            "value": "NR"
+        },
+        {
+            "variableId": "Parameters.CABDOHF",
+            "value": "NR"
+        },
+        {
+            "variableId": "Parameters.CABDOHR",
+            "value": 96
+        },
+        {
+            "variableId": "Parameters.CABDORFINTYP",
+            "value": 0
+        },
+        {
+            "variableId": "Parameters.CABDOWR",
+            "value": "SS"
+        },
+        {
+            "variableId": "Parameters.CABFRMFIN",
+            "value": 0
+        },
+        {
+            "variableId": "Parameters.CABPANFIN",
+            "value": "F-112"
+        },
+        {
+            "variableId": "Parameters.CABSILFIN",
+            "value": "NR"
+        },
+        {
+            "variableId": "Parameters.CABTOPGA",
+            "value": "ALUM"
+        },
+        {
+            "variableId": "Parameters.CABTYP",
+            "value": "14GA"
+        },
+        {
+            "variableId": "Parameters.CABWALLGA",
+            "value": "SSHELL"
+        },
+        {
+            "variableId": "Parameters.CABWLFINTYP",
+            "value": "16GA"
+        },
+        {
+            "variableId": "Parameters.COPAUX",
+            "value": "SS"
+        },
+        {
+            "variableId": "Parameters.COPLOCM",
+            "value": "Q4"
+        },
+        {
+            "variableId": "Parameters.COPMAIN",
+            "value": "Q4"
+        },
+        {
+            "variableId": "Parameters.DOORTYPR",
+            "value": "NR"
+        },
+        {
+            "variableId": "Parameters.FINFLRWT",
+            "value": "NR"
+        },
+        {
+            "variableId": "Parameters.HNDRLSZR",
+            "value": 0
+        },
+        {
+            "variableId": "Parameters.HNDRLSZS",
+            "value": "2BAR"
+        },
+        {
+            "variableId": "Parameters.HNDRLTYP",
+            "value": "2BAR"
+        },
+        {
+            "variableId": "Parameters.SAFEEDGTYP",
+            "value": "BARREM"
+        },
+        {
+            "variableId": "Parameters.SOUNDDEAD",
+            "value": "3D2D"
+        },
+        {
+            "variableId": "Parameters.BMPRLSZR",
+            "value": "TRUE"
+        },
+        {
+            "variableId": "Parameters.CARRLLOCF",
+            "value": 29
+        },
+        {
+            "variableId": "Parameters.CLCARDEP",
+            "value": 51.875
+        },
+        {
+            "variableId": "Parameters.CLCARWID",
+            "value": 81
+        },
+        {
+            "variableId": "Parameters.CABFINWT",
+            "value": 0
+        },
+        {
+            "variableId": "Parameters.COPLOCA",
+            "value": "NR"
+        }
+    ]
+}

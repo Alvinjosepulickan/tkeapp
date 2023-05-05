@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "id": "buildingconfigure",
+      "name": "Building Configuration",
+      "isDisabled": false,
+      "sections": [],
+      "variables": [],
+      "properties": []
+    },
+    {
+      "id": "elevation",
+      "name": "Building Elevation",
+      "isDisabled": false,
+      "sections": [],
+      "variables": [],
+      "properties": []
+    },
+    {
+      "id": "buildingequipment",
+      "name": "Building Equipment",
+      "isDisabled": false,
+      "sections": [],
+      "variables": [],
+      "properties": []
+    }
+  ]
+}

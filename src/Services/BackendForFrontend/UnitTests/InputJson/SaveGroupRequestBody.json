@@ -1,0 +1,55 @@
+{
+
+  "variableAssignments": [
+    {
+      "variableId": "BldValidation.BLDGNAME",
+      "value": "D2"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Basic_Info.GRPDESG",
+      "value": "string"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Basic_Info.GRPDESG",
+      "value": "string"
+    },
+    {
+      "variableId": "BldValidation.FLOOR",
+      "value": 2
+    },
+    {
+      "variableId": "BldValidation.BLDGRISE",
+      "value": "30.0"
+    },
+    {
+      "variableId": "groupDesignation",
+      "value": "IBC-2"
+    },
+    {
+      "variableId": "BldValidation.ASYEAR",
+      "value": "1996"
+    },
+    {
+      "variableId": "BldValidation.BPV",
+      "value": "208"
+    },
+    {
+      "variableId": "BldValidation.Frequency",
+      "value": 0
+    },
+    {
+      "variableId": "BldValidation.ELCode",
+      "value": "Evo1"
+    },
+    {
+      "variableId": "BldValidation.FireService",
+      "value": 0
+    },
+    {
+      "variableId": "BldValidation.FreServiceCodes",
+      "value": "FireServiceCode1"
+    }
+  ]
+  
+ 
+}

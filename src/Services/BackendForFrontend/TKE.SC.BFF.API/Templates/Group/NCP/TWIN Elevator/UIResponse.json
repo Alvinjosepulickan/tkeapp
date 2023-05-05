@@ -1,0 +1,52 @@
+{
+  "sections": [
+    {
+      "id": "tp2Summary",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Parameters.Model"
+        },
+        {
+          "id": "Parameters.Unit_Position"
+        },
+        {
+          "id": "Parameters.Factory"
+        },
+        {
+          "id": "Parameters.Factory_Quote_Num"
+        },
+        {
+          "id": "Parameters.Factory_Quote_Price"
+        },
+        {
+          "id": "Parameters.Factory_Quote_Exp_Date"
+        },
+        {
+          "id": "Parameters.Speed"
+        },
+        {
+          "id": "Parameters.Capacity"
+        },
+        {
+          "id": "Parameters.Num_FloorServed"
+        },
+        {
+          "id": "Parameters.Num_FrontOpenings"
+        },
+        {
+          "id": "Parameters.Num_RearOpenings"
+        },
+        {
+          "id": "Parameters.NetTravel"
+        },
+        {
+          "id": "Parameters.DoorType_Front"
+        },
+        {
+          "id": "Parameters.DoorType_Rear"
+        }
+      ]
+    }
+  ]
+}

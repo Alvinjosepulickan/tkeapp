@@ -1,0 +1,50 @@
+{
+  "PackagePath": "groupconfiguration",
+  "currency": "USD",
+  "currentLineId": "ROOT",
+  "date": "2019-10-04T10:00:11.088Z",
+  "description": "",
+  "globalArguments": {
+    "plant": "US01",
+    "salesArea": {
+      "salesOrganization": "US01",
+      "distributionChannel": "01",
+      "salesDivision": "02"
+    },
+    "shipTo": {
+      "countryCode": "US"
+    },
+    "soldTo": {
+      "countryCode": "US"
+    },
+    "MaterialVariant": {
+      "Material": {
+        "ConfigurableMaterialName": "Group_Validation",
+        "ExternalId": "Group_Validation"
+      }
+    },
+    "Variants": []
+  },
+  "language": "English",
+  "line": {
+    "priceLineAssignments": [],
+    "product": {
+      "id": "Group_Validation",
+      "isConfigurable": true
+    },
+    "productId": "Group_Validation",
+    "quantity": {
+      "value": 1,
+      "unit": "EA"
+    },
+    "sublines": [],
+    "variableAssignments": []
+  },
+  "priceProcedureId": "ZRVA01",
+  "settings": {
+    "debug": false,
+    "includePriceLines": false,
+    "IncludeSections": [],
+    "onlyPriceTotals": false
+  }
+} 

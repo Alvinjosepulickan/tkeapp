@@ -1,0 +1,64 @@
+{
+    "sections": [
+        {
+            "id": "otherEquipment",
+          "sections": [
+            {
+              "id": "otherequipment.tractionEquipment",
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters.CARGUIDES"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.CWTGUIDES"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.CWTSFTY"
+                }
+              ]
+            },
+            {
+              "id": "otherequipment.hoistwayEquipment",
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters.FLSCONFIG"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.FLSLOC"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.CABTOPLK"
+                }
+              ]
+            },
+            {
+              "id": "otherequipment.hoistwayWiring",
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters_SP.additionalWiring_SP"
+                }
+              ]
+            },
+            {
+              "id": "otherequipment.tenantSecuritySoftware",
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters_SP.CR31_SP"
+                }
+              ]
+            },
+            {
+              "id": "otherequipment.controlSystem",
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters.CIT"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.REGEN"
+                }
+              ]
+            }
+          ]
+        }
+    ]
+}

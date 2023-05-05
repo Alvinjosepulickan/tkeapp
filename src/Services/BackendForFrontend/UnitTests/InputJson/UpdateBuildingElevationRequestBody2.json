@@ -1,0 +1,43 @@
+{
+  "buildingConfigurationId": "9",
+  "mainEgress": "12",
+  "modifiedBy": {
+    "userId": "79023"
+  },
+  "buildingElevation": [
+    {
+      "floorDesignation": "12",
+      "elevation": {
+        "feet": 10,
+        "inch": 5
+      },
+      "floorTofloorHeight": {
+        "feet": 5,
+        "inch": 7
+      }
+    },
+    {
+      "floorDesignation": "ABC",
+      "elevation": {
+        "feet": 10,
+        "inch": 5
+      },
+      "floorTofloorHeight": {
+        "feet": 5,
+        "inch": 7
+      }
+    },
+    {
+      "floorDesignation": "ABC",
+      "elevation": {
+        "feet": 15,
+        "inch": 5
+      },
+      "floorTofloorHeight": {
+        "feet": 5,
+        "inch": 7
+      }
+    }
+  ]
+
+} 

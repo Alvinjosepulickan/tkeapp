@@ -1,0 +1,1305 @@
+{
+    "Sections": [
+      {
+        "Id": "Group_Validation",
+        "Name": "Group_Validation",
+        "sections": [
+          {
+            "Id": "Parameters",
+            "Name": "Parameters",
+            "sections": [
+              {
+                "Id": "Parameters.Basic_Info",
+                "Name": "Parameters.Basic_Info",
+                "sections": [],
+                "Variables": [
+                  {
+                    "Id": "Parameters.Basic_Info.BLANDINGS",
+                    "Name": "Parameters.Basic_Info.BLANDINGS",
+                    "ValueType": "Number",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "IntervalValue",
+                        "Name": null,
+                        "value": null,
+                        "properties": null,
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Basic_Info.BLANDINGS",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "BLANDINGS",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "frombuilding",
+                        "Value": true,
+                        "Type": "Boolean"
+                      },
+                      {
+                        "Id": "readonly",
+                        "Value": true,
+                        "Type": "Boolean"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "Parameters.Basic_Info.GRPDESG",
+                    "name": "GROUP DESIGNATION",
+                    "valueType": "String",
+                    "allowMultipleAssignments": false,
+                    "values": [
+                      {
+                        "type": "IntervalValue",
+                        "incompatible": false
+                      }
+                    ],
+                    "properties": [
+                      {
+                        "id": "showas",
+                        "value": "InputField",
+                        "type": "String"
+                      },
+                      {
+                        "id": "sequence",
+                        "value": "1",
+                        "type": "number"
+                      }
+                    ]
+                  }
+                ],
+                "Properties": [
+                  {
+                    "Id": "fullyqualifiedname",
+                    "Name": null,
+                    "Value": "Parameters.Basic_Info",
+                    "Type": "String"
+                  },
+                  {
+                    "Id": "name",
+                    "Name": null,
+                    "Value": "Basic_Info",
+                    "Type": "String"
+                  }
+                ]
+              },
+              {
+                "Id": "Parameters.Layout",
+                "Name": "Parameters.Layout",
+                "sections": [],
+                "Variables": [
+                  {
+                    "Id": "Parameters.Layout.B1P1",
+                    "Name": "Parameters.Layout.B1P1",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TRUE",
+                        "value": "TRUE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": "byUser",
+                        "InCompatible": false,
+                        "State": "Selected",
+                        "Justification": "Assignment"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Layout.B1P1",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "B1P1",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Layout.B1P2",
+                    "Name": "Parameters.Layout.B1P2",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TRUE",
+                        "value": "TRUE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": "byUser",
+                        "InCompatible": false,
+                        "State": "Selected",
+                        "Justification": "Assignment"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "FALSE",
+                        "value": "FALSE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Layout.B1P2",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "B1P2",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Layout.B1P3",
+                    "Name": "Parameters.Layout.B1P3",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TRUE",
+                        "value": "TRUE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "FALSE",
+                        "value": "FALSE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": "byDefault",
+                        "InCompatible": false,
+                        "State": "Selected",
+                        "Justification": "Default"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Layout.B1P3",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "B1P3",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Layout.B1P4",
+                    "Name": "Parameters.Layout.B1P4",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TRUE",
+                        "value": "TRUE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "FALSE",
+                        "value": "FALSE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": "byDefault",
+                        "InCompatible": false,
+                        "State": "Selected",
+                        "Justification": "Default"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Layout.B1P4",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "B1P4",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Layout.B2P1",
+                    "Name": "Parameters.Layout.B2P1",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TRUE",
+                        "value": "TRUE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "FALSE",
+                        "value": "FALSE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": "byDefault",
+                        "InCompatible": false,
+                        "State": "Selected",
+                        "Justification": "Default"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Layout.B2P1",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "B2P1",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Layout.B2P2",
+                    "Name": "Parameters.Layout.B2P2",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TRUE",
+                        "value": "TRUE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "FALSE",
+                        "value": "FALSE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": "byDefault",
+                        "InCompatible": false,
+                        "State": "Selected",
+                        "Justification": "Default"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Layout.B2P2",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "B2P2",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Layout.B2P3",
+                    "Name": "Parameters.Layout.B2P3",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TRUE",
+                        "value": "TRUE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "FALSE",
+                        "value": "FALSE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": "byDefault",
+                        "InCompatible": false,
+                        "State": "Selected",
+                        "Justification": "Default"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Layout.B2P3",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "B2P3",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Layout.B2P4",
+                    "Name": "Parameters.Layout.B2P4",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TRUE",
+                        "value": "TRUE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TRUE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "FALSE",
+                        "value": "FALSE",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "FALSE",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": "byDefault",
+                        "InCompatible": false,
+                        "State": "Selected",
+                        "Justification": "Default"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Layout.B2P4",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "B2P4",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Layout.LAYGRPSZ",
+                    "Name": "Parameters.Layout.LAYGRPSZ",
+                    "ValueType": "Number",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "1",
+                        "value": 1.0,
+                        "properties": [],
+                        "Assigned": null,
+                        "InCompatible": true,
+                        "State": "Unavailable",
+                        "Justification": "Assignment"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "2",
+                        "value": 2.0,
+                        "properties": [],
+                        "Assigned": "byDefault",
+                        "InCompatible": false,
+                        "State": "Inferred",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "IntervalValue",
+                        "Name": null,
+                        "value": null,
+                        "properties": null,
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Layout.LAYGRPSZ",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "LAYGRPSZ",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "readonly",
+                        "Value": true,
+                        "Type": "Boolean"
+                      }
+                    ]
+                  }
+                ],
+                "Properties": [
+                  {
+                    "Id": "fullyqualifiedname",
+                    "Name": null,
+                    "Value": "Parameters.Layout",
+                    "Type": "String"
+                  },
+                  {
+                    "Id": "name",
+                    "Name": null,
+                    "Value": "Layout",
+                    "Type": "String"
+                  }
+                ]
+              },
+              {
+                "Id": "Parameters.Electrical_System",
+                "Name": "Parameters.Electrical_System",
+                "sections": [
+                  {
+                    "Id": "Parameters.Electrical_System.Controller_Cabinet",
+                    "Name": "Parameters.Electrical_System.Controller_Cabinet",
+                    "sections": [
+                      {
+                        "Id": "Parameters.Electrical_System.Controller_Cabinet.Power_Panel",
+                        "Name": "Parameters.Electrical_System.Controller_Cabinet.Power_Panel",
+                        "sections": [
+                          {
+                            "Id": "Parameters.Electrical_System.Controller_Cabinet.Power_Panel.Drive_Assembly",
+                            "Name": "Parameters.Electrical_System.Controller_Cabinet.Power_Panel.Drive_Assembly",
+                            "sections": [],
+                            "Variables": [],
+                            "Properties": [
+                              {
+                                "Id": "fullyqualifiedname",
+                                "Name": null,
+                                "Value": "Parameters.Electrical_System.Controller_Cabinet.Power_Panel.Drive_Assembly",
+                                "Type": "String"
+                              },
+                              {
+                                "Id": "name",
+                                "Name": null,
+                                "Value": "Drive_Assembly",
+                                "Type": "String"
+                              }
+                            ]
+                          }
+                        ],
+                        "Variables": [],
+                        "Properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Name": null,
+                            "Value": "Parameters.Electrical_System.Controller_Cabinet.Power_Panel",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Name": null,
+                            "Value": "Power_Panel",
+                            "Type": "String"
+                          }
+                        ]
+                      }
+                    ],
+                    "Variables": [],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Name": null,
+                        "Value": "Parameters.Electrical_System.Controller_Cabinet",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Name": null,
+                        "Value": "Controller_Cabinet",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Electrical_System.Dynamic_Brake_Resistor",
+                    "Name": "Parameters.Electrical_System.Dynamic_Brake_Resistor",
+                    "sections": [],
+                    "Variables": [],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Name": null,
+                        "Value": "Parameters.Electrical_System.Dynamic_Brake_Resistor",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Name": null,
+                        "Value": "Dynamic_Brake_Resistor",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Electrical_System.Hoistway_Electrical_Wiring",
+                    "Name": "Parameters.Electrical_System.Hoistway_Electrical_Wiring",
+                    "sections": [],
+                    "Variables": [],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Name": null,
+                        "Value": "Parameters.Electrical_System.Hoistway_Electrical_Wiring",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Name": null,
+                        "Value": "Hoistway_Electrical_Wiring",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Electrical_System.Machine_Wiring",
+                    "Name": "Parameters.Electrical_System.Machine_Wiring",
+                    "sections": [],
+                    "Variables": [],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Name": null,
+                        "Value": "Parameters.Electrical_System.Machine_Wiring",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Name": null,
+                        "Value": "Machine_Wiring",
+                        "Type": "String"
+                      }
+                    ]
+                  }
+                ],
+                "Variables": [
+                  {
+                    "Id": "Parameters.Electrical_System.BPP",
+                    "Name": "Parameters.Electrical_System.BPP",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "1",
+                        "value": "1",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "1",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "1",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "3",
+                        "value": "3",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "3",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "3",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Electrical_System.BPP",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "BPP",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "frombuilding",
+                        "Value": true,
+                        "Type": "Boolean"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Electrical_System.CONTGS",
+                    "Name": "Parameters.Electrical_System.CONTGS",
+                    "ValueType": "Number",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "1",
+                        "value": 1.0,
+                        "properties": [],
+                        "Assigned": null,
+                        "InCompatible": true,
+                        "State": "Unavailable",
+                        "Justification": "Assignment"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "2",
+                        "value": 2.0,
+                        "properties": [],
+                        "Assigned": "byDefault",
+                        "InCompatible": false,
+                        "State": "Inferred",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "3",
+                        "value": 3.0,
+                        "properties": [],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "4",
+                        "value": 4.0,
+                        "properties": [],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "5",
+                        "value": 5.0,
+                        "properties": [],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "6",
+                        "value": 6.0,
+                        "properties": [],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "7",
+                        "value": 7.0,
+                        "properties": [],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "8",
+                        "value": 8.0,
+                        "properties": [],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Unavailable",
+                        "Justification": "Default"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Electrical_System.CONTGS",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "CONTGS",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "readonly",
+                        "Value": true,
+                        "Type": "Boolean"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Electrical_System.EMERTYPE",
+                    "Name": "Parameters.Electrical_System.EMERTYPE",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "10D-3A",
+                        "value": "10D-3A",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "10D-3A",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "10D-3A",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "10D-4A",
+                        "value": "10D-4A",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "10D-4A",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "10D-4A",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "10D-0A",
+                        "value": "10D-0A",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "10D-0A",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "10D-0A",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "10D-0B",
+                        "value": "10D-0B",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "10D-0B",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "10D-0B",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "10D-0C",
+                        "value": "10D-0C",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "10D-0C",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "10D-0C",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "NR",
+                        "value": "NR",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "NR",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "NR",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Electrical_System.EMERTYPE",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "EMERTYPE",
+                        "Type": "String"
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "Parameters.Electrical_System.GRSECTYPE",
+                    "Name": "Parameters.Electrical_System.GRSECTYPE",
+                    "ValueType": "String",
+                    "AllowMultipleAssignments": false,
+                    "Values": [
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "NR",
+                        "value": "NR",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "NR",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "NR",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TYPE1",
+                        "value": "TYPE1",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TYPE1",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TYPE1",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TYPE2",
+                        "value": "TYPE2",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TYPE2",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TYPE2",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TYPE31",
+                        "value": "TYPE31",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TYPE31",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TYPE31",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TYPE4",
+                        "value": "TYPE4",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TYPE4",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TYPE4",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TYPE6",
+                        "value": "TYPE6",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TYPE6",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TYPE6",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      },
+                      {
+                        "Type": "SingletonValue",
+                        "Name": "TYPE8",
+                        "value": "TYPE8",
+                        "properties": [
+                          {
+                            "Id": "fullyqualifiedname",
+                            "Value": "TYPE8",
+                            "Type": "String"
+                          },
+                          {
+                            "Id": "name",
+                            "Value": "TYPE8",
+                            "Type": "String"
+                          }
+                        ],
+                        "Assigned": null,
+                        "InCompatible": false,
+                        "State": "Available",
+                        "Justification": "None"
+                      }
+                    ],
+                    "Properties": [
+                      {
+                        "Id": "fullyqualifiedname",
+                        "Value": "Parameters.Electrical_System.GRSECTYPE",
+                        "Type": "String"
+                      },
+                      {
+                        "Id": "name",
+                        "Value": "GRSECTYPE",
+                        "Type": "String"
+                      }
+                    ]
+                  }
+                ],
+                "Properties": [
+                  {
+                    "Id": "fullyqualifiedname",
+                    "Name": null,
+                    "Value": "Parameters.Electrical_System",
+                    "Type": "String"
+                  },
+                  {
+                    "Id": "name",
+                    "Name": null,
+                    "Value": "Electrical_System",
+                    "Type": "String"
+                  }
+                ]
+              }
+            ],
+            "Variables": [],
+            "Properties": [
+              {
+                "Id": "fullyqualifiedname",
+                "Name": null,
+                "Value": "Parameters",
+                "Type": "String"
+              },
+              {
+                "Id": "name",
+                "Name": null,
+                "Value": "Parameters",
+                "Type": "String"
+              }
+            ]
+          }
+        ],
+        "Variables": null,
+        "Properties": null
+      }
+    ],
+    "RemovedAssignments": {
+      "variableAssignments": [],
+      "PriceLineAssignments": []
+    },
+    "IsComplete": false,
+    "language": null,
+    "PackagePath": "groupconfiguration~2885efab-4090-406b-9f3a-53e26cdcae1f"
+}

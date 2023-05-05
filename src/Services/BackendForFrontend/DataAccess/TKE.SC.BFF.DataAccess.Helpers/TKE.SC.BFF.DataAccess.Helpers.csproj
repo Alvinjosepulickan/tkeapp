@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DebugType>Full</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IronXL.Excel" Version="2021.12.0" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Common\TKE.SC.Common.Utilities\TKE.SC.Common.Utilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Configit.Configurator.Server.Common">
+      <HintPath>..\TKE.SC.BFF.DataAccess.Interfaces\References\Configit.Configurator.Server.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

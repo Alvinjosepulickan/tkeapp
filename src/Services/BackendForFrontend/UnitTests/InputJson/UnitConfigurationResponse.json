@@ -1,0 +1,1176 @@
+{
+  "sections": [
+    {
+      "id": "ELEVATOR",
+      "name": "ELEVATOR",
+      "sections": [
+        {
+          "id": "ELEVATOR.Parameters",
+          "name": "ELEVATOR.Parameters",
+          "sections": [],
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.BMPRLHGT",
+              "name": "ELEVATOR.Parameters.BMPRLHGT",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": 152,
+                  "upper": 176,
+                  "incompatible": false,
+                  "state": "Available"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.OVHEAD"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "OVHEAD"
+                },
+                {
+                  "id": "description",
+                  "value": "Clear Overhead",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.ENTDOHF",
+              "name": "ELEVATOR.Parameters.ENTDOHF",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "84",
+                  "value": 84,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "96.000",
+                  "value": 96,
+                  "properties": [],
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "108.000",
+                  "value": 108,
+                  "properties": [],
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.ENTDOHF"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "ENTDOHF"
+                },
+                {
+                  "id": "defaultvalue",
+                  "value": 84,
+                  "type": "String"
+                },
+                {
+                  "id": "description",
+                  "value": "ENTRANCE DOOR OPENING HEIGHT (FRONT)",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.DOORTYPF",
+              "name": "ELEVATOR.Parameters.DOORTYPF",
+              "valueType": "String",
+              "distinctValueCount": 6,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "1SLH",
+                  "value": "1SLH",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "1SLH",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "1SLH",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": true
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "1SRH",
+                  "value": "1SRH",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "1SRH",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "1SRH",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": true
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2SLH",
+                  "value": "2SLH",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "2SLH",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "2SLH",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": true
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2SRH",
+                  "value": "2SRH",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "2SRH",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "2SRH",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": true
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "CO",
+                  "value": "CO",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "CO",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "CO",
+                      "type": "String"
+                    }
+                  ],
+                  "assigned": "byDefault",
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.DOORTYPF"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "DOORTYPF"
+                },
+                {
+                  "id": "defaultvalue",
+                  "value": "CO",
+                  "type": "String"
+                },
+                {
+                  "id": "description",
+                  "value": "DOOR TYPE AND HAND (FRONT)",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.HNDRLHGT",
+              "name": "ELEVATOR.Parameters.HNDRLHGT",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "state": "Available",
+                  "type": "IntervalValue",
+                  "lower": 152,
+                  "upper": 176,
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.OVHEAD"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "OVHEAD"
+                },
+                {
+                  "id": "description",
+                  "value": "Clear Overhead",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.FINFLRWT",
+              "name": "ELEVATOR.Parameters.FINFLRWT",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": 60,
+                  "upper": 86,
+                  "incompatible": false,
+                  "state": "Available"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.PITDEPTH"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "PITDEPTH"
+                },
+                {
+                  "id": "description",
+                  "value": "Pit Depth",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.CWTSFTY",
+              "name": "ELEVATOR.Parameters.CWTSFTY",
+              "valueType": "String",
+              "distinctValueCount": 2,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "TRUE",
+                  "value": "TRUE",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "TRUE",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "TRUE",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "FALSE",
+                  "value": "FALSE",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "FALSE",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "FALSE",
+                      "type": "String"
+                    }
+                  ],
+                  "assigned": "byDefault",
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.CWTSFTY"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "CWTSFTY"
+                },
+                {
+                  "id": "defaultvalue",
+                  "value": "FALSE",
+                  "type": "String"
+                },
+                {
+                  "id": "description",
+                  "value": "COUNTERWEIGHT SAFETY",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.HWYDEP",
+              "name": "ELEVATOR.Parameters.HWYDEP",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": 69,
+                  "upper": 143,
+                  "incompatible": false,
+                  "state": "Available"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.HWYDEP"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "HWYDEP"
+                },
+                {
+                  "id": "description",
+                  "value": "Hoistway Depth",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.HWYWID",
+              "name": "ELEVATOR.Parameters.HWYWID",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": 102,
+                  "upper": 122,
+                  "incompatible": false,
+                  "state": "Available"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.HWYWID"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "HWYWID"
+                },
+                {
+                  "id": "description",
+                  "value": "Hoistway Width",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.REAROPEN",
+              "name": "ELEVATOR.Parameters.REAROPEN",
+              "valueType": "String",
+              "distinctValueCount": 2,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "FALSE",
+                  "value": "FALSE",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "FALSE",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "FALSE",
+                      "type": "String"
+                    }
+                  ],
+                  "assigned": "byDefault",
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "TRUE",
+                  "value": "TRUE",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "TRUE",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "TRUE",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": true
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.REAROPEN"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "REAROPEN"
+                },
+                {
+                  "id": "defaultvalue",
+                  "value": "FALSE",
+                  "type": "String"
+                },
+                {
+                  "id": "description",
+                  "value": "Rear Entrance Car",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.OVHEAD",
+              "name": "ELEVATOR.Parameters.OVHEAD",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "state": "Available",
+                  "type": "IntervalValue",
+                  "lower": 152,
+                  "upper": 176,
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.OVHEAD"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "OVHEAD"
+                },
+                {
+                  "id": "description",
+                  "value": "Clear Overhead",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.PITDEPTH",
+              "name": "ELEVATOR.Parameters.PITDEPTH",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": 60,
+                  "upper": 86,
+                  "incompatible": false,
+                  "state": "Available"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.PITDEPTH"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "PITDEPTH"
+                },
+                {
+                  "id": "description",
+                  "value": "Pit Depth",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.TRAVEL",
+              "name": "ELEVATOR.Parameters.TRAVEL",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": 0,
+                  "upper": 791.999999,
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "792",
+                  "value": 792,
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false
+                },
+                {
+                  "type": "IntervalValue",
+                  "lower": 792.000001,
+                  "upper": 7.922816251426433e+22,
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.TRAVEL"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "TRAVEL"
+                },
+                {
+                  "id": "defaultvalue",
+                  "value": 0,
+                  "type": "String"
+                },
+                {
+                  "id": "description",
+                  "value": "Car Travel NET",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.CARSPEED",
+              "name": "ELEVATOR.Parameters.CARSPEED",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "200",
+                  "value": 200,
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "350",
+                  "value": 350,
+                  "properties": [],
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "500",
+                  "value": 500,
+                  "properties": [],
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "600",
+                  "value": 600,
+                  "properties": [],
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.CARSPEED"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "CARSPEED"
+                },
+                {
+                  "id": "defaultvalue",
+                  "value": 200,
+                  "type": "String"
+                },
+                {
+                  "id": "description",
+                  "value": "Rated Car Speed",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.CAPACITY",
+              "name": "ELEVATOR.Parameters.CAPACITY",
+              "valueType": "String",
+              "distinctValueCount": 7,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "2100",
+                  "value": "2100",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "2100",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "2100",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": true
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2500",
+                  "value": "2500",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "2500",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "2500",
+                      "type": "String"
+                    }
+                  ],
+                  "assigned": "byUser",
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "3000",
+                  "value": "3000",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "3000",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "3000",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "3500",
+                  "value": "3500",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "3500",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "3500",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "4000",
+                  "value": "4000",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "4000",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "4000",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "4500",
+                  "value": "4500",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "4500",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "4500",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": true
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "5000",
+                  "value": "5000",
+                  "properties": [
+                    {
+                      "id": "fullyqualifiedname",
+                      "value": "5000",
+                      "type": "String"
+                    },
+                    {
+                      "id": "name",
+                      "value": "5000",
+                      "type": "String"
+                    }
+                  ],
+                  "incompatible": true
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.CAPACITY"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "CAPACITY"
+                },
+                {
+                  "id": "defaultvalue",
+                  "value": "2500",
+                  "type": "String"
+                },
+                {
+                  "id": "description",
+                  "value": "Rated Elevator Capacity",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.CARPOS",
+              "name": "ELEVATOR.Parameters.CARPOS",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "B1P1",
+                  "value": "B1P1",
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.CARPOS"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "CARPOS"
+                },
+                {
+                  "id": "readonly",
+                  "type": "Boolean",
+                  "value": true
+                },
+                {
+                  "id": "description",
+                  "value": "Bank Designation and Car Position",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters.ENTDOWF",
+              "name": "ELEVATOR.Parameters.ENTDOWF",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "36.0",
+                  "value": 36,
+                  "properties": [],
+                  "incompatible": true
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "42",
+                  "value": 42,
+                  "properties": [],
+                  "assigned": "byRule",
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "48",
+                  "value": 48,
+                  "properties": [],
+                  "incompatible": true
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "54",
+                  "value": 54,
+                  "properties": [],
+                  "incompatible": true
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters.ENTDOWF"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "ENTDOWF"
+                },
+                {
+                  "id": "description",
+                  "value": "ENTRANCE DOOR OPENING WIDTH (FRONT)",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "properties": [
+            {
+              "id": "name",
+              "type": "String",
+              "value": "Parameters"
+            },
+            {
+              "id": "fullyqualifiedname",
+              "type": "String",
+              "value": "ELEVATOR.Parameters"
+            }
+          ]
+        },
+        {
+          "id": "ELEVATOR.Parameters_SP",
+          "name": "ELEVATOR.Parameters_SP",
+          "sections": [],
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.VFD_SP",
+              "name": "ELEVATOR.Parameters_SP.VFD_SP",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": -7.922816251426433e+22,
+                  "upper": 7.922816251426433e+22,
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters_SP.VFD_SP"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "VFD_SP"
+                },
+                {
+                  "id": "readonly",
+                  "type": "Boolean",
+                  "value": true
+                },
+                {
+                  "id": "description",
+                  "value": "Distance from Controller to Machine",
+                  "type": "String"
+                }
+              ]
+            },
+
+            {
+              "id": "ELEVATOR.Parameters_SP.additionalWiring_SP",
+              "name": "ELEVATOR.Parameters_SP.additionalWiring_SP",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": -7.922816251426433e+22,
+                  "upper": -0.000001,
+                  "incompatible": false
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "0",
+                  "value": 0,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false
+                },
+                {
+                  "type": "IntervalValue",
+                  "lower": 0.000001,
+                  "upper": 7.922816251426433e+22,
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters_SP.additionalWiring_SP"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "additionalWiring_SP"
+                },
+                {
+                  "id": "defaultvalue",
+                  "value": 0,
+                  "type": "String"
+                },
+                {
+                  "id": "maxvalue",
+                  "value": 1800,
+                  "type": "String"
+                },
+                {
+                  "id": "minvalue",
+                  "value": 0,
+                  "type": "String"
+                },
+                {
+                  "id": "description",
+                  "value": "Additional Wiring",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.totalWiring_SP",
+              "name": "ELEVATOR.Parameters_SP.totalWiring_SP",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868e+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": -7.922816251426433e+22,
+                  "upper": 7.922816251426433e+22,
+                  "incompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "type": "String",
+                  "value": "ELEVATOR.Parameters_SP.totalWiring_SP"
+                },
+                {
+                  "id": "name",
+                  "type": "String",
+                  "value": "totalWiring_SP"
+                },
+                {
+                  "id": "readonly",
+                  "type": "Boolean",
+                  "value": true
+                },
+                {
+                  "id": "maxvalue",
+                  "value": 1800,
+                  "type": "String"
+                },
+                {
+                  "id": "minvalue",
+                  "value": 0,
+                  "type": "String"
+                },
+                {
+                  "id": "description",
+                  "value": "Total Wiring",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "properties": [
+            {
+              "id": "name",
+              "type": "String",
+              "value": "Parameters_SP"
+            },
+            {
+              "id": "fullyqualifiedname",
+              "type": "String",
+              "value": "ELEVATOR.Parameters_SP"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "name",
+          "type": "String",
+          "value": "ELEVATOR"
+        },
+        {
+          "id": "fullyqualifiedname",
+          "type": "String",
+          "value": "ELEVATOR"
+        }
+      ]
+    }
+  ],
+  "priceSheet": {
+    "id": "Unit_Validation_EVO200",
+    "totals": {
+      "tax": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "net": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "total": {
+        "value": 0,
+        "currency": "USD"
+      }
+    },
+    "isInvalid": false
+  },
+  "RemovedAssignments": {
+    "variableAssignments": [
+      {
+        "variable": {
+          "id": "ELEVATOR.Parameters.REAROPEN",
+          "name": "ELEVATOR.Parameters.REAROPEN",
+          "valueType": "String",
+          "allowMultipleAssignments": false
+        },
+        "value": {
+          "value": "TRUE",
+          "name": "TRUE",
+          "exclude": false
+        }
+      }
+    ],
+    "priceLineAssignments": []
+  },
+  "arguments": {
+    "Configuration": {
+      "ELEVATOR.PriceKey.TK_06GOV2711": true,
+      "ELEVATOR.PriceKey.TK_18HWY6383": true
+    },
+    "ProductId": "Unit_Validation_EVO200"
+  },
+  "isComplete": false,
+  "isConfigurable": true,
+  "debug": {
+    "priceTrace": {
+      "identifier": "PriceProcedure RVAA01",
+      "severity": "Info",
+      "children": [
+      ]
+    },
+    "scriptError": [
+      {
+        "scriptName": "R100194993/Note053_CABFINWT2_Function.js",
+        "Error": "Warning: skipping because no matching value found for input 'FINFLRWT'"
+      }
+    ]
+  },
+  "language": "English",
+  "packagePath": "unitvalidationevo200~b06e7286-8ba0-49d5-b69a-383efc589fc7"
+}

@@ -1,0 +1,14 @@
+{
+  "grouphallfixture": [
+    {
+      "consoleNumber": "0",
+      "includeSections": [
+        "Parameters_SP",
+        "Sales_UI_Screens",
+        "Sales_UI_Screens.Sales_UI_Screens.Group_HallFixtures_SP",
+        "Sales_UI_Screens.Sales_UI_Screens.Group_HallFixtures_SP.Sales_UI_Screens.Group_HallFixtures_SP.Parameters",
+        "Sales_UI_Screens.Sales_UI_Screens.Group_HallFixtures_SP.Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP"
+      ]
+    }
+  ]
+}

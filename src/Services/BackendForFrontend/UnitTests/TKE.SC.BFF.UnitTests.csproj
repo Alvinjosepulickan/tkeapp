@@ -1,0 +1,200 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DebugType>Full</DebugType>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <LangVersion>7.2</LangVersion>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <LangVersion>default</LangVersion>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <None Remove="InputJson\A1SaveProjectInfo.json" />
+    <None Remove="SampleStubData\GroupConfiguration\GroupConfigurationProductCategoryStub.json" />
+    <None Remove="SampleStubData\GroupConfiguration\GroupConfigurationResponse.json" />
+    <None Remove="SampleStubData\GroupConfiguration\GroupConfigurationResponseData.json" />
+    <None Remove="SampleStubData\GroupConfiguration\GroupConfigurationStubChanges.json" />
+    <None Remove="SampleStubData\GroupConfiguration\GroupConfigurationValidateData.json" />
+    <None Remove="SampleStubData\GroupConfiguration\GroupLayoutConfigurationStub.json" />
+    <None Remove="SampleStubData\GroupConfiguration\MainGroupconfiguration.json" />
+    <None Remove="SampleStubData\GroupConfiguration\ProductSelectionStub.json" />
+    <None Remove="SampleStubData\GroupConfiguration\ProductSelectionStubResponse.json" />
+    <None Remove="SampleStubData\GroupConfiguration\VariableAssignmentValues.json" />
+    <None Remove="SampleStubData\Login\users.json" />
+    <None Remove="SampleStubData\Product\product.json" />
+    <None Remove="SampleStubData\Projects\Opportunity_ADIA-1N16VED.json" />
+    <None Remove="SampleStubData\Projects\Opportunity_ADIA-1N16VG8.json" />
+    <None Remove="SampleStubData\Projects\projectdetails.json" />
+    <None Remove="SampleStubData\Projects\projects.json" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Content Include="SampleStubData\GroupConfiguration\GroupConfigurationProductCategoryStub.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SampleStubData\GroupConfiguration\GroupConfigurationResponse.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\GroupConfiguration\GroupConfigurationResponseData.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\GroupConfiguration\GroupConfigurationStubChanges.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\GroupConfiguration\GroupConfigurationValidateData.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\GroupConfiguration\GroupLayoutConfigurationStub.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\GroupConfiguration\MainGroupconfiguration.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\GroupConfiguration\ProductSelectionStub.json">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SampleStubData\GroupConfiguration\ProductSelectionStubResponse.json">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SampleStubData\GroupConfiguration\VariableAssignmentValues.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\Login\users.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\Product\product.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\Projects\Opportunity_ADIA-1N16VED.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\Projects\Opportunity_ADIA-1N16VG8.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\Projects\projectdetails.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="SampleStubData\Projects\projects.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.CodeCoverage" Version="16.6.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.5" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
+    <PackageReference Include="Moq" Version="4.14.1" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit.Console" Version="3.11.1" />
+    <PackageReference Include="NUnit.ConsoleRunner" Version="3.11.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="References\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TKE.SC.BFF.API\TKE.SC.BFF.API.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Configit.Configurator.Server.Common">
+      <HintPath>..\TKE.CPQ.AppGateway\References\Configit.Configurator.Server.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Engineer.Grid">
+      <HintPath>..\..\..\..\..\Configit_OBOM_DA_Refs\Configit.Engineer.Grid.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Grid.Core">
+      <HintPath>..\..\..\..\..\Configit_OBOM_DA_Refs\Configit.Grid.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Product.Search.Service">
+      <HintPath>References\Configit.Product.Search.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.Models">
+      <HintPath>..\..\..\..\..\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.Services">
+      <HintPath>..\..\..\..\..\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.WebApi">
+      <HintPath>..\..\..\..\..\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.CLMPlatform">
+      <HintPath>..\..\..\..\..\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.CLMPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.Models">
+      <HintPath>..\..\..\..\..\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.Services">
+      <HintPath>..\..\..\..\..\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.WebApi">
+      <HintPath>..\..\..\..\..\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.VtSdk.Configurator.Service">
+      <HintPath>References\Configit.VtSdk.Configurator.Service.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SampleStubData\GroupConfiguration\ElevatorList.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SampleStubData\GroupConfiguration\GroupConfigurationRequestbody.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SampleStubData\GroupConfiguration\GroupLandingsList.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SampleStubData\GroupConfiguration\OpeningLocationStub.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SampleStubData\StartCnfgn\BuildingConfigurationRequestbody.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SampleStubData\StartCnfgn\BuildingConfigurationResponse.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties InputJson_4BuildingConfigurationResponse_1json__JSONSchema="https://carafe.fm/schema/draft-02/bundle.schema.json" /></VisualStudio></ProjectExtensions>
+
+</Project>

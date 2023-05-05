@@ -1,0 +1,48 @@
+{
+  "GroupHallFixtureConsoleId": 3,
+  "ConsoleName": "Traditional_Hall_Stations",
+  "IsController": true,
+  "FixtureType": "CODEBLUEF",
+  "variableAssignments": [
+    {
+      "variableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Asse.Landing_Door_Jamb.COLFACEF",
+      "value": 3
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER",
+      "value": 4
+    }
+  ],
+  "GroupHallFixtureLocations": [
+    {
+      "UnitId": 432,
+      "Assignments": [
+        {
+          "floorDesignation": 1,
+          "front": true,
+          "rear": true
+        },
+        {
+          "floorDesignation": 2,
+          "front": false,
+          "rear": false
+        }
+      ]
+    },
+    {
+      "unitId": 2,
+      "assignments": [
+        {
+          "FloorDesignation": "1",
+          "front": true,
+          "rear": true
+        },
+        {
+          "FloorDesignation": "2",
+          "front": false,
+          "rear": false
+        }
+      ]
+    }
+  ]
+}

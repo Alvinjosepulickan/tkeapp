@@ -1,0 +1,18 @@
+﻿[
+  {
+    "variableId": "Building_Configuration.Parameters_SP.fixtureStrategy_SP",
+    "value": "ETA"
+  },
+  {
+    "variableId": "Building_Configuration.TopLandingElevation",
+    "value": 792
+  },
+  {
+    "variableId": "Building_Configuration.ButtomLandingElevation",
+    "value": 0
+  },
+  {
+    "variableId": "Building_Configuration.MainEgressElevation",
+    "value": 0
+  }
+]

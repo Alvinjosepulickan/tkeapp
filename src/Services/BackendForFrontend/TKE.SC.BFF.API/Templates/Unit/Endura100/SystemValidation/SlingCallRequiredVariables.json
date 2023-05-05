@@ -1,0 +1,62 @@
+﻿{
+  "variableAssignments": [
+    {
+      "variableId": "Parameters.CAPACITY",
+      "value": "2100"
+    },
+    {
+      "variableId": "Parameters.JACKTYPE",
+      "value": "TWINPOST"
+    },
+    {
+      "variableId": "Parameters.CARRLTYP",
+      "value": "C7"
+    },
+    {
+      "variableId": "Parameters.CABHGTOVL",
+      "value": "96"
+    },
+    {
+      "variableId": "Parameters.PLATDEP",
+      "value": "59.288"
+    },
+    {
+      "variableId": "Parameters.ISSEISMIC",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "Parameters.CARGUIDES",
+      "value": "HYDSLIDE"
+    },
+    {
+      "variableId": "Parameters.PITDEPTH",
+      "value": "48"
+    },
+    {
+      "variableId": "Parameters.CABDOWF",
+      "value": "36"
+    },
+    {
+      "variableId": "Parameters.REAROPEN",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "Parameters.LIFTBEXT",
+      "value": "0"
+    },
+    {
+      "variableId": "Parameters.ISOPLATEN",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "Parameters.PWRUTYPE",
+      "value": "END100"
+    },
+    {
+      "variableId": "Parameters.CABWT",
+      "value": "1540"
+    }
+   
+
+  ]
+}

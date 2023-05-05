@@ -1,0 +1,26 @@
+﻿{
+  "PricingCrossVariables": {
+    "Cab": "cabinterior",
+    "Governor": "unithallfixture",
+    "Hoistway Door Equipment": "entrances",
+    "Hoistway Equipment": "tractionhoistwayequipment",
+    "Pit Equipment": "generalinformation",
+    "Car Fixtures": "carfixture",
+    "AGILE - Hall Fixtures": "unithallfixture",
+    "Building Management/Networking": "building equipment",
+    "Car Sling & Platform": "carfixture",
+    "Controller": "carfixture",
+    "Door Operator": "",
+    "Hall Fixtures": "",
+    "Hoistway Accessories": "",
+    "Hoistway Entrances": "unithallfixture",
+    "Lobby Panel Fixtures": "buildngequipment",
+    "Machine": "",
+    "Machine-room Wiring": "",
+    "Rails, Brackets, Buffers": "",
+    "Safety": "",
+    "Wiring": "",
+    "Factory Material": ""
+
+  }
+}

@@ -1,0 +1,12 @@
+﻿[
+  {
+    "id": "unittype",
+    "value": "feetinch",
+    "type": "String"
+  },
+  {
+    "id": "showas",
+    "value": "Button",
+    "type": "string"
+  }
+]

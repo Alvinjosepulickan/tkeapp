@@ -1,0 +1,12 @@
+{
+  "CustomEngineeredConstantMapper": {
+    "PRODUCTCATEGORY": "productCategory",
+    "PARAMMODEL": "Parameters.Model",
+    "NOOFFLOORSSERVED": "Parameters.Num_FloorServed",
+    "FRONTOPENINGS": "Parameters.Num_FrontOpenings",
+    "REAROPENINGS": "Parameters.Num_RearOpenings",
+    "NETTRAVEL": "Parameters.NetTravel",
+    "BLANDINGS": "Building_Configuration.Parameters.BLANDINGS",
+    "FLOORTOFLOORHEIGHT": "Building_Configuration.Parameters_SP.totalBuildingFloorToFloorHeight_SP"
+  }
+}

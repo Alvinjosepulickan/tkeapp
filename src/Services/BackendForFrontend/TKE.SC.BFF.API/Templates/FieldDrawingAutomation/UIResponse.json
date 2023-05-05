@@ -1,0 +1,253 @@
+{
+  "id": "fda",
+  "sections": [
+    {
+      "id": "fda.beamWall",
+      "sections": [
+        {
+          "id": "fda.beamWall.divider00#",
+          "sections": [],
+          "variables": [
+            {
+              "id": "ELEVATOR00#.Parameters.DBTYP"
+            },
+            {
+              "id": "ELEVATOR00#.Parameters.DBW"
+            },
+            {
+              "id": "ELEVATOR00#.Parameters.DBH"
+            },
+            {
+              "id": "ELEVATOR00#.Parameters.INSERTS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fda.unitLayoutDetails",
+      "sections": [
+        {
+          "layout": [],
+          "variables": [
+            {
+              "id": "ELEVATOR00#.Parameters.CWTLOC"
+            },
+            {
+              "id": "ELEVATOR00#.Parameters.GOVACCESS"
+            },
+            {
+              "id": "ELEVATOR00#.Parameters_SP.SUMPQTY_SP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fda.fieldDrawingAutomationParameters",
+      "variables": [
+        {
+          "id": "Parameters.NOARROW"
+        },
+        {
+          "id": "Parameters.SUMPTYP"
+        }
+      ]
+    },
+    {
+      "id": "fda.layoutGenerationSettings",
+      "sections": [
+        {
+          "id": "fda.layoutGenerationSettings.outputTypes",
+          "sections": [],
+          "variables": [
+            {
+              "id": "outputTypesPdf",
+              "name": "PDF",
+              "valueType": "String",
+              "values": [
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "False",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": false
+                },
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "True",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "id": "outputTypesDWG",
+              "name": "DWG",
+              "valueType": "String",
+              "values": [
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "False",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": false
+                },
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "True",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "id": "outputTypesBIMIFC",
+              "name": "BIM_IFC",
+              "valueType": "String",
+              "values": [
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "False",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": false
+                },
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "True",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "id": "outputTypesBIMIDBIM",
+              "name": "BIM_IDBIM",
+              "valueType": "String",
+              "values": [
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "False",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": false
+                },
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "True",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fda.layoutGenerationSettings.drawingTypes",
+          "sections": [],
+          "variables": [
+            {
+              "id": "drawingTypesBasePackage",
+              "name": "BasePackage",
+              "valueType": "String",
+              "values": [
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "False",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": false
+                },
+                {
+                  "assigned": "byUser",
+                  "inCompatible": true,
+                  "justification": "None",
+                  "name": "True",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "id": "drawingTypesExteriorArchitecturalPackage",
+              "name": "ExteriorArchitecturalPackage",
+              "valueType": "String",
+              "values": [
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "False",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": false
+                },
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "True",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "id": "drawingTypesInteriorArchitecturalPackage",
+              "name": "InteriorArchitecturalPackage",
+              "valueType": "String",
+              "values": [
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "False",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": false
+                },
+                {
+                  "inCompatible": false,
+                  "justification": "None",
+                  "name": "True",
+                  "properties": [],
+                  "state": "Available",
+                  "type": "SingletonValue",
+                  "value": true
+                }
+              ]
+            }
+          ],
+          "properties": []
+        }
+      ],
+      "variables": []
+    }
+  ]
+}

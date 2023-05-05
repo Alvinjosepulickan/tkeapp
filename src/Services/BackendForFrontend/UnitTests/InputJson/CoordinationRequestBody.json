@@ -1,0 +1,256 @@
+{
+  "sendToCoordinationData": [
+    {
+      "groupId": 1,
+      "questions": [
+        {
+          "id": "Q1",
+          "name": "Was an automated submittal package for groups[s] created for your customer?",
+          "questionType": "SingleSelect",
+          "options": [
+            {
+              "name": "Yes",
+              "value": "Yes"
+            },
+            {
+              "name": "No",
+              "value": "No"
+            }
+          ],
+          "value": "Yes",
+          "properties": [
+            {
+              "id": "showas",
+              "value": "RadioButton",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "1",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Q2",
+          "name": "Submittal State",
+          "questionType": "SingleSelect",
+          "options": [
+            {
+              "name": "Submittals out for approval",
+              "value": "Submittals_out_for_approval"
+            },
+            {
+              "name": "Submittals being returned for finals",
+              "value": "Submittals_being_returned_for_finals"
+            },
+            {
+              "name": "Submittals being returned for revisions",
+              "value": "Submittals_being_returned_for_revisions"
+            }
+          ],
+          "value": "Submittals_out_for_approval",
+          "properties": [
+            {
+              "id": "showas",
+              "value": "RadioButton",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "2",
+              "type": "number"
+            },
+            {
+              "id": "displayIf",
+              "value": "[Q1]=='Yes'",
+              "type": "expression"
+            }
+          ]
+        },
+        {
+          "id": "Q3",
+          "name": "Submitted Date",
+          "questionType": "SingleInput",
+          "value": "",
+          "properties": [
+            {
+              "id": "showas",
+              "value": "dateInput",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "3",
+              "type": "number"
+            },
+            {
+              "id": "dateFormat",
+              "value": "YYYY/MM/DD",
+              "type": "String"
+            },
+            {
+              "id": "displayIf",
+              "value": "[Q2]=='Submittals_out_for_approval' || 'Submittals_being_returned_for_finals' || 'Submittals_being_returned_for_revisions'",
+              "type": "expression"
+            }
+          ]
+        },
+        {
+          "id": "Q4",
+          "name": "Received Date",
+          "questionType": "SingleInput",
+          "value": "",
+          "properties": [
+            {
+              "id": "showas",
+              "value": "dateInput",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "4",
+              "type": "number"
+            },
+            {
+              "id": "dateFormat",
+              "value": "YYYY/MM/DD",
+              "type": "String"
+            },
+            {
+              "id": "displayIf",
+              "value": "[Q2]== 'Submittals_being_returned_for_finals' || 'Submittals_being_returned_for_revisions'",
+              "type": "expression"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 2,
+      "questions": [
+        {
+          "id": "Q1",
+          "name": "Was an automated submittal package for groups[s] created for your customer?",
+          "questionType": "SingleSelect",
+          "options": [
+            {
+              "name": "Yes",
+              "value": "Yes"
+            },
+            {
+              "name": "No",
+              "value": "No"
+            }
+          ],
+          "value": "Yes",
+          "properties": [
+            {
+              "id": "showas",
+              "value": "RadioButton",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "1",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Q2",
+          "name": "Submittal State",
+          "questionType": "SingleSelect",
+          "options": [
+            {
+              "name": "Submittals out for approval",
+              "value": "Submittals_out_for_approval"
+            },
+            {
+              "name": "Submittals being returned for finals",
+              "value": "Submittals_being_returned_for_finals"
+            },
+            {
+              "name": "Submittals being returned for revisions",
+              "value": "Submittals_being_returned_for_revisions"
+            }
+          ],
+          "value": "Submittals_out_for_approval",
+          "properties": [
+            {
+              "id": "showas",
+              "value": "RadioButton",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "2",
+              "type": "number"
+            },
+            {
+              "id": "displayIf",
+              "value": "[Q1]=='Yes'",
+              "type": "expression"
+            }
+          ]
+        },
+        {
+          "id": "Q3",
+          "name": "Submitted Date",
+          "questionType": "SingleInput",
+          "value": "",
+          "properties": [
+            {
+              "id": "showas",
+              "value": "dateInput",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "3",
+              "type": "number"
+            },
+            {
+              "id": "dateFormat",
+              "value": "YYYY/MM/DD",
+              "type": "String"
+            },
+            {
+              "id": "displayIf",
+              "value": "[Q2]=='Submittals_out_for_approval' || 'Submittals_being_returned_for_finals' || 'Submittals_being_returned_for_revisions'",
+              "type": "expression"
+            }
+          ]
+        },
+        {
+          "id": "Q4",
+          "name": "Received Date",
+          "questionType": "SingleInput",
+          "value": "",
+          "properties": [
+            {
+              "id": "showas",
+              "value": "dateInput",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "4",
+              "type": "number"
+            },
+            {
+              "id": "dateFormat",
+              "value": "YYYY/MM/DD",
+              "type": "String"
+            },
+            {
+              "id": "displayIf",
+              "value": "[Q2]== 'Submittals_being_returned_for_finals' || 'Submittals_being_returned_for_revisions'",
+              "type": "expression"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

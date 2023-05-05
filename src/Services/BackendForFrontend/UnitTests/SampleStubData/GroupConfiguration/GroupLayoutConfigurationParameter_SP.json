@@ -1,0 +1,114 @@
+{
+	"id": "Parameters_SP",
+	"name": "Parameters_SP",
+	"sections": [],
+	"variables": [
+		{
+			"id": "Parameters_SP.NXVM",
+			"name": "Distance from Top floor to Control floor",
+			"valueType": "Number",
+			"distinctValueCount": 1.5845632502852868E+29,
+			"allowMultipleAssignments": false,
+			"values": [
+				{
+					"type": "IntervalValue",
+					"lower": -79228162514264337593543.950335,
+					"upper": 79228162514264337593543.950335,
+					"incompatible": false
+				}
+			],
+			"properties": [
+				
+			]
+		},
+		{
+			"id": "Parameters_SP.controlRoomXdimension_SP",
+			"name": "Parameters_SP.controlRoomXdimension_SP",
+			"valueType": "Number",
+			"distinctValueCount": 1.5845632502852868E+29,
+			"allowMultipleAssignments": false,
+			"values": [
+				{
+					"type": "IntervalValue",
+					"lower": -79228162514264337593543.950335,
+					"upper": 79228162514264337593543.950335,
+					"incompatible": false
+				}
+			],
+			"properties": [
+				
+			]
+		},
+		{
+			"id": "Parameters_SP.controlRoomYdimension_SP",
+			"name": "Parameters_SP.controlRoomYdimension_SP",
+			"valueType": "Number",
+			"distinctValueCount": 1.5845632502852868E+29,
+			"allowMultipleAssignments": false,
+			"values": [
+				{
+					"type": "IntervalValue",
+					"lower": -79228162514264337593543.950335,
+					"upper": 79228162514264337593543.950335,
+					"incompatible": false
+				}
+			],
+			"properties": [
+				
+			]
+		},
+		{
+			"id": "Parameters_SP.controlRoomFloor_SP",
+			"name": "Control Floor",
+			"valueType": "Number",
+			"numberOfFloors": 0,
+			"allowMultipleAssignments": false,
+			"values": [
+				{
+					"assigned": "byUser",
+					"inCompatible": true,
+					"justification": "Assignment",
+					"name": "1",
+					"state": "Selected",
+					"type": "SingletonValue",
+					"value": "3"
+				},
+				{
+					"assigned": "",
+					"inCompatible": true,
+					"justification": "Assignment",
+					"name": "2",
+					"state": "Selected",
+					"type": "SingletonValue",
+					"value": "3"
+				},
+				{
+					"assigned": "",
+					"inCompatible": true,
+					"justification": "Assignment",
+					"name": "3",
+					"state": "Selected",
+					"type": "SingletonValue",
+					"value": "3"
+				}
+			],
+			"properties": [
+				
+			]
+		}
+
+	],
+	"properties": [
+		{
+			"id": "fullyqualifiedname",
+			"value": "Parameters",
+			"type": "String"
+		},
+		{
+			"id": "name",
+			"value": "Parameters",
+			"type": "String"
+		}
+	]
+}
+			

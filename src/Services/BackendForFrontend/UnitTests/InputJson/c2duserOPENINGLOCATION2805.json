@@ -1,0 +1,263 @@
+﻿{
+  
+    "displayVariableAssignments": [
+      {
+        "mappedTo": "Parameters.B1P1",
+        "unitDesignation": "U1",
+        "isFutureElevator": false,
+        "key": "B1P1",
+        "variableId": "Parameters.B1P1",
+        "value": "TRUE"
+      },
+      {
+        "mappedTo": "Parameters.B1P2",
+        "unitDesignation": "U2",
+        "isFutureElevator": false,
+        "key": "B1P2",
+        "variableId": "Parameters.B1P2",
+        "value": "TRUE"
+      },
+      {
+        "mappedTo": "Parameters.B1P3",
+        "unitDesignation": "U3",
+        "isFutureElevator": false,
+        "key": "B1P3",
+        "variableId": "Parameters.B1P3",
+        "value": "TRUE"
+      },
+      {
+        "mappedTo": "Parameters.B1P4",
+        "unitDesignation": "U4",
+        "isFutureElevator": false,
+        "key": "B1P4",
+        "variableId": "Parameters.B1P4",
+        "value": "TRUE"
+      },
+      {
+        "mappedTo": "Parameters.B2P1",
+        "unitDesignation": "",
+        "isFutureElevator": false,
+        "key": "B2P1",
+        "variableId": "Parameters.B2P1",
+        "value": "FALSE"
+      },
+      {
+        "mappedTo": "Parameters.B2P2",
+        "unitDesignation": "",
+        "isFutureElevator": false,
+        "key": "B2P2",
+        "variableId": "Parameters.B2P2",
+        "value": "FALSE"
+      },
+      {
+        "mappedTo": "Parameters.B2P3",
+        "unitDesignation": "",
+        "isFutureElevator": false,
+        "key": "B2P3",
+        "variableId": "Parameters.B2P3",
+        "value": "FALSE"
+      },
+      {
+        "mappedTo": "Parameters.B2P4",
+        "unitDesignation": "",
+        "isFutureElevator": false,
+        "key": "B2P4",
+        "variableId": "Parameters.B2P4",
+        "value": "FALSE"
+      }
+    ],
+    "groupConfigurationId": 2811,
+    "userName": "naseer.ahmed@tke.dev",
+    "buildingRise": 840.0,
+    "noOfFloors": 0,
+    "units": [
+      {
+        "unitId": 30009,
+        "unitName": "U1",
+        "travel": {
+          "feet": 70,
+          "inch": 0.0
+        },
+        "ocuppiedSpace": false,
+        "noOfFloors": 2,
+        "frontOpening": 2,
+        "rearOpening": 0,
+        "sideOpening": 0,
+        "openingDoors": {
+          "front": true,
+          "rear": false,
+          "side": false
+        },
+        "openingsAssigned": [
+          {
+            "floorNumber": 1,
+            "floorDesignation": "1",
+            "elevation": {
+              "feet": 0,
+              "inch": 0.0
+            },
+            "front": true,
+            "rear": false,
+            "side": false,
+            "mainEgress": true,
+            "alternateEgress": false
+          },
+          {
+            "floorNumber": 2,
+            "floorDesignation": "2",
+            "elevation": {
+              "feet": 70,
+              "inch": 0.0
+            },
+            "front": true,
+            "rear": false,
+            "side": false,
+            "mainEgress": false,
+            "alternateEgress": true
+          }
+        ]
+      },
+      {
+        "unitId": 30010,
+        "unitName": "U2",
+        "travel": {
+          "feet": 70,
+          "inch": 0.0
+        },
+        "ocuppiedSpace": false,
+        "noOfFloors": 2,
+        "frontOpening": 2,
+        "rearOpening": 0,
+        "sideOpening": 0,
+        "openingDoors": {
+          "front": true,
+          "rear": false,
+          "side": false
+        },
+        "openingsAssigned": [
+          {
+            "floorNumber": 1,
+            "floorDesignation": "1",
+            "elevation": {
+              "feet": 0,
+              "inch": 0.0
+            },
+            "front": true,
+            "rear": false,
+            "side": false,
+            "mainEgress": true,
+            "alternateEgress": false
+          },
+          {
+            "floorNumber": 2,
+            "floorDesignation": "2",
+            "elevation": {
+              "feet": 70,
+              "inch": 0.0
+            },
+            "front": true,
+            "rear": false,
+            "side": false,
+            "mainEgress": false,
+            "alternateEgress": true
+          }
+        ]
+      },
+      {
+        "unitId": 30011,
+        "unitName": "U3",
+        "travel": {
+          "feet": 70,
+          "inch": 0.0
+        },
+        "ocuppiedSpace": false,
+        "noOfFloors": 2,
+        "frontOpening": 2,
+        "rearOpening": 0,
+        "sideOpening": 0,
+        "openingDoors": {
+          "front": true,
+          "rear": false,
+          "side": false
+        },
+        "openingsAssigned": [
+          {
+            "floorNumber": 1,
+            "floorDesignation": "1",
+            "elevation": {
+              "feet": 0,
+              "inch": 0.0
+            },
+            "front": true,
+            "rear": false,
+            "side": false,
+            "mainEgress": true,
+            "alternateEgress": false
+          },
+          {
+            "floorNumber": 2,
+            "floorDesignation": "2",
+            "elevation": {
+              "feet": 70,
+              "inch": 0.0
+            },
+            "front": true,
+            "rear": false,
+            "side": false,
+            "mainEgress": false,
+            "alternateEgress": true
+          }
+        ]
+      },
+      {
+        "unitId": 30012,
+        "unitName": "U4",
+        "travel": {
+          "feet": 70,
+          "inch": 0.0
+        },
+        "ocuppiedSpace": false,
+        "noOfFloors": 2,
+        "frontOpening": 2,
+        "rearOpening": 0,
+        "sideOpening": 0,
+        "openingDoors": {
+          "front": true,
+          "rear": false,
+          "side": false
+        },
+        "openingsAssigned": [
+          {
+            "floorNumber": 1,
+            "floorDesignation": "1",
+            "elevation": {
+              "feet": 0,
+              "inch": 0.0
+            },
+            "front": true,
+            "rear": false,
+            "side": false,
+            "mainEgress": true,
+            "alternateEgress": false
+          },
+          {
+            "floorNumber": 2,
+            "floorDesignation": "2",
+            "elevation": {
+              "feet": 70,
+              "inch": 0.0
+            },
+            "front": true,
+            "rear": false,
+            "side": false,
+            "mainEgress": false,
+            "alternateEgress": true
+          }
+        ]
+      }
+    ],
+    "readOnly": false,
+    "conflictAssignments": null,
+    "enrichedData": null,
+    "permissions": null
+  }

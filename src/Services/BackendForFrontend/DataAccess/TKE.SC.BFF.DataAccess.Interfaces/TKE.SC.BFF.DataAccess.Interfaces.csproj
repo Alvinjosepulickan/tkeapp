@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IronXL.Excel" Version="2021.12.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="3.1.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.6.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Common\TKE.SC.Common.Model\TKE.SC.Common.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Configit.Configurator.Server.Common">
+      <HintPath>References\Configit.Configurator.Server.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Engineer.Grid">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.Engineer.Grid.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Grid.Core">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.Grid.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Product.Search.Service">
+      <HintPath>References\Configit.Product.Search.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.Models">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.Services">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.WebApi">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.CLMPlatform">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.CLMPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.Models">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.Services">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.WebApi">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.VtSdk.Configurator.Service">
+      <HintPath>References\Configit.VtSdk.Configurator.Service.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

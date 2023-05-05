@@ -1,0 +1,170 @@
+﻿{
+  "consoleId": "4",
+  "consoleName": "Hoistway_Access3",
+  "fixtureType": "Hoistway_Access",
+  "fixtureLocations": [
+    {
+      "floorNumber": 3,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 4,
+      "front": true,
+      "rear": false
+    }
+  ],
+  "variables": [
+    {
+      "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.HALOCTOPF",
+      "name": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.HALOCTOPF",
+      "valueType": "String",
+      "allowMultipleAssignments": false,
+      "values": [
+        {
+          "type": "SingletonValue",
+          "name": "EJMFLTL",
+          "value": "EJMFLTL",
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "EJMFLTL",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "EJMFLTL",
+              "type": "String"
+            }
+          ],
+          "inCompatible": false,
+          "state": "Available",
+          "justification": "None"
+        },
+        {
+          "type": "SingletonValue",
+          "name": "EJMFPTL",
+          "value": "EJMFPTL",
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "EJMFPTL",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "EJMFPTL",
+              "type": "String"
+            }
+          ],
+          "inCompatible": false,
+          "state": "Available",
+          "justification": "None"
+        },
+        {
+          "type": "SingletonValue",
+          "name": "HSTL",
+          "value": "HSTL",
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "HSTL",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "HSTL",
+              "type": "String"
+            }
+          ],
+          "inCompatible": false,
+          "state": "Available",
+          "justification": "None"
+        },
+        {
+          "type": "SingletonValue",
+          "name": "NR",
+          "value": "NR",
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "NR",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "NR",
+              "type": "String"
+            }
+          ],
+          "inCompatible": false,
+          "state": "Available",
+          "justification": "None"
+        },
+        {
+          "type": "SingletonValue",
+          "name": "WMTLS",
+          "value": "WMTLS",
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "WMTLS",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "WMTLS",
+              "type": "String"
+            }
+          ],
+          "inCompatible": false,
+          "state": "Available",
+          "justification": "None"
+        }
+      ],
+      "properties": [
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "subsection",
+          "value": "ELEVATOR.Parameters.Hoistway_Access",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Type",
+          "type": "String"
+        },
+        {
+          "id": "LandingVariableFront",
+          "value": "ELEVATOR.FloorMatrix.LANDING#.Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.HALOCTOPF",
+          "type": "String"
+        },
+        {
+          "id": "LandingVariableRear",
+          "value": "ELEVATOR.FloorMatrix.LANDING#.Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.HALOCTOPR",
+          "type": "String"
+        }
+      ]
+    }
+  ],
+  "VariableAssignments": [
+    {
+      "VariableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACEF",
+      "Value": "EVO_200"
+    },
+    {
+      "VariableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER",
+      "Value": "BSS"
+    }
+  ]
+
+}

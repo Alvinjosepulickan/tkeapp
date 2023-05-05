@@ -1,0 +1,52 @@
+{
+  "PackagePath": "Escalator_6.5",
+  "currency": "USD",
+  "currentLineId": "ROOT",
+  "date": "2019-10-04T10:00:11.088Z",
+  "description": "",
+  "globalArguments": {
+    "plant": "US01",
+    "salesArea": {
+      "salesOrganization": "US01",
+      "distributionChannel": "01",
+      "salesDivision": "02"
+    },
+    "shipTo": {
+      "countryCode": "US"
+    },
+    "soldTo": {
+      "countryCode": "US"
+    },
+    "MaterialVariant": {
+      "Material": {
+        "ConfigurableMaterialName": "Escalator",
+        "ExternalId": "Escalator"
+      }
+    },
+    "Variants": []
+  },
+  "language": "English",
+  "line": {
+    "priceLineAssignments": [],
+    "product": {
+      "id": "Escalator",
+      "isConfigurable": true
+    },
+    "productId": "Escalator",
+    "quantity": {
+      "value": 1,
+      "unit": "EA"
+    },
+    "sublines": [],
+    "variableAssignments": [
+
+    ]
+  },
+  "priceProcedureId": "ZRVA01",
+  "settings": {
+    "debug": false,
+    "includeSections": [],
+    "includePriceLines": false,
+    "onlyPriceTotals": false
+  }
+} 

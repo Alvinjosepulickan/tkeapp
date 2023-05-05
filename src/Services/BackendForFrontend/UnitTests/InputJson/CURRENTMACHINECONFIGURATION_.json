@@ -1,0 +1,413 @@
+{
+  "totPrice": 0.0,
+  "sections": [
+    {
+      "id": "GroupConfiguration",
+      "name": "Group Configuration",
+      "sections": [
+        {
+          "id": "GroupConfiguration.Basic",
+          "name": "Basic Group Configuration",
+          "sections": [],
+          "variables": [
+            {
+              "id": "GroupConfiguration.Basic.GrpName",
+              "name": "Group Name",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "G1",
+                  "value": "G1",
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "InputField",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "GroupConfiguration.Basic.ProdCat",
+              "name": "Product Category",
+              "valueType": "String",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "Traction",
+                  "value": "Traction",
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "Momentum",
+                  "value": "Momentum",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "DropDown",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "GroupConfiguration.Basic.CntrlLoc",
+              "name": "Control Location",
+              "valueType": "String",
+              "distinctValueCount": 3.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "Remote",
+                  "value": "Remote",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "Adjacent",
+                  "value": "Adjacent",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "Jamb-Mounted",
+                  "value": "Jamb-Mounted",
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "DropDown",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "GroupConfiguration.Basic.FixStrat",
+              "name": "Fixture Strategy",
+              "valueType": "String",
+              "distinctValueCount": 3.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "Traditional",
+                  "value": "Traditional",
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "Agile",
+                  "value": "Agile",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "Agile Select",
+                  "value": "Agile Select",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "Button",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "properties": []
+        },
+        {
+          "id": "GroupConfiguration.FloorPlan",
+          "name": "Floor Plan",
+          "sections": [],
+          "variables": [
+            {
+              "id": "GroupConfiguration.FloorPlan.B1P1",
+              "name": "GroupConfiguration.FloorPlan.B1P1",
+              "valueType": "Boolean",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "True",
+                  "value": true,
+                  "properties": [],
+                  "assigned": "byRule",
+                  "incompatible": false,
+                  "state": "Inferred",
+                  "justification": "Rule"
+                }
+              ],
+              "properties": []
+            },
+            {
+              "id": "GroupConfiguration.FloorPlan.B1P2",
+              "name": "GroupConfiguration.FloorPlan.B1P2",
+              "valueType": "Boolean",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "False",
+                  "value": false,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "True",
+                  "value": true,
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": []
+            },
+            {
+              "id": "GroupConfiguration.FloorPlan.B1P3",
+              "name": "GroupConfiguration.FloorPlan.B1P3",
+              "valueType": "Boolean",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "False",
+                  "value": false,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "True",
+                  "value": true,
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": []
+            },
+            {
+              "id": "GroupConfiguration.FloorPlan.B1P4",
+              "name": "GroupConfiguration.FloorPlan.B1P4",
+              "valueType": "Boolean",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "False",
+                  "value": false,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "True",
+                  "value": true,
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": []
+            },
+            {
+              "id": "GroupConfiguration.FloorPlan.B2P1",
+              "name": "GroupConfiguration.FloorPlan.B2P1",
+              "valueType": "Boolean",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "False",
+                  "value": false,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "True",
+                  "value": true,
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": []
+            },
+            {
+              "id": "GroupConfiguration.FloorPlan.B2P2",
+              "name": "GroupConfiguration.FloorPlan.B2P2",
+              "valueType": "Boolean",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "False",
+                  "value": false,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "True",
+                  "value": true,
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": []
+            },
+            {
+              "id": "GroupConfiguration.FloorPlan.B2P3",
+              "name": "GroupConfiguration.FloorPlan.B2P3",
+              "valueType": "Boolean",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "False",
+                  "value": false,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "True",
+                  "value": true,
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": []
+            },
+            {
+              "id": "GroupConfiguration.FloorPlan.B2P4",
+              "name": "GroupConfiguration.FloorPlan.B2P4",
+              "valueType": "Boolean",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "False",
+                  "value": false,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "True",
+                  "value": true,
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": []
+            }
+          ],
+          "properties": []
+        }
+      ],
+      "variables": [],
+      "properties": []
+    }
+  ],
+  "removedAssignments": {
+    "variableAssignments": [],
+    "priceLineAssignments": []
+  },
+  "isComplete": false,
+  "language": "english",
+  "packagePath": "GroupValidation~f3d76b04-3047-40ca-a447-08d86a87bf9b"
+}

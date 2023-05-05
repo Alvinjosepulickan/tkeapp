@@ -1,0 +1,21 @@
+[
+  "FLAG_TENINBELTSEXCD",
+  "FLAG_DFSFTYEXCD",
+  "FLAG_UNBALLDEXGS",
+  "FLAG_CARBUFFEREXCEEDED",
+  "Flag_App_Current",
+  "Flag_App_Current_Limits",
+  "Flag_App_Power",
+  "Flag_App_RPM",
+  "Flag_App_Torque",
+  "Flag_App_Voltage",
+  "Flag_CWT",
+  "Flag_Dynamic_Brake_Torque",
+  "Flag_Max_Friction",
+  "Flag_Norm_Friction",
+  "Flag_OUTPUT",
+  "Flag_Starting_Current",
+  "Flag_Starting_Current_Limits",
+  "Flag_Starting_Torque",
+  "Flag_Static_Brake_Torque"
+]

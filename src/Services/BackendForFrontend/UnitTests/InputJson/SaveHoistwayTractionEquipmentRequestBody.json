@@ -1,0 +1,21 @@
+﻿{
+
+  "variableAssignments": [
+    {
+      "variableId": "ELEVATOR.Parameters.Car_Assembly.Car_Frame_Assembly.CARGUIDES",
+      "Value": "8INROLL"
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Counterweight.CWTGUIDES",
+      "Value": "ACLASLIDE"
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Electrical_System.FLSLOC",
+      "Value": "TOP"
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Electrical_System.BUFFSW",
+      "Value": "NR"
+    }
+  ]
+}

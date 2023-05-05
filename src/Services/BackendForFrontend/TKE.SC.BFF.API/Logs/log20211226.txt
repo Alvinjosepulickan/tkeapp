@@ -1,0 +1,2 @@
+12/26/2021 08:00:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 1.16:14:04.9823642 due to an exception, will be retried no more than in 00:00:15
+12/26/2021 08:01:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 1.16:14:36.8770847 due to an exception, will be retried no more than in 00:00:15

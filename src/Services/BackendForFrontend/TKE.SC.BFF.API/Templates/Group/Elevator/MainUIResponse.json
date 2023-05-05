@@ -1,0 +1,34 @@
+﻿{
+  "sections": [
+    {
+      "id": "floorPlanLayout",
+      "name": "Floor Plan",
+      "sections": []
+    },
+    {
+      "id": "controlRoom",
+      "name": "Control Location",
+      "sections": []
+    },
+    {
+      "id": "doors",
+      "name": "Doors",
+      "sections": []
+    },
+    {
+      "id": "hallRiser",
+      "name": "Hall Stations",
+      "sections": []
+    },
+    {
+      "id": "openingLocations",
+      "name": "Group Opening Locations",
+      "sections": []
+    },
+    {
+      "id": "groupHallFixtures",
+      "name": "Group Hall Fixtures",
+      "sections": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "sections": [
+    {
+      "id": "entranceConsole",
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.COLFACEF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTHKF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTYPF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTTYPEF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTSILFINF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTKEYHOLE"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTFRAFINMATF_SP"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTDORFINMATF_SP"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+﻿{
+  "GroupConstantMapper": {
+    "GROUPDESIGNATION": "groupDesignation",
+    "ACROSSTHEHALLDISTANCEPARAMETER": "BNKDIST",
+    "BANKOFFSETPARAMETER": "BNKOFF",
+    "CONTROLLERLOCATION_SP": "Parameters_SP.controllerLocation_SP",
+    "CONTROLROOMQUADSPVALUES": "Parameters_SP.controlRoomQuad_SP",
+    "PARMETERSXDIMENSIONVALUES": "Parameters_SP.controlRoomXdimension_SP",
+    "PARMETERSYDIMENSIONVALUES": "Parameters_SP.controlRoomYdimension_SP",
+    "PARAMETERSF2F2TOPFLOOR": "Parameters_SP.f2fTopToRoof_SP",
+    "PARAMETERSF2FBASEMENT": "Parameters_SP.f2fBasementToLowest_SP",
+    "PARAMETERSNXVMDISTANCEFLOOR": "Parameters.NXVM",
+    "CONTROLFLOOR": "Parameters_SP.controlRoomFloor_SP",
+    "PARAMETERSSPCONTROLFLOOR": "Parameters_SP.controlRoomFloor_SP",
+    "REAROPEN": "Parameters.REAROPEN",
+    "CARPOS": "Parameters.CARPOS",
+    "PRODUCTCATEGORY": "productCategory",
+    "FIXTURESTRATEGYVRAIBLEID": "Parameters_SP.fixtureStrategy_SP",
+    "FRONTDOORTYPEANDHAND": "Parameters_SP.frontDoorTypeAndHand_SP",
+    "REARDOORTYPEANDHAND": "Parameters_SP.rearDoorTypeAndHand_SP",
+    "SIDEDOORTYPEANDHAND": "Parameters_SP.sideDoorTypeAndHand_SP",
+    "FIREBOX": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIREBOX",
+    "GROUPLAYOUTSIZE": "Parameters.LAYGRPSZ",
+    "NOOFFRONTHALLSTATIONS": "Parameters_SP.HSF_Qty",
+    "TOTALBUILDINGFLOORTOFLOORHEIGHT": "totalBuildingFloorToFloorHeight",
+    "SPAREQUANTITY": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskSpareQty_SP"
+  },
+  "HallStation": [
+    "Parameters_SP.BKS1_SP",
+    "Parameters_SP.BKS2_SP",
+    "ELEVATOR001.Parameters_SP.CIB_SP",
+    "ELEVATOR002.Parameters_SP.CIB_SP",
+    "ELEVATOR003.Parameters_SP.CIB_SP",
+    "ELEVATOR004.Parameters_SP.CIB_SP",
+    "ELEVATOR005.Parameters_SP.CIB_SP",
+    "ELEVATOR006.Parameters_SP.CIB_SP",
+    "ELEVATOR007.Parameters_SP.CIB_SP",
+    "ELEVATOR008.Parameters_SP.CIB_SP"
+  ],
+  "UnitTable": {
+    "B1P1": "U1",
+    "B1P2": "U2",
+    "B1P3": "U3",
+    "B1P4": "U4",
+    "B2P1": "U5",
+    "B2P2": "U6",
+    "B2P3": "U7",
+    "B2P4": "U8"
+  },
+  "floorPlanRules": {
+    "compatibleUnits": {
+      "B1P1": [ "B1P2", "B2P1" ],
+      "B1P2": [ "B1P2", "B1P3", "B2P1", "B2P2" ],
+      "B1P3": [ "B1P3", "B1P4", "B2P1", "B2P2", "B2P3" ],
+      "B1P4": [ "B1P4", "B2P1", "B2P2", "B2P3", "B2P4" ]
+    },
+    "inCompatibleUnits": {
+      "B1P1": [ "B1P1" ],
+      "B1P2": [ "B1P1" ],
+      "B1P3": [ "B1P1", "B1P2" ],
+      "B1P4": [ "B1P1", "B1P2", "B1P3" ],
+      "B2P1": [ "B1P1" ],
+      "B2P2": [ "B1P1", "B1P2", "B2P1" ],
+      "B2P3": [ "B1P1", "B1P2", "B1P3", "B2P1", "B2P2" ],
+      "B2P4": [ "B1P1", "B1P2", "B1P3", "B1P4", "B2P1", "B2P2", "B2P3" ]
+    },
+    "conditionalRules": {
+      "B2P1": {
+        "previousUnitSelections": [],
+        "nextSelections": [
+          "B2P2",
+          "B2P3"
+        ],
+        "availableSelection": [
+          "B2P3",
+          "B2P4"
+        ]
+      },
+      "B2P2": {
+        "previousUnitSelections": [
+          "B2P1"
+        ],
+        "nextSelections": [
+          "B2P3"
+        ],
+        "availableSelection": [
+          "B2P4"
+        ]
+      },
+      "B2P3": {
+        "previousUnitSelections": [
+          "B2P1",
+          "B2P2"
+        ],
+        "nextSelections": [],
+        "availableSelection": []
+      },
+      "B2P4": {
+        "previousUnitSelections": [
+          "B2P1",
+          "B2P2",
+          "B2P3"
+        ],
+        "nextSelections": [],
+        "availableSelection": []
+      }
+    }
+  },
+  "ETAConsoles": [
+
+    "Traditional_Hall_Stations",
+    "Appendix_H/O_Signage",
+    "Fire_Service",
+    "Emergency_Power",
+    "Code_Blue_Key_Switch",
+    "VIP_Service_Switch",
+    "Medical_Emergency_Key_Switch",
+    "Elevator_Communication_Failure_Jewel",
+    "Fire_Key_Box",
+    "Emergency_Key_Box",
+    "Fire_Phone_Jack",
+    "Card_Reader_Provision",
+    "Hall_Call_Registration",
+    "Hall_Call_Lockout"
+
+  ],
+  "ETDConsoles": [
+
+    "AGILE_Hall_Stations",
+    "Appendix_H/O_Signage",
+    "Fire_Service",
+    "Emergency_Power",
+    "Code_Blue_Key_Switch",
+    "VIP_Service_Switch",
+    "Medical_Emergency_Key_Switch",
+    "Elevator_Communication_Failure_Jewel",
+    "Fire_Key_Box",
+    "Emergency_Key_Box",
+    "Fire_Phone_Jack",
+    "Card_Reader_Provision",
+    "Hall_Call_Registration",
+    "Hall_Call_Lockout"
+
+  ],
+  "ETAPLUSETDConsoles": [
+
+    "Traditional_Hall_Stations",
+    "AGILE_Hall_Stations",
+    "Appendix_H/O_Signage",
+    "Fire_Service",
+    "Emergency_Power",
+    "Code_Blue_Key_Switch",
+    "VIP_Service_Switch",
+    "Medical_Emergency_Key_Switch",
+    "Elevator_Communication_Failure_Jewel",
+    "Fire_Key_Box",
+    "Emergency_Key_Box",
+    "Fire_Phone_Jack",
+    "Card_Reader_Provision",
+    "Hall_Call_Registration",
+    "Hall_Call_Lockout"
+
+  ],
+  "ElevatorPositions": [
+    "B1P1",
+    "B1P2",
+    "B1P3",
+    "B1P4",
+    "B2P1",
+    "B2P2",
+    "B2P3",
+    "B2P4"
+  ],
+  "GroupConfigurationMapper": {
+
+    "hallStation": "Parameters_SP.HS",
+    "frontDoor": "Parameters_SP.frontDoorTypeAndHand_SP",
+    "rearDoor": "Parameters_SP.rearDoorTypeAndHand_SP",
+    "noOfFloor": "Parameters.BLANDINGS",
+    "FixtureStrategy": "Parameters_SP.fixtureStrategy_SP"
+  },
+  "defaultVariableAssignments": [
+    {
+      "variableId": "Parameters.B1P1",
+      "value": "TRUE"
+    }
+  ],
+  "doorsMaterialVariant": {
+    "Material": {
+      "ConfigurableMaterialName": "Group_Config_Doors_UI",
+      "ExternalId": "Group_Config_Doors_UI"
+    }
+  },
+  "floorPlanDistanceParameters": [
+    "Parameters.BNKOFF",
+    "Parameters.BNKDIST"
+  ],
+  "controlRoomFeetInputParameters": [
+    "Parameters_SP.controlRoomXdimension_SP",
+    "Parameters_SP.controlRoomYdimension_SP"
+  ],
+  "GroupCommonMapper": {
+    "GROUPDESGN": "Parameters.GRPDESG"
+  },
+  "HallStationVariables": [
+    "Parameters_SP.HS1R_SP",
+    "Parameters_SP.HS2R_SP",
+    "Parameters_SP.HS3R_SP",
+    "Parameters_SP.HS4R_SP",
+    "Parameters_SP.HS5R_SP",
+    "Parameters_SP.HS6R_SP",
+    "Parameters_SP.HS7R_SP",
+    "Parameters_SP.HS8R_SP",
+    "Parameters_SP.HS9R_SP",
+    "Parameters_SP.HS10R_SP",
+    "Parameters_SP.HS1F_SP",
+    "Parameters_SP.HS2F_SP",
+    "Parameters_SP.HS3F_SP",
+    "Parameters_SP.HS4F_SP",
+    "Parameters_SP.HS5F_SP",
+    "Parameters_SP.HS6F_SP",
+    "Parameters_SP.HS7F_SP",
+    "Parameters_SP.HS8F_SP",
+    "Parameters_SP.HS9F_SP",
+    "Parameters_SP.HS10F_SP"
+  ],
+  "HallStationsForHallStationQuantityParameter": [
+    "Parameters_SP.HS1F_SP",
+    "Parameters_SP.HS2F_SP",
+    "Parameters_SP.HS3F_SP",
+    "Parameters_SP.HS4F_SP",
+    "Parameters_SP.HS5F_SP"
+  ],
+  "HallStationToUnitsMapping": {
+    "Parameters_SP.HS1R_SP": [
+      "Parameters.B1P1"
+    ],
+    "Parameters_SP.HS2R_SP": [
+      "Parameters.B1P1",
+      "Parameters.B1P2"
+    ],
+    "Parameters_SP.HS3R_SP": [
+      "Parameters.B1P2",
+      "Parameters.B1P3"
+    ],
+    "Parameters_SP.HS4R_SP": [
+      "Parameters.B1P3",
+      "Parameters.B1P4"
+    ],
+    "Parameters_SP.HS5R_SP": [
+      "Parameters.B1P4"
+    ],
+    "Parameters_SP.HS6R_SP": [
+      "Parameters.B2P1"
+    ],
+    "Parameters_SP.HS7R_SP": [
+      "Parameters.B2P1",
+      "Parameters.B2P2"
+    ],
+    "Parameters_SP.HS8R_SP": [
+      "Parameters.B2P2",
+      "Parameters.B2P3"
+    ],
+    "Parameters_SP.HS9R_SP": [
+      "Parameters.B2P3",
+      "Parameters.B2P4"
+    ],
+    "Parameters_SP.HS10R_SP": [
+      "Parameters.B2P4"
+    ],
+    "Parameters_SP.HS1F_SP": [
+      "Parameters.B1P1"
+    ],
+    "Parameters_SP.HS2F_SP": [
+      "Parameters.B1P1",
+      "Parameters.B1P2"
+    ],
+    "Parameters_SP.HS3F_SP": [
+      "Parameters.B1P2",
+      "Parameters.B1P3"
+    ],
+    "Parameters_SP.HS4F_SP": [
+      "Parameters.B1P3",
+      "Parameters.B1P4"
+    ],
+    "Parameters_SP.HS5F_SP": [
+      "Parameters.B1P4"
+    ],
+    "Parameters_SP.HS6F_SP": [
+      "Parameters.B2P1"
+    ],
+    "Parameters_SP.HS7F_SP": [
+      "Parameters.B2P1",
+      "Parameters.B2P2"
+    ],
+    "Parameters_SP.HS8F_SP": [
+      "Parameters.B2P2",
+      "Parameters.B2P3"
+    ],
+    "Parameters_SP.HS9F_SP": [
+      "Parameters.B2P3",
+      "Parameters.B2P4"
+    ],
+    "Parameters_SP.HS10F_SP": [
+      "Parameters.B2P4"
+    ]
+  },
+  "FireServiceHallstation": {
+    "Parameters_SP.HS1F_SP": "Parameters_SP.FDG1_SP",
+    "Parameters_SP.HS2F_SP": "Parameters_SP.FDG2_SP",
+    "Parameters_SP.HS3F_SP": "Parameters_SP.FDG3_SP",
+    "Parameters_SP.HS4F_SP": "Parameters_SP.FDG4_SP",
+    "Parameters_SP.HS5F_SP": "Parameters_SP.FDG5_SP"
+  },
+  "ConsolesWithSwitchVariables": [
+    "Fire_Phone_Jack",
+    "Hall_Call_Registration",
+    "Hall_Call_Lockout"
+  ],
+  "SwitchVariablesToBeRemoved": [
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.PHJKF",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLREGF",
+    "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLLOF"
+  ]
+}

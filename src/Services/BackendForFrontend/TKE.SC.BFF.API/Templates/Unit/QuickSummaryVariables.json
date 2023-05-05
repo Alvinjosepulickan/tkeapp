@@ -1,0 +1,70 @@
+{
+  "variables": [
+    {
+      "id": "ELEVATOR.Parameters.CAPACITY",
+      "name": "Capacity",
+      "value": "3600",
+      "unittype": ""
+    },
+    {
+      "id": "ELEVATOR.Parameters.CARSPEED",
+      "name": "Speed",
+      "value": "350",
+      "unittype": "ft/min"
+    },
+    //{
+    //  "id": "",
+    //  "name": "Status",
+    //  "value": "",
+    //  "unittype": ""
+    //},
+    //{
+    //  "id": "",
+    //  "name": "Maximum Railbracket Spacing",
+    //  "value": "",
+    //  "unittype": ""
+    //},
+    {
+      "id": "ELEVATOR.Parameters.HWYWID",
+      "name": "Width",
+      "value": "3600",
+      "unittype": "inch"
+    },
+    {
+      "id": "ELEVATOR.Parameters.HWYDEP",
+      "name": "Depth",
+      "value": "350",
+      "unittype": "inch"
+    },
+    {
+      "id": "ELEVATOR.Parameters.PITDEPTH",
+      "name": "Pit Depth",
+      "value": "",
+      "unittype": "inch"
+    },
+    {
+      "id": "ELEVATOR.Parameters.OVHEAD",
+      "name": "Overhead",
+      "value": "",
+      "unittype": "inch"
+    },
+    {
+      "id": "ELEVATOR.Parameters.MACHFAM",
+      "name": "Machine Type",
+      "value": "3600",
+      "unittype": ""
+    },
+    {
+      "id": "ELEVATOR.Parameters.MACHPN",
+      "name": "Motor Type/Size",
+      "value": "350",
+      "unittype": ""
+    },
+    {
+      "id": "ELEVATOR.Parameters.ECARWT",
+      "name": "Available Finish Weight",
+      "value": "",
+      "unittype": ""
+    },
+  ]
+}

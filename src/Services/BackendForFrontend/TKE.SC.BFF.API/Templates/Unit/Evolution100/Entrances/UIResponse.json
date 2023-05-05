@@ -1,0 +1,62 @@
+{
+  "sections": [
+    {
+
+      "id": "entrances",
+      "sections": [
+        {
+          "id": "entrances.parameters",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.ENTSTBUMP"
+            },
+            {
+              "id": "ELEVATOR.Parameters.ENTFASCIAFL"
+            },
+            {
+              "id": "ELEVATOR.Parameters.ENTFASCIAF"
+            },
+            {
+              "id": "ELEVATOR.Parameters.ENTFASCIAR"
+            },
+            {
+              "id": "ELEVATOR.Parameters.ENTDORGA"
+            }
+
+          ]
+
+        },
+        {
+          "id": "entrances.entranceConfiguration",
+          "variables": [
+            {
+              "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.COLFACEF"
+            },
+            {
+              "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTHKF"
+            },
+            {
+              "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTYPF"
+            },
+            {
+              "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTTYPEF"
+            },
+            {
+              "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTSILFINF"
+            },
+            {
+              "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTKEYHOLE"
+            },
+            {
+              "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTFRAFINMATF_SP"
+            },
+            {
+              "id": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTDORFINMATF_SP"
+            }
+          ]
+        }
+      ]
+      
+    }
+  ]
+}

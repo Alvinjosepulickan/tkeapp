@@ -1,0 +1,1443 @@
+﻿[
+  {
+    "sections": [
+      {
+        "id": "Parameters.Field_Drawing_Automation_Parameters",
+        "name": "Parameters.Field_Drawing_Automation_Parameters",
+        "sections": [],
+        "variables": [
+          {
+            "id": "Parameters.Layout.NOARROW",
+            "name": "Parameters.Layout.NOARROW",
+            "valueType": "String",
+            "allowMultipleAssignments": false,
+            "values": [
+              {
+                "type": "SingletonValue",
+                "name": "1",
+                "value": "1",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "1",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "1",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "1.5",
+                "value": "1.5",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "1.5",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "1.5",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "10",
+                "value": "10",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "10",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "10",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "10.5",
+                "value": "10.5",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "10.5",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "10.5",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "11",
+                "value": "11",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "11",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "11",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "12",
+                "value": "12",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "12",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "12",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "2",
+                "value": "2",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "2",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "2",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "3",
+                "value": "3",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "3",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "3",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "4",
+                "value": "4",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "4",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "4",
+                    "type": "String"
+                  }
+                ],
+                "assigned": "byUser",
+                "inCompatible": false,
+                "state": "Selected",
+                "justification": "Assignment"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "4.5",
+                "value": "4.5",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "4.5",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "4.5",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "5",
+                "value": "5",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "5",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "5",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "6",
+                "value": "6",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "6",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "6",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "7",
+                "value": "7",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "7",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "7",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "7.5",
+                "value": "7.5",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "7.5",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "7.5",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "8",
+                "value": "8",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "8",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "8",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "9",
+                "value": "9",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "9",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "9",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              }
+            ],
+            "properties": [
+              {
+                "id": "showas",
+                "value": "Dropdown",
+                "type": "String"
+              },
+              {
+                "id": "sequence",
+                "value": "6",
+                "type": "String"
+              },
+              {
+                "id": "subsection",
+                "value": "Parameters.Field_Drawing_Automation_Parameters",
+                "type": "String"
+              },
+              {
+                "id": "displayname",
+                "value": "North Arrow Orientation",
+                "type": "String"
+              }
+            ]
+          },
+          {
+            "id": "Parameters.Layout.SUMPTYP",
+            "name": "Parameters.Layout.SUMPTYP",
+            "valueType": "String",
+            "allowMultipleAssignments": false,
+            "values": [
+              {
+                "type": "SingletonValue",
+                "name": "CAN",
+                "value": "CAN",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "CAN",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "CAN",
+                    "type": "String"
+                  }
+                ],
+                "assigned": "byUser",
+                "inCompatible": false,
+                "state": "Selected",
+                "justification": "Assignment"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "US",
+                "value": "US",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "US",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "US",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              }
+            ],
+            "properties": [
+              {
+                "id": "showas",
+                "value": "Button",
+                "type": "String"
+              },
+              {
+                "id": "sequence",
+                "value": "7",
+                "type": "String"
+              },
+              {
+                "id": "subsection",
+                "value": "Parameters.Field_Drawing_Automation_Parameters",
+                "type": "String"
+              },
+              {
+                "id": "displayname",
+                "value": "Sump Pit Type",
+                "type": "String"
+              }
+            ]
+          }
+        ],
+        "properties": [
+          {
+            "id": "sequence",
+            "value": "1",
+            "type": "number"
+          },
+          {
+            "id": "sectionname",
+            "value": "",
+            "type": "String"
+          }
+        ],
+        "isDelete": false
+      },
+      {
+        "id": "Parameters.Field_Drawing_Automation_Layout_Generation_Settings",
+        "name": "Parameters.Field_Drawing_Automation_Layout_Generation_Settings",
+        "sections": [
+          {
+            "id": "Parameters.Field_Drawing_Automation_Layout_Generation_Settings.OutputTypes",
+            "name": "Parameters.Field_Drawing_Automation_Layout_Generation_Settings.OutputTypes",
+            "variables": [
+              {
+                "id": "OutputTypes_Pdf",
+                "name": "PDF",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "1",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "PDF",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "OutputTypes_LDBIM",
+                "name": "LDBIM",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "2",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "LDBIM",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "OutputTypes_DWF",
+                "name": "DWF",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "3",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "DWF",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "OutputTypes_DWG",
+                "name": "DWG",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "4",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "DWG",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "OutputTypes_SAT",
+                "name": "SAT",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "5",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "SAT",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "OutputTypes_STEP",
+                "name": "STEP",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "6",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "STEP",
+                    "type": "String"
+                  }
+                ]
+              }
+            ],
+            "properties": [
+              {
+                "id": "sequence",
+                "value": "1",
+                "type": "number"
+              },
+              {
+                "id": "displayname",
+                "value": "Output Types",
+                "type": "String"
+              }
+            ],
+            "readOnly": false,
+            "isDelete": false
+          },
+          {
+            "id": "Parameters.Field_Drawing_Automation_Layout_Generation_Settings.DrawingTypes",
+            "name": "Parameters.Field_Drawing_Automation_Layout_Generation_Settings.DrawingTypes",
+            "variables": [
+              {
+                "id": "DrawingTypes_FullSubmittedPackage",
+                "name": "FullSubmittedPackage",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "1",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "FullSubmittedPackage",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "DrawingTypes_SubmittalCoverSheets",
+                "name": "SubmittalCoverSheets",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "2",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "Submittal Cover Sheets",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "DrawingTypes_Layouts",
+                "name": "Layouts",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "3",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "Layouts",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "DrawingTypes_Entrances",
+                "name": "Entrances",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "4",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "Entrances",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "DrawingTypes_Cabs",
+                "name": "Cabs",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "5",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "Cabs",
+                    "type": "String"
+                  }
+                ]
+              },
+              {
+                "id": "DrawingTypes_Fixtures",
+                "name": "Fixtures",
+                "valueType": "String",
+                "allowMultipleAssignments": false,
+                "values": [
+                  {
+                    "type": "SingletonValue",
+                    "name": "False",
+                    "value": false,
+                    "properties": [],
+                    "assigned": "byUser",
+                    "inCompatible": false,
+                    "state": "Selected",
+                    "justification": "None"
+                  },
+                  {
+                    "type": "SingletonValue",
+                    "name": "True",
+                    "value": true,
+                    "properties": [],
+                    "inCompatible": false,
+                    "state": "Available",
+                    "justification": "None"
+                  }
+                ],
+                "properties": [
+                  {
+                    "id": "showas",
+                    "value": "checkbox",
+                    "type": "String"
+                  },
+                  {
+                    "id": "sequence",
+                    "value": "6",
+                    "type": "number"
+                  },
+                  {
+                    "id": "displayname",
+                    "value": "Fixtures",
+                    "type": "String"
+                  }
+                ]
+              }
+            ],
+            "properties": [
+              {
+                "id": "sequence",
+                "value": "1",
+                "type": "number"
+              },
+              {
+                "id": "displayname",
+                "value": "Drawing Types",
+                "type": "String"
+              }
+            ],
+            "readOnly": false,
+            "isDelete": false
+          }
+        ],
+        "variables": [],
+        "properties": [
+          {
+            "id": "sequence",
+            "value": "3",
+            "type": "number"
+          },
+          {
+            "id": "sectionname",
+            "value": "Layout Generation Settings",
+            "type": "String"
+          }
+        ],
+        "isDelete": false
+      }
+    ],
+    "unitLayoutDetails": [
+      {
+        "unitDesignation": "U1",
+        "displayCarPosition": "B1P1",
+        "unitCurrentlyConfigured": false,
+        "doorOpenings": {
+          "frontDoor": {
+            "isSelected": true,
+            "doorTypeHand": "Center"
+          },
+          "rearDoor": {
+            "isSelected": false,
+            "doorTypeHand": ""
+          },
+          "leftSideDoor": {
+            "isSelected": false
+          },
+          "rightSideDoor": {
+            "isSelected": false
+          }
+        },
+        "sumPitQty": {
+          "id": "ELEVATOR001.Parameters.Layout.SUMPQTY",
+          "value": 1
+        }
+      },
+      {
+        "unitDesignation": "U2",
+        "displayCarPosition": "B1P2",
+        "unitCurrentlyConfigured": false,
+        "doorOpenings": {
+          "frontDoor": {
+            "isSelected": true,
+            "doorTypeHand": "Center"
+          },
+          "rearDoor": {
+            "isSelected": false,
+            "doorTypeHand": ""
+          },
+          "leftSideDoor": {
+            "isSelected": false
+          },
+          "rightSideDoor": {
+            "isSelected": false
+          }
+        },
+        "sumPitQty": {
+          "id": "ELEVATOR002.Parameters.Layout.SUMPQTY",
+          "value": 1
+        }
+      }
+    ],
+    "beamWallLayout": [
+      {
+        "id": "Parameters.Field_Drawing_Automation_Divider_1",
+        "name": "Parameters.Field_Drawing_Automation_Divider_1",
+        "sections": [],
+        "variables": [
+          {
+            "id": "ELEVATOR001.Parameters.Layout.DBH",
+            "name": "ELEVATOR001.Parameters.Layout.DBH",
+            "valueType": "Number",
+            "allowMultipleAssignments": false,
+            "values": [
+              {
+                "type": "IntervalValue",
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None",
+                "lower": -7.922816e+22,
+                "upper": 10.999999
+              },
+              {
+                "type": "SingletonValue",
+                "name": "11",
+                "value": 11,
+                "properties": [],
+                "assigned": "byUser",
+                "inCompatible": false,
+                "state": "Selected",
+                "justification": "Assignment"
+              },
+              {
+                "type": "IntervalValue",
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None",
+                "lower": 11.000001,
+                "upper": 7.922816e+22
+              }
+            ],
+            "properties": [
+              {
+                "id": "showas",
+                "value": "dimensions",
+                "type": "String"
+              },
+              {
+                "id": "sequence",
+                "value": "3",
+                "type": "String"
+              },
+              {
+                "id": "subsection",
+                "value": "Parameters.Field_Drawing_Automation_Divider_1",
+                "type": "String"
+              },
+              {
+                "id": "displayname",
+                "value": "Height",
+                "type": "String"
+              },
+              {
+                "id": "minimumValue",
+                "value": 6
+              },
+              {
+                "id": "maximumValue",
+                "value": 12
+              },
+              {
+                "id": "isRangeInputType",
+                "value": true,
+                "type": "Boolean"
+              },
+              {
+                "id": "unittype",
+                "value": "inch",
+                "type": "String"
+              }
+            ]
+          },
+          {
+            "id": "ELEVATOR001.Parameters.Layout.DBW",
+            "name": "ELEVATOR001.Parameters.Layout.DBW",
+            "valueType": "Number",
+            "allowMultipleAssignments": false,
+            "values": [
+              {
+                "type": "IntervalValue",
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None",
+                "lower": -7.922816e+22,
+                "upper": 5.999999
+              },
+              {
+                "type": "SingletonValue",
+                "name": "6",
+                "value": 6,
+                "properties": [],
+                "assigned": "byUser",
+                "inCompatible": false,
+                "state": "Selected",
+                "justification": "Assignment"
+              },
+              {
+                "type": "IntervalValue",
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None",
+                "lower": 6.000001,
+                "upper": 7.922816e+22
+              }
+            ],
+            "properties": [
+              {
+                "id": "showas",
+                "value": "dimensions",
+                "type": "String"
+              },
+              {
+                "id": "sequence",
+                "value": "2",
+                "type": "String"
+              },
+              {
+                "id": "subsection",
+                "value": "Parameters.Field_Drawing_Automation_Divider_1",
+                "type": "String"
+              },
+              {
+                "id": "displayname",
+                "value": "Width",
+                "type": "String"
+              },
+              {
+                "id": "minimumValue",
+                "value": 4
+              },
+              {
+                "id": "maximumValue",
+                "value": 12
+              },
+              {
+                "id": "isRangeInputType",
+                "value": true,
+                "type": "Boolean"
+              },
+              {
+                "id": "unittype",
+                "value": "inch",
+                "type": "String"
+              }
+            ]
+          },
+          {
+            "id": "ELEVATOR001.Parameters.Layout.DBTYP",
+            "name": "ELEVATOR001.Parameters.Layout.DBTYP",
+            "valueType": "String",
+            "allowMultipleAssignments": false,
+            "values": [
+              {
+                "type": "SingletonValue",
+                "name": "IBEAM",
+                "value": "IBEAM",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "IBEAM",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "IBEAM",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "WALL",
+                "value": "WALL",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "WALL",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "WALL",
+                    "type": "String"
+                  }
+                ],
+                "assigned": "byUser",
+                "inCompatible": false,
+                "state": "Selected",
+                "justification": "Assignment"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "HTUBE",
+                "value": "HTUBE",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "HTUBE",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "HTUBE",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              }
+            ],
+            "properties": [
+              {
+                "id": "showas",
+                "value": "Button",
+                "type": "String"
+              },
+              {
+                "id": "sequence",
+                "value": "1",
+                "type": "String"
+              },
+              {
+                "id": "subsection",
+                "value": "Parameters.Field_Drawing_Automation_Divider_1",
+                "type": "String"
+              },
+              {
+                "id": "displayname",
+                "value": "",
+                "type": "String"
+              }
+            ]
+          },
+          {
+            "id": "ELEVATOR001.Parameters.Layout.INSERTS",
+            "name": "ELEVATOR001.Parameters.Layout.INSERTS",
+            "valueType": "String",
+            "allowMultipleAssignments": false,
+            "values": [
+              {
+                "type": "SingletonValue",
+                "name": "NONE",
+                "value": "NONE",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "NONE",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "NONE",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "WALL",
+                "value": "WALL",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "WALL",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "WALL",
+                    "type": "String"
+                  }
+                ],
+                "assigned": "byUser",
+                "inCompatible": false,
+                "state": "Selected",
+                "justification": "Assignment"
+              },
+              {
+                "type": "SingletonValue",
+                "name": "WLANDBM",
+                "value": "WLANDBM",
+                "properties": [
+                  {
+                    "id": "fullyqualifiedname",
+                    "value": "WLANDBM",
+                    "type": "String"
+                  },
+                  {
+                    "id": "name",
+                    "value": "WLANDBM",
+                    "type": "String"
+                  }
+                ],
+                "inCompatible": false,
+                "state": "Available",
+                "justification": "None"
+              }
+            ],
+            "properties": [
+              {
+                "id": "showas",
+                "value": "Button",
+                "type": "String"
+              },
+              {
+                "id": "sequence",
+                "value": "4",
+                "type": "String"
+              },
+              {
+                "id": "subsection",
+                "value": "Parameters.Field_Drawing_Automation_Divider_1",
+                "type": "String"
+              },
+              {
+                "id": "displayname",
+                "value": "Concrete Inserts",
+                "type": "String"
+              }
+            ]
+          }
+        ],
+        "properties": [
+          {
+            "id": "sequence",
+            "value": "1",
+            "type": "number"
+          },
+          {
+            "id": "sectionname",
+            "value": "",
+            "type": "String"
+          }
+        ],
+        "isDelete": false
+      }
+    ],
+    "allBeamsSelected": false,
+    "isComplete": false,
+    "readOnly": false
+  }
+]

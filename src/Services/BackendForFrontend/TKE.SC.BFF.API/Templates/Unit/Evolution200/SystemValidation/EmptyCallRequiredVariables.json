@@ -1,0 +1,144 @@
+{
+    "variableAssignments": [
+        {
+            "variableId": "Parameters.BPV",
+            "value": "460"
+        },
+        {
+            "variableId": "Parameters.CABDOWF",
+            "value": 42
+        },
+        {
+            "variableId": "Parameters.CABHGTOVL",
+            "value": 107.5
+        },
+        {
+            "variableId": "Parameters.CAPACITY",
+            "value": "2500"
+        },
+        {
+            "variableId": "Parameters.CARGUIDES",
+            "value": "8INROLL"
+        },
+        {
+            "variableId": "Parameters.CARSPEED",
+            "value": 500
+        },
+        {
+            "variableId": "Parameters.DOORTYPF",
+            "value": "1SRH"
+        },
+        {
+            "variableId": "Parameters.ISSEISMIC",
+            "value": "FALSE"
+        },
+        {
+            "variableId": "Parameters.NUMSUSP",
+            "value": 4
+        },
+        {
+            "variableId": "Parameters.PLATDEP",
+            "value": 59.875
+        },
+        {
+            "variableId": "Parameters.PLATWID",
+            "value": 81
+        },
+        {
+            "variableId": "Parameters.REAROPEN",
+            "value": "FALSE"
+        },
+        {
+            "variableId": "Parameters.TRAVEL",
+            "value": 2280
+        },
+        {
+            "variableId": "Parameters.TYPSVC",
+            "value": "PASS"
+        },
+        {
+            "variableId": "Parameters.CABCGX",
+            "value": -2.640127
+        },
+        {
+            "variableId": "Parameters.CABCGY",
+            "value": 24.204557
+        },
+        {
+            "variableId": "Parameters.CABHGTOVL",
+            "value": 107.5
+        },
+        {
+            "variableId": "Parameters.CABWT",
+            "value": 1391
+        },
+        {
+            "variableId": "Parameters.CAPACITY",
+            "value": "2500"
+        },
+        {
+            "variableId": "Parameters.CARGUIDES",
+            "value": "8INROLL"
+        },
+        {
+            "variableId": "Parameters.CARRLLOCF",
+            "value": 29
+        },
+        {
+            "variableId": "Parameters.CARSPEED",
+            "value": 500
+        },
+        {
+            "variableId": "Parameters.CWTDBG",
+            "value": 35.75
+        },
+        {
+            "variableId": "Parameters.CWTLOC",
+            "value": "Q1Q4"
+        },
+        {
+            "variableId": "Parameters.DOORTYPF",
+            "value": "1SRH"
+        },
+        {
+            "variableId": "Parameters.DOORTYPR",
+            "value": "NR"
+        },
+        {
+            "variableId": "Parameters.ISSEISMIC",
+            "value": "FALSE"
+        },
+        {
+            "variableId": "Parameters.OVHEAD",
+            "value": 179
+        },
+        {
+            "variableId": "Parameters.PITDEPTH",
+            "value": 78
+        },
+        {
+            "variableId": "Parameters.PLATWID",
+            "value": 81
+        },
+        {
+            "variableId": "Parameters.REAROPEN",
+            "value": "FALSE"
+        },
+        {
+            "variableId": "Parameters.REEVING",
+            "value": "2"
+        },
+        {
+            "variableId": "Parameters.SFTYTYP",
+            "value": "DONG"
+        },
+        {
+            "variableId": "Parameters.SUSPWT",
+            "value": 0.22175
+        },
+        {
+            "variableId": "Parameters.TYPSVC",
+            "value": "PASS"
+        }
+    ]
+}

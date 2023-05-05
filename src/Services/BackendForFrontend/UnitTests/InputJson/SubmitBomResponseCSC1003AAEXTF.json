@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "materialName": "CSC1003AAEXTF",
+      "configurationId": -1378449338,
+      "taskDetails": {
+        "id": "a53aae8e-73c9-4497-968f-3fee4647a279",
+        "created": "2022-01-04T12:01:17.8166667Z",
+        "started": "2022-01-04T12:01:17.9733333Z",
+        "finished": null,
+        "jobName": null,
+        "metadata": {},
+        "percentageCompleted": 0,
+        "status": 80,
+        "message": null
+      }
+    },
+    {
+      "materialName": "CSC1003AAEXTF",
+      "configurationId": 756315780,
+      "taskDetails": {
+        "id": "a2adf503-e77b-4333-9663-d101d483985d",
+        "created": "2022-01-04T12:01:18.0533333Z",
+        "started": "2022-01-04T12:01:18.0833333Z",
+        "finished": null,
+        "jobName": null,
+        "metadata": {},
+        "percentageCompleted": 0,
+        "status": 80,
+        "message": null
+      }
+    }
+  ]
+}

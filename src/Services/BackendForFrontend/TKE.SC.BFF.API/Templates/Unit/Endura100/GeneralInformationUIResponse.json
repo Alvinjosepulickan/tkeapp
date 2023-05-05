@@ -1,0 +1,66 @@
+﻿{
+    "sections": [
+        {
+            "id": "generalInformation",
+            "sections": [
+                {
+                    "id": "generalInformation.duty",
+                    "variables": [
+                        {
+                            "id": "ELEVATOR.Parameters.CAPACITY"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters.CARSPDHUT"
+                        }
+                    ],
+                    "sections": []
+                },
+                {
+                    "id": "generalInformation.doors",
+                    "variables": [
+                        {
+                            "id": "ELEVATOR.Parameters.ENTDOHF"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters.ENTDOWF"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters.ENTDOHR"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters.ENTDOWR"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters.DOORTYPF"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters.DOORTYPR"
+                        }
+                    ],
+                    "sections": []
+                },
+                {
+                    "id": "generalInformation.hoistway",
+                    "variables": [
+                        {
+                            "id": "ELEVATOR.Parameters.PITDEPTH"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters.OVHEAD"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters.HWYWID"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters.HWYDEP"
+                        },
+                        {
+                            "id": "ELEVATOR.Parameters_SP.hoistwayDimensionSelection_SP"
+                        }
+                    ],
+                    "sections": []
+                }
+            ]
+        }
+    ]
+}

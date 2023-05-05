@@ -1,0 +1,9 @@
+﻿{
+
+  "variableAssignments": [
+    {
+      "variableId": "Building_Configuration.Parameters_SP.interGroupEmergencyPower_SP",
+      "value": "TRUE"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+
+  "variableAssignments": [
+    {
+      "variableId": "Parameters.Layout.DBTYP",
+      "value": "IBEAM"
+    },
+
+    {
+      "variableId": "Parameters.Layout.DBH",
+      "value": 2
+    },
+    {
+      "variableId": "OutputTypes_Pdf",
+      "value": false
+    },
+    {
+      "variableId": "DrawingTypes_FullSubmittedPackage",
+      "value": true
+    }
+  ]
+
+}

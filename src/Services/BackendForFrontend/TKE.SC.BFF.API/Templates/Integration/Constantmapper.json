@@ -1,0 +1,141 @@
+{
+	"OZ": {
+		"PARAMETERBASICREAROPEN": "Parameters.REAROPEN",
+		"PRODUCTMODELSP": "ProductModel_SP",
+		"TKEFACTORYMODEL": "Product_Selection.TKE_FACTORY_MODEL_SP"
+	},
+	"productree": {
+		"ControllerType": "Microprocessor",
+		"NumberOfUnits": 1,
+		"ControllerManufacturer": "TK Elevator",
+		"ManufacturingAdjustments": 0
+	},
+	"commonName": {
+		"EVO_200": "Evolution 200",
+		"EVO_100": "Evolution 100",
+		//"EVO_100": "Legacy Evolution 100",
+		"ENDURA_100": "endura 100",
+		"ENDURA_200": "endura 200",
+		"CE_Gearless": "Engineered Gearless",
+		"CE_Geared": "Engineered Geared",
+		"CE_Hydraulic": "Engineered Hydraulic",
+		"Synergy": "synergy performance",
+		"Velino": "velino",
+		"Tugela": "tugela",
+		"Victoria": "victoria",
+		"Orinoco": "orinoco",
+		"iWalk": "iwalk",
+		"3rd Party Escalator": "3rd Party - Escalator",
+		"3rd Party Moving Walk": "3rd Party - Moving Walk",
+		"TWIN": "TWIN",
+		"3rd_Party_Residential_Elevator": "Other",
+		"3rd_Party_Dumbwaiter": "Other",
+		"3rd_Party_Platform_Lift": "Other",
+		"3rd_Party_Material_Lift": "Other",
+		"3rd_Party_Wheelchair_Lift": "Other",
+		"3rd_Party_Other": "Other"
+	},
+	"productTreeSubModel": {
+		"CE_Geared": "Custom Geared - MR",
+		"CE_Gearless": "Custom Gearless -",
+		"3rd_Party_Residential_Elevator": "Residential Elevator",
+		"3rd_Party_Dumbwaiter": "Dumbwaiter",
+		"3rd_Party_Platform_Lift": "Platform Lift",
+		"3rd_Party_Material_Lift": "Material Lift",
+		"3rd_Party_Wheelchair_Lift": "Wheelchair Lift",
+		"3rd_Party_Other": "Other",
+		"Roped_Hydro": "Custom Holed - MR",
+		"Conventional": "Custom Holed - MR",
+		"SinglePost_Telescopic_2-StageHoleless": "Custom Holeless - MR",
+		"TwinPost": "Custom Holeless - MR",
+		"TwinPost_Tele_2StageHoleless": "Custom Holeless - MR",
+		"TwinPost_Tele_3StageHoleless": "Custom Holeless - MR"
+	},
+	"enrichments": {
+		".controllerLocation_SP": [
+			{
+				"value": "Jamb-Mounted",
+				"viewValue": "Jamb"
+			}
+		],
+		".DOORTYPF": [
+			{
+				"value": "1SLH",
+				"viewValue": "Jamb"
+			},
+			{
+				"value": "1SRH",
+				"viewValue": "Jamb"
+			},
+			{
+				"value": "2SLH",
+				"viewValue": "Jamb"
+			},
+			{
+				"value": "2SRH",
+				"viewValue": "Jamb"
+			},
+			{
+				"value": "CO",
+				"viewValue": "Jamb"
+			}
+		],
+		".DOORTYPR": [
+			{
+				"value": "1SLH",
+				"viewValue": "Jamb"
+			},
+			{
+				"value": "1SRH",
+				"viewValue": "Jamb"
+			},
+			{
+				"value": "2SLH",
+				"viewValue": "Jamb"
+			},
+			{
+				"value": "2SRH",
+				"viewValue": "Jamb"
+			},
+			{
+				"value": "CO",
+				"viewValue": "Jamb"
+			}
+		],
+		".REEVING": [
+			{
+				"value": "1",
+				"viewValue": "1 to 1"
+			},
+			{
+				"value": "2",
+				"viewValue": "2 to 1"
+			}
+		]
+	},
+	"productTreemapper": {
+		"CAPACITY": "Product_Selection.Parameters.CAPACITY",
+		"CARSPEED": "Product_Selection.Parameters.CARSPEED",
+		"TYPSVC": "Product_Selection.Parameters.TYPSVC",
+		"Jack_Type": "JackType_SP",
+		"SUBMODELTYPE": "SubModelType_SP",
+		"PRODUCTTECHNOLOGY": "Product_Technology_B_SP",
+		"INCLINED": "Parameters.Inclined"
+	},
+	"USERLOGINERRORTYPE": {
+		"VIEWTOCANADAUSERERRORMESSAGE": "Cannot Login To Canada User from View User Login Please Login as Canadian User",
+		"CANADATOVIEWUSERERRORMESSAGE": "Cannot Login To View User from Canadian User Login Please Login as View User"
+	},
+	"Variables": {
+		"PRODUCTTECHNOLOGYA": "Product_Technology_A_SP"
+	},
+	"HYDRAULIC": {
+		"Batch1LeadTime": 5
+	},
+	"TRACTION": {
+		"Batch1LeadTime": 13,
+		"Batch2LeadTime": 13,
+		"Batch3LeadTime": 13,
+		"Batch4LeadTime": 17
+	}
+}

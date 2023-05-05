@@ -1,0 +1,126 @@
+﻿{
+  "sections": [
+    {
+      "id": "cabInterior",
+      "sections": [
+        {
+          "id": "cabInterior.carTop/Canopy",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.CABTOPGA"
+            },
+            {
+              "id": "ELEVATOR.Parameters.CABTOPFIN"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "cabInterior.shell",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.CABHGTOVL"
+            },
+            {
+              "id": "ELEVATOR.Parameters.CABWALLGA"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.CABWLFINMAT_SP"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "cabInterior.cabFront",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.CABFRTFINMAT_SP"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "cabInterior.door",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.SAFEEDGTYP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.CABDORFINMAT_SP"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "cabInterior.sills",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.CABSILFIN"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "cabInterior.wallPanels",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.panelType_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.CABAPFINMAT_SP"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "cabInterior.handRail",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.handrailType_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters.HNDRLFIN"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.handRailLocation_SP"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "cabInterior.ceiling",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.CeilingType_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.CABPANFINMAT_SP"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "cabInterior.flooringByOthers",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.FINFLRWT"
+            },
+            {
+              "id": "ELEVATOR.Parameters.FINFLR"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "cabInterior.others",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.PROPADS"
+            }
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ]
+}

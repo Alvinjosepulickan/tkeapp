@@ -1,0 +1,108 @@
+{
+  "ViewVariables": {
+    "Code": "code",
+    "OpportunityId": "data.Quotation.OpportunityInfo.OpportunityId",
+    "OpportunityURL": "data.Quotation.OpportunityInfo.OpportunityURL",
+    "BusinessLine": "data.Quotation.OpportunityInfo.BusinessLine",
+    "JobName": "data.Quotation.OpportunityInfo.JobName",
+    "Branch": "data.Quotation.OpportunityInfo.Branch",
+    "SalesmanActiveDirectoryID": "data.Quotation.OpportunityInfo.SalesmanActiveDirectoryID",
+    "Salesman": "data.Quotation.OpportunityInfo.Salesman",
+    "Category": "data.Quotation.OpportunityInfo.Category",
+    "DateFormat": "data.Quotation.OpportunityInfo.AwardClosedDate.DateFormat",
+    "DateValue": "data.Quotation.OpportunityInfo.AwardClosedDate.DateValue",
+    "SalesStage": "data.Quotation.OpportunityInfo.SalesStage",
+    "OraclePSNumber": "data.Quotation.OpportunityInfo.OraclePSNumber",
+    "VersionId": "data.VersionId",
+    "SalesEmail": "data.Quotation.OpportunityInfo.SalesEmail",
+    "retMsg": "retMsg",
+    "ProposedDateFormat": "data.Quotation.OpportunityInfo.ProposedDate.DateFormat",
+    "ProposedDate": "data.Quotation.OpportunityInfo.ProposedDate.DateValue",
+    "ContractBookedDateFormat": "data.Quotation.OpportunityInfo.ContractBookedDate.DateFormat",
+    "ContractBookedDate": "data.Quotation.OpportunityInfo.ContractBookedDate.DateValue",
+    "SUPERINTENDENT": "data.Quotation.OpportunityInfo.SUPERINTENDENT"
+  },
+  "GCVariables": {
+    "AccountName": "data.Quotation.GC.AccountName",
+    "AddressLine1": "data.Quotation.GC.AddressLine1",
+    "AddressLine2": "data.Quotation.GC.AddressLine2",
+    "City": "data.Quotation.GC.City",
+    "County": "data.Quotation.GC.County",
+    "State": "data.Quotation.GC.State",
+    "Country": "data.Quotation.GC.Country",
+    "ZipCode": "data.Quotation.GC.ZipCode",
+    "CustomerNumber": "data.Quotation.GC.CustomerNumber"
+  },
+  "OwnerVariables": {
+    "AccountName": "data.Quotation.Owner.AccountName",
+    "AddressLine1": "data.Quotation.Owner.AddressLine1",
+    "AddressLine2": "data.Quotation.Owner.AddressLine2",
+    "City": "data.Quotation.Owner.City",
+    "County": "data.Quotation.Owner.County",
+    "State": "data.Quotation.Owner.State",
+    "Country": "data.Quotation.Owner.Country",
+    "ZipCode": "data.Quotation.Owner.ZipCode",
+    "CustomerNumber": "data.Quotation.Owner.CustomerNumber"
+  },
+  "ArchitectVariables": {
+    "AccountName": "data.Quotation.Architect.AccountName",
+    "AddressLine1": "data.Quotation.Architect.AddressLine1",
+    "City": "data.Quotation.Architect.City",
+    "County": "data.Quotation.Architect.County",
+    "State": "data.Quotation.Architect.State",
+    "Country": "data.Quotation.Architect.Country",
+    "ZipCode": "data.Quotation.Architect.ZipCode",
+    "CustomerNumber": "data.Quotation.Architect.CustomerNumber",
+    "AddressLine2": "data.Quotation.Architect.AddressLine2"
+  },
+  "BillingVariables": {
+    "AccountName": "data.Quotation.Billing.AccountName",
+    "AddressLine1": "data.Quotation.Billing.AddressLine1",
+    "City": "data.Quotation.Billing.City",
+    "County": "data.Quotation.Billing.County",
+    "State": "data.Quotation.Billing.State",
+    "Country": "data.Quotation.Billing.Country",
+    "ZipCode": "data.Quotation.Billing.ZipCode",
+    "CustomerNumber": "data.Quotation.Billing.CustomerNumber",
+    "AddressLine2": "data.Quotation.Billing.AddressLine2"
+  },
+  "BuildingInfoVariables": {
+    "AccountName": "data.Units[0].BuildingInfo.AccountName",
+    "City": "data.Units[0].BuildingInfo.City",
+    "County": "data.Units[0].BuildingInfo.County",
+    "State": "data.Units[0].BuildingInfo.State",
+    "Country": "data.Units[0].BuildingInfo.Country",
+    "ZipCode_bldg": "data.Units[0].BuildingInfo.ZipCode_bldg",
+    "CustomerNumber": "data.Units[0].BuildingInfo.CustomerNumber",
+    "AddressLine1_bldg": "data.Units[0].BuildingInfo.AddressLine1_bldg",
+    "AddressLine2_bldg": "data.Units[0].BuildingInfo.AddressLine2_bldg"
+  },
+  "BuildingVariables": {
+    "AccountName": "data.Quotation.Building.AccountName",
+    "AddressLine1": "data.Quotation.Building.AddressLine1",
+    "AddressLine2": "data.Quotation.Building.AddressLine2",
+    "City": "data.Quotation.Building.City",
+    "County": "data.Quotation.Building.County",
+    "State": "data.Quotation.Building.State",
+    "Country": "data.Quotation.Building.Country",
+    "ZipCode": "data.Quotation.Building.ZipCode",
+    "CustomerNumber": "data.Quotation.Building.CustomerNumber"
+  },
+  "ContactVariables": {
+    "FirstName": "data.Quotation.Contact.FirstName",
+    "LastName": "data.Quotation.Contact.LastName",
+    "Email": "data.Quotation.Contact.Email",
+    "MobilePhone": "data.Quotation.Contact.MobilePhone"
+  },
+  "QuoteVariables": {
+    "QuoteDescription": "data.Quotation.Quote.QuoteDescription",
+    "QuoteBaseBid": "data.Quotation.Quote.BaseBid",
+    "LatestViewVersion": "data.Quotation.Quote.LatestViewVersion",
+    "UI_VersionID": "data.Quotation.Quote.UI_VersionID"
+  }
+}
+
+      
+
+     
+        

@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "id": "Building_Configuration",
+      "name": "Building_Configuration",
+      "variables": [
+        {
+          "id": "Building_Configuration.Parameters.BLANDINGS"
+        },
+        {
+          "id": "Building_Configuration.Parameters.ASTYPE"
+        },
+        {
+          "id": "Building_Configuration.Parameters.ASYEAR"
+        },
+        {
+          "id": "Building_Configuration.Parameters.BLDGNAME"
+        },
+        {
+          "id": "Building_Configuration.Parameters.IBCSDS"
+        },
+        {
+          "id": "Building_Configuration.Parameters.ELEVBASE"
+        },
+        {
+          "id": "Building_Configuration.Parameters.AVGRFHT"
+        },
+        {
+          "id": "Building_Configuration.Parameters.IBCSDC"
+        },
+        {
+          "id": "Building_Configuration.Parameters.IBCIP"
+        },
+        {
+          "id": "Building_Configuration.Parameters.NBCCPDB"
+        },
+        {
+          "id": "Building_Configuration.Parameters.NBCCIE"
+        },
+        {
+          "id": "Building_Configuration.Parameters.NBCCFA"
+        },
+        {
+          "id": "Building_Configuration.Parameters.NBCCSA02"
+        },
+        {
+          "id": "Building_Configuration.Parameters.BLDGCODE"
+        },
+        {
+          "id": "Building_Configuration.Parameters.BPV"
+        },
+        {
+          "id": "Building_Configuration.Parameters.BPP"
+        },
+        {
+          "id": "Building_Configuration.Parameters.BPF"
+        },
+        {
+          "id": "Building_Configuration.Parameters_SP.totalBuildingFloorToFloorHeight_SP"
+        }
+      ]
+    }
+  ]
+}

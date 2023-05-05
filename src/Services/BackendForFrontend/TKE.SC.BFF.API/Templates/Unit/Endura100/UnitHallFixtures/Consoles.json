@@ -1,0 +1,202 @@
+{
+  "sections": [
+    {
+      "id": "Hoistway_Access",
+      "name": "Hoistway_Access",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HALOCTOPF"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Braille",
+      "name": "Braille",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLBRLTYPE"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLBRLFIN"
+        }
+
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Elevator_and_Floor_Designation_Braille",
+      "name": "Elevator_and_Floor_Designation_Braille",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Hall_Target_Indicator",
+      "name": "Hall_Target_Indicator",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDHallTargetIndicator_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Hall_Lantern",
+      "name": "Hall_Lantern",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLTYPEF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLORT"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLCLRU"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Hall_PI",
+      "name": "Hall_PI",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PITYPEF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PICOLOR"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "7",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Combo_Hall_Lantern/PI",
+      "name": "Combo_Hall_Lantern/PI",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.COMBOF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PICOLOR"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "8",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Star_of_Life",
+      "name": "Star_of_Life",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLSOL"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "9",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    }
+  ]
+}

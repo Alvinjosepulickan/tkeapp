@@ -1,0 +1,34 @@
+{
+  "Elevator001": [
+    "HS1F_SP",
+    "HS2F_SP"
+  ],
+  "Elevator002": [
+    "HS2F_SP",
+    "HS3F_SP"
+  ],
+  "Elevator003": [
+    "HS3F_SP",
+    "HS4F_SP"
+  ],
+  "Elevator004": [
+    "HS4F_SP",
+    "HS5F_SP"
+  ],
+  "Elevator005": [
+    "HS6F_SP",
+    "HS7F_SP"
+  ],
+  "Elevator006": [
+    "HS7F_SP",
+    "HS8F_SP"
+  ],
+  "Elevator007": [
+    "HS8F_SP",
+    "HS9F_SP"
+  ],
+  "Elevator008": [
+    "HS9F_SP",
+    "HS10F_SP"
+  ]
+}

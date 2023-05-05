@@ -1,0 +1,91 @@
+
+{
+"PackagePath":"BldValidation",
+    "currency": "USD",
+    "currentLineId": "ROOT",
+    "date": "2019-10-04T10:00:11.088Z",
+    "description": "",
+    "globalArguments": {
+        "plant": "US01",
+        "salesArea": {
+            "salesOrganization": "US01",
+            "distributionChannel": "01",
+            "salesDivision": "02"
+        },
+        "shipTo": {
+            "countryCode": "US"
+        },
+        "soldTo": {
+            "countryCode": "US"
+        },
+        "MaterialVariant": {
+            "Material": {
+                "ConfigurableMaterialName": "BldValidation",
+                "ExternalId": "BldValidation"
+            }
+        },
+        "Variants": []
+    },
+    "language": "English",
+    "line": {
+       "priceLineAssignments": [],
+        "product": {
+            "id": "BldValidation",
+            "isConfigurable": true
+        },
+        "productId": "BldValidation",
+        "quantity": {
+            "value": 1,
+            "unit": "EA"
+        },
+        "sublines": [],
+        "variableAssignments": [
+         {
+          "variableId": "BldValidation.BLDGNAME",
+          "value": "D2"
+        },
+        {
+          "variableId": "BldValidation.FLOOR",
+          "value": 2
+        },
+        {
+          "variableId": "BldValidation.BLDGRISE",
+          "value":  "30.0"
+        },
+        {
+          "variableId": "BldValidation.BLDGCODE",
+          "value": "IBC-2"
+        },
+        {
+          "variableId": "BldValidation.ASYEAR",
+          "value": "1996"
+        },
+        {
+          "variableId": "BldValidation.BPV",
+          "value": "208"
+        },
+        {
+          "variableId": "BldValidation.Frequency",
+          "value": 0
+        },
+        {
+          "variableId": "BldValidation.ELCode",
+          "value": "Evo1"
+        },
+        {
+          "variableId": "BldValidation.FireService",
+          "value": 0
+        },
+        {
+          "variableId": "BldValidation.FreServiceCodes",
+          "value": "FireServiceCode1"
+        }
+         ]
+    },
+    "priceProcedureId": "ZRVA01",
+    "settings": {
+        "debug": false, 
+        "includePriceLines": false,
+  "onlyPriceTotals": false 
+    }
+}

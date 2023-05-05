@@ -1,0 +1,308 @@
+{
+  "sections": [
+    {
+      "id": "Traditional_Hall_Stations",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLPBIM"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLPBTP"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "AGILE_Hall_Stations",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskSize_SP"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskMounting_SP"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskSpareQty_SP"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskColor_SP"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.kioskCamera_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Appendix_H/O_Signage",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.EMERSIGNF_Loc_SP"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.EMERSIGNF"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Fire_Service",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIRE"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIRESIGN"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIREBOX"
+        }
+
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Emergency_Power",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HOISTKEY_Loc_SP"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.EMPI"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HOISTKEY"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Code_Blue_Key_Switch",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.CODEBLUEF"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "VIP_Service_Switch",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.vIPSwitch_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "7",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Medical_Emergency_Key_Switch",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.medicalEmergencyHall_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "8",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Elevator_Communication_Failure_Jewel",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.COMFAIL"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "9",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Fire_Phone_Jack",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.PHJKF"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.PHJKF_Loc_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "12",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Card_Reader_Provision",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.CARD"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "13",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Hall_Call_Registration",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLREGF"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HALLREGF_Loc_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "14",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Hall_Call_Lockout",
+      "variables": [
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLLOF"
+        },
+        {
+          "id": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HALLLOF_Loc_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "15",
+          "type": "number"
+        },
+        {
+          "id": "sectionName",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    }
+
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "sections": [
+    {
+      "id": "addFixtures",
+      "variables": [
+        {
+          "id": "fixtures",
+          "values": [
+            {
+              "id": "Hoistway_Access",
+              "type": "SingletonValue",
+              "name": "Hoistway Access",
+              "value": "Hoistway Access",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Braille",
+              "type": "SingletonValue",
+              "name": "Braille",
+              "value": "Braille",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Elevator_and_Floor_Designation_Braille",
+              "type": "SingletonValue",
+              "name": "Elevator & Floor Designation Braille",
+              "value": "Elevator & Floor Designation Braille",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Hall_Lantern",
+              "type": "SingletonValue",
+              "name": "Hall Lantern",
+              "value": "Hall Lantern",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Hall_PI",
+              "type": "SingletonValue",
+              "name": "Hall Position Indicator",
+              "value": "Hall Position Indicator",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Combo_Hall_Lantern/PI",
+              "type": "SingletonValue",
+              "name": "Combo Hall Lantern/ PI",
+              "value": "Combo Hall Lantern/ PI",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Hall_Target_Indicator",
+              "type": "SingletonValue",
+              "name": "Hall Target Indicator",
+              "value": "Hall Target Indicator",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Star_of_Life",
+              "type": "SingletonValue",
+              "name": "Star of Life",
+              "value": "Star of Life",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "valueType": "String",
+          "allowMultipleAssignments": false
+        }
+      ]
+    },
+    {
+      "id": "consoles",
+      "sections": []
+    }
+  ]
+}
+

@@ -1,0 +1,198 @@
+{
+
+  "displayVariableAssignments": null,
+  "groupConfigurationId": 2805,
+  "userName": "naseer.ahmed@tke.dev",
+  "buildingRise": 960.0,
+  "noOfFloors": 0,
+  "units": [
+    {
+      "unitId": 29852,
+      "unitName": "U1",
+      "travel": {
+        "feet": 80,
+        "inch": 0.0
+      },
+      "ocuppiedSpace": false,
+      "noOfFloors": 2,
+      "frontOpening": 2,
+      "rearOpening": 0,
+      "sideOpening": 0,
+      "openingDoors": {
+        "front": true,
+        "rear": false,
+        "side": false
+      },
+      "openingsAssigned": [
+        {
+          "floorNumber": 1,
+          "floorDesignation": "1",
+          "elevation": {
+            "feet": 0,
+            "inch": 0.0
+          },
+          "front": true,
+          "rear": false,
+          "side": false,
+          "mainEgress": true,
+          "alternateEgress": false
+        },
+        {
+          "floorNumber": 2,
+          "floorDesignation": "2",
+          "elevation": {
+            "feet": 80,
+            "inch": 0.0
+          },
+          "front": true,
+          "rear": false,
+          "side": false,
+          "mainEgress": false,
+          "alternateEgress": true
+        }
+      ]
+    },
+    {
+      "unitId": 29853,
+      "unitName": "U2",
+      "travel": {
+        "feet": 80,
+        "inch": 0.0
+      },
+      "ocuppiedSpace": false,
+      "noOfFloors": 2,
+      "frontOpening": 2,
+      "rearOpening": 0,
+      "sideOpening": 0,
+      "openingDoors": {
+        "front": true,
+        "rear": false,
+        "side": false
+      },
+      "openingsAssigned": [
+        {
+          "floorNumber": 1,
+          "floorDesignation": "1",
+          "elevation": {
+            "feet": 0,
+            "inch": 0.0
+          },
+          "front": true,
+          "rear": false,
+          "side": false,
+          "mainEgress": true,
+          "alternateEgress": false
+        },
+        {
+          "floorNumber": 2,
+          "floorDesignation": "2",
+          "elevation": {
+            "feet": 80,
+            "inch": 0.0
+          },
+          "front": true,
+          "rear": false,
+          "side": false,
+          "mainEgress": false,
+          "alternateEgress": true
+        }
+      ]
+    },
+    {
+      "unitId": 29854,
+      "unitName": "U3",
+      "travel": {
+        "feet": 80,
+        "inch": 0.0
+      },
+      "ocuppiedSpace": false,
+      "noOfFloors": 2,
+      "frontOpening": 2,
+      "rearOpening": 0,
+      "sideOpening": 0,
+      "openingDoors": {
+        "front": true,
+        "rear": false,
+        "side": false
+      },
+      "openingsAssigned": [
+        {
+          "floorNumber": 1,
+          "floorDesignation": "1",
+          "elevation": {
+            "feet": 0,
+            "inch": 0.0
+          },
+          "front": true,
+          "rear": false,
+          "side": false,
+          "mainEgress": true,
+          "alternateEgress": false
+        },
+        {
+          "floorNumber": 2,
+          "floorDesignation": "2",
+          "elevation": {
+            "feet": 80,
+            "inch": 0.0
+          },
+          "front": true,
+          "rear": false,
+          "side": false,
+          "mainEgress": false,
+          "alternateEgress": true
+        }
+      ]
+    },
+    {
+      "unitId": 29855,
+      "unitName": "U4",
+      "travel": {
+        "feet": 80,
+        "inch": 0.0
+      },
+      "ocuppiedSpace": true,
+      "noOfFloors": 2,
+      "frontOpening": 2,
+      "rearOpening": 0,
+      "sideOpening": 0,
+      "openingDoors": {
+        "front": true,
+        "rear": false,
+        "side": false
+      },
+      "openingsAssigned": [
+        {
+          "floorNumber": 1,
+          "floorDesignation": "1",
+          "elevation": {
+            "feet": 0,
+            "inch": 0.0
+          },
+          "front": true,
+          "rear": false,
+          "side": false,
+          "mainEgress": true,
+          "alternateEgress": false
+        },
+        {
+          "floorNumber": 2,
+          "floorDesignation": "2",
+          "elevation": {
+            "feet": 80,
+            "inch": 0.0
+          },
+          "front": true,
+          "rear": false,
+          "side": false,
+          "mainEgress": false,
+          "alternateEgress": true
+        }
+      ]
+    }
+  ],
+  "readOnly": false,
+  "conflictAssignments": null,
+  "enrichedData": null,
+  "permissions": null
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "Id": "TP0000395-OBOM-TC0001",
+    "Type": "OBOM",
+    "Name": "TC0001",
+    "PartNumber": "R100174102",
+    "NumberOfLandings": 0,
+    "NumberOfElevators": 1,
+    "ExportTypes": [],
+    "AvailableDrawings": [],
+    "SelectedDrawingFilePaths": [],
+    "GlobalParameters": {},
+    "ElevatorParameters": [
+      {}
+    ],
+    "FloorMatrixParameters": [
+      []
+    ],
+    "OutputBOM": [
+      {
+        "ParametersValues": [
+          {
+            "QTY": {
+              "Value": "",
+              "Included": false
+            }
+          }
+        ],
+        "ChildParts": [
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "1",
+                  "Included": true
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "73bb7bb0-72a0-ad41-003a-52c22dc4ad6f",
+            "PartNumber": "5001CY001",
+            "Parent": "R100124075",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": true,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          }
+        ],
+        "Id": "2e9afa12-2aad-dd18-aefa-5b9e415aea41",
+        "PartNumber": "R100124075",
+        "Parent": "",
+        "IsPerLandingComp": false,
+        "IsParentPLC": false,
+        "Included": true,
+        "FullyQualifiedName": "",
+        "AssemblyFile": ""
+      }
+    ],
+    "OutputParameters": {},
+    "GlobalFlrMatrxParameters": [],
+    "NumberOfLandingsPerElev": 0,
+    "OutputGlobalFlrMatrxParameters": [],
+    "OutputElevatorParameters": [
+      {}
+    ],
+    "OutputElevFloorMatrixParameters": [],
+    "AssemblyFile": ""
+  }
+]

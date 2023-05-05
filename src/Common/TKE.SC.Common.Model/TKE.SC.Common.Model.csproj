@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DebugType>Full</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IronXL.Excel" Version="2021.12.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.0" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Configit.Configurator.Server.Common">
+      <HintPath>References\Configit.Configurator.Server.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Grid.Core">
+      <HintPath>..\..\Services\BackendForFrontend\DataAccess\TKE.SC.BFF.DataAccess.Services\References\Configit.Grid.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Product.Search.Service">
+      <HintPath>References\Configit.Product.Search.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.Services">
+      <HintPath>..\..\Services\BackendForFrontend\DataAccess\TKE.SC.BFF.DataAccess.Interfaces\References\Configit.TKE.DesignAutomation.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.VtSdk.Configurator.Service">
+      <HintPath>References\Configit.VtSdk.Configurator.Service.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

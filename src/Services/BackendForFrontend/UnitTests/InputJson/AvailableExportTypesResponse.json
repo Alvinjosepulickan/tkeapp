@@ -1,0 +1,271 @@
+[
+  {
+    "key": "ThreeDManufacturingExport",
+    "name": "3D Manufacturing Format (*.3mf)",
+    "versions": []
+  },
+  {
+    "key": "Pdf3DExport",
+    "name": "3D Pdf File (*.pdf)",
+    "versions": []
+  },
+  {
+    "key": "ThreeDXmlExport",
+    "name": "3D XML (*.3dxml)",
+    "versions": []
+  },
+  {
+    "key": "ACISExport",
+    "name": "ACIS (*.sat)",
+    "versions": []
+  },
+  {
+    "key": "AdditiveManufacturingExport",
+    "name": "Additive Manufacturing File (*.amf)",
+    "versions": []
+  },
+  {
+    "key": "IllustratorExport",
+    "name": "Adobe Illustrator File (*.ai)",
+    "versions": []
+  },
+  {
+    "key": "PhotoshopExport",
+    "name": "Adobe Photoshop File (*.psd)",
+    "versions": []
+  },
+  {
+    "key": "BillOfFeaturesTask",
+    "name": "Bill of features",
+    "versions": []
+  },
+  {
+    "key": "CadBomTask",
+    "name": "CAD BOM",
+    "versions": []
+  },
+  {
+    "key": "CatiaExport",
+    "name": "CATIA® Graphics (*.cgr)",
+    "versions": []
+  },
+  {
+    "key": "CenterOfGravityTask",
+    "name": "Center of Gravity Data",
+    "versions": []
+  },
+  {
+    "key": "ViewScaleTask",
+    "name": "Debug ViewScale",
+    "versions": []
+  },
+  {
+    "key": "DwgExport",
+    "name": "Dwg File (*.dwg)",
+    "versions": [
+      {
+        "key": "DwgExportR12",
+        "name": "R12"
+      },
+      {
+        "key": "DwgExportR13",
+        "name": "R13"
+      },
+      {
+        "key": "DwgExportR14",
+        "name": "R14"
+      },
+      {
+        "key": "DwgExportR2000",
+        "name": "R2000"
+      },
+      {
+        "key": "DwgExportR2004",
+        "name": "R2004"
+      },
+      {
+        "key": "DwgExportR2007",
+        "name": "R2007"
+      },
+      {
+        "key": "DwgExportR2010",
+        "name": "R2010"
+      },
+      {
+        "key": "DwgExportR2013",
+        "name": "R2013"
+      },
+      {
+        "key": "DwgExportR2018",
+        "name": "R2018"
+      }
+    ]
+  },
+  {
+    "key": "DxfExport",
+    "name": "Dxf File (*.dxf)",
+    "versions": [
+      {
+        "key": "DxfExportR12",
+        "name": "R12"
+      },
+      {
+        "key": "DxfExportR13",
+        "name": "R13"
+      },
+      {
+        "key": "DxfExportR14",
+        "name": "R14"
+      },
+      {
+        "key": "DxfExportR2000",
+        "name": "R2000"
+      },
+      {
+        "key": "DxfExportR2004",
+        "name": "R2004"
+      },
+      {
+        "key": "DxfExportR2007",
+        "name": "R2007"
+      },
+      {
+        "key": "DxfExportR2010",
+        "name": "R2010"
+      },
+      {
+        "key": "DxfExportR2013",
+        "name": "R2013"
+      },
+      {
+        "key": "DxfExportR2018",
+        "name": "R2018"
+      }
+    ]
+  },
+  {
+    "key": "EDrawingsAssemblyExport",
+    "name": "eDrawings Assembly (*.easm)",
+    "versions": []
+  },
+  {
+    "key": "EDrawingsExport",
+    "name": "eDrawings File (*.edrw)",
+    "versions": []
+  },
+  {
+    "key": "EDrawingsPartExport",
+    "name": "eDrawings Part (*.eprt)",
+    "versions": []
+  },
+  {
+    "key": "FeatureAttributesTask",
+    "name": "Feature Attributes",
+    "versions": []
+  },
+  {
+    "key": "FormToolExport",
+    "name": "Form Tool (*.sldftp)",
+    "versions": []
+  },
+  {
+    "key": "HcgExport",
+    "name": "Highly Compressed Graphics (*.hcg)",
+    "versions": []
+  },
+  {
+    "key": "HsfExport",
+    "name": "HOOPS HSF (*.hsf)",
+    "versions": []
+  },
+  {
+    "key": "IfcExport",
+    "name": "IFC File (*.ifc)",
+    "versions": []
+  },
+  {
+    "key": "IGESExport",
+    "name": "IGES (*.igs)",
+    "versions": []
+  },
+  {
+    "key": "JpegExport",
+    "name": "JPEG File (*.jpg)",
+    "versions": []
+  },
+  {
+    "key": "XamlExport",
+    "name": "Microsoft XAML (*.xaml)",
+    "versions": []
+  },
+  {
+    "key": "ParasolidExport",
+    "name": "Parasolid (*.x_t)",
+    "versions": []
+  },
+  {
+    "key": "ParasolidBinaryExport",
+    "name": "Parasolid Binary (*.x_b)",
+    "versions": []
+  },
+  {
+    "key": "PdfExport",
+    "name": "Pdf File (*.pdf)",
+    "versions": []
+  },
+  {
+    "key": "PngExport",
+    "name": "Png File (*.png)",
+    "versions": []
+  },
+  {
+    "key": "ProECreoAssemblyExport",
+    "name": "ProE/Creo Assembly (*.asm)",
+    "versions": []
+  },
+  {
+    "key": "ProECreoPartExport",
+    "name": "ProE/Creo Part (*.prt)",
+    "versions": []
+  },
+  {
+    "key": "SheetMetalAttributesTask",
+    "name": "Sheet Metal Attributes",
+    "versions": []
+  },
+  {
+    "key": "SldExport",
+    "name": "SolidWorks (*.sldprt|*.sldasm|*.slddrw)",
+    "versions": []
+  },
+  {
+    "key": "SldComposerExport",
+    "name": "Solidworks Composer (*.smg)",
+    "versions": []
+  },
+  {
+    "key": "STEPExport",
+    "name": "STEP (*.step)",
+    "versions": []
+  },
+  {
+    "key": "StlExport",
+    "name": "STL File (*.stl)",
+    "versions": []
+  },
+  {
+    "key": "TiffExport",
+    "name": "Tif File (*.tif)",
+    "versions": []
+  },
+  {
+    "key": "VdafsExport",
+    "name": "VDAFS File (*.vda)",
+    "versions": []
+  },
+  {
+    "key": "VrmlExport",
+    "name": "VRML (*.wrl)",
+    "versions": []
+  }
+]

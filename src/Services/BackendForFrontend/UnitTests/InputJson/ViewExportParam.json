@@ -1,0 +1,111 @@
+{
+  "code": "200",
+  "data": {
+    "VersionId": "145",
+    "Quotation": {
+      "OpportunityInfo": {
+        "OpportunityId": "62",
+        "OpportunityURL": "https://usdev.tkeview.com/ni/public/projectinfo?projectid=62&currentbranchid=1",
+        "AwardClosedDate": {
+          "DateFormat": "MM/dd/yyyy",
+          "DateValue": "03/18/2021"
+        },
+        "BusinessLine": "New Installation",
+        "SalesStage": "Order",
+        "JobName": "test_dcj_20210204",
+        "BaseBid": "145",
+        "Branch": "NASHVILLE",
+        "SUPERINTENDENT": "Dana  ",
+        "SalesmanActiveDirectoryID": "10403700",
+        "Salesman": "TRAVONDA CAMPBELL",
+        "Category": "New Installation",
+        "SalesEmail": "New Installation",
+        "OraclePSNumber": "",
+        "ProposedDate": {
+          "DateFormat": "MM/dd/yyyy",
+          "DateValue": "03/18/2021"
+        },
+        "ContractBookedDate": {
+          "DateFormat": "MM/dd/yyyy",
+          "DateValue": "03/18/2021"
+        }
+      },
+      "Contact": {
+        "FirstName": "CHRISTIAN11",
+        "LastName": "BUSH CHRISTIAN BUSH",
+        "Email": "test",
+        "MobilePhone": "6157888599"
+      },
+      "Architect": {
+        "AccountName": "1101 EIGHTEENTH HOA C/O METROPOLITAN PROPERTIES MANAGEMENT",
+        "AddressLine1": "4521 TROUSDALE DR",
+        "City": "NASHVILLE",
+        "County": "DAVIDSON",
+        "State": "TN",
+        "Country": "USA",
+        "ZipCode": "37204-4513",
+        "CustomerNumber": "7991632",
+        "AddressLine2": ""
+      },
+      "Billing": {
+        "AccountName": "'luyan-test-08'",
+        "AddressLine1": "luyan-test-08",
+        "City": "luyan-test-08",
+        "County": "",
+        "State": "",
+        "Country": null,
+        "ZipCode": "",
+        "CustomerNumber": "CUST000385",
+        "AddressLine2": ""
+      },
+      "GC": {
+        "AccountName": "*C 1/12*BETHANY RETREAT(59099)",
+        "AddressLine1": "2002 GARNERS CREEK ROAD; FS 4/1/11 - 1/1/12",
+        "AddressLine2": null,
+        "City": "DICKSON",
+        "County": "HICKMAN",
+        "State": "TN",
+        "Country": "USA",
+        "ZipCode": "37055",
+        "CustomerNumber": "USFRE003NME-9070"
+      },
+      "Owner": {
+        "AccountName": "'Nicolas Coorp'",
+        "AddressLine1": "360 cadeleight ct",
+        "AddressLine2": "",
+        "City": "ALPHARETTA",
+        "County": "FULTON",
+        "State": "GA",
+        "Country": null,
+        "ZipCode": "30005",
+        "CustomerNumber": "CUST000383"
+      },
+      "Building": {
+        "AccountName": "*C 1/12A.O SMITH(59969)1497-FM",
+        "AddressLine1": "632 MELROSE AVENUE; NO FS TO FM-1497 3/1/2011",
+        "AddressLine2": null,
+        "City": "ASHLAND CITY",
+        "County": "",
+        "State": "TN",
+        "Country": "USA",
+        "ZipCode": "37120",
+        "CustomerNumber": "USFRE003NME-9074"
+      },
+      "UnitMaterials": [
+        {
+          "FactoryJobNumber": "No-1"
+        },
+        {
+          "FactoryJobNumber": "No-3"
+        }
+      ],
+      "Quote": {
+        "QuoteDescription": "Version 2",
+        "QuoteBaseBid": true,
+        "LatestViewVersion": true,
+        "UI_VersionID": true
+      }
+    }
+  },
+  "retMsg": "Get data successfully"
+}

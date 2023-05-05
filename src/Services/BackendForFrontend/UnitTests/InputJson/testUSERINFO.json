@@ -1,0 +1,32 @@
+{
+  "statusCode": 200,
+  "errorCode": null,
+  "message": "Request Generated Sucessfully.",
+  "response": {
+    "id": 79023,
+    "userId": "RajaSekhar_V01",
+    "firstName": "Raja Sekhar",
+    "lastName": "Veeramalla",
+    "email": "RajaSekhar_V01@infosys.com",
+    "profilePic": "http://infybubble//User%20Photos/profile%20pictures/ITLINFOSYS_RajaSekhar_V01_LThumb.jpg",
+    "location": {
+      "id": "1",
+      "city": "Renton",
+      "state": "WA",
+      "country": "USA"
+    },
+    "role": {
+      "id": "1",
+      "name": "Sales Representative"
+    }
+  },
+  "contentResult": null,
+  "stream": null,
+  "byteResponse": null,
+  "requestUri": null,
+  "httpResponseMessage": null,
+  "httpRequestMessage": null,
+  "description": null,
+  "isSuccessStatusCode": true,
+  "responseArray": null
+}

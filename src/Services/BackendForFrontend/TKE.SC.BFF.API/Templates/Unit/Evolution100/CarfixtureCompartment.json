@@ -1,0 +1,24 @@
+{
+  "compartments": [
+    {
+      "id": "FACEPLT",
+      "name": "Main COP",
+      "value": "FACEPLT"
+    },
+    {
+      "id": "SVCCBT",
+      "name": "Locked Compartment",
+      "value": "SVCCBT"
+    },
+    {
+      "id": "NRAI",
+      "name": "Available items",
+      "value": "NRAI"
+    },
+    {
+      "id": "FIRECBT",
+      "name": "Fire Compartment",
+      "value": "FIRECBT"
+    }
+  ]
+}

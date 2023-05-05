@@ -1,0 +1,82 @@
+{
+  "id": "Group_Validation.Parameters.PRODUCTCATEGORY",
+  "name": "Product Category ",
+  "valueType": "String",
+  "allowMultipleAssignments": false,
+  "values": [
+    {
+      "type": "SingletonValue",
+      "name": "Elevator",
+      "value": "",
+      "properties": [],
+      "assigned": "byDefault",
+      "inCompatible": false,
+      "state": "Selected",
+      "justification": "Assignment"
+    },
+    {
+      "type": "SingletonValue",
+      "name": "Other",
+      "value": "",
+      "properties": [],
+      "inCompatible": true,
+      "state": "Available",
+      "justification": "None"
+    },
+    {
+      "type": "SingletonValue",
+      "name": "Escalator/Moving-Walk",
+      "value": "",
+      "properties": [],
+      "inCompatible": false,
+      "state": "Selected",
+      "justification": "Assignment"
+    },
+    {
+      "type": "SingletonValue",
+      "name": "TWIN Elevator",
+      "value": "",
+      "properties": [],
+      "inCompatible": true,
+      "state": "Selected",
+      "justification": "Assignment"
+    }
+  ],
+  "properties": [
+    {
+      "id": "fullyqualifiedname",
+      "value": "Group_Validation.Parameters.PRODUCTCATEGORY",
+      "type": "String"
+    },
+    {
+      "id": "name",
+      "value": "Product Category ",
+      "type": "String"
+    },
+    {
+      "id": "fromgroup",
+      "value": true,
+      "type": "Boolean"
+    },
+    {
+      "id": "info",
+      "value": "Product Category ",
+      "type": "String"
+    },
+    {
+      "id": "showas",
+      "value": "Dropdown",
+      "type": "String"
+    },
+    {
+      "id": "sequence",
+      "value": "2",
+      "type": "number"
+    },
+    {
+      "id": "displayname",
+      "value": "Product Category",
+      "type": "String"
+    }
+  ]
+}

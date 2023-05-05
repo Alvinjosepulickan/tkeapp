@@ -1,0 +1,119 @@
+{
+  "sections": [
+    {
+      "id": "tp2Summary",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Parameters.Factory"
+        },
+        {
+          "id": "Parameters.Factory_Quote_Num"
+        },
+        {
+          "id": "Parameters.Factory_Quote_Exp_Date"
+        },
+        {
+          "id": "Parameters.Factory_Quote_Price"
+        },
+        {
+          "id": "Parameters.Speed"
+        },
+        {
+          "id": "Parameters.Capacity"
+        },
+        {
+          "id": "Parameters.Num_FloorServed"
+        },
+        {
+          "id": "Parameters.Num_FrontOpenings"
+        },
+        {
+          "id": "Parameters.Num_RearOpenings"
+        },
+        {
+          "id": "Parameters.NetTravel"
+        },
+        {
+          "id": "Parameters.CounterWeight_Location"
+        },
+        {
+          "id": "Parameters.PitDepth"
+        },
+        {
+          "id": "Parameters.Buffer_Extension"
+        },
+        {
+          "id": "Parameters.Compensation"
+        },
+        {
+          "id": "Parameters.Comp_Dampening_Wheel"
+        },
+        {
+          "id": "Parameters.Num_Belts_Or_Ropes"
+        },
+        {
+          "id": "Parameters.Roping"
+        },
+        {
+          "id": "Parameters.Machine_Application"
+        },
+        {
+          "id": "Parameters.Rope_Quantity"
+        },
+        {
+          "id": "Parameters.Rating"
+        },
+        {
+          "id": "Parameters.DoorType_Front"
+        },
+        {
+          "id": "Parameters.DoorType_Rear"
+        },
+        {
+          "id": "Parameters.Traditional_Entrances"
+        },
+        {
+          "id": "Parameters.NonTraditional_Entrances"
+        },
+        {
+          "id": "Parameters.Transoms"
+        },
+        {
+          "id": "Parameters.Num_NonTKE_KeySwitch"
+        },
+        {
+          "id": "Parameters.Num_NonStd_HallFixtures"
+        },
+        {
+          "id": "Parameters.Num_UnitHallFix_Devices"
+        },
+        {
+          "id": "Parameters.CabHeight"
+        },
+        {
+          "id": "Parameters.FlooringThickness"
+        },
+        {
+          "id": "Parameters.Qty_AuxCOPs"
+        },
+        {
+          "id": "Parameters.CardReader"
+        },
+        {
+          "id": "Parameters.Controller_Manufacturer"
+        },
+        {
+          "id": "Parameters.Transformer"
+        },
+        {
+          "id": "Parameters.Num_of_2019_BCC_Panels"
+        },
+        {
+          "id": "Parameters.Num_of_2019_Comm_boxes"
+        }
+
+      ]
+    }
+  ]
+}

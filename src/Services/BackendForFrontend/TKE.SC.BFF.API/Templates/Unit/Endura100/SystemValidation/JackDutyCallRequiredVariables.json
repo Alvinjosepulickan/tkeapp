@@ -1,0 +1,40 @@
+﻿{
+  "variableAssignments": [
+    {
+      "variableId": "Parameters.CAPACITY",
+      "value": 2100
+    },
+    {
+      "variableid": "Parameters.CARSPDHUT",
+      "value": "105"
+    },
+    {
+      "variableId": "Parameters.ECARWT",
+      "value": "2540"
+    },
+    {
+      "variableId": "Parameters.JACKTYPE",
+      "value": "TWINPOST"
+    },
+    {
+      "variableId": "Parameters.OVHEAD",
+      "value": "152.000"
+    },
+    {
+      "variableId": "Parameters.PITDEPTH",
+      "value": "48.000"
+    },
+    {
+      "variableId": "Parameters.TRAVEL",
+      "value": "144.000"
+    },
+    {
+      "variableId": "Parameters.LWRVAVE",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "Parameters.BPP",
+      "value": "3"
+    }
+  ]
+}

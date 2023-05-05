@@ -1,0 +1,63 @@
+﻿{
+  "Sections": [
+    {
+      "Id": "Group_Validation",
+      "sections": [
+        {
+          "Id": "Parameters",
+          "Variables": [
+            {
+              "Id": "Parameters.BLANDINGS" 
+            },
+            {
+              "id": "Parameters.GRPDESG" 
+            },
+            {
+              "Id": "Parameters.B1P1"
+            },
+            {
+              "Id": "Parameters.B1P2"
+            },
+            {
+              "Id": "Parameters.B1P3"
+            },
+            {
+              "Id": "Parameters.B1P4"
+            },
+            {
+              "Id": "Parameters.B2P1"
+            },
+            {
+              "Id": "Parameters.B2P2"
+            },
+            {
+              "Id": "Parameters.B2P3"
+            },
+            {
+              "Id": "Parameters.B2P4"
+            },
+            {
+              "Id": "Parameters.LAYGRPSZ"
+            },
+            {
+              "Id": "Parameters.BPP"
+            },
+            {
+              "Id": "Parameters.CONTGS"
+            },
+            {
+              "Id": "Parameters.EMERTYPE"
+            },
+            {
+              "Id": "Parameters.GRSECTYPE"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "RemovedAssignments": {
+    "variableAssignments": [],
+    "PriceLineAssignments": []
+  }
+}

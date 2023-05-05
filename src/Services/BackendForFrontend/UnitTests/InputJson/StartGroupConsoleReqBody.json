@@ -1,0 +1,15 @@
+{
+
+  "fixtureSelected": "Traditional_Hall_Stations",
+  "variableAssignments": [
+    {
+      "variableId": "Group_Validation.Parameters.Basic_Info.GRPDESG",
+      "value": "testgroup12345"
+    },
+    {
+      "variableId": "Elevator001.Parameters.Basic_Info.ELEVSYS",
+      "value": "EVO"
+    }
+  ]
+
+}

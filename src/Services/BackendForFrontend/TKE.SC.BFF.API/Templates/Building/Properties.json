@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sequence",
+    "value": "1",
+    "type": "number"
+  },
+  {
+    "id": "sectionname",
+    "value": "Entrance Config with controller",
+    "type": "String"
+  },
+  {
+    "id": "isSectionACard",
+    "value": true,
+    "type": "Boolean"
+  }
+
+]

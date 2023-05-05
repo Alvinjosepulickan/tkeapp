@@ -1,0 +1,757 @@
+{
+  "sections": [
+    {
+      "id": "Projects",
+      "name": "Projects",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Projects.ProjectName",
+          "name": "Projects.ProjectName",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "value": "",
+              "inCompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "inputField",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "1",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Project Name",
+              "type": "String"
+            },
+            {
+              "id": "isEditable",
+              "value": true,
+              "type": "boolean"
+            }
+          ]
+        },
+        {
+          "id": "Projects.Description",
+          "name": "Description",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "value": "",
+              "inCompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "inputField",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "2",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Description",
+              "type": "String"
+            },
+            {
+              "id": "isEditable",
+              "value": true,
+              "type": "boolean"
+            },
+            {
+              "id": "pattern",
+              "value": "^[a-zA-Z0-9 ]+$",
+              "type": "String"
+            },
+            {
+              "id": "type",
+              "value": "text",
+              "type": "String"
+            }
+          ]
+        },
+        {
+          "id": "Projects.Branch",
+          "name": "Projects.Branch",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "value": "CALGARY",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "EDMONTON",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "HALIFAX",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "HAMILTON",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "KELOWNA",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "KINGSTON",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "LONDON",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "MONCTON",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "MONTREALDOWNTOWN",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "MONTREALEAST",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "NANAIMO",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "OTTAWA",
+              "inCompatible": false,
+              "type": "String"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "dropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "3",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Branch",
+              "type": "String"
+            },
+            {
+              "id": "isEditable",
+              "value": true,
+              "type": "boolean"
+            }
+          ]
+        },
+        {
+          "id": "Projects.SalesStage",
+          "name": "Projects.SalesStage",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "value": "Lead",
+              "inCompatible": false,
+              "type": "String"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "dropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "4",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Sales Stage",
+              "type": "String"
+            },
+            {
+              "id": "isEditable",
+              "value": false,
+              "type": "boolean"
+            }
+          ]
+        },
+        {
+          "id": "Projects.AwardCloseDate",
+          "name": "Projects.AwardCloseDate",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "value": "",
+              "inCompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "dateInput",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "5",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Award Closed Date",
+              "type": "String"
+            },
+            {
+              "id": "type",
+              "value": "date",
+              "type": "string"
+            },
+            {
+              "id": "dateFormat",
+              "value": "DD/MM/YYYY",
+              "type": "String"
+            },
+            {
+              "id": "isEditable",
+              "value": false,
+              "type": "boolean"
+            }
+          ]
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Project Details",
+          "type": "String"
+        },
+        {
+          "id": "column",
+          "value": 1,
+          "type": "number"
+        }
+      ],
+      "isDelete": false
+    },
+    {
+      "id": "LayoutDetails",
+      "name": "LayoutDetails",
+      "sections": [],
+      "variables": [
+        {
+          "id": "LayoutDetails.Language",
+          "name": "LayoutDetails.Language",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "value": "EN-US",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "EN-CA",
+              "inCompatible": false,
+              "type": "String"
+            },
+            {
+              "value": "FR-CA",
+              "inCompatible": false,
+              "type": "String"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "dropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "5",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Language",
+              "type": "String"
+            },
+            {
+              "id": "isEditable",
+              "value": true,
+              "type": "boolean"
+            }
+          ]
+        },
+        {
+          "id": "LayoutDetails.MeasuringUnit",
+          "name": "LayoutDetails.MeasuringUnit",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "value": "Metric",
+              "inCompatible": false,
+              "type": "string"
+            },
+            {
+              "value": "Imperial",
+              "inCompatible": false,
+              "type": "string"
+            },
+            {
+              "value": "Dual",
+              "inCompatible": false,
+              "type": "string"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "button",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "6",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Measuring Unit",
+              "type": "String"
+            },
+            {
+              "id": "isEditable",
+              "value": true,
+              "type": "boolean"
+            }
+          ]
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Layout Details",
+          "type": "String"
+        },
+        {
+          "id": "column",
+          "value": 1,
+          "type": "number"
+        }
+      ],
+      "isDelete": false
+    },
+    {
+      "id": "AccountDetails",
+      "name": "AccountDetails",
+      "sections": [
+        {
+          "id": "AccountDetails.SiteAddress",
+          "name": "AccountDetails.SiteAddress",
+          "sections": [],
+          "variables": [
+            {
+              "id": "AccountDetails.SiteAddress.AddressLine1",
+              "name": "AccountDetails.SiteAddress.AddressLine1",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "value": "2100",
+                  "inCompatible": false,
+                  "type": "number"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "inputField",
+                  "type": "String"
+                },
+                {
+                  "id": "sequence",
+                  "value": "9",
+                  "type": "number"
+                },
+                {
+                  "id": "displayname",
+                  "value": "Address Line 1",
+                  "type": "String"
+                },
+                {
+                  "id": "isEditable",
+                  "value": true,
+                  "type": "boolean"
+                }
+              ]
+            },
+            {
+              "id": "AccountDetails.SiteAddress.AddressLine2",
+              "name": "AccountDetails.SiteAddress.AddressLine2",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "value": "2100",
+                  "inCompatible": false,
+                  "type": "number"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "inputField",
+                  "type": "String"
+                },
+                {
+                  "id": "sequence",
+                  "value": "10",
+                  "type": "number"
+                },
+                {
+                  "id": "displayname",
+                  "value": "Address Line 2",
+                  "type": "String"
+                },
+                {
+                  "id": "isEditable",
+                  "value": true,
+                  "type": "boolean"
+                }
+              ]
+            },
+            {
+              "id": "AccountDetails.SiteAddress.City",
+              "name": "City",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "value": "2100",
+                  "inCompatible": false,
+                  "type": "number"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "inputField",
+                  "type": "String"
+                },
+                {
+                  "id": "sequence",
+                  "value": "11",
+                  "type": "number"
+                },
+                {
+                  "id": "displayname",
+                  "value": "City",
+                  "type": "String"
+                },
+                {
+                  "id": "isEditable",
+                  "value": true,
+                  "type": "boolean"
+                }
+              ]
+            },
+            {
+              "id": "AccountDetails.SiteAddress.State",
+              "name": "State",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "value": "",
+                  "inCompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "inputField",
+                  "type": "String"
+                },
+                {
+                  "id": "sequence",
+                  "value": "12",
+                  "type": "number"
+                },
+                {
+                  "id": "displayname",
+                  "value": "State",
+                  "type": "String"
+                },
+                {
+                  "id": "isEditable",
+                  "value": true,
+                  "type": "boolean"
+                },
+                {
+                  "id": "pattern",
+                  "value": "^[a-zA-Z]+$",
+                  "type": "String"
+                },
+                {
+                  "id": "type",
+                  "value": "text",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "AccountDetails.SiteAddress.Country",
+              "name": "Country",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "value": "",
+                  "inCompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "inputField",
+                  "type": "String"
+                },
+                {
+                  "id": "sequence",
+                  "value": "13",
+                  "type": "number"
+                },
+                {
+                  "id": "displayname",
+                  "value": "Country",
+                  "type": "String"
+                },
+                {
+                  "id": "isEditable",
+                  "value": false,
+                  "type": "boolean"
+                },
+                {
+                  "id": "pattern",
+                  "value": "^[a-zA-Z0-9]+$",
+                  "type": "String"
+                },
+                {
+                  "id": "type",
+                  "value": "text",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "AccountDetails.SiteAddress.ZipCode",
+              "name": "ZipCode",
+              "valueType": "text",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "value": "",
+                  "inCompatible": false
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "inputField",
+                  "type": "number"
+                },
+                {
+                  "id": "sequence",
+                  "value": "14",
+                  "type": "number"
+                },
+                {
+                  "id": "displayname",
+                  "value": "ZipCode",
+                  "type": "String"
+                },
+                {
+                  "id": "isEditable",
+                  "value": true,
+                  "type": "boolean"
+                },
+                {
+                  "id": "pattern",
+                  "value": "^[a-zA-Z0-9\\s]{1,7}$",
+                  "type": "String"
+                },
+                {
+                  "id": "type",
+                  "value": "text",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "4",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Site Address",
+              "type": "String"
+            },
+            {
+              "id": "column",
+              "value": 2,
+              "type": "number"
+            }
+          ],
+          "readOnly": false,
+          "isDelete": false
+        }
+      ],
+      "variables": [
+        {
+          "id": "AccountDetails.AccountName",
+          "name": "AccountName",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "value": "Architect1",
+              "inCompatible": false,
+              "type": "String"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "inputField",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "7",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Account Name",
+              "type": "String"
+            },
+            {
+              "id": "isEditable",
+              "value": true,
+              "type": "boolean"
+            }
+          ]
+        },
+        {
+          "id": "AccountDetails.Contact",
+          "name": "Contact",
+          "valueType": "Number",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "value": "",
+              "inCompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "inputField",
+              "type": "number"
+            },
+            {
+              "id": "sequence",
+              "value": "8",
+              "type": "number"
+            },
+            {
+              "id": "displayname",
+              "value": "Contact",
+              "type": "String"
+            },
+            {
+              "id": "isEditable",
+              "value": true,
+              "type": "boolean"
+            },
+            {
+              "id": "pattern",
+              "value": "^[a-zA-Z0-9 ]+$",
+              "type": "String"
+            },
+            {
+              "id": "type",
+              "value": "text",
+              "type": "String"
+            }
+          ]
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Account Details",
+          "type": "String"
+        },
+        {
+          "id": "column",
+          "value": 2,
+          "type": "number"
+        }
+      ],
+      "isDelete": false
+    }
+  ]
+}

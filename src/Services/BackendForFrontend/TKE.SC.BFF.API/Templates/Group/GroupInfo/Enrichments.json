@@ -1,0 +1,141 @@
+{
+  "sections": {
+    "groupConfiguration": {
+      "name": "groupConfiguration",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Group Info",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "variables": {
+    "groupDesignation": {
+      "name": "groupDesignation",
+      "properties": [
+        {
+          "id": "key",
+          "value": "groupDesignation",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "InputField",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Group Name",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Group Name",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6",
+          "type": "String"
+        }
+      ]
+    },
+    "productCategory": {
+      "name": "productCategory",
+      "properties": [
+        {
+          "id": "key",
+          "value": "productCategory",
+          "type": "String"
+        },
+        {
+          "id": "info",
+          "value": "Product Category ",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Product Category",
+          "type": "String"
+        },
+        {
+          "id": "readonly",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6",
+          "type": "String"
+        }
+      ]
+    },
+    "noOfUnits": {
+      "name": "noOfUnits",
+      "properties": [
+        {
+          "id": "key",
+          "value": "noOfUnits",
+          "type": "String"
+        },
+        {
+          "id": "info",
+          "value": "Number of Units",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "InputField",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Number of Units",
+          "type": "String"
+        },
+        {
+          "id": "readonly",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6",
+          "type": "String"
+        }
+      ]
+    }
+  }
+}

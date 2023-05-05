@@ -1,0 +1,5503 @@
+{
+  "sections": {
+    "buildingEquipment": {
+      "name": "buildingEquipment",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Building Equipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "buildingEquipment",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.lobbyPanel": {
+      "name": "buildingEquipment.lobbyPanel",
+      "properties": [
+        {
+          "id": "key",
+          "value": "lobbyPanel",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Lobby Panel",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "lobbyPanel",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "row",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.agileBuildingManagement": {
+      "name": "buildingEquipment.agileBuildingManagement",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "AGILE Building Management",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "agileBuildingManagement",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "row",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.intergroupEmergencyPower": {
+      "name": "buildingEquipment.intergroupEmergencyPower",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Intergroup Emergency Power",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "intergroupEmergencyPower",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "row",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.networkingequipment": {
+      "name": "buildingEquipment.networkingequipment",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Networking Equipment",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "networkingequipment",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "row",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.smartRescuePhone(Standalone)": {
+      "name": "buildingEquipment.smartRescuePhone(Standalone)",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Smart Rescue Phone(Standalone)",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "smartRescuePhone(Standalone)",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "row",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.roboticControllerInterface": {
+      "name": "buildingEquipment.roboticControllerInterface",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment.thirdPartyInterfaces",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "roboticControllerInterface",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "pl-0 col-md-12",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.bacNet": {
+      "name": "buildingEquipment.bacNet",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment.thirdPartyInterfaces",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "bacNet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "pl-0 col-md-12",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.thirdPartyInterfaces": {
+      "name": "buildingEquipment.thirdPartyInterfaces",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Third Party Interfaces",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "thirdPartyInterfaces",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "row",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.agileBuildingManagement.monitoring(IMS)": {
+      "name": "buildingEquipment.agileBuildingManagement.monitoring(IMS)",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Monitoring (IMS)",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment.agileBuildingManagement",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "monitoring(IMS)",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingEquipment.agileBuildingManagement.agileBuildingManagement": {
+      "name": "buildingEquipment.agileBuildingManagement.agileBuildingManagement",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment.agileBuildingManagement",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "agileBuildingManagement",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "LobbyPanel": {
+      "name": "LobbyPanel",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Lobby Panel",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "buildingEquipment",
+          "type": "String"
+        }
+      ]
+    },
+    "LobbyPanel.FixtureType": {
+      "name": "LobbyPanel.FixtureType",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Type",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "FixtureType",
+          "type": "String"
+        }
+      ]
+    },
+    "LobbyPanel.Finish": {
+      "name": "LobbyPanel.Finish",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Finish",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "Finish",
+          "type": "String"
+        }
+      ]
+    },
+    "LobbyPanel.FeaturesPerPanel": {
+      "name": "LobbyPanel.FeaturesPerPanel",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Features Per Panel",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "FeaturesPerPanel",
+          "type": "String"
+        }
+      ]
+    },
+    "LobbyPanel.FeaturesPerGroup": {
+      "name": "LobbyPanel.FeaturesPerGroup",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Features Per Group",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "FeaturesPerGroup",
+          "type": "String"
+        }
+      ]
+    },
+    "LobbyPanel.FeaturesPerUnit": {
+      "name": "LobbyPanel.FeaturesPerUnit",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Features Per Unit",
+          "type": "String"
+        },
+        {
+          "id": "mainSection",
+          "value": "buildingEquipment",
+          "type": "String"
+        },
+        {
+          "id": "key",
+          "value": "FeaturesPerUnit",
+          "type": "String"
+        }
+      ]
+    },
+    "buildingconfigure": {
+      "name": "buildingconfigure",
+      "properties": [
+        {
+          "id": "mainSection",
+          "value": "buildingconfigure",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "variables": {
+    "Building_Configuration.Parameters.BLDGNAME": {
+      "name": "Building_Configuration.Parameters.BLDGNAME",
+      "properties": [
+        {
+          "id": "key",
+          "value": "BLDGNAME",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "Building Name",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "InputField",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Building Name",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Building Name",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 mr-md-1",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.ASYEAR": {
+      "name": "Building_Configuration.Parameters.ASYEAR",
+      "properties": [
+        {
+          "id": "key",
+          "value": "ASYEAR",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "ASME (American Society of Mechanical Engineers) 17.1 Code Year",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "DropDown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "9",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Building Code Year",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Building Code Year",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-3 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.ASTYPE": {
+      "name": "Building_Configuration.Parameters.ASTYPE",
+      "properties": [
+        {
+          "id": "key",
+          "value": "ASTYPE",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "ASME (American Society of Mechanical Engineers) 17.1 Code Type",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "DropDown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "10",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Elevator Code",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Elevator Code",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-3 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.BLANDINGS": {
+      "name": "Building_Configuration.Parameters.BLANDINGS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "BLANDINGS",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "Building Landings Total",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "InputField",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Number Of Floors",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 2,
+          "type": "number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 11,
+          "type": "number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Number Of Floors",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "No of floors should be between 2 - 11",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.BLDGCODE": {
+      "name": "Building_Configuration.Parameters.BLDGCODE",
+      "properties": [
+        {
+          "id": "key",
+          "value": "BLDGCODE",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "BUILDING CODE",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "DropDown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "7",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Building Code",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Building Name",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-3 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.IBCIP": {
+      "name": "Building_Configuration.Parameters.IBCIP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "IBCIP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "IMPORTANCE FACTOR - IBC",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "13",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Component Importance Factor",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Component Importance Factor",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-3 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.IBCSDC": {
+      "name": "Building_Configuration.Parameters.IBCSDC",
+      "properties": [
+        {
+          "id": "key",
+          "value": "IBCSDC",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "Seismic Design Category| IBC",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "12",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Seismic Design Category",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Seismic Design Category",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-3 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.AVGRFHT": {
+      "name": "Building_Configuration.Parameters.AVGRFHT",
+      "properties": [
+        {
+          "id": "key",
+          "value": "AVGRFHT",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "AVERAGE ROOF HEIGHT",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "15",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Average Roof Height",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Average Roof Height",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Average Roof Height should be 10 ft greater than Building Rise",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingconfigure",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.ELEVBASE": {
+      "name": "Building_Configuration.Parameters.ELEVBASE",
+      "properties": [
+        {
+          "id": "key",
+          "value": "ELEVBASE",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "ELEVATION AT BUILDING BASE",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "11",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Elevation At Building Base",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Building Base Elevation",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.IBCSDS": {
+      "name": "Building_Configuration.Parameters.IBCSDS",
+      "properties": [
+        {
+          "id": "key",
+          "value": "IBCSDS",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "Design Spectral Acceleration in Short Period (SDS)| IBC",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "InputField",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "14",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Design Spectral Acceleration in Short Period (SDS)",
+          "type": "String"
+        },
+        {
+          "id": "isDecimal",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Design Spectral Acceleration in Short Period (SDS)",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 0.694,
+          "type": "number"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter a value between 0 and 0.694",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.NBCCSA02": {
+      "name": "Building_Configuration.Parameters.NBCCSA02",
+      "properties": [
+        {
+          "id": "key",
+          "value": "NBCCSA02",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "Design Spectral Acceleration in Two Seconds (Sa02)| NBCC",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "InputField",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "15",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Design spectral acceleration in two Seconds (SA02)",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Design spectral acceleration in two Seconds (SA02)",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.NBCCFA": {
+      "name": "Building_Configuration.Parameters.NBCCFA",
+      "properties": [
+        {
+          "id": "key",
+          "value": "NBCCFA",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "Seismic Force Multiplier (Fa)| NBCC",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "InputField",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "13",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Seismic force multiplier (FA)",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Seismic force multiplier (FA)",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.NBCCIE": {
+      "name": "Building_Configuration.Parameters.NBCCIE",
+      "properties": [
+        {
+          "id": "key",
+          "value": "NBCCIE",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "ELEVATOR IMPORTANCE FACTOR (Ie) NBCC",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "16",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Elevator Importance Factor [IE]",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Elevator Importance Factor [IE]",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.NBCCPDB": {
+      "name": "Building_Configuration.Parameters.NBCCPDB",
+      "properties": [
+        {
+          "id": "key",
+          "value": "NBCCPDB",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "POST DISASTER BUILDING NBCC",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "14",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Post disaster building NBCC",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Post disaster building NBCC",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.totalBuildingFloorToFloorHeight_SP": {
+      "name": "Building_Configuration.Parameters_SP.totalBuildingFloorToFloorHeight_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "totalBuildingFloorToFloorHeight_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "Total Floor to Floor Height",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Building Rise",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 106.5,
+          "type": "number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 1200,
+          "type": "number"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Building Rise",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter a value between 8 ft 10.5 in and 100 ft",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.BPF": {
+      "name": "Building_Configuration.Parameters.BPF",
+      "properties": [
+        {
+          "id": "key",
+          "value": "BPF",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "BUILDING POWER FREQUENCY",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "DropDown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Frequency",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Frequency",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.BPP": {
+      "name": "Building_Configuration.Parameters.BPP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "BPP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "BUILDING POWER PHASE",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "DropDown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Building Power Phase",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Building Power Phase",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-3 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.BPV": {
+      "name": "Building_Configuration.Parameters.BPV",
+      "properties": [
+        {
+          "id": "key",
+          "value": "BPV",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "BUILDING POWER VOLTAGE (SUPPLIED TO CONTROLLER)",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "DropDown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Mainline Voltage",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Mainline Voltage",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-3 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.controllerRobotic_SP": {
+      "name": "Building_Configuration.Parameters_SP.controllerRobotic_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "controllerRobotic_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "ROBOTIC CONTROLLER INTERFACE",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Robotic Controller Interface",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Robotic Controller Interface",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.agileBuildingFeatures",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.dDSecurityInterfaceType_SP": {
+      "name": "Building_Configuration.Parameters_SP.dDSecurityInterfaceType_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "dDSecurityInterfaceType_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "AGILE SECURITY CENTER",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Agile Security Center",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Agile Security Center",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.agileBuildingFeatures",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.qtyOfGatewayForLiftNet_SP": {
+      "name": "Building_Configuration.Parameters_SP.qtyOfGatewayForLiftNet_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "qtyOfGatewayForLiftNet_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "GATEWAY FOR LIFTNET",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Gateway for LiftNet interface",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Gateway for LiftNet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12 pl-0",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 8,
+          "type": "number"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Gateway for LiftNet should be between 0 - 8",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.networkingequipment",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.interGroupEmergencyPower_SP": {
+      "name": "Building_Configuration.Parameters_SP.interGroupEmergencyPower_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "interGroupEmergencyPower_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "INTER-GROUP EMERGENCY POWER",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Inter-group Emergency Power",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.intergroupEmergencyPower",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.qtyOfGroupEthernetBoxWIMSSoftwareOnly_SP": {
+      "name": "Building_Configuration.Parameters_SP.qtyOfGroupEthernetBoxWIMSSoftwareOnly_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "qtyOfGroupEthernetBoxWIMSSoftwareOnly_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "GROUP ETHERNET BOX WITH IMS SOFTWARE ONLY",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Group ethernet box and software only",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Group Ethernet Box w/ IMS Software Only",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.networkingequipment",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 8,
+          "type": "number"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Group Ethernet Box w/ IMS Software should be between 0 - 8",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.mediaConverterAndPowerSource_SP": {
+      "name": "Building_Configuration.Parameters_SP.mediaConverterAndPowerSource_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "mediaConverterAndPowerSource_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "MDEIA COVERTER AND POWER SOURCE",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Media Converter & Power Source",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Media Converter & Power Source",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.networkingequipment",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 8,
+          "type": "number"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Media Converter & Power Source should be between 0 - 8",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.interGroupStarBox_SP": {
+      "name": "Building_Configuration.Parameters_SP.interGroupStarBox_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "interGroupStarBox_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "MEDIA CONVERTER AND POWER SOURCE",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Inter-group Star Box",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Inter-group Star Box",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.networkingequipment",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 8,
+          "type": "number"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Inter-group Star Box should be between 0 - 8",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.cGADevices_SP": {
+      "name": "Building_Configuration.Parameters_SP.cGADevices_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "cGADevices_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "CGA DEVICES",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "CGA Devices",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select CGA Devices",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.networkingequipment",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 8,
+          "type": "number"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "CGA Devices should be between 0 - 8",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.fiberOpticConnectorsSetOf4_SP": {
+      "name": "Building_Configuration.Parameters_SP.fiberOpticConnectorsSetOf4_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "fiberOpticConnectorsSetOf4_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "FIBER OPTIC CONNECTOR (SET OF 4)",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Fiber Optic Cable Length",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Fiber Optic Connectors (Set of 4)",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.networkingequipment",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.cat5CableFeetRequired_SP": {
+      "name": "Building_Configuration.Parameters_SP.cat5CableFeetRequired_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "cat5CableFeetRequired_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "CAT % CABLE LENGTH",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetinchinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "7",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Cat 5 Cable Length",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 144,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Cat 5 Cable Length",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter inch value less than 12",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.networkingequipment",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.includeAGILEDesignCenter_SP": {
+      "name": "Building_Configuration.Parameters_SP.includeAGILEDesignCenter_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "includeAGILEDesignCenter_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "AGILE DESIGN CENTER",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Agile Design Center",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Agile Design Center",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.agileBuildingFeatures",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.qtyKiosksOver300Ft_SP": {
+      "name": "Building_Configuration.Parameters_SP.qtyKiosksOver300Ft_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "qtyKiosksOver300Ft_SP",
+          "type": "String"
+        },
+        {
+          "id": "description",
+          "value": "QUANTITY OF KIOSKS OVER 300 FT FROM CONTROLLER",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Qty Of Kiosks Over 300' From Controller",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Qty Of Kiosks Over 300' From Controller",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-12",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.agileBuildingFeatures",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.iMSOwnersStandard_SP": {
+      "name": "Building_Configuration.Parameters_SP.iMSOwnersStandard_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "iMSOwnersStandard_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.agileBuildingFeatures",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Standard Qty",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Standard Qty",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.qtyOfIMSOwnersEnhanced_SP": {
+      "name": "Building_Configuration.Parameters_SP.qtyOfIMSOwnersEnhanced_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "qtyOfIMSOwnersEnhanced_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.networkingequipment",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Enhanced Qty",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Enhanced Qty",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.MRP": {
+      "name": "Building_Configuration.Parameters.MRP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "MRP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Smart Rescue Phone",
+          "type": "String"
+        },
+        {
+          "id": "ccsclass",
+          "value": "col-3",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Smart Rescue Phone",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.FIREBOX": {
+      "name": "Building_Configuration.Parameters.FIREBOX",
+      "properties": [
+        {
+          "id": "key",
+          "value": "FIREBOX",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Fire Key Box",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Fire Key Box",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.PHJKF": {
+      "name": "Building_Configuration.Parameters.PHJKF",
+      "properties": [
+        {
+          "id": "key",
+          "value": "PHJKF",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Fire Phone Jack",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Fire Phone Jack",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.FIREAD_SP": {
+      "name": "Building_Configuration.Parameters_SP.FIREAD_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "FIREAD_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerGroup",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Fire Service Key-switch (2 position)",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Fire Service Key-switch",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.emergencyPowerSwitchLobby_SP": {
+      "name": "Building_Configuration.Parameters_SP.emergencyPowerSwitchLobby_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "emergencyPowerSwitchLobby_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Emergency Power Key-switch",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerGroup",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Emergency Power Key-switch",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.doorOpenSignalJewel_SP": {
+      "name": "Building_Configuration.Parameters_SP.doorOpenSignalJewel_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "doorOpenSignalJewel_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Door Open Signal Jewel",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "Building_Configuration.Parameters_SP",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Door Open Signal Jewel",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.mountingProvisionsForMonitor_SP": {
+      "name": "Building_Configuration.Parameters_SP.mountingProvisionsForMonitor_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "mountingProvisionsForMonitor_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Mounting Provisions for Monitor",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Mounting Provisions for Monitor",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.IsSmartRescue10_Bool_SP": {
+      "name": "Building_Configuration.Parameters_SP.IsSmartRescue10_Bool_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "IsSmartRescue10_Bool_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Smart Rescue Phone 10",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Smart Rescue Phone 10",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.IsSmartRescue5_Bool_SP": {
+      "name": "Building_Configuration.Parameters_SP.IsSmartRescue5_Bool_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "IsSmartRescue5_Bool_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "7",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Smart Rescue Phone 5",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Smart Rescue Phone 5",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone10_Lobby_SP": {
+      "name": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone10_Lobby_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "qtyOfSmartRescuePhone10_Lobby_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "8",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Quantity",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Qty",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please Select Qty below 1000",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone5_Lobby_SP": {
+      "name": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone5_Lobby_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "qtyOfSmartRescuePhone5_Lobby_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "8",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Quantity",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Qty",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please Select Qty below 1000",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.EMPI": {
+      "name": "Building_Configuration.Parameters.EMPI",
+      "properties": [
+        {
+          "id": "key",
+          "value": "EMPI",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Emergency Power Jewel",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerUnit",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Emergency Power Jewel",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.RETURN": {
+      "name": "Building_Configuration.Parameters.RETURN",
+      "properties": [
+        {
+          "id": "key",
+          "value": "RETURN",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Lobby Recall Switch",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerUnit",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Lobby Recall Switch",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.PARK": {
+      "name": "Building_Configuration.Parameters.PARK",
+      "properties": [
+        {
+          "id": "key",
+          "value": "PARK",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Car Homing and shutdown switch",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerUnit",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Car Homing and shutdown switch",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters.HALLFIN": {
+      "name": "Building_Configuration.Parameters.HALLFIN",
+      "properties": [
+        {
+          "id": "key",
+          "value": "HALLFIN",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerUnit",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Finish",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.intercomSpace_SP": {
+      "name": "Building_Configuration.Parameters_SP.intercomSpace_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "intercomSpace_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Space for Intercom (Speaker Pattern)",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Space for Intercom",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.specialEngraving_SP": {
+      "name": "Building_Configuration.Parameters_SP.specialEngraving_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "specialEngraving_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Special Engraving",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerPanel",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Special Engraving",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.digitalPI_SP": {
+      "name": "Building_Configuration.Parameters_SP.digitalPI_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "digitalPI_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "7",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Digital Position Indicators",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerUnit",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Digital Position Indicators",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.inServiceJewel_SP": {
+      "name": "Building_Configuration.Parameters_SP.inServiceJewel_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "inServiceJewel_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Service Jewels",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerUnit",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Operating Status Indicators",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.loweringSequenceJewel_SP": {
+      "name": "Building_Configuration.Parameters_SP.loweringSequenceJewel_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "loweringSequenceJewel_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Lowering Sequence Complete Jewel",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FeaturesPerUnit",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Lowering Sequence Complete Jewel",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.controllerBACNet_SP": {
+      "name": "Building_Configuration.Parameters_SP.controllerBACNet_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "controllerBACNet_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "buildingEquipment.agileBuildingFeatures",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "BACNet",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select BACNet",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone5_StndAlone_SP": {
+      "name": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone5_StndAlone_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "qtyOfSmartRescuePhone5_StndAlone_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "Building_Configuration.Parameters",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Smart Rescue Phone 5 - Qty",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Qty",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please Select Qty below 1000",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone10_StndAlone_SP": {
+      "name": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone10_StndAlone_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "qtyOfSmartRescuePhone10_StndAlone_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "Building_Configuration.Parameters",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "Smart Rescue Phone 10 - Qty",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Qty",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please Select Qty below 1000",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-6 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Building_Configuration.Parameters_SP.lobbyPanel_SP": {
+      "name": "Building_Configuration.Parameters_SP.lobbyPanel_SP",
+      "properties": [
+        {
+          "id": "key",
+          "value": "lobbyPanel_SP",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "String"
+        },
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        },
+        {
+          "id": "subsection",
+          "value": "LobbyPanel.FixtureType",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": false,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-3",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "options": {
+    "304": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "#8 Stainless Steel (304)",
+          "type": "String"
+        }
+      ]
+    },
+    "316": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "#4 Stainless Steel (316))",
+          "type": "String"
+        }
+      ]
+    },
+    "441": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "#4 Stainless Steel (441))",
+          "type": "String"
+        }
+      ]
+    },
+    "464": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Graystone|464",
+          "type": "String"
+        }
+      ]
+    },
+    "719": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Lava|719",
+          "type": "String"
+        }
+      ]
+    },
+    "837": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Copper|837",
+          "type": "String"
+        }
+      ]
+    },
+    "839": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Stop Red|839",
+          "type": "String"
+        }
+      ]
+    },
+    "948": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Stone|948",
+          "type": "String"
+        }
+      ]
+    },
+    "965": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Flint|965",
+          "type": "String"
+        }
+      ]
+    },
+    "1996": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "1996",
+          "type": "String"
+        }
+      ]
+    },
+    "1998": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "1998",
+          "type": "String"
+        }
+      ]
+    },
+    "2000": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2000",
+          "type": "String"
+        }
+      ]
+    },
+    "2003": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2003",
+          "type": "String"
+        }
+      ]
+    },
+    "2004": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2004",
+          "type": "String"
+        }
+      ]
+    },
+    "2005": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2005",
+          "type": "String"
+        }
+      ]
+    },
+    "2007": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2007",
+          "type": "String"
+        }
+      ]
+    },
+    "2008": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2008",
+          "type": "String"
+        }
+      ]
+    },
+    "2009": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2009",
+          "type": "String"
+        }
+      ]
+    },
+    "2010": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2010",
+          "type": "String"
+        }
+      ]
+    },
+    "2013": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2013",
+          "type": "String"
+        }
+      ]
+    },
+    "2014": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2014",
+          "type": "String"
+        }
+      ]
+    },
+    "2016": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "2016",
+          "type": "String"
+        }
+      ]
+    },
+    "3502": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "5 Pin Keyed Lock| 3502",
+          "type": "String"
+        }
+      ]
+    },
+    "6206": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Planked Deluxe Pear|6206",
+          "type": "String"
+        }
+      ]
+    },
+    "7197": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Dover White|7197",
+          "type": "String"
+        }
+      ]
+    },
+    "7759": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Select Cherry|7759",
+          "type": "String"
+        }
+      ]
+    },
+    "8792": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Winter Sky|8792",
+          "type": "String"
+        }
+      ]
+    },
+    "8794": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Enamel|8794",
+          "type": "String"
+        }
+      ]
+    },
+    "8795": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Matrix Blue|8795",
+          "type": "String"
+        }
+      ]
+    },
+    "8826": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Neutral Twill|8826",
+          "type": "String"
+        }
+      ]
+    },
+    "8827": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Sarum Twill|8827",
+          "type": "String"
+        }
+      ]
+    },
+    "8902": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "White Painted Wood|8902",
+          "type": "String"
+        }
+      ]
+    },
+    "8905": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Waxed Maple|8905",
+          "type": "String"
+        }
+      ]
+    },
+    "8906": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Danish Maple|8906",
+          "type": "String"
+        }
+      ]
+    },
+    "8907": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Fox Teakwood|8907",
+          "type": "String"
+        }
+      ]
+    },
+    "8908": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Storm Teakwood|8908",
+          "type": "String"
+        }
+      ]
+    },
+    "8915": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Wallnut Fiberwood|8915",
+          "type": "String"
+        }
+      ]
+    },
+    "8916": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Blackened Fiberwood|8826",
+          "type": "String"
+        }
+      ]
+    },
+    "8958": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Bubble Art Matte|8958",
+          "type": "String"
+        }
+      ]
+    },
+    "ALUM": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Aluminium",
+          "type": "String"
+        }
+      ]
+    },
+    "1SLH": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Single Speed Left Hand",
+          "type": "String"
+        }
+      ]
+    },
+    "1SRH": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Single Speed Right Hand",
+          "type": "String"
+        }
+      ]
+    },
+    "2SLH": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Two Speed Left Hand",
+          "type": "String"
+        }
+      ]
+    },
+    "2SRH": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Two Speed Right Hand",
+          "type": "String"
+        }
+      ]
+    },
+    "CO": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Center Opening",
+          "type": "String"
+        }
+      ]
+    },
+    "14GA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "14 gauge | Black Cold-rolled  Steel",
+          "type": "String"
+        }
+      ]
+    },
+    "16GA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "16 Gauge| Galvanized",
+          "type": "String"
+        }
+      ]
+    },
+    "F-114": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Reflective White|F-114",
+          "type": "String"
+        }
+      ]
+    },
+    "F-101": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Finish 101",
+          "type": "String"
+        }
+      ]
+    },
+    "CBC": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "California Building Code",
+          "type": "String"
+        }
+      ]
+    },
+    "IBC": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "International Building Code",
+          "type": "String"
+        }
+      ]
+    },
+    "LEGACY": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Legacy Building Code of US",
+          "type": "String"
+        }
+      ]
+    },
+    "NBCC": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "National Building Code of Canada",
+          "type": "String"
+        }
+      ]
+    },
+    "1.0": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "1.0",
+          "type": "String"
+        }
+      ]
+    },
+    "1.5": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "1.5",
+          "type": "String"
+        }
+      ]
+    },
+    "A": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Seismic Design Category A",
+          "type": "String"
+        }
+      ]
+    },
+    "B": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Seismic Design Category B",
+          "type": "String"
+        }
+      ]
+    },
+    "C": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Seismic Design Category C",
+          "type": "String"
+        }
+      ]
+    },
+    "D": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Seismic Design Category D",
+          "type": "String"
+        }
+      ]
+    },
+    "E": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Seismic Design Category E",
+          "type": "String"
+        }
+      ]
+    },
+    "150MMROLL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "150 mm Core Bone Guides",
+          "type": "String"
+        }
+      ]
+    },
+    "4INROLL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "4 Inch Roller Guides",
+          "type": "String"
+        }
+      ]
+    },
+    "8INROLL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "8 Inch Roller Guides",
+          "type": "String"
+        }
+      ]
+    },
+    "HYDROLL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Omega Roller Guide| Hydraulic",
+          "type": "String"
+        }
+      ]
+    },
+    "HYDSLIDE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Omega Slide Guide| Hydraulic",
+          "type": "String"
+        }
+      ]
+    },
+    "T815SLIDE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "T8 and T15 Slide Guides",
+          "type": "String"
+        }
+      ]
+    },
+    "YUJESLIDE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "YUJE SLIDE GUIDES",
+          "type": "String"
+        }
+      ]
+    },
+    "ACLAROLL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Acla Roller Guides",
+          "type": "String"
+        }
+      ]
+    },
+    "ACLASLIDE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Acla Slide Guides",
+          "type": "String"
+        }
+      ]
+    },
+    "EXTERNAL_LIST": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "EXTERNAL LIST FOR ENGINEERING OFFERINGS",
+          "type": "String"
+        }
+      ]
+    },
+    "NR": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Not Required",
+          "type": "String"
+        }
+      ]
+    },
+    "BC1": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Basic Center Light",
+          "type": "String"
+        }
+      ]
+    },
+    "DOWN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Downlight LED",
+          "type": "String"
+        }
+      ]
+    },
+    "ISLDOWN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Island Downlight",
+          "type": "String"
+        }
+      ]
+    },
+    "PERILIGHT": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Perimeter Lighting",
+          "type": "String"
+        }
+      ]
+    },
+    "SUSP": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Suspended Grid LED",
+          "type": "String"
+        }
+      ]
+    },
+    "ALUMFD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Aluminum Full Depth",
+          "type": "String"
+        }
+      ]
+    },
+    "BRNZ": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Bronze",
+          "type": "String"
+        }
+      ]
+    },
+    "BRNZFD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Bronze Full Depth",
+          "type": "String"
+        }
+      ]
+    },
+    "NICKEL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Nickel Silver",
+          "type": "String"
+        }
+      ]
+    },
+    "NICKELFD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Nickel Silver Full Depth",
+          "type": "String"
+        }
+      ]
+    },
+    "5PIN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "5 Pin Keyed Lock",
+          "type": "String"
+        }
+      ]
+    },
+    "ADASHELL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Steel Shell ADA Compliant",
+          "type": "String"
+        }
+      ]
+    },
+    "FIXAP": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Fixed Applied Panel",
+          "type": "String"
+        }
+      ]
+    },
+    "LAMPAN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Laminate Plastic (Wood Wall)",
+          "type": "String"
+        }
+      ]
+    },
+    "REMAP": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Removable Applied Panel",
+          "type": "String"
+        }
+      ]
+    },
+    "SSHELL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Steel Shell",
+          "type": "String"
+        }
+      ]
+    },
+    "PROPADBUT": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Protection Pads with Pad Buttons",
+          "type": "String"
+        }
+      ]
+    },
+    "PROPADHK": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Protection Pads with Pad Hooks",
+          "type": "String"
+        }
+      ]
+    },
+    "KEYPAD43": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Kiosk| 4.3 inch with Keypad",
+          "type": "String"
+        }
+      ]
+    },
+    "TSK12": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Touch Screen Kiosk| 12 inch",
+          "type": "String"
+        }
+      ]
+    },
+    "TSK7": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Touch Screen Kiosk| 7 inch",
+          "type": "String"
+        }
+      ]
+    },
+    "TURN7": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Touch Screen Kiosk| Turnstile| 7 inch",
+          "type": "String"
+        }
+      ]
+    },
+    "CAMERA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Camera Module",
+          "type": "String"
+        }
+      ]
+    },
+    "CARD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Card Reader Module",
+          "type": "String"
+        }
+      ]
+    },
+    "NFC": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Near Field Communication",
+          "type": "String"
+        }
+      ]
+    },
+    "2D": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Two Dimensional Operation",
+          "type": "String"
+        }
+      ]
+    },
+    "2DPLUS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Two Dimensional Operation with Fail Safe",
+          "type": "String"
+        }
+      ]
+    },
+    "3D2D": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Two Dimensional Operation with additional 3D",
+          "type": "String"
+        }
+      ]
+    },
+    "3D2DPLUS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Two Dimensional Operation with Fail Safe with additional 3D",
+          "type": "String"
+        }
+      ]
+    },
+    "BOTTOM": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Bottom Only",
+          "type": "String"
+        }
+      ]
+    },
+    "TAB": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Top and Bottom",
+          "type": "String"
+        }
+      ]
+    },
+    "TOP": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Top Only",
+          "type": "String"
+        }
+      ]
+    },
+    "CMRDFM": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Cast Metal| Round Disc| Black Background| White Character| Flush Mount",
+          "type": "String"
+        }
+      ]
+    },
+    "ENGRAVE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Engraved",
+          "type": "String"
+        }
+      ]
+    },
+    "SMP": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Surface Mount Plate",
+          "type": "String"
+        }
+      ]
+    },
+    "CEES1BLUE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "CE Electronics Segmented| 1 inch Blue",
+          "type": "String"
+        }
+      ]
+    },
+    "CEES1RED": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "CE Electronics Segmented| 1 inch Red",
+          "type": "String"
+        }
+      ]
+    },
+    "CEES2BLUE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "CE Electronics Segmented| 2 inch Blue",
+          "type": "String"
+        }
+      ]
+    },
+    "CEES2RED": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "CE Electronics Segmented| 2 inch Red",
+          "type": "String"
+        }
+      ]
+    },
+    "CPI1BLUE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Can Position Indicator| Electronic Dox Matrix| 1 inch Blue",
+          "type": "String"
+        }
+      ]
+    },
+    "CPI1RED": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Can Position Indicator| Electronic Dox Matrix| 1 inch Red",
+          "type": "String"
+        }
+      ]
+    },
+    "CPI2RED": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Can Position Indicator| Electronic Dox Matrix| 2 inch Red",
+          "type": "String"
+        }
+      ]
+    },
+    "CPI2BLUE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Can Position Indicator| Electronic Dox Matrix| 2 inch Blue",
+          "type": "String"
+        }
+      ]
+    },
+    "BLUE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Blue",
+          "type": "String"
+        }
+      ]
+    },
+    "GREEN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Green",
+          "type": "String"
+        }
+      ]
+    },
+    "RED": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Red",
+          "type": "String"
+        }
+      ]
+    },
+    "WHITE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "White",
+          "type": "String"
+        }
+      ]
+    },
+    "CRLTRAD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Traditional",
+          "type": "String"
+        }
+      ]
+    },
+    "CRLVAN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Vandal",
+          "type": "String"
+        }
+      ]
+    },
+    "MRP10": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "10-Unit Group Phone",
+          "type": "String"
+        }
+      ]
+    },
+    "MRP5": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Five-Unit Group Phone",
+          "type": "String"
+        }
+      ]
+    },
+    "ENGVRB": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "No Smoking Verbiage Engraved",
+          "type": "String"
+        }
+      ]
+    },
+    "NSSCAST": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Cast",
+          "type": "String"
+        }
+      ]
+    },
+    "NSSENG": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Engraved",
+          "type": "String"
+        }
+      ]
+    },
+    "AUXCOP": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Auxiliary COP",
+          "type": "String"
+        }
+      ]
+    },
+    "MAINCOP": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Main COP",
+          "type": "String"
+        }
+      ]
+    },
+    "FEMALE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Female",
+          "type": "String"
+        }
+      ]
+    },
+    "MALE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Male",
+          "type": "String"
+        }
+      ]
+    },
+    "HIS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Hall Station with Indicator",
+          "type": "String"
+        }
+      ]
+    },
+    "WMSI": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Wall Mounted with Indicator",
+          "type": "String"
+        }
+      ]
+    },
+    "ROUCAN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Round Lantern CAN PI",
+          "type": "String"
+        }
+      ]
+    },
+    "ROUCE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Round Lantern CE PI",
+          "type": "String"
+        }
+      ]
+    },
+    "TRICAN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Triangle Lantern CAN PI",
+          "type": "String"
+        }
+      ]
+    },
+    "TRICE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Triangle Lantern CE PI",
+          "type": "String"
+        }
+      ]
+    },
+    "VANCAN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Vandal Lantern CAN PI",
+          "type": "String"
+        }
+      ]
+    },
+    "VANCE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Vandal Lantern CE PI",
+          "type": "String"
+        }
+      ]
+    },
+    "VANVAN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Vandal Lantern Vandal PI",
+          "type": "String"
+        }
+      ]
+    },
+    "HS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Hall Station",
+          "type": "String"
+        }
+      ]
+    },
+    "WMS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Wall Mounted",
+          "type": "String"
+        }
+      ]
+    },
+    "APPHS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Appendix H or O Pictograph | Flame | Hall Station",
+          "type": "String"
+        }
+      ]
+    },
+    "APPWMS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Appendix H or O Pictograph | Flame | Wall Mounted",
+          "type": "String"
+        }
+      ]
+    },
+    "FLS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Flashing Hall Signage",
+          "type": "String"
+        }
+      ]
+    },
+    "INCASE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Instructional Engraving | In case of fire use stairway for exit, do not use elevator.",
+          "type": "String"
+        }
+      ]
+    },
+    "INFIRE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Instructional Engraving | In fire emergency do not use elevator - use exit stairs.",
+          "type": "String"
+        }
+      ]
+    },
+    "WARN": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Instructional Engraving | Warning elevators shall not be used in case of fire or electrical emergency, use use designated exits.",
+          "type": "String"
+        }
+      ]
+    },
+    "APPLIED": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Applied Signage",
+          "type": "String"
+        }
+      ]
+    },
+    "FLRMRKF": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Floor Marking| any Alpha| Numeric or Alpha-Numeric Marking| Front Opening",
+          "type": "String"
+        }
+      ]
+    },
+    "FLRMRKR": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Floor Marking| any Alpha| Numeric or Alpha-Numeric Marking| Rear Opening",
+          "type": "String"
+        }
+      ]
+    },
+    "T2": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Polycarbonate Button with Steel Bezel",
+          "type": "String"
+        }
+      ]
+    },
+    "T2A": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Polycarbonate Button with Steel Bezel| with Arrows",
+          "type": "String"
+        }
+      ]
+    },
+    "V10": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Metal Button| Bezel Illumination| Stainless Appearance",
+          "type": "String"
+        }
+      ]
+    },
+    "V2": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Metal Button| Center Illumination| Stainless Appearance",
+          "type": "String"
+        }
+      ]
+    },
+    "V6": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Metal Button| Center Illumination| Bronze Appearance",
+          "type": "String"
+        }
+      ]
+    },
+    "V7": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Metal Button| Bezel Illumination| Stainless Appearance",
+          "type": "String"
+        }
+      ]
+    },
+    "V8": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Metal Button| Bezel Illumination| Bronze Appearance",
+          "type": "String"
+        }
+      ]
+    },
+    "V9": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Metal Button| Bezel Illumination| Bronze Appearance",
+          "type": "String"
+        }
+      ]
+    },
+    "EJMFLTL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Entrance Column Mount Faceless | Top Landing",
+          "type": "String"
+        }
+      ]
+    },
+    "EJMFPTL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Entrance Column Mount with Faceplate | Top Landing",
+          "type": "String"
+        }
+      ]
+    },
+    "HSTL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Hall Station | Top Landing",
+          "type": "String"
+        }
+      ]
+    },
+    "WMTLS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Wall Mounted | Top Landing | Separate",
+          "type": "String"
+        }
+      ]
+    },
+    "APPLIEDCA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Adhesive Backed| Applied| Embossed Metal| Surface Mount",
+          "type": "String"
+        }
+      ]
+    },
+    "APPLIEDEM": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Adhesive Backed| Applied| Embossed Metal| Surface Mount",
+          "type": "String"
+        }
+      ]
+    },
+    "CFM": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Die Cast Metal| Flush Mount| Mechanically Fastened",
+          "type": "String"
+        }
+      ]
+    },
+    "CFMCA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Die Cast Metal| Flush Mount| Mechanically Fastened",
+          "type": "String"
+        }
+      ]
+    },
+    "CSMT": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Die Cast Metal| Surface Mount| Mechanically Fastened",
+          "type": "String"
+        }
+      ]
+    },
+    "CSMTCA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Die Cast Metal| Surface Mount| Mechanically Fastened",
+          "type": "String"
+        }
+      ]
+    },
+    "HORZ": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Horizontal",
+          "type": "String"
+        }
+      ]
+    },
+    "VERT": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Vertical",
+          "type": "String"
+        }
+      ]
+    },
+    "CILS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Cast Inlaid Star of Life",
+          "type": "String"
+        }
+      ]
+    },
+    "CSM": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Cast Surface Mount Star of Life",
+          "type": "String"
+        }
+      ]
+    },
+    "ROUND": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Round",
+          "type": "String"
+        }
+      ]
+    },
+    "TRIANGLE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Triangle",
+          "type": "String"
+        }
+      ]
+    },
+    "VANDAL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Vandal",
+          "type": "String"
+        }
+      ]
+    },
+    "CANPI": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Electronic Dot Matrix",
+          "type": "String"
+        }
+      ]
+    },
+    "CEPI": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Segmented",
+          "type": "String"
+        }
+      ]
+    },
+    "VANPI": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Vandal",
+          "type": "String"
+        }
+      ]
+    },
+    "FACTORY": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "By Factory",
+          "type": "String"
+        }
+      ]
+    },
+    "OTHERS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Others",
+          "type": "String"
+        }
+      ]
+    },
+    "2SCO": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Two Speed Center Opening",
+          "type": "String"
+        }
+      ]
+    },
+    "CRS": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Cold Rolled Steel",
+          "type": "String"
+        }
+      ]
+    },
+    "HPL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "High Pressure Laminate",
+          "type": "String"
+        }
+      ]
+    },
+    "KDHCLAD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "\"Knockdown \"H\" Frame| Clad| Transom Between Columns\"",
+          "type": "String"
+        }
+      ]
+    },
+    "KDOWNH": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "\"Knockdown \"H\" Frame| Transom Between Columns\"",
+          "type": "String"
+        }
+      ]
+    },
+    "KDOWNT": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Standard \"T\" Frame",
+          "type": "String"
+        }
+      ]
+    },
+    "KDTCLAD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "\"Knockdown \"T\" Frame| Clad| Transom Top of Columns\"",
+          "type": "String"
+        }
+      ]
+    },
+    "WELD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Welded",
+          "type": "String"
+        }
+      ]
+    },
+    "DRYWALL": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Dry Wall",
+          "type": "String"
+        }
+      ]
+    },
+    "MASONRY": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Masonry",
+          "type": "String"
+        }
+      ]
+    },
+    "A17.1": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "National Code Adopted in Entirety",
+          "type": "String"
+        }
+      ]
+    },
+    "AZ": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Arizona",
+          "type": "String"
+        }
+      ]
+    },
+    "AZP": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Arizona| Phoenix",
+          "type": "String"
+        }
+      ]
+    },
+    "B44": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Canada B44",
+          "type": "String"
+        }
+      ]
+    },
+    "CA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "California",
+          "type": "String"
+        }
+      ]
+    },
+    "CH": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Chicago",
+          "type": "String"
+        }
+      ]
+    },
+    "DE": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Detroit",
+          "type": "String"
+        }
+      ]
+    },
+    "F1": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Florida Zone 1",
+          "type": "String"
+        }
+      ]
+    },
+    "F2": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Florida Zone 2",
+          "type": "String"
+        }
+      ]
+    },
+    "F3": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Florida Zone 3",
+          "type": "String"
+        }
+      ]
+    },
+    "F4": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Florida Zone 4",
+          "type": "String"
+        }
+      ]
+    },
+    "F5": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Florida Zone 5",
+          "type": "String"
+        }
+      ]
+    },
+    "F6": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Florida Zone 6",
+          "type": "String"
+        }
+      ]
+    },
+    "F7": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Florida Zone 7",
+          "type": "String"
+        }
+      ]
+    },
+    "LA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Louisiana",
+          "type": "String"
+        }
+      ]
+    },
+    "MA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Massachusetts",
+          "type": "String"
+        }
+      ]
+    },
+    "MD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Maryland",
+          "type": "String"
+        }
+      ]
+    },
+    "ME": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Maine",
+          "type": "String"
+        }
+      ]
+    },
+    "MI": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Michigan",
+          "type": "String"
+        }
+      ]
+    },
+    "NH": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "New Hampshire",
+          "type": "String"
+        }
+      ]
+    },
+    "NJ": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "New Jersey",
+          "type": "String"
+        }
+      ]
+    },
+    "NV": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Nevada",
+          "type": "String"
+        }
+      ]
+    },
+    "NY": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "New York City",
+          "type": "String"
+        }
+      ]
+    },
+    "RI": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Rhode Island",
+          "type": "String"
+        }
+      ]
+    },
+    "SC": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "South Carolina",
+          "type": "String"
+        }
+      ]
+    },
+    "WA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Washington",
+          "type": "String"
+        }
+      ]
+    },
+    "TEXT": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "BUILDING NAME",
+          "type": "String"
+        }
+      ]
+    },
+    "Left": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "LEFT HAND DOORS",
+          "type": "String"
+        }
+      ]
+    },
+    "Right": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "RIGHT HAND DOORS",
+          "type": "String"
+        }
+      ]
+    },
+    "Center": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "CENTER OPENING DOORS",
+          "type": "String"
+        }
+      ]
+    },
+    "": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    "ETA": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Traditional",
+          "type": "String"
+        }
+      ]
+    },
+    "ETD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Agile Destination",
+          "type": "String"
+        }
+      ]
+    },
+    "ETA/ETD": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Agile Select",
+          "type": "String"
+        }
+      ]
+    },
+    "0.375": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "3/8 inch",
+          "type": "String"
+        }
+      ]
+    },
+    "0.75": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "3/4 inch",
+          "type": "String"
+        }
+      ]
+    },
+    "F-105": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Cedar Brown|F-105",
+          "type": "String"
+        }
+      ]
+    },
+    "F-112": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Black|F-112",
+          "type": "String"
+        }
+      ]
+    },
+    "F-113": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Shop Coat (Black)|F-113",
+          "type": "String"
+        }
+      ]
+    },
+    "F-200": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Gray(Hi-Gloss)|F-200",
+          "type": "String"
+        }
+      ]
+    },
+    "F-400": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Gray Primer (Low Gloss)|F-400",
+          "type": "String"
+        }
+      ]
+    },
+    "F-117": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Safety Yellow|F-117",
+          "type": "String"
+        }
+      ]
+    },
+    "F-118": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Red|F-118",
+          "type": "String"
+        }
+      ]
+    },
+    "F-119": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Chalkboard|F-119",
+          "type": "String"
+        }
+      ]
+    },
+    "F-120": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Hibiscus|F-120",
+          "type": "String"
+        }
+      ]
+    },
+    "F-121": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Clover|F-121",
+          "type": "String"
+        }
+      ]
+    },
+    "F-122": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Whistle Red|F-122",
+          "type": "String"
+        }
+      ]
+    },
+    "F-124": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Coral Cables|F-124",
+          "type": "String"
+        }
+      ]
+    },
+    "F-125": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Chai|F-125",
+          "type": "String"
+        }
+      ]
+    },
+    "F-126": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Mustard Seed|F-126",
+          "type": "String"
+        }
+      ]
+    },
+    "F-127": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Field Coat|F-127",
+          "type": "String"
+        }
+      ]
+    },
+    "F-128": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Prairie Grass|F-128",
+          "type": "String"
+        }
+      ]
+    },
+    "F-129": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Elephant Ear|F-129",
+          "type": "String"
+        }
+      ]
+    },
+    "F-130": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Blue Phantina|F-130",
+          "type": "String"
+        }
+      ]
+    },
+    "F-131": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Smoked Silver|F-131",
+          "type": "String"
+        }
+      ]
+    },
+    "F-132": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Toasted Cotton|F-132",
+          "type": "String"
+        }
+      ]
+    },
+    "F-133": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Reclaimed Gray|F-133",
+          "type": "String"
+        }
+      ]
+    },
+    "F-151": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Ultramarine Blue|F-151",
+          "type": "String"
+        }
+      ]
+    },
+    "F-152": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Carmine Red|F-152",
+          "type": "String"
+        }
+      ]
+    },
+    "F-153": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "May Green|F-153",
+          "type": "String"
+        }
+      ]
+    },
+    "F-154": {
+      "properties": [
+        {
+          "id": "displayname",
+          "value": "Yellow Orange|F-154",
+          "type": "String"
+        }
+      ]
+    }
+  }
+}

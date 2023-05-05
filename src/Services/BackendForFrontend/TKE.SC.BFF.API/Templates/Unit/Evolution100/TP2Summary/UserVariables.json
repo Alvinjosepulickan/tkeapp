@@ -1,0 +1,21 @@
+﻿{
+  "sections": [
+    {
+      "id": "UserVariables",
+      "variables": [
+        {
+          "id": "CorporateAssistance"
+        },
+        {
+          "id": "CorporateSubsidies"
+        },
+        {
+          "id": "StrategicDiscount"
+        },
+        {
+          "id": "ManufacturingComments"
+        }
+      ]
+    }
+  ]
+}

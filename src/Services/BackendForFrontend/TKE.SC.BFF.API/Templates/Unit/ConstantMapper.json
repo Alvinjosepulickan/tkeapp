@@ -1,0 +1,222 @@
+﻿{
+  "UnitHallFixtureConstantMapper": {
+    "USERINTERFACEHALLFIN": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP",
+    "USERINTERFACEPICOLOR": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.User_Interface_Devices.Landing_Indicator_Panel_LIP.PICOLOR",
+    "BRAILLEPARAMETER": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP"
+  },
+  "CarFixtureConstantMapper": {
+    "CARRIDINGLANTERNQUANTITYSP": "ELEVATOR.Parameters_SP.carRidingLanternQty_SP",
+    "AGILECARFIXTURESECTION": "carFixture.agileCarFixtures"
+
+  },
+  "ETACARFIXTURE": [
+    "carFixture.carOperatingPanel",
+    "carFixture.capacityPlate",
+    "carFixture.copAndLockedCompartment",
+    "carFixture.auxiliaryCOP",
+    "carFixture.carRidingLantern",
+    "carFixture.carRidingLanternQuantity"
+  ],
+  "CabInterior": {
+    "BUMPERHEIGHT": "ELEVATOR.Parameters.BMPRLHGT",
+    "HANDRAILHEIGHT": "ELEVATOR.Parameters.HNDRLHGT",
+    "OTHERWEIGHT": "ELEVATOR.Parameters.FINFLRWT",
+    "HANDRAILTYPE": "ELEVATOR.Parameters_SP.handrailType_SP"
+  },
+  "OtherEquipment": {
+    "TOTALWIRING": "ELEVATOR.Parameters_SP.totalWiring_SP",
+    "COUNTERWEIGHTSAFETY": "ELEVATOR.Parameters.CWTSFTY",
+    "VFDWIRING": "ELEVATOR.Parameters_SP.VFD_SP",
+    "ADDITIONALWIRING": "ELEVATOR.Parameters_SP.additionalWiring_SP"
+  },
+  "GeneralInformation": {
+    "HOISTWAYDIMENSIONS": "hoistwayDimensionSelection",
+    "HOISTWAYDIMENSIONVARIABLE": "ELEVATOR.Parameters_SP.hoistwayDimensionSelection_SP",
+    "DEFAULTFRONTHANDVARIABLE": "ELEVATOR.Parameters_SP.frontDoorTypeAndHand_SP",
+    "DEFAULTREARHANDVARIABLE": "ELEVATOR.Parameters_SP.rearDoorTypeAndHand_SP",
+    "FRONTHANDVARIABLE": "Parameters_SP.frontDoorTypeAndHand_SP",
+    "REARHANDVARIABLE": "Parameters_SP.rearDoorTypeAndHand_SP",
+    "PREFIXELEVATOR": "ELEVATOR.",
+    "CAPACITY": "ELEVATOR.Parameters.CAPACITY",
+    "SPEED": "ELEVATOR.Parameters.CARSPEED",
+    "CARSPDHUT": "ELEVATOR.Parameters.CARSPDHUT",
+    "FRONTDOORHEIGHT": "ELEVATOR.Parameters.ENTDOHF",
+    "REARDOORHEIGHT": "ELEVATOR.Parameters.ENTDOHR",
+    "FRONTDOORWIDTH": "ELEVATOR.Parameters.ENTDOWF",
+    "REARDOORWIDTH": "ELEVATOR.Parameters.ENTDOWR",
+    "FRONTDOORTYPE": "ELEVATOR.Parameters.DOORTYPF",
+    "REARDOORTYPE": "ELEVATOR.Parameters.DOORTYPR"
+  },
+  "Entrances": {
+    "WALLTHICKNESS": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTHKF",
+    "CONTROLHERE": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.R100194993.Control_Here",
+    "CONTROLOC": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.CONTROLOC"
+  },
+  "ETAConsoles": [
+    "Hoistway_Access",
+    "Braille",
+    "Hall_Lantern",
+    "Hall_PI",
+    "Combo_Hall_Lantern/PI",
+    "Star_of_Life",
+    "Inconspicuous_Riser",
+    "Chicago_Fire",
+    "Lobby_Recall_Switch",
+    "Car_Homing_and_Shutdown",
+    "VIP_Service_Key_Switch"
+  ],
+  "ETDOrETA/ETDConsoles": [
+    "Hoistway_Access",
+    "Braille",
+    "Elevator_and_Floor_Designation_Braille",
+    "Hall_Elevator_Designation_Plate",
+    "Hall_Target_Indicator",
+    "Hall_Lantern",
+    "Hall_PI",
+    "Combo_Hall_Lantern/PI",
+    "Star_of_Life",
+    "Inconspicuous_Riser",
+    "Chicago_Fire",
+    "Lobby_Recall_Switch",
+    "Car_Homing_and_Shutdown",
+    "VIP_Service_Key_Switch"
+  ],
+  "SystemValidationConstantMapper": {
+    "EMPTYCARWEIGHTAPI": "EmptyCarWeightApi",
+    "SLINGWEIGHTAPI": "SlingWeightApi",
+    "MATERIALNAMEVALUES": "MaterialVariant:Material:ConfigurableMaterialName",
+    "MATERIALEXTERNALID": "MaterialVariant:Material:ExternalId"
+  },
+  "Tp2SummaryLandingIncludeSections": [
+    "ELEVATOR.ELEVATOR.FloorMatrix.ELEVATOR.FloorMatrix.LANDING#",
+    "ELEVATOR.ELEVATOR.FloorMatrix.ELEVATOR.FloorMatrix.LANDING#.ELEVATOR.FloorMatrix.LANDING#.PriceKey"
+  ],
+  "Tp2SummaryGeneralIncludeSections": [
+    "ELEVATOR",
+    "ELEVATOR.ELEVATOR.PriceKey",
+    "ELEVATOR.ELEVATOR.FloorMatrix"
+
+  ],
+  "UnitCommonMapper": {
+    "ELEVSYSPARAMETER": "ELEVATOR.Parameters.ELEVSYS",
+    "OPENFRONT": "ELEVATOR.Parameters.OPNFRTP",
+    "OPENREAR": "ELEVATOR.Parameters.OPNREARP",
+    "TRAVELVARIABLEID": "Elevator00#.Parameters.TRAVEL",
+    "TRAVELVARIABLEIDVALUE": "ELEVATOR.Parameters.TRAVEL",
+    "NUMBEROFFLOORSUNITPACKAGEVARIABLE": "ELEVATOR.Parameters.BLANDINGS",
+    "REGIONPARAMETER": "ELEVATOR.Parameters_SP.region_SP",
+    "ELELANDPPARAMETER": "ELEVATOR.Parameters.ELELANDP",
+    "TOTALOPENINGSPARAMETER": "ELEVATOR.Parameters_SP.TOTALOPENINGS_SP",
+    "BNKDISTANCE": "ELEVATOR.Parameters.BNKDIST",
+    "BNKSEMIDISTANCE": "Parameters.BNKDIST",
+    "GENERICVARIABLE": "ELEVATOR.Parameters.",
+    "CONTROLLERLANDINGVAL": "ELEVATOR.Parameters.CONTROLLDG",
+    "CARPOSITIONVAL": "ELEVATOR.Parameters.CARPOS",
+    "ELEVATIONPARAMETER": "Parameters.ELEVATION",
+    "FRONTVALUE": "Parameters.ENTF",
+    "REARVALUE": "Parameters.ENTR",
+    "FLOORMATRIXVALUE": "ELEVATOR.FloorMatrix.LANDING#",
+    "BLANDINGVARIABLE": "ELEVATOR.Parameters.BLANDINGS",
+    "NUMBEROFFLOORSSEMIUNITPACKAGEVARIABLES": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+    "PARAMETERCONTROLLOCATION": "ELEVATOR.Parameters_SP.controllerLocation_SP",
+    "CONTROLCLOSET": "ELEVATOR.Parameters.CTRLCLSTLOC",
+    "HOISTWAYENTRY": "ELEVATOR.Parameters.HWYENTPT",
+    "CONTROLROOMQUAD": "ELEVATOR.Parameters_SP.controlRoomQuad_SP",
+    "CONTROLROOMFLOOR": "Parameters_SP.controlRoomFloor_SP",
+    "BLANDINGS": "Building_Configuration.Parameters.BLANDINGS",
+    "CARPOSITIONVALFORVFD": "ELEVATOR001.Parameters.CARPOS",
+    "CONTROLLERLANDINGVALVFD": "ELEVATOR001.Parameters.CONTROLLDG",
+    "CONTROLROOMVALUE": "controlRoomQuad_SP",
+    "CONTROLROOMQUADSPVALUES": "Parameters.controlRoomQuad_SP",
+    "FLOORMATRIXVALUEFORVFD": "ELEVATOR001.FloorMatrix.LANDING#",
+    "CONTROLXVALUE": "controlRoomXdimension_SP",
+    "CONTROLYVALUE": "controlRoomYdimension_SP",
+    "NUMBEROFFLOORS": "Building_Configuration.Parameters.BLANDINGS",
+    "TOTALUNITSINPANEL": "ELEVATOR.Parameters_SP.totalUnitsInPanel_SP"
+  },
+  "ReleaseInfoDataPoints": [
+    "ELEVATOR.Parameters.CABAPFIN",
+    "ELEVATOR.Parameters.CABPANFIN",
+    "ELEVATOR.Parameters_SP.CABFRMFINMAT_SP",
+    "ELEVATOR.Parameters.CABDORFIN",
+    "ELEVATOR.Parameters.DOORTYPF",
+    "ELEVATOR.Parameters.DOORTYPR",
+    "ELEVATOR.Parameters.HNDRLHGT",
+    "ELEVATOR.Parameters_SP.handrailDrilling_SP",
+    "ELEVATOR002.Parameters.DBTYP",
+    "ELEVATOR002.Parameters.DBW",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PICOLOR",
+    "ELEVATOR.Parameters_SP.GFCI_SP",
+    "ELEVATOR.Parameters.CRLCU",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.COMBOF",
+    "ELEVATOR.Parameters_SP.totalWiring_SP"
+
+  ],
+  "DocumentGeneration": {
+    "WallThicknessFront": ".ENTWLTHKF",
+    "WallThicknessRear": ".ENTWLTHKF",
+    "FrameConstructionFront": ".ENTWLTYPF",
+    "FrameConstructionRear": ".ENTWLTYPF",
+    "FaceOfFrameFront": ".COLFACEF",
+    "FaceOfFrameRear": ".COLFACEF",
+    "FrameFinishFront": "ENTFRAFINMATF_SP",
+    "FrameFinishRear": "ENTFRAFINMATF_SP",
+    "HoistwaySillsFront": "ENTSILFINF",
+    "HoistwaySillsRear": "ENTSILFINF",
+    "HallLanternTypeFront": "HLTYPEF",
+    "HallLanternTypeRear": "HLTYPEF",
+    "HallPIFinish": "HALLFINMAT_SP",
+    "PICOLOR": "PICOLOR",
+    "COMBOFINISHFRONT": "HALLFINMAT_SP",
+    "COMBOFINISHREAR": "HALLFINMAT_SP",
+    "LANTERNSHAPEFRONT": "COMBOF",
+    "LANTERNSHAPEREAR": "COMBOF",
+    "INCONFFRONT": "INCONSWF",
+    "INCONFREAR": "INCONSWF",
+    "BRAILLETYPE": ".dDBraille_SP",
+    "DESIGNATIONPLATETYPE": ".dDHallFlagType_SP",
+    "ILLUMINATIONTYPE": ".dDHallFlagIllumination_SP",
+    "HALLTARGETINDICATOR": "dDHallTargetIndicator_SP",
+    "HALOCTOPF": "HALOCTOPF"
+  },
+  "DefaultVariableValue": {
+    "ELEVATOR.Parameters.BLANDINGS": 2
+  },
+  "ConsolesWithSwitchVariables": [
+    "Inconspicuous_Riser",
+    "Lobby_Recall_Switch",
+    "Car_Homing_and_Shutdown"
+  ],
+  "SwitchVariablesToBeRemoved": [
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.INCONSWF",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.RETURN",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PARK"
+  ],
+  "RangeValues": [
+    "ELEVATOR.Parameters.HWYDEP",
+    "ELEVATOR.Parameters.PITDEPTH",
+    "ELEVATOR.Parameters.HWYWID",
+    "ELEVATOR.Parameters.OVHEAD"
+  ],
+  "FloorServed": "Parameters.Num_FloorServed",
+  "FrontOpening": "Parameters.Num_FrontOpenings",
+  "RearOpening": "Parameters.Num_RearOpenings",
+
+  "CEScreenList": [
+    "CE Gearless",
+    "CE Geared",
+    "CE Hydraulic",
+    "Synergy"
+  ],
+  "VariablesRequiredForTP2SummaryPriceValuesCall": [
+    "ELEVATOR.Parameters_SP.totalUnitsInPanel_SP",
+    "ELEVATOR.Parameters.MCWT",
+    "ELEVATOR.PriceKey.FRONTSQFT",
+    "ELEVATOR.PriceKey.LINEARFT",
+    "ELEVATOR.PriceKey.TOTHATCH",
+    "ELEVATOR.PriceKey.governorRopeLength",
+    "ELEVATOR.Parameters_SP.TOTALOPENINGS_SP"
+  ]
+
+
+}

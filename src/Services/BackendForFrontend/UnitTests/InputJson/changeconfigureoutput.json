@@ -1,0 +1,510 @@
+
+    {
+      "sections": [
+        {
+          "id": "BldValidation",
+          "name": "Building Configuration",
+          "sections": [],
+          "variables": [
+            {
+              "id": "BldValidation.BLDGNAME",
+              "name": "Building Name",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "D2",
+                  "value": "D2",
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "InputField",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "BldValidation.FLOOR",
+              "name": "No of Floors",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868E+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": -7.9228162514264338E+28,
+                  "upper": 1.0,
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2",
+                  "value": 2.0,
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                },
+                {
+                  "type": "IntervalValue",
+                  "lower": 3.0,
+                  "upper": 7.9228162514264338E+28,
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "InputField",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "BldValidation.BLDGRISE",
+              "name": "Building Rise",
+              "valueType": "Number",
+              "distinctValueCount": 1.5845632502852868E+29,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "lower": -7.9228162514264334E+22,
+                  "upper": 29.999999,
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "30.0",
+                  "value": 30.0,
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                },
+                {
+                  "type": "IntervalValue",
+                  "lower": 30.000001,
+                  "upper": 7.9228162514264334E+22,
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "InputField",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "BldValidation.BLDGCODE",
+              "name": "Building Code",
+              "valueType": "String",
+              "distinctValueCount": 4.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "IBC-2",
+                  "value": "IBC-2",
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "CBC",
+                  "value": "CBC",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "LEGACY",
+                  "value": "LEGACY",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "NewEnumValue",
+                  "value": "NewEnumValue",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "DropDown",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "BldValidation.ASYEAR",
+              "name": "CODE YEAR",
+              "valueType": "String",
+              "distinctValueCount": 11.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "1996",
+                  "value": "1996",
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "1998",
+                  "value": "1998",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2000",
+                  "value": "2000",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2003",
+                  "value": "2003",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2004",
+                  "value": "2004",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2005",
+                  "value": "2005",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2014",
+                  "value": "2014",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2016",
+                  "value": "2016",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2017",
+                  "value": "2017",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "2018",
+                  "value": "2018",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "NR",
+                  "value": "NR",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "DropDown",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "BldValidation.BPV",
+              "name": "MainLine Voltage",
+              "valueType": "String",
+              "distinctValueCount": 3.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "208",
+                  "value": "208",
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "230",
+                  "value": "230",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "460",
+                  "value": "460",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "DropDown",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "BldValidation.Frequency",
+              "name": "Frequncy",
+              "valueType": "String",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "50 Hz",
+                  "value": "50",
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "60 Hz",
+                  "value": "60",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "Button",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "BldValidation.ELCode",
+              "name": "Elevator Code",
+              "valueType": "String",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "Evolution 100",
+                  "value": "Evo1",
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "Evolution 100",
+                  "value": "Evo100",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "DropDown",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "BldValidation.FireService",
+              "name": "Local Fire Service",
+              "valueType": "Boolean",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "False",
+                  "value": false,
+                  "properties": [],
+                  "assigned": "byDefault",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Default"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "True",
+                  "value": true,
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "Toggle",
+                  "type": "String"
+                }
+              ]
+            },
+            {
+              "id": "BldValidation.FreServiceCodes",
+              "name": "Fire Service Codes",
+              "valueType": "String",
+              "distinctValueCount": 2.0,
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "name": "FireServiceCode1",
+                  "value": "FireServiceCode1",
+                  "properties": [],
+                  "assigned": "byUser",
+                  "incompatible": false,
+                  "state": "Selected",
+                  "justification": "Assignment"
+                },
+                {
+                  "type": "SingletonValue",
+                  "name": "FireServiceCode2",
+                  "value": "FireServiceCode2",
+                  "properties": [],
+                  "incompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "showas",
+                  "value": "DropDown",
+                  "type": "String"
+                },
+                {
+                  "id": "show",
+                  "value": false,
+                  "type": "Boolean"
+                }
+              ]
+            }
+          ],
+          "properties": []
+        }
+      ],
+      "removedAssignments": {
+        "variableAssignments": [
+          {
+            "variable": {
+              "id": "BldValidation.FireService",
+              "name": "Local Fire Service",
+              "valueType": "Boolean",
+              "allowMultipleAssignments": false
+            },
+            "value": {
+              "value": 0.0,
+              "name": "BldValidation.FireService.0",
+              "exclude": false
+            }
+          }
+        ],
+        "priceLineAssignments": []
+      },
+      "isComplete": true,
+      "language": "english",
+      "packagePath": "BldValidation~634f5584-07d0-4ae1-b34e-d00ee06f0af9"
+    }
+ 
+
+

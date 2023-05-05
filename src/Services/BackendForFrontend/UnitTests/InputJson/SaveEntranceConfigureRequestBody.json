@@ -1,0 +1,67 @@
+{
+  "entranceConsoleId": "1",
+  "consoleName": "EntranceConsoleWithController",
+  "variableAssignments": [
+    {
+      "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACEF",
+      "value": 2
+    },
+    {
+      "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTKEYHOLE",
+      "value": true
+    },
+    {
+      "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTDORFINFMAT",
+      "value": "304"
+    },
+
+    {
+      "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTFRAFINMATF",
+      "value": "304"
+    },
+
+    {
+      "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTWLTHKF",
+      "value": 5.5
+    },
+
+    {
+      "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTTYPEF",
+      "value": "KDOWNT"
+    },
+
+    {
+      "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTWLTYPF",
+      "value": "DRYWALL"
+    },
+
+    {
+      "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTSILFINF",
+      "value": "ALUM"
+    }
+  ],
+  "EntranceLocations": [
+    {
+      "floorNumber": 1,
+      "front": false,
+      "rear": false
+    },
+    {
+      "floorNumber": 2,
+      "front": false,
+      "rear": false
+    },
+    {
+      "floorNumber": 3,
+      "front": false,
+      "rear": false
+    },
+    {
+      "floorNumber": 4,
+      "front": true,
+      "rear": false
+    }
+  ],
+  "isController": true
+
+}

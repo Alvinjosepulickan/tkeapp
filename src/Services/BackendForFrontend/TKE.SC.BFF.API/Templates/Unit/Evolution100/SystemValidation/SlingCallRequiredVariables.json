@@ -1,0 +1,20 @@
+﻿{
+  "variableAssignments": [
+    {
+      "variableId": "Parameters.CABDOWF",
+      "value": "36"
+    },
+    {
+      "variableId": "Parameters.CAPACITY",
+      "value": "2100"
+    },
+    {
+      "variableId": "Parameters.DOORTYPF",
+      "value": "1SRH"
+    },
+    {
+      "variableId": "Parameters.PLATWID",
+      "value": "69"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "EntranceConsoleId": 1,
+  "EntranceLocations": [
+    {
+      "floorNumber": 20,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 19,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 18,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 17,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 16,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 15,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 14,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 13,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 12,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 11,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 10,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 9,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 8,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 7,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 6,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 5,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 4,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 3,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 2,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 1,
+      "front": false,
+      "rear": false
+    }
+  ]
+}

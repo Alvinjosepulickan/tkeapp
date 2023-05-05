@@ -1,0 +1,150 @@
+{
+  "buildingConfigurationId": "9",
+  "mainEgress": "12",
+  "alternateEgress": "1",
+  "modifiedBy": {
+    "userId": "79023"
+  },
+  "buildingElevation": [
+    {
+      "floorNumber": 1,
+      "mainEgress": true,
+      "alternateEgress": false,
+      "elevation": {
+        "feet": 0,
+        "inch": 0
+      },
+      "floorDesignation": "1",
+      "floorToFloorHeight": {
+        "feet": 0,
+        "inch": 1.5
+      }
+    },
+    {
+      "floorNumber": 2,
+      "mainEgress": false,
+      "alternateEgress": true,
+      "elevation": {
+        "feet": 9,
+        "inch": 7.5
+      },
+      "floorDesignation": "99",
+      "floorToFloorHeight": {
+        "feet": 9,
+        "inch": 7.5
+      }
+    },
+    {
+      "floorNumber": 3,
+      "mainEgress": false,
+      "alternateEgress": false,
+      "elevation": {
+        "feet": 19,
+        "inch": 3
+      },
+      "floorDesignation": "3",
+      "floorToFloorHeight": {
+        "feet": 9,
+        "inch": 7.5
+      }
+    },
+    {
+      "floorNumber": 4,
+      "mainEgress": false,
+      "alternateEgress": false,
+      "elevation": {
+        "feet": 28,
+        "inch": 10.5
+      },
+      "floorDesignation": "4",
+      "floorToFloorHeight": {
+        "feet": 9,
+        "inch": 7.5
+      }
+    },
+    {
+      "floorNumber": 5,
+      "mainEgress": false,
+      "alternateEgress": false,
+      "elevation": {
+        "feet": 38,
+        "inch": 6
+      },
+      "floorDesignation": "5",
+      "floorToFloorHeight": {
+        "feet": 9,
+        "inch": 7.5
+      }
+    },
+    {
+      "floorNumber": 6,
+      "mainEgress": false,
+      "alternateEgress": false,
+      "elevation": {
+        "feet": 48,
+        "inch": 1.5
+      },
+      "floorDesignation": "6",
+      "floorToFloorHeight": {
+        "feet": 9,
+        "inch": 7.5
+      }
+    },
+    {
+      "floorNumber": 7,
+      "mainEgress": false,
+      "alternateEgress": false,
+      "elevation": {
+        "feet": 57,
+        "inch": 9
+      },
+      "floorDesignation": "7",
+      "floorToFloorHeight": {
+        "feet": 9,
+        "inch": 7.5
+      }
+    },
+    {
+      "floorNumber": 8,
+      "elevation": {
+        "feet": 67,
+        "inch": 4.5
+      },
+      "floorDesignation": "8",
+      "mainEgress": false,
+      "alternateEgress": false,
+      "floorToFloorHeight": {
+        "feet": 9,
+        "inch": 7.5
+      }
+    },
+    {
+      "floorNumber": 9,
+      "elevation": {
+        "feet": 77,
+        "inch": 0
+      },
+      "floorDesignation": "9",
+      "mainEgress": false,
+      "alternateEgress": false,
+      "floorToFloorHeight": {
+        "feet": 9,
+        "inch": 7.5
+      }
+    },
+    {
+      "floorNumber": 10,
+      "mainEgress": false,
+      "alternateEgress": false,
+      "elevation": {
+        "feet": 90,
+        "inch": 0
+      },
+      "floorDesignation": "10",
+      "floorToFloorHeight": {
+        "feet": 13,
+        "inch": 0
+      }
+    }
+  ]
+}

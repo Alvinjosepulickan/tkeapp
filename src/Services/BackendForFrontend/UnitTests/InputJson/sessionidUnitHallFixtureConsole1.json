@@ -1,0 +1,1224 @@
+﻿[
+  {
+    "consoleid": "1",
+    "consolename": "Braille",
+    "assignOpenings": false,
+    "isController": true,
+    "unithallfixtureType": "fixtureSelected",
+    "unithallfixtureLocations": [
+
+      {
+        "floorNumber": 20,
+        "floorDesignation": "20",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 19,
+        "floorDesignation": "19",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 18,
+        "floorDesignation": "18",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 17,
+        "floorDesignation": "17",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 16,
+        "floorDesignation": "16",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 15,
+        "floorDesignation": "15",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 14,
+        "floorDesignation": "14",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 13,
+        "floorDesignation": "13",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 12,
+        "floorDesignation": "12",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 11,
+        "floorDesignation": "11",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 10,
+        "floorDesignation": "10",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 9,
+        "floorDesignation": "9",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 8,
+        "floorDesignation": "8",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 7,
+        "floorDesignation": "7",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 6,
+        "floorDesignation": "6",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 5,
+        "floorDesignation": "5",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 4,
+        "floorDesignation": "4",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 3,
+        "floorDesignation": "3",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 2,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 1,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+
+      }
+
+    ],
+    "variableassignments": [
+      {
+        "variableid": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP",
+        "name": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP",
+        "value": "String",
+        "allowMultipleAssignments": false,
+        "values": [
+          {
+            "type": "SingletonValue",
+            "name": "Black Plastic with White Characters",
+            "value": "Black Plastic with White Characters",
+            "properties": [
+              {
+                "id": "fullyqualifiedname",
+                "value": "Black Plastic with White Characters",
+                "type": "String"
+              },
+              {
+                "id": "name",
+                "value": "Black Plastic with White Characters",
+                "type": "String"
+              }
+            ],
+            "inCompatible": false,
+            "state": "Available",
+            "justification": "None"
+          },
+          {
+            "type": "SingletonValue",
+            "name": "Stainless Embossed Black Characters",
+            "value": "Stainless Embossed Black Characters",
+            "properties": [
+              {
+                "id": "fullyqualifiedname",
+                "value": "Stainless Embossed Black Characters",
+                "type": "String"
+              },
+              {
+                "id": "name",
+                "value": "Stainless Embossed Black Characters",
+                "type": "String"
+              }
+            ],
+            "inCompatible": false,
+            "state": "Available",
+            "justification": "None"
+          },
+          {
+            "type": "SingletonValue",
+            "name": "Stainless Raised Acrylic Black Characters",
+            "value": "Stainless Raised Acrylic Black Characters",
+            "properties": [
+              {
+                "id": "fullyqualifiedname",
+                "value": "Stainless Raised Acrylic Black Characters",
+                "type": "String"
+              },
+              {
+                "id": "name",
+                "value": "Stainless Raised Acrylic Black Characters",
+                "type": "String"
+              }
+            ],
+            "inCompatible": false,
+            "state": "Available",
+            "justification": "None"
+          }
+        ],
+        "properties": [
+          {
+            "id": "showas",
+            "value": "dropdown",
+            "type": "String"
+          },
+          {
+            "id": "sequence",
+            "value": "1",
+            "type": "number"
+          },
+          {
+            "id": "subsection",
+            "value": "ELEVATOR.Parameters.Braille",
+            "type": "String"
+          },
+          {
+            "id": "displayname",
+            "value": "Type",
+            "type": "String"
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "unitid": 497,
+        "unitname": "U5",
+        "ueid": "NIUS2021000002US"
+      },
+      {
+        "unitid": 498,
+        "unitname": "U6",
+        "ueid": "NIUS2021000026US"
+      },
+      {
+        "unitid": 501,
+        "unitname": "U20",
+        "ueid": "NIUS2021000027US"
+      },
+      {
+        "unitid": 502,
+        "unitname": "U21",
+        "ueid": "NIUS2021000028US"
+      }
+    ],
+    "isDelete": false
+  },
+  {
+    "consoleid": "1",
+    "consolename": "Braille",
+    "assignOpenings": false,
+    "isController": true,
+    "unithallfixtureType": "Appendix_H/O_Signage",
+    "unithallfixtureLocations": [
+
+      {
+        "floorNumber": 20,
+        "floorDesignation": "20",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 19,
+        "floorDesignation": "19",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 18,
+        "floorDesignation": "18",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 17,
+        "floorDesignation": "17",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 16,
+        "floorDesignation": "16",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 15,
+        "floorDesignation": "15",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 14,
+        "floorDesignation": "14",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 13,
+        "floorDesignation": "13",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 12,
+        "floorDesignation": "12",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 11,
+        "floorDesignation": "11",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 10,
+        "floorDesignation": "10",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 9,
+        "floorDesignation": "9",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 8,
+        "floorDesignation": "8",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 7,
+        "floorDesignation": "7",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 6,
+        "floorDesignation": "6",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 5,
+        "floorDesignation": "5",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 4,
+        "floorDesignation": "4",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 3,
+        "floorDesignation": "3",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 2,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 1,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+
+      }
+
+    ],
+    "variableassignments": [
+      {
+        "variableid": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP",
+        "name": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP",
+        "value": "String",
+        "allowMultipleAssignments": false,
+        "values": [
+          {
+            "type": "SingletonValue",
+            "name": "Black Plastic with White Characters",
+            "value": "Black Plastic with White Characters",
+            "properties": [
+              {
+                "id": "fullyqualifiedname",
+                "value": "Black Plastic with White Characters",
+                "type": "String"
+              },
+              {
+                "id": "name",
+                "value": "Black Plastic with White Characters",
+                "type": "String"
+              }
+            ],
+            "inCompatible": false,
+            "state": "Available",
+            "justification": "None"
+          },
+          {
+            "type": "SingletonValue",
+            "name": "Stainless Embossed Black Characters",
+            "value": "Stainless Embossed Black Characters",
+            "properties": [
+              {
+                "id": "fullyqualifiedname",
+                "value": "Stainless Embossed Black Characters",
+                "type": "String"
+              },
+              {
+                "id": "name",
+                "value": "Stainless Embossed Black Characters",
+                "type": "String"
+              }
+            ],
+            "inCompatible": false,
+            "state": "Available",
+            "justification": "None"
+          },
+          {
+            "type": "SingletonValue",
+            "name": "Stainless Raised Acrylic Black Characters",
+            "value": "Stainless Raised Acrylic Black Characters",
+            "properties": [
+              {
+                "id": "fullyqualifiedname",
+                "value": "Stainless Raised Acrylic Black Characters",
+                "type": "String"
+              },
+              {
+                "id": "name",
+                "value": "Stainless Raised Acrylic Black Characters",
+                "type": "String"
+              }
+            ],
+            "inCompatible": false,
+            "state": "Available",
+            "justification": "None"
+          }
+        ],
+        "properties": [
+          {
+            "id": "showas",
+            "value": "dropdown",
+            "type": "String"
+          },
+          {
+            "id": "sequence",
+            "value": "1",
+            "type": "number"
+          },
+          {
+            "id": "subsection",
+            "value": "ELEVATOR.Parameters.Braille",
+            "type": "String"
+          },
+          {
+            "id": "displayname",
+            "value": "Type",
+            "type": "String"
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "unitid": 497,
+        "unitname": "U5",
+        "ueid": "NIUS2021000002US"
+      },
+      {
+        "unitid": 498,
+        "unitname": "U6",
+        "ueid": "NIUS2021000026US"
+      },
+      {
+        "unitid": 501,
+        "unitname": "U20",
+        "ueid": "NIUS2021000027US"
+      },
+      {
+        "unitid": 502,
+        "unitname": "U21",
+        "ueid": "NIUS2021000028US"
+      }
+    ],
+    "isDelete": false
+  },
+  {
+    "consoleid": "0",
+    "consolename": "Braille",
+    "assignOpenings": false,
+    "isController": true,
+    "unithallfixtureType": "Appendix_H/O_Signage",
+    "unithallfixtureLocations": [
+
+      {
+        "floorNumber": 20,
+        "floorDesignation": "20",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 19,
+        "floorDesignation": "19",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 18,
+        "floorDesignation": "18",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 17,
+        "floorDesignation": "17",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 16,
+        "floorDesignation": "16",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 15,
+        "floorDesignation": "15",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 14,
+        "floorDesignation": "14",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 13,
+        "floorDesignation": "13",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 12,
+        "floorDesignation": "12",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 11,
+        "floorDesignation": "11",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 10,
+        "floorDesignation": "10",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 9,
+        "floorDesignation": "9",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 8,
+        "floorDesignation": "8",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 7,
+        "floorDesignation": "7",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 6,
+        "floorDesignation": "6",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 5,
+        "floorDesignation": "5",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 4,
+        "floorDesignation": "4",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 3,
+        "floorDesignation": "3",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 2,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+      },
+      {
+        "floorNumber": 1,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": true
+        }
+
+      }
+
+    ],
+    "variableassignments": [
+      {
+        "variableid": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP",
+        "name": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP",
+        "value": "String",
+        "allowMultipleAssignments": false,
+        "values": [
+          {
+            "type": "SingletonValue",
+            "name": "Black Plastic with White Characters",
+            "value": "Black Plastic with White Characters",
+            "properties": [
+              {
+                "id": "fullyqualifiedname",
+                "value": "Black Plastic with White Characters",
+                "type": "String"
+              },
+              {
+                "id": "name",
+                "value": "Black Plastic with White Characters",
+                "type": "String"
+              }
+            ],
+            "inCompatible": false,
+            "state": "Available",
+            "justification": "None"
+          },
+          {
+            "type": "SingletonValue",
+            "name": "Stainless Embossed Black Characters",
+            "value": "Stainless Embossed Black Characters",
+            "properties": [
+              {
+                "id": "fullyqualifiedname",
+                "value": "Stainless Embossed Black Characters",
+                "type": "String"
+              },
+              {
+                "id": "name",
+                "value": "Stainless Embossed Black Characters",
+                "type": "String"
+              }
+            ],
+            "inCompatible": false,
+            "state": "Available",
+            "justification": "None"
+          },
+          {
+            "type": "SingletonValue",
+            "name": "Stainless Raised Acrylic Black Characters",
+            "value": "Stainless Raised Acrylic Black Characters",
+            "properties": [
+              {
+                "id": "fullyqualifiedname",
+                "value": "Stainless Raised Acrylic Black Characters",
+                "type": "String"
+              },
+              {
+                "id": "name",
+                "value": "Stainless Raised Acrylic Black Characters",
+                "type": "String"
+              }
+            ],
+            "inCompatible": false,
+            "state": "Available",
+            "justification": "None"
+          }
+        ],
+        "properties": [
+          {
+            "id": "showas",
+            "value": "dropdown",
+            "type": "String"
+          },
+          {
+            "id": "sequence",
+            "value": "1",
+            "type": "number"
+          },
+          {
+            "id": "subsection",
+            "value": "ELEVATOR.Parameters.Braille",
+            "type": "String"
+          },
+          {
+            "id": "displayname",
+            "value": "Type",
+            "type": "String"
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "unitid": 497,
+        "unitname": "U5",
+        "ueid": "NIUS2021000002US"
+      },
+      {
+        "unitid": 498,
+        "unitname": "U6",
+        "ueid": "NIUS2021000026US"
+      },
+      {
+        "unitid": 501,
+        "unitname": "U20",
+        "ueid": "NIUS2021000027US"
+      },
+      {
+        "unitid": 502,
+        "unitname": "U21",
+        "ueid": "NIUS2021000028US"
+      }
+    ],
+    "isDelete": false
+  }
+]
+

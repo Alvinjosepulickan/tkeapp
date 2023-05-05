@@ -1,0 +1,144 @@
+{
+    "variableAssignments": [
+        {
+            "variableId": "Parameters.BPV",
+            "value": "460"
+        },
+        {
+            "variableId": "Parameters.CABHGTOVL",
+            "value": 107.5
+        },
+        {
+            "variableId": "Parameters.CAPACITY",
+            "value": "2500"
+        },
+        {
+            "variableId": "Parameters.CARSPEED",
+            "value": 500
+        },
+        {
+            "variableId": "Parameters.CCOMPQTY",
+            "value": "2"
+        },
+        {
+            "variableId": "Parameters.COMPDAMP",
+            "value": "FALSE"
+        },
+        {
+            "variableId": "Parameters.COMPWT",
+            "value": 1.5
+        },
+        {
+            "variableId": "Parameters.CUSTXFMR",
+            "value": "NR"
+        },
+        {
+            "variableId": "Parameters.ECARWT",
+            "value": 5300
+        },
+        {
+            "variableId": "Parameters.MNLC",
+            "value": 5
+        },
+        {
+            "variableId": "Parameters.NUMSUSP",
+            "value": 4
+        },
+        {
+            "variableId": "Parameters.PITDEPTH",
+            "value": 78
+        },
+        {
+            "variableId": "Parameters.REEVING",
+            "value": "2"
+        },
+        {
+            "variableId": "Parameters.SUSPWT",
+            "value": 0.22175
+        },
+        {
+            "variableId": "Parameters.TCABWT",
+            "value": 1.1
+        },
+        {
+            "variableId": "Parameters.TRAVEL",
+            "value": 2280
+        },
+        {
+            "variableId": "Parameters.MACHFAM",
+            "value": "PMB285"
+        },
+        {
+            "variableId": "Parameters.ELEVSYS",
+            "value": "EVO100"
+        },
+        {
+            "variableId": "Parameters.DEFF",
+            "value": 0.93
+        },
+        {
+            "variableId": "Parameters.DNOMV",
+            "value": 240
+        },
+        {
+            "variableId": "Parameters.DRIVEPF",
+            "value": 0.98
+        },
+        {
+            "variableId": "Parameters.DSDIA",
+            "value": 4.41
+        },
+        {
+            "variableId": "Parameters.MACHPF",
+            "value": 0.93
+        },
+        {
+            "variableId": "Parameters.MEBMT",
+            "value": 405.658
+        },
+        {
+            "variableId": "Parameters.MEBT",
+            "value": 0.11
+        },
+        {
+            "variableId": "Parameters.MEFF",
+            "value": 0.854
+        },
+        {
+            "variableId": "Parameters.MINERT",
+            "value": 0.146
+        },
+        {
+            "variableId": "Parameters.MNLC",
+            "value": 5
+        },
+        {
+            "variableId": "Parameters.MNOMC",
+            "value": 54
+        },
+        {
+            "variableId": "Parameters.MNOMN",
+            "value": 348
+        },
+        {
+            "variableId": "Parameters.MNOMP",
+            "value": 7818.1
+        },
+        {
+            "variableId": "Parameters.MNOMT",
+            "value": 215
+        },
+        {
+            "variableId": "Parameters.MNOMV",
+            "value": 158
+        },
+        {
+            "variableId": "Parameters.MSTARTC",
+            "value": 93
+        },
+        {
+            "variableId": "Parameters.MSTARTT",
+            "value": 363
+        }
+    ]
+}

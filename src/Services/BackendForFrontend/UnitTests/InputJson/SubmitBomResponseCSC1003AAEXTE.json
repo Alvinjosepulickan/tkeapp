@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "materialName": "CSC1003AAEXTE",
+      "configurationId": -853354968,
+      "taskDetails": {
+        "id": "bf748a21-c49a-423f-90b9-4dc258b67208",
+        "created": "2022-01-04T15:29:01.7733333Z",
+        "started": "2022-01-04T15:29:01.9Z",
+        "finished": null,
+        "jobName": null,
+        "metadata": {},
+        "percentageCompleted": 0,
+        "status": 80,
+        "message": null
+      }
+    },
+    {
+      "materialName": "CSC1003AAEXTE",
+      "configurationId": -1627538586,
+      "taskDetails": {
+        "id": "49586450-1938-495e-8b91-a12b325b385f",
+        "created": "2022-01-04T15:29:01.9633333Z",
+        "started": "2022-01-04T15:29:01.9933333Z",
+        "finished": null,
+        "jobName": null,
+        "metadata": {},
+        "percentageCompleted": 0,
+        "status": 80,
+        "message": null
+      }
+    },
+    {
+      "materialName": "CSC1003AAEXTE",
+      "configurationId": -2119266074,
+      "taskDetails": {
+        "id": "51294cc3-ba2b-490a-ac89-a72a585d6997",
+        "created": "2022-01-04T15:29:02.0566667Z",
+        "started": "2022-01-04T15:29:02.0866667Z",
+        "finished": null,
+        "jobName": null,
+        "metadata": {},
+        "percentageCompleted": 0,
+        "status": 80,
+        "message": null
+      }
+    },
+    {
+      "materialName": "CSC1003AAEXTE",
+      "configurationId": 1080955063,
+      "taskDetails": {
+        "id": "94c05160-e944-4a2e-b8ac-bd3e8eca8e30",
+        "created": "2022-01-04T15:29:02.1333333Z",
+        "started": "2022-01-04T15:29:02.18Z",
+        "finished": null,
+        "jobName": null,
+        "metadata": {},
+        "percentageCompleted": 0,
+        "status": 80,
+        "message": null
+      }
+    }
+  ]
+}

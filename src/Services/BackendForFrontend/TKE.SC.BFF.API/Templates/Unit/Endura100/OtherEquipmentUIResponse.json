@@ -1,0 +1,146 @@
+{
+  "sections": [
+    {
+      "id": "otherEquipment",
+      "sections": [
+        {
+          "id": "otherequipment.hydraulicEquipment",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.JACKTYPE"
+            },
+            {
+              "id": "ELEVATOR.Parameters.PWRUTYPE"
+            }
+          ]
+        },
+        {
+          "id": "otherequipment.oilLineKits",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.PIPEKIT"
+            },
+            {
+              "id": "ELEVATOR.Parameters.PIPESIZE"
+            }
+          ]
+        },
+        {
+          "id": "otherequipment.standardShutOffValves",
+          "variables": [
+          ]
+        },
+        {
+          "id": "otherequipment.overSpeedValve",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.OVRSPD"
+            }
+          ]
+        },
+        {
+          "id": "otherequipment.oil",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.OILTYPE"
+            },
+            {
+              "id": "ELEVATOR.Parameters.DRUMS"
+            },
+            {
+              "id": "ELEVATOR.Parameters.BUCKETS"
+            }
+          ]
+        },
+        {
+          "id": "otherequipment.options",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.CONTROLOC"
+            },
+            {
+              "id": "ELEVATOR.Parameters.JCKPUFIT"
+            },
+            {
+              "id": "ELEVATOR.Parameters.VISC"
+            },
+            {
+              "id": "ELEVATOR.Parameters.PWRULPS"
+            },
+            {
+              "id": "ELEVATOR.Parameters.SIGHT"
+            },
+            {
+              "id": "ELEVATOR.Parameters.TG4FT"
+            }
+          ]
+        },
+        {
+          "id": "otherEquipment.hoistwayEquipment",
+          "sections": [
+            {
+              "id": "otherEquipment.hoistwayEquipment.rails",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters.CARRLTYP"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.CARGUIDES"
+                }
+              ]
+            },
+            {
+              "id": "otherEquipment.hoistwayEquipment.nonRails",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters.CABTOPLK"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.FLSCONFIG"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.FLSLOC"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.LADPIT"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.LADLOC"
+                }
+              ]
+            }
+          ],
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.additionalWiring"
+            }
+          ]
+        },
+        {
+          "id": "otherequipment.hoistwayWiring",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.additionalWiring_SP"
+            }
+          ]
+        },
+        {
+          "id": "otherequipment.controlSystem",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.EMERTYPE"
+            },
+            {
+              "id": "ELEVATOR.Parameters.NATAL"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.controllerSabbath_SP"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

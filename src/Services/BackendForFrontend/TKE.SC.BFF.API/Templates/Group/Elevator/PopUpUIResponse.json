@@ -1,0 +1,76 @@
+﻿{
+  "sections": [
+    {
+      "id": "Group",
+      "name": "Group",
+      "variables": [
+        {
+          "id": "groupDesignation",
+          "name": "Group Designation",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "IntervalValue",
+              "inCompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Selected",
+              "justification": "Assignment"
+            }
+          ]
+        },
+        {
+          "id": "productCategory",
+          "name": "Product Category ",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "Elevator",
+              "value": "Elevator",
+              "properties": [],
+              "assigned": "byDefault",
+              "inCompatible": false,
+              "state": "Selected",
+              "justification": "Assignment"
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Escalator",
+              "value": "Escalator/Moving-Walk",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "name": "TWIN Elevator",
+              "value": "TWIN Elevator",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Unavailable",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Other",
+              "value": "Other",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Unavailable",
+              "justification": "None"
+            }
+          ]
+        }
+      ],
+      "isDelete": false,
+      "isHallStation": false
+    }  
+  ]
+}

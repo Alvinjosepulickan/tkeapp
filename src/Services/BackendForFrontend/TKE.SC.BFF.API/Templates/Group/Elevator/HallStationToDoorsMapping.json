@@ -1,0 +1,102 @@
+﻿{
+  "B1P1.Parameters_SP.rearDoorTypeAndHand_SP": [
+    "Parameters_SP.HS1R_SP",
+    "Parameters_SP.HS2R_SP"
+  ],
+  "B1P2.Parameters_SP.rearDoorTypeAndHand_SP": [
+    "Parameters_SP.HS2R_SP",
+    "Parameters_SP.HS3R_SP"
+  ],
+  "B1P3.Parameters_SP.rearDoorTypeAndHand_SP": [
+    "Parameters_SP.HS3R_SP",
+    "Parameters_SP.HS4R_SP"
+  ],
+  "B1P4.Parameters_SP.rearDoorTypeAndHand_SP": [
+    "Parameters_SP.HS4R_SP",
+    "Parameters_SP.HS5R_SP"
+  ],
+  "B2P1.Parameters_SP.rearDoorTypeAndHand_SP": [
+    "Parameters_SP.HS6R_SP",
+    "Parameters_SP.HS7R_SP"
+  ],
+  "B2P2.Parameters_SP.rearDoorTypeAndHand_SP": [
+    "Parameters_SP.HS7R_SP",
+    "Parameters_SP.HS8R_SP"
+  ],
+  "B2P3.Parameters_SP.rearDoorTypeAndHand_SP": [
+    "Parameters_SP.HS8R_SP",
+    "Parameters_SP.HS9R_SP"
+  ],
+  "B2P4.Parameters_SP.rearDoorTypeAndHand_SP": [
+    "Parameters_SP.HS9R_SP",
+    "Parameters_SP.HS10R_SP"
+  ],
+  "Parameters.B1P1": [
+    "Parameters_SP.HS1F_SP",
+    "Parameters_SP.HS2F_SP"
+  ],
+  "Parameters.B1P2": [
+    "Parameters_SP.HS2F_SP",
+    "Parameters_SP.HS3F_SP"
+  ],
+  "Parameters.B1P3": [
+    "Parameters_SP.HS3F_SP",
+    "Parameters_SP.HS4F_SP"
+  ],
+  "Parameters.B1P4": [
+    "Parameters_SP.HS4F_SP",
+    "Parameters_SP.HS5F_SP"
+  ],
+  "Parameters.B2P1": [
+    "Parameters_SP.HS6F_SP",
+    "Parameters_SP.HS7F_SP"
+  ],
+  "Parameters.B2P2": [
+    "Parameters_SP.HS7F_SP",
+    "Parameters_SP.HS8F_SP"
+  ],
+  "Parameters.B2P3": [
+    "Parameters_SP.HS8F_SP",
+    "Parameters_SP.HS9F_SP"
+  ],
+  "Parameters.B2P4": [
+    "Parameters_SP.HS9F_SP",
+    "Parameters_SP.HS10F_SP"
+  ],
+  "Parameters_SP.HS1R_SP": [
+    "B1P1.Parameters_SP.rearDoorTypeAndHand_SP"
+  ],
+  "Parameters_SP.HS2R_SP": [
+    "B1P1.Parameters_SP.rearDoorTypeAndHand_SP",
+    "B1P2.Parameters_SP.rearDoorTypeAndHand_SP"
+  ],
+  "Parameters_SP.HS3R_SP": [
+    "B1P2.Parameters_SP.rearDoorTypeAndHand_SP",
+    "B1P3.Parameters_SP.rearDoorTypeAndHand_SP"
+  ],
+  "Parameters_SP.HS4R_SP": [
+    "B1P3.Parameters_SP.rearDoorTypeAndHand_SP",
+    "B1P4.Parameters_SP.rearDoorTypeAndHand_SP"
+  ],
+  "Parameters_SP.HS5R_SP": [
+    "B1P4.Parameters_SP.rearDoorTypeAndHand_SP"
+  ],
+  "Parameters_SP.HS6R_SP": [
+    "B2P1.Parameters_SP.rearDoorTypeAndHand_SP"
+  ],
+  "Parameters_SP.HS7R_SP": [
+    "B2P1.Parameters_SP.rearDoorTypeAndHand_SP",
+    "B2P2.Parameters_SP.rearDoorTypeAndHand_SP"
+  ],
+  "Parameters_SP.HS8R_SP": [
+    "B2P2.Parameters_SP.rearDoorTypeAndHand_SP",
+    "B2P3.Parameters_SP.rearDoorTypeAndHand_SP"
+  ],
+  "Parameters_SP.HS9R_SP": [
+    "B2P3.Parameters_SP.rearDoorTypeAndHand_SP",
+    "B2P4.Parameters_SP.rearDoorTypeAndHand_SP"
+  ],
+  "Parameters_SP.HS10R_SP": [
+    "B2P4.Parameters_SP.rearDoorTypeAndHand_SP"
+  ]
+}

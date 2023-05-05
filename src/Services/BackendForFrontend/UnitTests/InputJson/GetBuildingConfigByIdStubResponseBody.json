@@ -1,0 +1,42 @@
+  [
+    {
+      "VariableId": "BldValidation.BLDGNAME",
+      "Value": "building1"
+    },
+    {
+      "VariableId": "BldValidation.FLOOR",
+      "Value": 2
+    },
+    {
+      "VariableId": "BldValidation.BLDGRISE",
+      "Value": "100.0"
+    },
+    {
+      "VariableId": "BldValidation.BLDGCODE",
+      "Value": "IBC-2"
+    },
+    {
+      "VariableId": "BldValidation.ASYEAR",
+      "Value": "2018"
+    },
+    {
+      "VariableId": "BldValidation.BPV",
+      "Value": "208"
+    },
+    {
+      "VariableId": "BldValidation.Frequency",
+      "Value": "60"
+    },
+    {
+      "VariableId": "BldValidation.ELCode",
+      "Value": "Evo1"
+    },
+    {
+      "VariableId": "BldValidation.FireService",
+      "Value": 0
+    },
+    {
+      "VariableId": "BldValidation.FreServiceCodes",
+      "Value": "FireServiceCode1"
+    }
+  ]

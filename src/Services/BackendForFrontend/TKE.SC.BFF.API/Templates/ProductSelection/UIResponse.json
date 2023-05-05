@@ -1,0 +1,12 @@
+{
+    "sections": [
+        {
+            "id": "productSelectionMaster",
+            "variables": [
+                {
+                    "id": "productSelection_SP"
+                }
+            ]
+        }
+    ]
+}

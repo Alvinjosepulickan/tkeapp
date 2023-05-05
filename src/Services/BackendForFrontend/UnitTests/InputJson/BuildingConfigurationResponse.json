@@ -1,0 +1,797 @@
+﻿{
+  "id": "Building_Configuration.Parameters",
+  "name": "Building_Configuration.Parameters",
+  "sections": [
+    {
+      "id": "Building_Configuration.Parameters",
+      "name": "Building_Configuration.Parameters",
+      "sections": [
+        {
+          "id": "Building_Configuration.Parameters",
+          "name": "Building_Configuration.Parameters",
+          "sections": [
+            {
+              "id": "Building_Configuration.Parameters.Basic_Info",
+              "name": "Building_Configuration.Parameters.Basic_Info",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone10_StndAlone_SP",
+                  "name": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone10_StndAlone_SP",
+                  "valueType": "String",
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "IntervalValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "frombuilding",
+                      "value": true,
+                      "type": "Boolean"
+                    },
+                    {
+                      "id": "info",
+                      "value": "Enter NR for Not Required",
+                      "type": "String"
+                    },
+                    {
+                      "id": "showas",
+                      "value": "InputField",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "1",
+                      "type": "number"
+                    }
+                  ]
+                },
+                {
+                  "id": "Building_Configuration.Parameters_SP.controllerBACNet_SP",
+                  "name": "Building_Configuration.Parameters_SP.controllerBACNet_SP",
+                  "valueType": "String",
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "frombuilding",
+                      "value": true,
+                      "type": "Boolean"
+                    },
+                    {
+                      "id": "showas",
+                      "value": "DropDown",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "5",
+                      "type": "number"
+                    }
+                  ]
+                },
+                {
+                  "id": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+                  "name": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+                  "valueType": "Number",
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "IntervalValue",
+                      "inCompatible": false,
+                      "state": "Available",
+                      "justification": "None"
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "frombuilding",
+                      "value": true,
+                      "type": "Boolean"
+                    },
+                    {
+                      "id": "showas",
+                      "value": "InputField",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "2",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": []
+            }
+          ],
+          "variables": [
+            {
+              "id": "Building_Configuration.Parameters.Basic_Info.BLDGNAME",
+              "name": "Building_Configuration.Parameters.Basic_Info.BLDGNAME",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "frombuilding",
+                  "value": true,
+                  "type": "Boolean"
+                },
+                {
+                  "id": "info",
+                  "value": "Enter NR for Not Required",
+                  "type": "String"
+                },
+                {
+                  "id": "showas",
+                  "value": "InputField",
+                  "type": "String"
+                },
+                {
+                  "id": "sequence",
+                  "value": "1",
+                  "type": "number"
+                }
+              ]
+            },
+            {
+              "id": "Building_Configuration.Parameters.Basic_Info.ASYEAR",
+              "name": "Building_Configuration.Parameters.Basic_Info.ASYEAR",
+              "valueType": "String",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                },
+                {
+                  "type": "SingletonValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "frombuilding",
+                  "value": true,
+                  "type": "Boolean"
+                },
+                {
+                  "id": "showas",
+                  "value": "DropDown",
+                  "type": "String"
+                },
+                {
+                  "id": "sequence",
+                  "value": "5",
+                  "type": "number"
+                }
+              ]
+            },
+            {
+              "id": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+              "name": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+              "valueType": "Number",
+              "allowMultipleAssignments": false,
+              "values": [
+                {
+                  "type": "IntervalValue",
+                  "inCompatible": false,
+                  "state": "Available",
+                  "justification": "None"
+                }
+              ],
+              "properties": [
+                {
+                  "id": "frombuilding",
+                  "value": true,
+                  "type": "Boolean"
+                },
+                {
+                  "id": "showas",
+                  "value": "InputField",
+                  "type": "String"
+                },
+                {
+                  "id": "sequence",
+                  "value": "2",
+                  "type": "number"
+                }
+              ]
+            }
+          ],
+          "properties": []
+        }
+      ],
+      "variables": [
+        {
+          "id": "Building_Configuration.Parameters.Basic_Info.BLDGNAME",
+          "name": "Building_Configuration.Parameters.Basic_Info.BLDGNAME",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "IntervalValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "frombuilding",
+              "value": true,
+              "type": "Boolean"
+            },
+            {
+              "id": "info",
+              "value": "Enter NR for Not Required",
+              "type": "String"
+            },
+            {
+              "id": "showas",
+              "value": "InputField",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "1",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Building_Configuration.Parameters.Basic_Info.ASYEAR",
+          "name": "Building_Configuration.Parameters.Basic_Info.ASYEAR",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "frombuilding",
+              "value": true,
+              "type": "Boolean"
+            },
+            {
+              "id": "showas",
+              "value": "DropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "5",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+          "name": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+          "valueType": "Number",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "IntervalValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "frombuilding",
+              "value": true,
+              "type": "Boolean"
+            },
+            {
+              "id": "showas",
+              "value": "InputField",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "2",
+              "type": "number"
+            }
+          ]
+        }
+      ],
+      "properties": []
+    },
+    {
+      "id": "Building_Configuration.Parameters.Layout",
+      "name": "Building_Configuration.Parameters.Layout",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Building_Configuration.Parameters.Layout.BLDGCODE",
+          "name": "Building_Configuration.Parameters.Layout.BLDGCODE",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "frombuilding",
+              "value": true,
+              "type": "Boolean"
+            },
+            {
+              "id": "showas",
+              "value": "DropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "4",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Building_Configuration.Parameters.Layout.ELEVBASE",
+          "name": "Building_Configuration.Parameters.Layout.ELEVBASE",
+          "valueType": "Number",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "IntervalValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "frombuilding",
+              "value": true,
+              "type": "Boolean"
+            },
+            {
+              "id": "showas",
+              "value": "DropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "3",
+              "type": "number"
+            }
+          ]
+        }
+      ],
+      "properties": []
+    },
+    {
+      "id": "Building_Configuration.Parameters.Electrical_System",
+      "name": "Building_Configuration.Parameters.Electrical_System",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Building_Configuration.Parameters.Electrical_System.BPF",
+          "name": "Building_Configuration.Parameters.Electrical_System.BPF",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "frombuilding",
+              "value": true,
+              "type": "Boolean"
+            },
+            {
+              "id": "showas",
+              "value": "Button",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "7",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Building_Configuration.Parameters.Electrical_System.BPV",
+          "name": "Building_Configuration.Parameters.Electrical_System.BPV",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "frombuilding",
+              "value": true,
+              "type": "Boolean"
+            },
+            {
+              "id": "showas",
+              "value": "DropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "6",
+              "type": "number"
+            }
+          ]
+        }
+      ],
+      "properties": []
+    }
+  ],
+  "variables": [],
+  "properties": [],
+  "removedAssignments": {
+    "variableAssignments": [],
+    "priceLineAssignments": []
+  },
+  "arguments": {
+    "Configuration": {
+      "productSelection_SP": "EVO_200",
+      "ProductSelection_EVO_200.Invalid_EVO_200": false,
+      "Building_Configuration.Flag_EgressDistance": "11"
+    }
+  }
+}

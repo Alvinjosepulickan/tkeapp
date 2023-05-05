@@ -1,0 +1,119 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DebugType>Full</DebugType>
+    <UserSecretsId>bd4fa483-d2ee-49c8-a3a5-feda94278048</UserSecretsId>
+  </PropertyGroup>
+
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <OutputPath></OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--<Folder Include="Log\" CopyToOutputDirectory="PreserveNewest" />-->
+  <Folder Include="Logs\" CopyToOutputDirectory="Always" />
+  </ItemGroup>
+
+  <!--<Target Name="CreateLogFolder" AfterTargets="AfterPublish">
+    <MakeDir Directories="$(PublishDir)Log" Condition="!Exists('$(PublishDir)Log')" />
+  </Target>-->
+  <ItemGroup>
+    <Content Include="Log\*" Exclude="Log\*.log">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Templates\Group\Elevator\OpeningLocation\**" />
+    <Content Remove="Templates\Group\Elevator\OpeningLocation\**" />
+    <EmbeddedResource Remove="Templates\Group\Elevator\OpeningLocation\**" />
+    <None Remove="Templates\Group\Elevator\OpeningLocation\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire" Version="1.7.22" />
+    <PackageReference Include="Hangfire.AspNetCore" Version="1.7.22" />
+    <PackageReference Include="Hangfire.MemoryStorage" Version="1.7.0" />
+    <PackageReference Include="Hangfire.PostgreSql.NetCore" Version="1.4.3" />
+    <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="3.0.1" />
+    <PackageReference Include="IronXL.Excel" Version="2021.12.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.34.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="NSwag.AspNetCore" Version="13.3.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="4.1.0" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="3.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.5" />
+    <PackageReference Include="System.Runtime.Serialization.Json" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\TKE.SC.Common.Model\TKE.SC.Common.Model.csproj" />
+    <ProjectReference Include="..\BusinessProcess\TKE.SC.BFF.BusinessProcess.Helpers\TKE.SC.BFF.BusinessProcess.Helpers.csproj" />
+    <ProjectReference Include="..\BusinessProcess\TKE.SC.BFF.BusinessProcess.Interfaces\TKE.SC.BFF.BusinessProcess.Interfaces.csproj" />
+    <ProjectReference Include="..\BusinessProcess\TKE.SC.BFF.BusinessProcess.Services\TKE.SC.BFF.BusinessProcess.Services.csproj" />
+    <ProjectReference Include="..\DataAccess\TKE.SC.BFF.DataAccess.Interfaces\TKE.SC.BFF.DataAccess.Interfaces.csproj" />
+    <ProjectReference Include="..\DataAccess\TKE.SC.BFF.DataAccess.Services\TKE.SC.BFF.DataAccess.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Configit.Configurator.Server.Common">
+      <HintPath>References\Configit.Configurator.Server.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Product.Search.Service">
+      <HintPath>References\Configit.Product.Search.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.VtSdk.Configurator.Service">
+      <HintPath>References\Configit.VtSdk.Configurator.Service.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Templates\Building\BuildingEquipment\BuildingEquipmentIncludeSectionValues.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Templates\Group\NCP\CLMRequest.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="Templates\Group\NCP\EsclatorUIResponse.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="Templates\Group\GroupInfo\GroupInfoUIResponse.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="Templates\Group\NCP\IncludeSections.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Templates\FieldDrawingAutomation\LiftDesigner\Common.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Templates\FieldDrawingAutomation\LiftDesigner\LDRequestPayload.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Templates\FieldDrawingAutomation\LiftDesigner\Unit.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
+<PropertyGroup>
+  <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  <NoWarn>$(NoWarn);1591</NoWarn>
+</PropertyGroup>
+</Project>

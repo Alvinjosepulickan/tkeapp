@@ -1,0 +1,822 @@
+{
+  "id": "GroupConfiguration",
+  "name": "Group Configuration",
+  "sections": [
+    {
+      "id": "Group_Validation.Parameters.Basic_Info",
+      "name": "Basic Group Configuration",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Group_Validation.Parameters.Basic_Info.GRPDESG",
+          "name": "GROUP DESIGNATION",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "IntervalValue",
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "InputField",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "1",
+              "type": "number"
+            }
+          ]
+        }
+      ],
+      "properties": []
+    },
+    {
+      "id": "Group_Validation.Parameters.Layout",
+      "name": "Floor Plan",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Group_Validation.Parameters.Layout.B1P1",
+          "name": "Group_Validation.Parameters.Layout.B1P1",
+          "valueType": "Boolean",
+          "distinctValueCount": 2,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "False",
+              "value": false,
+              "properties": [],
+              "assigned": "byDefault",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "True",
+              "value": true,
+              "properties": [],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "2",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Group_Validation.Parameters.Layout.B1P2",
+          "name": "Group_Validation.Parameters.Layout.B1P2",
+          "valueType": "Boolean",
+          "distinctValueCount": 2,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "False",
+              "value": false,
+              "properties": [],
+              "assigned": "byDefault",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "True",
+              "value": true,
+              "properties": [],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "3",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Group_Validation.Parameters.Layout.B1P3",
+          "name": "Group_Validation.Parameters.Layout.B1P3",
+          "valueType": "Boolean",
+          "distinctValueCount": 2,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "False",
+              "value": false,
+              "properties": [],
+              "assigned": "byDefault",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "True",
+              "value": true,
+              "properties": [],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "4",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Group_Validation.Parameters.Layout.B1P4",
+          "name": "Group_Validation.Parameters.Layout.B1P4",
+          "valueType": "Boolean",
+          "distinctValueCount": 2,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "False",
+              "value": false,
+              "properties": [],
+              "assigned": "byDefault",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "True",
+              "value": true,
+              "properties": [],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "5",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Group_Validation.Parameters.Layout.B2P1",
+          "name": "Group_Validation.Parameters.Layout.B2P1",
+          "valueType": "Boolean",
+          "distinctValueCount": 2,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "False",
+              "value": false,
+              "properties": [],
+              "assigned": "byDefault",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "True",
+              "value": true,
+              "properties": [],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "6",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Group_Validation.Parameters.Layout.B2P2",
+          "name": "Group_Validation.Parameters.Layout.B2P2",
+          "valueType": "Boolean",
+          "distinctValueCount": 2,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "False",
+              "value": false,
+              "properties": [],
+              "assigned": "byDefault",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "True",
+              "value": true,
+              "properties": [],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "7",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Group_Validation.Parameters.Layout.B2P3",
+          "name": "Group_Validation.Parameters.Layout.B2P3",
+          "valueType": "Boolean",
+          "distinctValueCount": 2,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "False",
+              "value": false,
+              "properties": [],
+              "assigned": "byDefault",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "True",
+              "value": true,
+              "properties": [],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "8",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Group_Validation.Parameters.Layout.B2P4",
+          "name": "Group_Validation.Parameters.Layout.B2P4",
+          "valueType": "Boolean",
+          "distinctValueCount": 2,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "False",
+              "value": false,
+              "properties": [],
+              "assigned": "byDefault",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "True",
+              "value": true,
+              "properties": [],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "9",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Elevator001.Parameters.Layout.HS1QUAD",
+          "name": "HALL STATION QUADRANT LOCATION",
+          "valueType": "String",
+          "distinctValueCount": 3,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "QUAD 3 OF HOISTWAY (FRONT)",
+              "value": "Q3",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Q3",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Q3",
+                  "type": "String"
+                }
+              ],
+              "assigned": "byDefault",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "QUAD 4 OF HOISTWAY (FRONT)",
+              "value": "Q4",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Q4",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Q4",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator001.Parameters.Layout.HS1QUAD",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "HS1QUAD",
+              "type": "String"
+            },
+            {
+              "id": "readonly",
+              "value": true,
+              "type": "Boolean"
+            },
+            {
+              "id": "sequence",
+              "value": "10",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Elevator001.Parameters.Layout.HS2QUAD",
+          "name": "HALL STATION QUADRANT LOCATION",
+          "valueType": "String",
+          "distinctValueCount": 3,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "Not Required",
+              "value": "NR",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "NR",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "NR",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "QUAD 1 OF HOISTWAY (REAR)",
+              "value": "Q1",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Q1",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Q1",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "QUAD 2 OF HOISTWAY (REAR)",
+              "value": "Q2",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Q2",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Q2",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator001.Parameters.Layout.HS2QUAD",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "HS2QUAD",
+              "type": "String"
+            },
+            {
+              "id": "readonly",
+              "value": true,
+              "type": "Boolean"
+            },
+            {
+              "id": "sequence",
+              "value": "11",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Elevator001.Parameters.Doors.Landing_Doors_Assembly.Doortypf",
+          "name": "Elevator001.Parameters.Doors.Landing_Doors_Assembly.Doortypf",
+          "valueType": "Boolean",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "sequence",
+              "value": "12",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Elevator001.Parameters.Doors.Landing_Doors_Assembly.DOORTYPR",
+          "name": "DOOR TYPE AND HAND (REAR)",
+          "valueType": "String",
+          "distinctValueCount": 7,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "Single Speed Left Hand",
+              "value": "1SLH",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "1SLH",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "1SLH",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Single Speed Right Hand",
+              "value": "1SRH",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "1SRH",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "1SRH",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Two Speed Left Hand",
+              "value": "2SLH",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "2SLH",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "2SLH",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Two Speed Right Hand",
+              "value": "2SRH",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "2SRH",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "2SRH",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Center Opening",
+              "value": "CO",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "CO",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "CO",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "NR",
+              "value": "NR",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "NR",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "NR",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator001.Parameters.Doors.Landing_Doors_Assembly.DOORTYPR",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "DOORTYPR",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "13",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Elevator001.Parameters.Electrical_System.CONTROLOC",
+          "name": "CONTROLLER LOCATION",
+          "valueType": "String",
+          "distinctValueCount": 9,
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "Control Closet| Traction MRL",
+              "value": "CTRLCLST",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "CTRLCLST",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "CTRLCLST",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Machine Room Adjacent| Wall Mount| Non-MRL",
+              "value": "MRAWM",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "MRAWM",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "MRAWM",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Machine Room Remote| Wall Mount| Non-MRL",
+              "value": "MRRWM",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "MRRWM",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "MRRWM",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Entrance Frame| Right Hand Rear| Hydro MRL or Traction MRL",
+              "value": "Q1",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Q1",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Q1",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Entrance Frame| Left Hand Rear| Hydro MRL or Traction MRL",
+              "value": "Q2",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Q2",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Q2",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Entrance Frame| Left Hand Front| Hydro MRL or Traction MRL",
+              "value": "Q3",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Q3",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Q3",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Entrance Frame| Right Hand Front| Hydro MRL or Traction MRL",
+              "value": "Q4",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Q4",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Q4",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Machine Room Adjacent, Power Unit Mount, Non-MRL",
+              "value": "MRAPUM",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "MRAPUM",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "MRAPUM",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Machine Room Remote, Power Unit Mount, Non-MRL",
+              "value": "MRRPUM",
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "MRRPUM",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "MRRPUM",
+                  "type": "String"
+                }
+              ],
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator001.Parameters.Electrical_System.CONTROLOC",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "CONTROLOC",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "14",
+              "type": "number"
+            }
+          ]
+        }
+      ],
+      "properties": []
+    }
+  ],
+  "variables": [],
+  "properties": []
+}

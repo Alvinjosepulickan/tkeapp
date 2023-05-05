@@ -1,0 +1,40 @@
+{
+  "fixtureType": "Appendix_H/O_Signage",
+  "fixtureLocations": [
+    {
+      "floorNumber": 1,
+      "front": true,
+      "rear": false
+    },
+    {
+      "floorNumber": 2,
+      "front": true,
+      "rear": false
+    }
+  ],
+  "consoleName": "Appendix_H/O_Signage",
+  "consoleId": 1,
+  "GroupHallFixtureConsoleId": 1,
+  "variableAssignments": [
+    {
+      "variableId": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.HALOCTOPF",
+      "value": "EJMFLTL"
+    }
+  ],
+  "GroupHallFixtureLocations": [
+    {
+      "UnitId": 1,
+      "HallStationId": "Value",
+      "HallStationName": "Value",
+      "Assignments": [
+        {
+          "FloorNumber": 1,
+          "FloorDesignation": "",
+          "Front": true,
+          "Rear": true
+
+        }
+      ]
+    }
+  ]
+}

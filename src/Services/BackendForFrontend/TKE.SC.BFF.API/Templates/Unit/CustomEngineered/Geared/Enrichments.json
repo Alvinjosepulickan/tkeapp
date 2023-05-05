@@ -1,0 +1,2769 @@
+{
+  "sections": {
+    "tp2Summary": {
+      "name": "tp2Summary",
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "TP2 Summary",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "variables": {
+    "Parameters.Factory": {
+      "name": "Parameters.Factory",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Factory",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Factory",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Factory",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Factory_Quote_Num": {
+      "name": "Parameters.Factory_Quote_Num",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Factory_Quote_Num",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "text",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Factory Quote Number",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Factory Quote Number",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "pattern",
+          "value": "^[a-zA-Z0-9\\s]{1,10}$",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "text",
+          "type": "String"
+        },
+        {
+          "id": "patternValidationMessage",
+          "value": "The value should be alphanumeric",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Factory_Quote_Exp_Date": {
+      "name": "Parameters.Factory_Quote_Exp_Date",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Factory_Quote_Exp_Date",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "date",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "dateinput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Factory Quote Expiration",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Factory Quote Expiration",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Factory_Quote_Price": {
+      "name": "Parameters.Factory_Quote_Price",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Factory_Quote_Price",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Factory Quote Price ($)",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "unittype",
+          "value": "USD",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Factory Quote Price",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 1000000,
+          "type": "Number"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 1000000",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Speed": {
+      "name": "Parameters.Speed",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Speed",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Speed (ft/min)",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Speed",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Capacity": {
+      "name": "Parameters.Capacity",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Capacity",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Capacity",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Capacity",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_FloorServed": {
+      "name": "Parameters.Num_FloorServed",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_FloorServed",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "7",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No.of Floors Served",
+          "type": "String"
+        },
+        {
+          "id": "readonly",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "isDisabled",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    "Parameters.Num_FrontOpenings": {
+      "name": "Parameters.Num_FrontOpenings",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_FrontOpenings",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "8",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No.of Front Openings",
+          "type": "String"
+        },
+        {
+          "id": "readonly",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "isDisabled",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    "Parameters.Num_RearOpenings": {
+      "name": "Parameters.Num_RearOpenings",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_RearOpenings",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "9",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No.of Rear Openings",
+          "type": "String"
+        },
+        {
+          "id": "readonly",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "isDisabled",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    "Parameters.NetTravel": {
+      "name": "Parameters.NetTravel",
+      "properties": [
+        {
+          "id": "key",
+          "value": "NetTravel",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetInchInput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "10",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Net Travel",
+          "type": "String"
+        },
+        {
+          "id": "readonly",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "isDisabled",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    "Parameters.CounterWeight_Location": {
+      "name": "Parameters.CounterWeight_Location",
+      "properties": [
+        {
+          "id": "key",
+          "value": "CounterWeight_Location",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "11",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Counterweight Location",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Counterweight Location",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.PitDepth": {
+      "name": "Parameters.PitDepth",
+      "properties": [
+        {
+          "id": "key",
+          "value": "PitDepth",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "unittype",
+          "value": "inch",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "feetInchInput",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "12",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Pit Depth",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 60,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 1200,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter PitDepth",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 5 ft 0 in and 100 ft 0 in",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Buffer_Extensions": {
+      "name": "Parameters.Buffer_Extensions",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Buffer_Extensions",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "13",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Buffer Extensions",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Buffer Extensions",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Compensation": {
+      "name": "Parameters.Compensation",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Compensation",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "14",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Compensation",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Compensation",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Comp_Dampening_Wheel": {
+      "name": "Parameters.Comp_Dampening_Wheel",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Comp_Dampening_Wheel",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "15",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Comp dampening wheel",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Comp dampening wheel",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_Belts_Or_Ropes": {
+      "name": "Parameters.Num_Belts_Or_Ropes",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_Belts_Or_Ropes",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "16",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of Belts/Ropes",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter No. of Belts/Ropes",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Roping": {
+      "name": "Parameters.Roping",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Roping",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "17",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Roping",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Roping",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Machine_Application": {
+      "name": "Parameters.Machine_Application",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Machine_Application",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "String",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "18",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Machine Application",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Machine Application",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Rope_Quantity": {
+      "name": "Parameters.Rope_Quantity",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Rope_Quantity",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "String",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "26",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Rope Quantity",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Rope Quantity",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Rating": {
+      "name": "Parameters.Rating",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Rating",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "String",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "19",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Rating",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Rating",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_Power_Freight_Doors": {
+      "name": "Parameters.Num_Power_Freight_Doors",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_Power_Freight_Doors",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "21",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of Power Freight Doors",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 200,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter No. of Power Freight Doors",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 200",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_Manual_Freight_Doors": {
+      "name": "Parameters.Num_Manual_Freight_Doors",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_Manual_Freight_Doors",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "22",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of Manual Freight Doors",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 200,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter No. of Manual Freight Doors",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 200",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Dual_Drive_Door_Operators": {
+      "name": "Parameters.Dual_Drive_Door_Operators",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Dual_Drive_Door_Operators",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "23",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Dual Drive Door Operators",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.CornerPost": {
+      "name": "Parameters.CornerPost",
+      "properties": [
+        {
+          "id": "key",
+          "value": "CornerPost",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "24",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Corner-post",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select CornerPost",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.DoorType_Front": {
+      "name": "Parameters.DoorType_Front",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DoorType_Front",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "String",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "25",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Door Type Front",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Door Type Front",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.DoorType_Rear": {
+      "name": "Parameters.DoorType_Rear",
+      "properties": [
+        {
+          "id": "key",
+          "value": "DoorType_Rear",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "String",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "26",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Door Type Rear",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Door Type Rear",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Traditional_Entrances": {
+      "name": "Parameters.Traditional_Entrances",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Traditional_Entrances",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "27",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Traditional Entrances (# of openings)",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 200,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Traditional Entrances",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 200",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Non_standard_entrances": {
+      "name": "Parameters.Non_standard_entrances",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Non_standard_entrances",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "28",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Non-standard Entrances (# of openings)",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 200,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Non-standard Entrances",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 200",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Transoms": {
+      "name": "Parameters.Transoms",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Transoms",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "29",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Transoms (# of openings)",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 200,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Transoms",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 200",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_NonTKE_KeySwitch": {
+      "name": "Parameters.Num_NonTKE_KeySwitch",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_NonTKE_KeySwitch",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "30",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of Non-TKE Key-switches",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 999,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter No. of Non-TKE Key-switches",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 999",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_NonStd_HallFixtures": {
+      "name": "Parameters.Num_NonStd_HallFixtures",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_NonStd_HallFixtures",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "31",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of Non-Standard Hall Fixtures",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 999,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter No. of Non-Standard Hall Fixtures",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 999",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_UnitHallFix_Devices": {
+      "name": "Parameters.Num_UnitHallFix_Devices",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_UnitHallFix_Devices",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "32",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of Unit Hall Fixture Devices (non-braille)",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 999,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter No. of Unit Hall Fixture Devices",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 999",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.CabHeight": {
+      "name": "Parameters.CabHeight",
+      "properties": [
+        {
+          "id": "key",
+          "value": "CabHeight",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "33",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Cab Height",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Cab Height",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Glass_Back": {
+      "name": "Parameters.Glass_Back",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Glass_Back",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "34",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Glass Back",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Glass Back",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Shrouds": {
+      "name": "Parameters.Shrouds",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Shrouds",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "36",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Shrouds",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Shrouds",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.FlooringThickness": {
+      "name": "Parameters.FlooringThickness",
+      "properties": [
+        {
+          "id": "key",
+          "value": "FlooringThickness",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "37",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Flooring Thickness",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select FlooringThickness",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Qty_AuxCOPs": {
+      "name": "Parameters.Qty_AuxCOPs",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Qty_AuxCOPs",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "38",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of Auxilliary COP's",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select No. of Auxilliary COP's",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.CardReader": {
+      "name": "Parameters.CardReader",
+      "properties": [
+        {
+          "id": "key",
+          "value": "CardReader",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "39",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Card Reader",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select CardReader",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Controller_Manufacturer": {
+      "name": "Parameters.Controller_Manufacturer",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Controller_Manufacturer",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "40",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Controller Manufacturer",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Controller Manufacturer",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Transformer": {
+      "name": "Parameters.Transformer",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Transformer",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "41",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Transformer",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Transformer",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_of_2019_BCC_Panels": {
+      "name": "Parameters.Num_of_2019_BCC_Panels",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_of_2019_BCC_Panels",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "46",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of 2019 BCC Panels",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 10,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter No. of 2019 BCC Panels",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 10",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_of_2019_Comm_boxes": {
+      "name": "Parameters.Num_of_2019_Comm_boxes",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_of_2019_Comm_boxes",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "47",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of 2019 Comm Boxes",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 10,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter No. of 2019 Comm Boxes",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 10",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Side_Rear_GlassPanels": {
+      "name": "Parameters.Side_Rear_GlassPanels",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Side_Rear_GlassPanels",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "48",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Side And Rear Glass Panels",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Side And Rear Glass Panels",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Machine_Room_Location": {
+      "name": "Parameters.Machine_Room_Location",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Machine_Room_Location",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "text",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "20",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Machine Room Location",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Machine Room Location",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Large_Gearless_Machine": {
+      "name": "Parameters.Large_Gearless_Machine",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Large_Gearless_Machine",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "20",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Large Gearless Machine",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Large Gearless Machine",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Side_And_Rear_GlassPanels": {
+      "name": "Parameters.Side_And_Rear_GlassPanels",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Side_And_Rear_GlassPanels",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "35",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Side and Rear Glass Panels",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Side and Rear Glass Panels",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Machine_Room_Above_Or_Below_Lowest_Landing": {
+      "name": "Parameters.Machine_Room_Above_Or_Below_Lowest_Landing",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Machine_Room_Above_Or_Below_Lowest_Landing",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "15",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Machine Room Above/Below Lowest Landing",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Machine Room Above/Below Lowest Landing",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.MachineRoom_WallMounted_Controller": {
+      "name": "Parameters.MachineRoom_WallMounted_Controller",
+      "properties": [
+        {
+          "id": "key",
+          "value": "MachineRoom_WallMounted_Controller",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "string",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "toggle",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "16",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "MachineRoom WallMounted Controller",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select MachineRoom WallMounted Controller",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Car_Guide_Rail_Type": {
+      "name": "Parameters.Car_Guide_Rail_Type",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Car_Guide_Rail_Type",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Button",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "17",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Car Guide Rail Type",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Car Guide Rail Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Hydraulic_Jack_Type": {
+      "name": "Parameters.Hydraulic_Jack_Type",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Hydraulic_Jack_Type",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "19",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Hydraulic Jack Type",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Hydraulic Jack Type",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Jack_Location": {
+      "name": "Parameters.Jack_Location",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Jack_Location",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "20",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Jack Location",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Select Jack Location",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        }
+      ]
+    },
+    "Parameters.Num_JackJoints": {
+      "name": "Parameters.Num_JackJoints",
+      "properties": [
+        {
+          "id": "key",
+          "value": "Num_JackJoints",
+          "type": "String"
+        },
+        {
+          "id": "type",
+          "value": "number",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "inputfield",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "21",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "No. of Jack Joints",
+          "type": "String"
+        },
+        {
+          "id": "validateField",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "Boolean"
+        },
+        {
+          "id": "minvalue",
+          "value": 0,
+          "type": "Number"
+        },
+        {
+          "id": "maxvalue",
+          "value": 10,
+          "type": "Number"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter No. of Jack Joints",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-md-4 col-sm-12",
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Please enter value between 0 and 10",
+          "type": "String"
+        }
+      ]
+    }
+
+  },
+  "options": {
+  }
+}

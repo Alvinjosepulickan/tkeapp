@@ -1,0 +1,611 @@
+﻿{
+  "id": "Building_Configuration.Parameters",
+  "name": "Building_Configuration.Parameters",
+  "sections": [
+    {
+      "id": "Building_Configuration.Parameters.Basic_Info",
+      "name": "Building_Configuration.Parameters.Basic_Info",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Building_Configuration.Parameters.Basic_Info.BLDGNAME",
+          "name": "Building_Configuration.Parameters.Basic_Info.BLDGNAME",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "IntervalValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "InputField",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "1",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Building_Configuration.Parameters.Basic_Info.ASYEAR",
+          "name": "Building_Configuration.Parameters.Basic_Info.ASYEAR",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "DropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "8",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+          "name": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+          "valueType": "Number",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "IntervalValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "InputField",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "2",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Building_Configuration.Parameters.Basic_Info.ASTYPE",
+          "name": "ASME A17.1 CODE TYPE",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "National Code Adopted in Entirety",
+              "value": "A17.1",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Arizona",
+              "value": "AZ",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Arizona| Phoenix",
+              "value": "AZP",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Canada B44",
+              "value": "B44",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "California",
+              "value": "CA",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Chicago",
+              "value": "CH",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Detroit",
+              "value": "DE",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Florida Zone 1",
+              "value": "F1",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Florida Zone 2",
+              "value": "F2",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Florida Zone 3",
+              "value": "F3",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Florida Zone 4",
+              "value": "F4",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Florida Zone 5",
+              "value": "F5",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Florida Zone 6",
+              "value": "F6",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Florida Zone 7",
+              "value": "F7",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Louisiana",
+              "value": "LA",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Massachusetts",
+              "value": "MA",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Maine",
+              "value": "ME",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Michigan",
+              "value": "MI",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "New Hampshire",
+              "value": "NH",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "New Jersey",
+              "value": "NJ",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Not Required",
+              "value": "NR",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Nevada",
+              "value": "NV",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "New York City",
+              "value": "NY",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Rhode Island",
+              "value": "RI",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "South Carolina",
+              "value": "SC",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Washington",
+              "value": "WA",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "M",
+              "value": "M",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "FL",
+              "value": "FL",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "MD",
+              "value": "MD",
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "DropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "9",
+              "type": "number"
+            }
+          ]
+        }
+
+
+
+
+
+      ],
+      "properties": []
+    },
+    {
+      "id": "Building_Configuration.Parameters.Layout",
+      "name": "Building_Configuration.Parameters.Layout",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Building_Configuration.Parameters.Layout.BLDGCODE",
+          "name": "Building_Configuration.Parameters.Layout.BLDGCODE",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "DropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "7",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Building_Configuration.Parameters.Layout.ELEVBASE",
+          "name": "Building_Configuration.Parameters.Layout.ELEVBASE",
+          "valueType": "Number",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "IntervalValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "InputField",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "3",
+              "type": "number"
+            }
+          ]
+        }
+      ],
+      "properties": []
+    },
+    {
+      "id": "Building_Configuration.Parameters.Electrical_System",
+      "name": "Building_Configuration.Parameters.Electrical_System",
+      "sections": [],
+      "variables": [
+        {
+          "id": "Building_Configuration.Parameters.Electrical_System.BPF",
+          "name": "Building_Configuration.Parameters.Electrical_System.BPF",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "Button",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "6",
+              "type": "number"
+            }
+          ]
+        },
+        {
+          "id": "Building_Configuration.Parameters.Electrical_System.BPV",
+          "name": "Building_Configuration.Parameters.Electrical_System.BPV",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "DropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "4",
+              "type": "number"
+            }
+          ]
+
+        },
+        {
+          "id": "Building_Configuration.Parameters.Electrical_System.BPP",
+          "name": "BUILDING POWER PHASE",
+          "valueType": "String",
+          "allowMultipleAssignments": false,
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "Single Phase Power",
+              "value": "1",
+              "incompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Three Phase Power",
+              "value": "3",
+              "incompatible": false
+            }
+          ],
+          "properties": [
+            {
+              "id": "showas",
+              "value": "DropDown",
+              "type": "String"
+            },
+            {
+              "id": "sequence",
+              "value": "5",
+              "type": "number"
+            }
+          ]
+        }
+
+
+
+      ],
+      "properties": []
+    }
+  ],
+  "variables": [],
+  "properties": []
+}

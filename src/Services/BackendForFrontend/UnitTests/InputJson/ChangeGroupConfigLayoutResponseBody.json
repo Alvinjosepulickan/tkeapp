@@ -1,0 +1,1512 @@
+{
+  "sections": [
+    {
+      "id": "Group_Validation",
+      "name": "Group_Validation",
+      "sections": [
+        {
+          "id": "Group_Validation.Parameters",
+          "name": "Group_Validation.Parameters",
+          "sections": [
+            {
+              "id": "Group_Validation.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [
+                {
+                  "variables": [
+                    {
+                      "id": "Group_Validation.Parameters.Basic_Info.GRPDESG",
+                      "name": "GROUP DESIGNATION",
+                      "valueType": "String",
+                      "allowMultipleAssignments": false,
+                      "values": [
+                        {
+                          "type": "IntervalValue",
+                          "incompatible": false
+                        }
+                      ],
+                      "properties": [
+                        {
+                          "id": "showas",
+                          "value": "InputField",
+                          "type": "String"
+                        },
+                        {
+                          "id": "sequence",
+                          "value": "1",
+                          "type": "number"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "variables": [
+                {
+                  "id": "Group_Validation.Parameters.Basic_Info.GRPDESG1",
+                  "name": "GROUP DESIGNATION",
+                  "valueType": "String",
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "IntervalValue",
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "InputField",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "1",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Group_Validation.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Group_Validation.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            },
+            {
+              "id": "show",
+              "value": true,
+              "type": "Boolean"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Group_Validation",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Group_Validation",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Elevator001",
+      "name": "Elevator001",
+      "sections": [
+        {
+          "id": "Elevator001.Parameters",
+          "name": "Elevator001.Parameters",
+          "sections": [
+            {
+              "id": "Elevator001.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Elevator001.Parameters.Basic_Info.ELEVSYS",
+                  "name": "ELEVATOR SYSTEM",
+                  "valueType": "String",
+                  "distinctValueCount": 5,
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "name": "Evolution",
+                      "value": "EVO",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "EVO",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "EVO",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura A",
+                      "value": "ENDA",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDA",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDA",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura B",
+                      "value": "ENDB",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDB",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDB",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V1",
+                      "value": "ENDV1",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV1",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V2",
+                      "value": "ENDV2",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV2",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV2",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "DropDown",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "2",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Elevator001.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator001.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Elevator001",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Elevator001",
+          "type": "String"
+        },
+        {
+          "id": "show",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    {
+      "id": "Elevator002",
+      "name": "Elevator002",
+      "sections": [
+        {
+          "id": "Elevator002.Parameters",
+          "name": "Elevator002.Parameters",
+          "sections": [
+            {
+              "id": "Elevator002.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Elevator002.Parameters.Basic_Info.ELEVSYS",
+                  "name": "ELEVATOR SYSTEM",
+                  "valueType": "String",
+                  "distinctValueCount": 5,
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "name": "Evolution",
+                      "value": "EVO",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "EVO",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "EVO",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura A",
+                      "value": "ENDA",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDA",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDA",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura B",
+                      "value": "ENDB",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDB",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDB",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V1",
+                      "value": "ENDV1",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV1",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V2",
+                      "value": "ENDV2",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV2",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV2",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "DropDown",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "2",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Elevator002.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator002.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Elevator002",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Elevator002",
+          "type": "String"
+        },
+        {
+          "id": "show",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    {
+      "id": "Elevator003",
+      "name": "Elevator003",
+      "sections": [
+        {
+          "id": "Elevator003.Parameters",
+          "name": "Elevator003.Parameters",
+          "sections": [
+            {
+              "id": "Elevator003.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Elevator003.Parameters.Basic_Info.ELEVSYS",
+                  "name": "ELEVATOR SYSTEM",
+                  "valueType": "String",
+                  "distinctValueCount": 5,
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "name": "Evolution",
+                      "value": "EVO",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "EVO",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "EVO",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura A",
+                      "value": "ENDA",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDA",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDA",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura B",
+                      "value": "ENDB",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDB",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDB",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V1",
+                      "value": "ENDV1",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV1",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V2",
+                      "value": "ENDV2",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV2",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV2",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "DropDown",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "2",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Elevator003.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator003.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Elevator003",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Elevator003",
+          "type": "String"
+        },
+        {
+          "id": "show",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    {
+      "id": "Elevator004",
+      "name": "Elevator004",
+      "sections": [
+        {
+          "id": "Elevator004.Parameters",
+          "name": "Elevator004.Parameters",
+          "sections": [
+            {
+              "id": "Elevator004.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Elevator004.Parameters.Basic_Info.ELEVSYS",
+                  "name": "ELEVATOR SYSTEM",
+                  "valueType": "String",
+                  "distinctValueCount": 5,
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "name": "Evolution",
+                      "value": "EVO",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "EVO",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "EVO",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura A",
+                      "value": "ENDA",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDA",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDA",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura B",
+                      "value": "ENDB",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDB",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDB",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V1",
+                      "value": "ENDV1",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV1",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V2",
+                      "value": "ENDV2",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV2",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV2",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "DropDown",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "2",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Elevator004.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator004.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Elevator004",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Elevator004",
+          "type": "String"
+        },
+        {
+          "id": "show",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    {
+      "id": "Elevator005",
+      "name": "Elevator005",
+      "sections": [
+        {
+          "id": "Elevator005.Parameters",
+          "name": "Elevator005.Parameters",
+          "sections": [
+            {
+              "id": "Elevator005.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Elevator005.Parameters.Basic_Info.ELEVSYS",
+                  "name": "ELEVATOR SYSTEM",
+                  "valueType": "String",
+                  "distinctValueCount": 5,
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "name": "Evolution",
+                      "value": "EVO",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "EVO",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "EVO",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura A",
+                      "value": "ENDA",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDA",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDA",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura B",
+                      "value": "ENDB",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDB",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDB",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V1",
+                      "value": "ENDV1",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV1",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V2",
+                      "value": "ENDV2",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV2",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV2",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "DropDown",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "2",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Elevator005.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator005.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Elevator005",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Elevator005",
+          "type": "String"
+        },
+        {
+          "id": "show",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    {
+      "id": "Elevator006",
+      "name": "Elevator006",
+      "sections": [
+        {
+          "id": "Elevator006.Parameters",
+          "name": "Elevator006.Parameters",
+          "sections": [
+            {
+              "id": "Elevator006.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Elevator006.Parameters.Basic_Info.ELEVSYS",
+                  "name": "ELEVATOR SYSTEM",
+                  "valueType": "String",
+                  "distinctValueCount": 5,
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "name": "Evolution",
+                      "value": "EVO",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "EVO",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "EVO",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura A",
+                      "value": "ENDA",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDA",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDA",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura B",
+                      "value": "ENDB",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDB",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDB",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V1",
+                      "value": "ENDV1",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV1",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V2",
+                      "value": "ENDV2",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV2",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV2",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "DropDown",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "2",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Elevator006.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator006.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Elevator006",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Elevator006",
+          "type": "String"
+        },
+        {
+          "id": "show",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    {
+      "id": "Elevator007",
+      "name": "Elevator007",
+      "sections": [
+        {
+          "id": "Elevator007.Parameters",
+          "name": "Elevator007.Parameters",
+          "sections": [
+            {
+              "id": "Elevator007.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Elevator007.Parameters.Basic_Info.ELEVSYS",
+                  "name": "ELEVATOR SYSTEM",
+                  "valueType": "String",
+                  "distinctValueCount": 5,
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "name": "Evolution",
+                      "value": "EVO",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "EVO",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "EVO",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura A",
+                      "value": "ENDA",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDA",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDA",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura B",
+                      "value": "ENDB",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDB",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDB",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V1",
+                      "value": "ENDV1",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV1",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V2",
+                      "value": "ENDV2",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV2",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV2",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "DropDown",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "2",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Elevator007.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator007.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Elevator007",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Elevator007",
+          "type": "String"
+        },
+        {
+          "id": "show",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    },
+    {
+      "id": "Elevator008",
+      "name": "Elevator008",
+      "sections": [
+        {
+          "id": "Elevator008.Parameters",
+          "name": "Elevator008.Parameters",
+          "sections": [
+            {
+              "id": "Elevator008.Parameters.Basic_Info",
+              "name": "BASIC INFORMATION",
+              "sections": [],
+              "variables": [
+                {
+                  "id": "Elevator008.Parameters.Basic_Info.ELEVSYS",
+                  "name": "ELEVATOR SYSTEM",
+                  "valueType": "String",
+                  "distinctValueCount": 5,
+                  "allowMultipleAssignments": false,
+                  "values": [
+                    {
+                      "type": "SingletonValue",
+                      "name": "Evolution",
+                      "value": "EVO",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "EVO",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "EVO",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura A",
+                      "value": "ENDA",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDA",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDA",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura B",
+                      "value": "ENDB",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDB",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDB",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V1",
+                      "value": "ENDV1",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV1",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV1",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    },
+                    {
+                      "type": "SingletonValue",
+                      "name": "Endura V2",
+                      "value": "ENDV2",
+                      "properties": [
+                        {
+                          "id": "fullyqualifiedname",
+                          "value": "ENDV2",
+                          "type": "String"
+                        },
+                        {
+                          "id": "name",
+                          "value": "ENDV2",
+                          "type": "String"
+                        }
+                      ],
+                      "incompatible": false
+                    }
+                  ],
+                  "properties": [
+                    {
+                      "id": "showas",
+                      "value": "DropDown",
+                      "type": "String"
+                    },
+                    {
+                      "id": "sequence",
+                      "value": "2",
+                      "type": "number"
+                    }
+                  ]
+                }
+              ],
+              "properties": [
+                {
+                  "id": "fullyqualifiedname",
+                  "value": "Elevator008.Parameters.Basic_Info",
+                  "type": "String"
+                },
+                {
+                  "id": "name",
+                  "value": "Basic_Info",
+                  "type": "String"
+                }
+              ]
+            }
+          ],
+          "variables": [],
+          "properties": [
+            {
+              "id": "fullyqualifiedname",
+              "value": "Elevator008.Parameters",
+              "type": "String"
+            },
+            {
+              "id": "name",
+              "value": "Parameters",
+              "type": "String"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "properties": [
+        {
+          "id": "fullyqualifiedname",
+          "value": "Elevator008",
+          "type": "String"
+        },
+        {
+          "id": "name",
+          "value": "Elevator008",
+          "type": "String"
+        },
+        {
+          "id": "show",
+          "value": true,
+          "type": "Boolean"
+        }
+      ]
+    }
+  ],
+  "removedAssignments": {
+    "variableAssignments": [],
+    "priceLineAssignments": []
+  },
+  "isComplete": false,
+  "isConfigurable": true,
+  "debug": {},
+  "language": "english",
+  "packagePath": "groupconfiguration~1af3d1cb-8dc1-465a-ab60-0bc51a353a34"
+}

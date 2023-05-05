@@ -1,0 +1,1476 @@
+12/31/2021 12:10:35 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:10:44 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:10:44 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:10:44 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration.
+12/31/2021 12:10:44 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) Was unable to perform the Hangfire schema migration due to an exception. Ignore this message unless you've just installed or upgraded Hangfire.
+12/31/2021 12:10:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/31/2021 12:10:44 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:11:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:25.0538743 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:11:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:50.0982425 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:11:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:05.1209970 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:12:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:30.1732508 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:12:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:45.1789584 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:12:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:00.1915432 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:13:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:25.2407520 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:13:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:40.2512269 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:13:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:55.2549762 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:13:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:10.2727753 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:14:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:35.3146965 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:14:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:50.3210681 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:14:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:05.3417479 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:15:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:20.3498663 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:15:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:45.3772093 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:15:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:00.3877625 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:16:00 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:15.4031826 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:16:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:30.4162672 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:16:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:55.4477300 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:17:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:20.4853418 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:17:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:45.5276543 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:17:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:10.5783676 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:18:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:25.5868096 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:18:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:50.6294739 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:18:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:05.6456151 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:19:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:20.6567905 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:19:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:45.6968417 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:19:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:00.7053925 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:20:00 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:15.7265472 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:20:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:30.7448078 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:20:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:55.7961325 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:21:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:10:20.8449626 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:21:35 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:21:46 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:21:46 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:21:46 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration.
+12/31/2021 12:21:46 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) Was unable to perform the Hangfire schema migration due to an exception. Ignore this message unless you've just installed or upgraded Hangfire.
+12/31/2021 12:21:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/31/2021 12:21:47 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:22:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:25.1316729 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:22:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:50.1828525 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:22:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:05.2034852 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:23:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:30.2522399 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:23:32 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:45.2637935 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:23:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:00.2823281 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:24:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:25.3201033 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:24:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:40.3307025 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:24:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:55.3518949 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:24:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:10.3575097 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:25:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:35.3986171 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:25:33 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:25:33 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:25:33 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:25:33 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Cannot open database "TKECPQ_RestructuredModel_Copy" requested by the login. The login failed.
+Login failed for user 'ITLINFOSYS\alvin.jose'.
+12/31/2021 12:25:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:50.4080117 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:25:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:05.4198500 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:26:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:20.4313043 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:26:32 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:45.4742852 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:26:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:00.4930143 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:27:05 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:27:16 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:27:16 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:27:16 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration.
+12/31/2021 12:27:16 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) Was unable to perform the Hangfire schema migration due to an exception. Ignore this message unless you've just installed or upgraded Hangfire.
+12/31/2021 12:27:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/31/2021 12:27:16 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:27:41 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:25.0380976 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:28:06 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:50.0657726 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:28:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:05.0743765 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:28:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:30.1349056 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:29:01 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:45.1530844 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:29:03 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:29:03 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:29:03 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:29:03 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:29:03 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 12:29:03 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Cannot open database "TKECPQ_RestructuredModel_Copy" requested by the login. The login failed.
+Login failed for user 'ITLINFOSYS\alvin.jose'.
+12/31/2021 12:29:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:00.1683519 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:29:21 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:29:21 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:29:21 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:29:21 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Cannot open database "TKECPQ_RestructuredModel_Copy" requested by the login. The login failed.
+Login failed for user 'ITLINFOSYS\alvin.jose'.
+12/31/2021 12:30:04 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:30:20 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:30:20 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:30:21 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration.
+12/31/2021 12:30:21 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) Was unable to perform the Hangfire schema migration due to an exception. Ignore this message unless you've just installed or upgraded Hangfire.
+12/31/2021 12:30:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/31/2021 12:30:22 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:30:39 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:30:39 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:30:39 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:30:39 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:30:39 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:30:41 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:30:45 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 12:30:45 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 12:30:45 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 12:30:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:27.8610914 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:30:52 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Cannot open database "TKECPQ_RestructuredModel_Copy" requested by the login. The login failed.
+Login failed for user 'ITLINFOSYS\alvin.jose'.
+12/31/2021 12:31:06 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:45.0584129 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:31:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:00.3823908 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:31:25 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:31:25 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:31:25 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:32:25 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:32:39 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:32:39 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/31/2021 12:32:40 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration.
+12/31/2021 12:32:40 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) Was unable to perform the Hangfire schema migration due to an exception. Ignore this message unless you've just installed or upgraded Hangfire.
+12/31/2021 12:32:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/31/2021 12:32:41 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:32:57 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:32:57 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsBl' started:
+12/31/2021 12:32:57 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsDl' started:
+12/31/2021 12:33:07 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 12:33:08 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:27.7647940 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:33:10 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:33:10 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:33:10 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:33:12 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:33:16 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Cannot open database "TKECPQ_RestructuredModel_Copy" requested by the login. The login failed.
+Login failed for user 'ITLINFOSYS\alvin.jose'.
+12/31/2021 12:33:20 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 12:33:26 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:33:26 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:33:26 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:33:36 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:55.5984492 due to an exception, will be retried no more than in 00:00:15
+12/31/2021 12:35:28 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:35:34 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:37:12 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:37:14 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:38:03 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:38:08 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:38:56 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:38:56 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:38:56 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:38:56 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:39:05 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 12:39:06 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 9316.1158 milliseconds
+12/31/2021 12:39:06 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 10021.6246 milliseconds
+12/31/2021 12:39:06 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 10172.3673 milliseconds
+12/31/2021 12:39:06 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:39:06 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsBl' started:
+12/31/2021 12:39:06 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsDl' started:
+12/31/2021 12:39:07 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsDl' execution ended: Time elapsed 331.954 milliseconds
+12/31/2021 12:39:07 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' started:
+12/31/2021 12:39:07 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' execution ended: Time elapsed 3.8375 milliseconds
+12/31/2021 12:39:07 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionByRole' started:
+12/31/2021 12:39:07 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionByRole' execution ended: Time elapsed 157.0086 milliseconds
+12/31/2021 12:39:07 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsBl' execution ended: Time elapsed 583.4902 milliseconds
+12/31/2021 12:39:07 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 657.0742 milliseconds
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 3.9903 milliseconds
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 27.927 milliseconds
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' started:
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' execution ended: Time elapsed 2.876 milliseconds
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 12:40:20 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'MakeHttpRequest' started:
+12/31/2021 12:40:20 +05:30 [VRB] (TKE.SC.BFF.APIController.ProjectsController) API request to https://usdev2.tkeview.com/sharp/configitapi/project/getprojectinfo?opportunityId=22261&versionId=410&defineSymbol=US_NI_GET_QUOTATION&sessionId=1
+12/31/2021 12:40:24 +05:30 [VRB] (TKE.SC.BFF.APIController.ProjectsController) API response from https://usdev2.tkeview.com/sharp/configitapi/project/getprojectinfo?opportunityId=22261&versionId=410&defineSymbol=US_NI_GET_QUOTATION&sessionId=1
+12/31/2021 12:40:24 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'MakeHttpRequest' execution ended: Time elapsed 4010.7835 milliseconds
+12/31/2021 12:40:24 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' execution ended: Time elapsed 4068.1075 milliseconds
+12/31/2021 12:40:24 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GenerateQuoteId' started:
+12/31/2021 12:40:24 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GenerateQuoteId' execution ended: Time elapsed 276.0695 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' execution ended: Time elapsed 4612.8232 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 4637.8145 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 9.2005 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 5.3143 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' execution ended: Time elapsed 3.0838 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'MakeHttpRequest' started:
+12/31/2021 12:40:25 +05:30 [VRB] (TKE.SC.BFF.APIController.ProjectsController) API request to https://usdev2.tkeview.com/sharp/configitapi/project/getprojectinfo?opportunityId=22261&versionId=410&defineSymbol=US_NI_GET_QUOTATION&sessionId=1
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 335.427 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 72.2222 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.7526 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 11.215 milliseconds
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 12:40:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:40:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:40:26 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController) API response from https://usdev2.tkeview.com/sharp/configitapi/project/getprojectinfo?opportunityId=22261&versionId=410&defineSymbol=US_NI_GET_QUOTATION&sessionId=1
+12/31/2021 12:40:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'MakeHttpRequest' execution ended: Time elapsed 1042.7156 milliseconds
+12/31/2021 12:40:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 1044.357 milliseconds
+12/31/2021 12:40:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateQuoteId' started:
+12/31/2021 12:40:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateQuoteId' execution ended: Time elapsed 215.6788 milliseconds
+12/31/2021 12:40:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 1326.8335 milliseconds
+12/31/2021 12:40:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 1349.489 milliseconds
+12/31/2021 12:40:26 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetVaultLocation' started:
+12/31/2021 12:40:26 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetVaultLocation' started:
+12/31/2021 12:40:26 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetFolderPath' started:
+12/31/2021 12:40:26 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetToken' started:
+12/31/2021 12:40:26 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'MakeHttpRequest' started:
+12/31/2021 12:40:26 +05:30 [VRB] (TKE.SC.BFF.Controllers.DocumentsController) API request to https://mfiles-test.thyssenkruppelevator.com/REST/server/authenticationtokens
+12/31/2021 12:40:39 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'ConfigureOrPrice' execution ended: Time elapsed 13649.4876 milliseconds
+12/31/2021 12:40:39 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'Configure' execution ended: Time elapsed 13697.0626 milliseconds
+12/31/2021 12:40:39 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) End of unitvalidationevo200 JSME call 
+12/31/2021 12:40:39 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'ConfigurationBl' execution ended: Time elapsed 13700.8566 milliseconds
+12/31/2021 12:40:39 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'ConfigurationBl' execution ended: Time elapsed 13704.2267 milliseconds
+12/31/2021 12:40:39 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetRoleName' started:
+12/31/2021 12:40:39 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetRoleName' execution ended: Time elapsed 7.9244 milliseconds
+12/31/2021 12:40:39 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetPermissionForConfiguration' started:
+12/31/2021 12:40:40 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetPermissionForConfiguration' execution ended: Time elapsed 229.7934 milliseconds
+12/31/2021 12:40:40 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 14634.535 milliseconds
+12/31/2021 12:40:40 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 14643.9953 milliseconds
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 188.5713 milliseconds
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 40.4369 milliseconds
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 136.1326 milliseconds
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 391.7666 milliseconds
+12/31/2021 12:40:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 396.1161 milliseconds
+12/31/2021 12:40:54 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' started:
+12/31/2021 12:40:54 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/31/2021 12:40:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/31/2021 12:41:03 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+12/31/2021 12:41:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 8669.9642 milliseconds
+12/31/2021 12:41:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 12:41:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 50.6377 milliseconds
+12/31/2021 12:41:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 12:41:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 167.3434 milliseconds
+12/31/2021 12:41:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 18283.1543 milliseconds
+12/31/2021 12:41:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' execution ended: Time elapsed 18462.4578 milliseconds
+12/31/2021 12:41:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/31/2021 12:41:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/31/2021 12:41:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 12:41:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 6.5475 milliseconds
+12/31/2021 12:41:16 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+12/31/2021 12:41:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+12/31/2021 12:41:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 261.8466 milliseconds
+12/31/2021 12:41:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 12:41:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 5.4476 milliseconds
+12/31/2021 12:41:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 12:41:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:41:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:41:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+12/31/2021 12:41:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:41:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:41:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 6205.4864 milliseconds
+12/31/2021 12:41:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 6208.1872 milliseconds
+12/31/2021 12:41:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of buildingconfiguration JSME call 
+12/31/2021 12:41:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 6209.533 milliseconds
+12/31/2021 12:41:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 6211.0617 milliseconds
+12/31/2021 12:41:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 6219.7705 milliseconds
+12/31/2021 12:41:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/31/2021 12:41:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 130.2226 milliseconds
+12/31/2021 12:41:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 12:41:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 4.1926 milliseconds
+12/31/2021 12:41:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 12:41:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:41:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:41:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of groupconfiguration JSME call 
+12/31/2021 12:41:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:41:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 26939.9543 milliseconds
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 26943.0729 milliseconds
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of groupconfiguration JSME call 
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 27009.0037 milliseconds
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 27013.5558 milliseconds
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 27042.5408 milliseconds
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 11.8645 milliseconds
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 11.2258 milliseconds
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo100 JSME call 
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:41:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:42:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 14368.8192 milliseconds
+12/31/2021 12:42:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 14371.0816 milliseconds
+12/31/2021 12:42:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo100 JSME call 
+12/31/2021 12:42:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 14372.8267 milliseconds
+12/31/2021 12:42:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 14374.127 milliseconds
+12/31/2021 12:42:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 14488.5176 milliseconds
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100124075 JSME call 
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:42:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100000689 JSME call 
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100000525 JSME call 
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:42:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3593.4349 milliseconds
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3640.6769 milliseconds
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100124075 JSME call 
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3641.6557 milliseconds
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3643.3977 milliseconds
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4095.8397 milliseconds
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4105.7917 milliseconds
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4106.7389 milliseconds
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4107.5488 milliseconds
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:42:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3209.0974 milliseconds
+12/31/2021 12:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3241.9574 milliseconds
+12/31/2021 12:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100000525 JSME call 
+12/31/2021 12:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3242.6981 milliseconds
+12/31/2021 12:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3243.5009 milliseconds
+12/31/2021 12:42:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 5912.6416 milliseconds
+12/31/2021 12:42:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 5927.2932 milliseconds
+12/31/2021 12:42:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100000689 JSME call 
+12/31/2021 12:42:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5928.0279 milliseconds
+12/31/2021 12:42:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5995.2791 milliseconds
+12/31/2021 12:42:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 12:42:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:42:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:42:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:42:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 12:42:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:42:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 17439.4797 milliseconds
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 17451.4397 milliseconds
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 17452.1462 milliseconds
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 17454.0784 milliseconds
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 11368.9547 milliseconds
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 11379.7748 milliseconds
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11380.4622 milliseconds
+12/31/2021 12:43:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11381.9859 milliseconds
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 21424.4559 milliseconds
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 21436.4859 milliseconds
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 21437.0644 milliseconds
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 21437.7704 milliseconds
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 7660.9474 milliseconds
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 7680.5307 milliseconds
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 7682.3003 milliseconds
+12/31/2021 12:43:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 7683.2551 milliseconds
+12/31/2021 12:43:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:43:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:43:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 12:43:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:43:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:43:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4814.4068 milliseconds
+12/31/2021 12:43:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4831.1187 milliseconds
+12/31/2021 12:43:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 12:43:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4838.0493 milliseconds
+12/31/2021 12:43:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4840.6435 milliseconds
+12/31/2021 12:43:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 5733.3257 milliseconds
+12/31/2021 12:43:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 5742.5943 milliseconds
+12/31/2021 12:43:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 12:43:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5743.2344 milliseconds
+12/31/2021 12:43:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5745.7276 milliseconds
+12/31/2021 12:43:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 44705.7381 milliseconds
+12/31/2021 12:43:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 44752.8736 milliseconds
+12/31/2021 12:43:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 12:43:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 44753.5037 milliseconds
+12/31/2021 12:43:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 44754.4478 milliseconds
+12/31/2021 12:44:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:44:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:44:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 12:44:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:44:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:44:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:44:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:44:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 12:44:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:44:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:44:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:44:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:44:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 12:44:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:44:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:44:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:44:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:44:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 12:44:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:44:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:45:22 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:45:29 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:46:57 +05:30 [WRN] (Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer) Increasing the MaxRequestBodySize conflicts with the max value for IIS limit maxAllowedContentLength. HTTP requests that have a content length greater than maxAllowedContentLength will still be rejected by IIS. You can disable the limit by either removing or setting the maxAllowedContentLength value to a higher limit.
+12/31/2021 12:47:05 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/31/2021 12:49:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' started:
+12/31/2021 12:49:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+12/31/2021 12:49:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' started:
+12/31/2021 12:49:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/31/2021 12:49:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' started:
+12/31/2021 12:49:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 12:49:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 12:49:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 496.1889 milliseconds
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' started:
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 490.8212 milliseconds
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 27.6655 milliseconds
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 34.7947 milliseconds
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' started:
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 115.6951 milliseconds
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' started:
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'MakeHttpRequest' started:
+12/31/2021 12:49:03 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController) API request to https://usdev2.tkeview.com/sharp/configitapi/project/getprojectinfo?opportunityId=22261&versionId=410&defineSymbol=US_NI_GET_QUOTATION&sessionId=1
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 454.776 milliseconds
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 1069.9766 milliseconds
+12/31/2021 12:49:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 1089.2895 milliseconds
+12/31/2021 12:49:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 1179.5606 milliseconds
+12/31/2021 12:49:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 12:49:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 3.9632 milliseconds
+12/31/2021 12:49:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 12:49:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 180.2402 milliseconds
+12/31/2021 12:50:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 73054.7404 milliseconds
+12/31/2021 12:50:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' execution ended: Time elapsed 73072.8832 milliseconds
+12/31/2021 12:50:16 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController) API response from https://usdev2.tkeview.com/sharp/configitapi/project/getprojectinfo?opportunityId=22261&versionId=410&defineSymbol=US_NI_GET_QUOTATION&sessionId=1
+12/31/2021 12:50:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'MakeHttpRequest' execution ended: Time elapsed 73045.1004 milliseconds
+12/31/2021 12:50:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 73086.6337 milliseconds
+12/31/2021 12:50:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateQuoteId' started:
+12/31/2021 12:50:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateQuoteId' execution ended: Time elapsed 292.1152 milliseconds
+12/31/2021 12:50:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 73829.8771 milliseconds
+12/31/2021 12:50:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 74379.6042 milliseconds
+12/31/2021 12:50:17 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetVaultLocation' started:
+12/31/2021 12:50:17 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetVaultLocation' started:
+12/31/2021 12:50:17 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetFolderPath' started:
+12/31/2021 12:50:17 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetToken' started:
+12/31/2021 12:50:17 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'MakeHttpRequest' started:
+12/31/2021 12:50:17 +05:30 [VRB] (TKE.SC.BFF.Controllers.DocumentsController) API request to https://mfiles-test.thyssenkruppelevator.com/REST/server/authenticationtokens
+12/31/2021 12:50:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/31/2021 12:50:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/31/2021 12:50:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 12:50:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 5.2528 milliseconds
+12/31/2021 12:50:23 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+12/31/2021 12:50:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+12/31/2021 12:50:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 252.8443 milliseconds
+12/31/2021 12:50:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 12:50:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 47.1994 milliseconds
+12/31/2021 12:50:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 12:50:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:50:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:50:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+12/31/2021 12:50:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:50:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:50:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8845.8119 milliseconds
+12/31/2021 12:51:12 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+12/31/2021 12:51:30 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Error occured while connecting to external API,{"statusCode":500,"message":"Internal Server Error"}
+12/31/2021 12:55:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:55:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:55:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 462.8582 milliseconds
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.6614 milliseconds
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.3177 milliseconds
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 2.7613 milliseconds
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:55:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:55:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8556.0884 milliseconds
+12/31/2021 12:55:53 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Error occured while connecting to external API,{"statusCode":500,"message":"Internal Server Error"}
+12/31/2021 12:55:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/31/2021 12:55:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/31/2021 12:55:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 872.0428 milliseconds
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 61.8037 milliseconds
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 1338.7837 milliseconds
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 1342.864 milliseconds
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 327.3832 milliseconds
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.6348 milliseconds
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2611 milliseconds
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.7862 milliseconds
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:55:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:55:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 240.81 milliseconds
+12/31/2021 12:55:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 246.0716 milliseconds
+12/31/2021 12:55:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 249.3063 milliseconds
+12/31/2021 12:56:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8612.1262 milliseconds
+12/31/2021 12:56:38 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Error occured while connecting to external API,{"statusCode":500,"message":"Internal Server Error"}
+12/31/2021 12:56:45 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:56:45 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:56:45 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:56:45 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 167.5755 milliseconds
+12/31/2021 12:56:45 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 212.4807 milliseconds
+12/31/2021 12:56:45 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 215.3081 milliseconds
+12/31/2021 12:56:45 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:56:45 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsBl' started:
+12/31/2021 12:56:45 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsDl' started:
+12/31/2021 12:56:46 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsDl' execution ended: Time elapsed 379.2133 milliseconds
+12/31/2021 12:56:46 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' started:
+12/31/2021 12:56:46 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' execution ended: Time elapsed 34.7759 milliseconds
+12/31/2021 12:56:46 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionByRole' started:
+12/31/2021 12:56:46 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionByRole' execution ended: Time elapsed 147.7826 milliseconds
+12/31/2021 12:56:46 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsBl' execution ended: Time elapsed 577.2085 milliseconds
+12/31/2021 12:56:46 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 619.1776 milliseconds
+12/31/2021 12:56:46 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:56:48 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 12:57:30 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 12:57:36 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 3.5684 milliseconds
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 3.1492 milliseconds
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' execution ended: Time elapsed 5.9223 milliseconds
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'CreateProjectsBL' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 2.7456 milliseconds
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' execution ended: Time elapsed 2.2994 milliseconds
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetMiniProjectValues' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetMiniProjectValues' execution ended: Time elapsed 180.5176 milliseconds
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionForProjectScreen' started:
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 137.2826 milliseconds
+12/31/2021 12:57:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'CreateProjectsBL' execution ended: Time elapsed 390.8556 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' execution ended: Time elapsed 519.7013 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 533.3509 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 4.6439 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 3.6699 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 85.9003 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 9.5114 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 3.2611 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' execution ended: Time elapsed 142.2738 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' started:
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 137.9006 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' execution ended: Time elapsed 413.3778 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 530.0794 milliseconds
+12/31/2021 12:57:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 540.2899 milliseconds
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 1547.9918 milliseconds
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.4073 milliseconds
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.183 milliseconds
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.5618 milliseconds
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 12:57:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 12:57:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8800.8383 milliseconds
+12/31/2021 12:57:56 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Error occured while connecting to external API,{"statusCode":500,"message":"Internal Server Error"}
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsBl' started:
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsDl' started:
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsDl' execution ended: Time elapsed 231.309 milliseconds
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' started:
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' execution ended: Time elapsed 3.8396 milliseconds
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionByRole' started:
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionByRole' execution ended: Time elapsed 119.9011 milliseconds
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsBl' execution ended: Time elapsed 390.5992 milliseconds
+12/31/2021 12:58:03 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 393.0555 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 4.0963 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 29.8512 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' execution ended: Time elapsed 3.6748 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'CreateProjectsBL' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 10.0828 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' execution ended: Time elapsed 3.5397 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetMiniProjectValues' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetMiniProjectValues' execution ended: Time elapsed 112.9882 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionForProjectScreen' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 117.8047 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'CreateProjectsBL' execution ended: Time elapsed 252.5358 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' execution ended: Time elapsed 335.3358 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 340.8177 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 94.3934 milliseconds
+12/31/2021 13:13:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' started:
+12/31/2021 13:13:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 42.4911 milliseconds
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 92.8853 milliseconds
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 73.456 milliseconds
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 114.7206 milliseconds
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 566.5151 milliseconds
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.0569 milliseconds
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1655 milliseconds
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.5966 milliseconds
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:13:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' execution ended: Time elapsed 667.3809 milliseconds
+12/31/2021 13:13:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' started:
+12/31/2021 13:13:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 168.8488 milliseconds
+12/31/2021 13:13:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' execution ended: Time elapsed 1044.5766 milliseconds
+12/31/2021 13:13:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 1212.3722 milliseconds
+12/31/2021 13:13:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 1308.0729 milliseconds
+12/31/2021 13:13:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 9409.4395 milliseconds
+12/31/2021 13:13:47 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Error occured while connecting to external API,{"statusCode":500,"message":"Internal Server Error"}
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsBl' started:
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsDl' started:
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsDl' execution ended: Time elapsed 230.1101 milliseconds
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' started:
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' execution ended: Time elapsed 4.2205 milliseconds
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionByRole' started:
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionByRole' execution ended: Time elapsed 119.4267 milliseconds
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetListOfProjectsDetailsBl' execution ended: Time elapsed 392.7025 milliseconds
+12/31/2021 13:19:12 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 394.8399 milliseconds
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 7.4923 milliseconds
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 36.5169 milliseconds
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' started:
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' execution ended: Time elapsed 3.3036 milliseconds
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'CreateProjectsBL' started:
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 9.3959 milliseconds
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' started:
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' execution ended: Time elapsed 3.2907 milliseconds
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetMiniProjectValues' started:
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetMiniProjectValues' execution ended: Time elapsed 132.6984 milliseconds
+12/31/2021 13:20:38 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionForProjectScreen' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 124.7237 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'CreateProjectsBL' execution ended: Time elapsed 310.2416 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' execution ended: Time elapsed 369.3403 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 384.5996 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 5.8962 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 8.5774 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 3.5989 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 103.7071 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 122.808 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 239.5041 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.4357 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1821 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.7709 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' execution ended: Time elapsed 254.3962 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' started:
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 162.808 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' execution ended: Time elapsed 654.8759 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 693.446 milliseconds
+12/31/2021 13:20:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 701.8224 milliseconds
+12/31/2021 13:20:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8809.7846 milliseconds
+12/31/2021 13:20:54 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Error occured while connecting to external API,{"statusCode":500,"message":"Internal Server Error"}
+12/31/2021 13:21:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/31/2021 13:21:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 132.4734 milliseconds
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 32.5155 milliseconds
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 304.5233 milliseconds
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 305.5879 milliseconds
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 97.8756 milliseconds
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 98.5801 milliseconds
+12/31/2021 13:21:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 99.2514 milliseconds
+12/31/2021 13:21:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:21:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:21:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 250.1178 milliseconds
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.435 milliseconds
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1579 milliseconds
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.5126 milliseconds
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:21:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:22:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8663.7221 milliseconds
+12/31/2021 13:24:16 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Error occured while connecting to external API,{"statusCode":500,"message":"Internal Server Error"}
+12/31/2021 13:24:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 13:24:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 13:24:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 13:24:19 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 565.3665 milliseconds
+12/31/2021 13:24:19 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 650.9955 milliseconds
+12/31/2021 13:24:19 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 654.2417 milliseconds
+12/31/2021 13:24:19 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:24:19 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/31/2021 13:24:19 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 9.9255 milliseconds
+12/31/2021 13:24:19 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+12/31/2021 13:24:19 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+12/31/2021 13:24:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 16.9489 milliseconds
+12/31/2021 13:24:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' started:
+12/31/2021 13:24:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 5.8433 milliseconds
+12/31/2021 13:24:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' started:
+12/31/2021 13:24:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 13:24:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 14.9559 milliseconds
+12/31/2021 13:24:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 190.2032 milliseconds
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 508.5027 milliseconds
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.3418 milliseconds
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2137 milliseconds
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.8481 milliseconds
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:24:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:25:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' execution ended: Time elapsed 87957.5564 milliseconds
+12/31/2021 13:25:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' started:
+12/31/2021 13:25:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 386.034 milliseconds
+12/31/2021 13:25:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' execution ended: Time elapsed 88577.1517 milliseconds
+12/31/2021 13:25:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 88991.3049 milliseconds
+12/31/2021 13:25:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 89002.6789 milliseconds
+12/31/2021 13:29:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/31/2021 13:29:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/31/2021 13:29:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/31/2021 13:29:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 1196.2511 milliseconds
+12/31/2021 13:29:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 13:29:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 5.3989 milliseconds
+12/31/2021 13:29:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 1872.2752 milliseconds
+12/31/2021 13:29:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 1872.9492 milliseconds
+12/31/2021 13:29:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/31/2021 13:29:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/31/2021 13:29:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/31/2021 13:29:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 202.7069 milliseconds
+12/31/2021 13:29:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 203.4775 milliseconds
+12/31/2021 13:29:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 205.0442 milliseconds
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 153.6968 milliseconds
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 6.3986 milliseconds
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 149.1578 milliseconds
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 310.5662 milliseconds
+12/31/2021 13:29:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 311.2366 milliseconds
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 311509.7352 milliseconds
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 311510.6219 milliseconds
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo200 JSME call 
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 311511.076 milliseconds
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 311511.5065 milliseconds
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 4.5144 milliseconds
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForConfiguration' started:
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForConfiguration' execution ended: Time elapsed 227.5759 milliseconds
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 312394.2998 milliseconds
+12/31/2021 13:29:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 312400.371 milliseconds
+12/31/2021 13:29:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' started:
+12/31/2021 13:29:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/31/2021 13:29:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/31/2021 13:29:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 248.1146 milliseconds
+12/31/2021 13:29:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 13:29:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 3.1799 milliseconds
+12/31/2021 13:29:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 13:29:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 213.9728 milliseconds
+12/31/2021 13:29:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 6332.1084 milliseconds
+12/31/2021 13:29:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' execution ended: Time elapsed 6333.0784 milliseconds
+12/31/2021 13:29:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/31/2021 13:29:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/31/2021 13:29:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 13:29:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 4.8773 milliseconds
+12/31/2021 13:29:51 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+12/31/2021 13:29:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+12/31/2021 13:29:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 232.9879 milliseconds
+12/31/2021 13:29:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 13:29:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.3856 milliseconds
+12/31/2021 13:29:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 13:29:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:29:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:29:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+12/31/2021 13:29:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:29:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 11760.0826 milliseconds
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 11761.1033 milliseconds
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of buildingconfiguration JSME call 
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11762.242 milliseconds
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11763.3499 milliseconds
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 11769.6585 milliseconds
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 127.1354 milliseconds
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.3484 milliseconds
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of groupconfiguration JSME call 
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:30:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 24222.0833 milliseconds
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 24223.5938 milliseconds
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of groupconfiguration JSME call 
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 24224.138 milliseconds
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 24224.8226 milliseconds
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 24256.3263 milliseconds
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 13.9975 milliseconds
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 9.8757 milliseconds
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo100 JSME call 
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:30:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:30:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 12434.7873 milliseconds
+12/31/2021 13:30:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 12436.9631 milliseconds
+12/31/2021 13:30:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo100 JSME call 
+12/31/2021 13:30:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 12438.0465 milliseconds
+12/31/2021 13:30:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 12440.3861 milliseconds
+12/31/2021 13:30:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 12511.3574 milliseconds
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100124075 JSME call 
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100000689 JSME call 
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100000525 JSME call 
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 2061.8879 milliseconds
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 2068.9875 milliseconds
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 2069.4931 milliseconds
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 2070.0562 milliseconds
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3731.5137 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3741.5897 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100124075 JSME call 
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3742.0772 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3742.7061 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3167.4596 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3177.1557 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100000525 JSME call 
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3177.7546 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3178.3458 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 2559.0554 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 2689.0699 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 2690.2846 milliseconds
+12/31/2021 13:31:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 2691.6315 milliseconds
+12/31/2021 13:31:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4462.8561 milliseconds
+12/31/2021 13:31:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4469.2504 milliseconds
+12/31/2021 13:31:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100000689 JSME call 
+12/31/2021 13:31:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4498.9594 milliseconds
+12/31/2021 13:31:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4499.5268 milliseconds
+12/31/2021 13:31:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 5210.1497 milliseconds
+12/31/2021 13:31:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 5219.6815 milliseconds
+12/31/2021 13:31:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 13:31:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5220.5651 milliseconds
+12/31/2021 13:31:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5221.1883 milliseconds
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8640.4878 milliseconds
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8657.9914 milliseconds
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8658.5238 milliseconds
+12/31/2021 13:31:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8659.1201 milliseconds
+12/31/2021 13:31:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 13911.7523 milliseconds
+12/31/2021 13:31:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 13948.8132 milliseconds
+12/31/2021 13:31:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+12/31/2021 13:31:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 13949.4771 milliseconds
+12/31/2021 13:31:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 13950.0766 milliseconds
+12/31/2021 13:31:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3541.2407 milliseconds
+12/31/2021 13:31:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3553.1002 milliseconds
+12/31/2021 13:31:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 13:31:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3668.9151 milliseconds
+12/31/2021 13:31:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3669.9213 milliseconds
+12/31/2021 13:31:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:31:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/31/2021 13:31:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:31:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:31:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4387.3694 milliseconds
+12/31/2021 13:31:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4399.4033 milliseconds
+12/31/2021 13:31:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/31/2021 13:31:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4400.0531 milliseconds
+12/31/2021 13:31:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4401.0699 milliseconds
+12/31/2021 13:31:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 21763.8819 milliseconds
+12/31/2021 13:31:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 21774.0899 milliseconds
+12/31/2021 13:31:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 13:31:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 21774.9598 milliseconds
+12/31/2021 13:31:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 21775.6891 milliseconds
+12/31/2021 13:32:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 13:32:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:32:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:32:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:32:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 13:32:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:32:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:32:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:32:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/31/2021 13:32:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:32:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:32:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 7999.5628 milliseconds
+12/31/2021 13:32:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8333.2437 milliseconds
+12/31/2021 13:32:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+12/31/2021 13:32:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8333.8222 milliseconds
+12/31/2021 13:32:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8334.5151 milliseconds
+12/31/2021 13:32:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 10390.2351 milliseconds
+12/31/2021 13:32:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 10500.0115 milliseconds
+12/31/2021 13:32:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+12/31/2021 13:32:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 10500.6091 milliseconds
+12/31/2021 13:32:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 10501.4488 milliseconds
+12/31/2021 13:32:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 12054.8171 milliseconds
+12/31/2021 13:32:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 12067.1064 milliseconds
+12/31/2021 13:32:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+12/31/2021 13:32:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 12067.8285 milliseconds
+12/31/2021 13:32:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 12068.5856 milliseconds
+12/31/2021 13:32:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 13725.7099 milliseconds
+12/31/2021 13:32:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 13804.1987 milliseconds
+12/31/2021 13:32:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+12/31/2021 13:32:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 13804.9079 milliseconds
+12/31/2021 13:32:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 13889.7242 milliseconds
+12/31/2021 13:32:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 15322.4912 milliseconds
+12/31/2021 13:32:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 15333.2351 milliseconds
+12/31/2021 13:32:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+12/31/2021 13:32:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 15333.833 milliseconds
+12/31/2021 13:32:57 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 15334.6047 milliseconds
+12/31/2021 13:33:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 13:33:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:33:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:33:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 13:33:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:33:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:33:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 13:33:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:33:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:33:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 13:33:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:33:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:33:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 13:33:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 13:33:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 13:33:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 13:33:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 20785.1387 milliseconds
+12/31/2021 13:33:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 20793.5864 milliseconds
+12/31/2021 13:33:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 13:33:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20794.196 milliseconds
+12/31/2021 13:33:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20795.0564 milliseconds
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 21599.0929 milliseconds
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 21681.6491 milliseconds
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 21682.4498 milliseconds
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 21683.4579 milliseconds
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 20127.7144 milliseconds
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 20274.5479 milliseconds
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20425.1061 milliseconds
+12/31/2021 13:33:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20426.2127 milliseconds
+12/31/2021 13:34:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 20196.5637 milliseconds
+12/31/2021 13:34:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 20343.0105 milliseconds
+12/31/2021 13:34:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 13:34:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20343.7337 milliseconds
+12/31/2021 13:34:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20344.4954 milliseconds
+12/31/2021 13:34:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 23847.5423 milliseconds
+12/31/2021 13:34:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 23858.3403 milliseconds
+12/31/2021 13:34:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 13:34:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 23859.4073 milliseconds
+12/31/2021 13:34:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 23860.6844 milliseconds
+12/31/2021 13:40:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 13:40:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 6.1861 milliseconds
+12/31/2021 13:40:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 645728.7482 milliseconds
+12/31/2021 13:40:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 645729.5168 milliseconds
+12/31/2021 14:02:20 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 14:02:20 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 14:02:20 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 14:02:20 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 166.34 milliseconds
+12/31/2021 14:02:20 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 212.299 milliseconds
+12/31/2021 14:02:20 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 213.1622 milliseconds
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 43.4349 milliseconds
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 4.1728 milliseconds
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 7.239 milliseconds
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'MakeHttpRequest' started:
+12/31/2021 14:02:21 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController) API request to https://usdev2.tkeview.com/sharp/configitapi/project/getprojectinfo?opportunityId=22261&versionId=410&defineSymbol=US_NI_GET_QUOTATION&sessionId=1
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 366.605 milliseconds
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 4.6658 milliseconds
+12/31/2021 14:02:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 14:02:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 446.4114 milliseconds
+12/31/2021 14:02:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 819.1326 milliseconds
+12/31/2021 14:02:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 819.7919 milliseconds
+12/31/2021 14:02:22 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/31/2021 14:02:31 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/31/2021 14:02:31 +05:30 [VRB] (TKE.SC.BFF.Api.V1.AuthController) API response from https://usdev2.tkeview.com/sharp/configitapi/project/getprojectinfo?opportunityId=22261&versionId=410&defineSymbol=US_NI_GET_QUOTATION&sessionId=1
+12/31/2021 14:02:31 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'MakeHttpRequest' execution ended: Time elapsed 10227.9913 milliseconds
+12/31/2021 14:02:31 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetProjectInfo' execution ended: Time elapsed 10228.9128 milliseconds
+12/31/2021 14:02:31 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GenerateQuoteId' started:
+12/31/2021 14:02:31 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GenerateQuoteId' execution ended: Time elapsed 191.9398 milliseconds
+12/31/2021 14:02:31 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetProjectInfo' execution ended: Time elapsed 10576.9092 milliseconds
+12/31/2021 14:02:31 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetProjectDetails' execution ended: Time elapsed 10624.55 milliseconds
+12/31/2021 14:02:32 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetVaultLocation' started:
+12/31/2021 14:02:32 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetVaultLocation' started:
+12/31/2021 14:02:32 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetFolderPath' started:
+12/31/2021 14:02:32 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'GetToken' started:
+12/31/2021 14:02:32 +05:30 [DBG] (TKE.SC.BFF.Controllers.DocumentsController) Method 'MakeHttpRequest' started:
+12/31/2021 14:02:32 +05:30 [VRB] (TKE.SC.BFF.Controllers.DocumentsController) API request to https://mfiles-test.thyssenkruppelevator.com/REST/server/authenticationtokens
+12/31/2021 14:03:05 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 269.4098 milliseconds
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.2003 milliseconds
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1554 milliseconds
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.5651 milliseconds
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:07:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:08:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 9226.5983 milliseconds
+12/31/2021 14:08:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 9227.3364 milliseconds
+12/31/2021 14:08:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo200 JSME call 
+12/31/2021 14:08:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 9228.0508 milliseconds
+12/31/2021 14:08:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 9228.5682 milliseconds
+12/31/2021 14:08:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 14:08:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 7.0701 milliseconds
+12/31/2021 14:08:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForConfiguration' started:
+12/31/2021 14:08:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForConfiguration' execution ended: Time elapsed 211.1145 milliseconds
+12/31/2021 14:08:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 9796.0888 milliseconds
+12/31/2021 14:08:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 9797.5247 milliseconds
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 124.9227 milliseconds
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 32.55 milliseconds
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 100.0314 milliseconds
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 258.9099 milliseconds
+12/31/2021 14:11:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 259.5891 milliseconds
+12/31/2021 14:11:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' started:
+12/31/2021 14:11:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/31/2021 14:11:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/31/2021 14:11:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 199.6564 milliseconds
+12/31/2021 14:11:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 14:11:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 2.331 milliseconds
+12/31/2021 14:11:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 14:11:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 100.9271 milliseconds
+12/31/2021 14:12:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 3725.3485 milliseconds
+12/31/2021 14:12:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' execution ended: Time elapsed 3726.1669 milliseconds
+12/31/2021 14:12:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/31/2021 14:12:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/31/2021 14:12:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 14:12:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 36.2998 milliseconds
+12/31/2021 14:12:23 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+12/31/2021 14:12:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+12/31/2021 14:12:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 208.3809 milliseconds
+12/31/2021 14:12:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 14:12:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.5029 milliseconds
+12/31/2021 14:12:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 14:12:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:12:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:12:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+12/31/2021 14:12:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:12:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8303.9975 milliseconds
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8305.0506 milliseconds
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of buildingconfiguration JSME call 
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8306.3203 milliseconds
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8321.827 milliseconds
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 8325.9355 milliseconds
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 91.0366 milliseconds
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.656 milliseconds
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of groupconfiguration JSME call 
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:12:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 20847.8414 milliseconds
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 20850.8266 milliseconds
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of groupconfiguration JSME call 
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20851.4842 milliseconds
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20852.1681 milliseconds
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 20872.848 milliseconds
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 10.732 milliseconds
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.1778 milliseconds
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:13:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:13:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3271.4415 milliseconds
+12/31/2021 14:13:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3272.6893 milliseconds
+12/31/2021 14:13:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo200 JSME call 
+12/31/2021 14:13:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3273.2041 milliseconds
+12/31/2021 14:13:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3273.6278 milliseconds
+12/31/2021 14:13:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 3346.4216 milliseconds
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR200000110 JSME call 
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100124075 JSME call 
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:13:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100217846 JSME call 
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174102 JSME call 
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:13:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 2368.6795 milliseconds
+12/31/2021 14:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 2377.8266 milliseconds
+12/31/2021 14:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100124075 JSME call 
+12/31/2021 14:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 2378.3973 milliseconds
+12/31/2021 14:13:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 2379.0598 milliseconds
+12/31/2021 14:13:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8302.1834 milliseconds
+12/31/2021 14:13:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8349.3383 milliseconds
+12/31/2021 14:13:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174102 JSME call 
+12/31/2021 14:13:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8349.864 milliseconds
+12/31/2021 14:13:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8350.5458 milliseconds
+12/31/2021 14:13:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 15471.5699 milliseconds
+12/31/2021 14:13:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 15512.38 milliseconds
+12/31/2021 14:13:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 14:13:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 15512.9287 milliseconds
+12/31/2021 14:13:37 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 15513.5678 milliseconds
+12/31/2021 14:14:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 37784.4299 milliseconds
+12/31/2021 14:14:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 37837.0241 milliseconds
+12/31/2021 14:14:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100217846 JSME call 
+12/31/2021 14:14:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 37837.8828 milliseconds
+12/31/2021 14:14:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 37838.4642 milliseconds
+12/31/2021 14:14:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 73570.6234 milliseconds
+12/31/2021 14:14:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 73674.4132 milliseconds
+12/31/2021 14:14:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR200000110 JSME call 
+12/31/2021 14:14:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 73675.3085 milliseconds
+12/31/2021 14:14:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 73676.1145 milliseconds
+12/31/2021 14:15:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 14:15:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:15:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:15:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 14:15:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:15:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:15:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 14:15:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:15:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:15:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 14:15:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:15:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:15:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:15:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/31/2021 14:15:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:15:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:15:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 19361.4856 milliseconds
+12/31/2021 14:15:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 19552.8668 milliseconds
+12/31/2021 14:15:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 14:15:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 19553.6089 milliseconds
+12/31/2021 14:15:34 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 19554.3924 milliseconds
+12/31/2021 14:15:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 18508.8512 milliseconds
+12/31/2021 14:15:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 18641.2423 milliseconds
+12/31/2021 14:15:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 14:15:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 18642.3794 milliseconds
+12/31/2021 14:15:36 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 18643.3253 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 25012.9513 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 25229.0713 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 25229.743 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 25230.4186 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 22439.2708 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 22453.8334 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 22454.5815 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 22455.1957 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 19801.9922 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 19813.0321 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 19813.6436 milliseconds
+12/31/2021 14:15:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 19814.322 milliseconds
+12/31/2021 14:18:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR200000110 JSME call 
+12/31/2021 14:18:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:18:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:18:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR200000110 JSME call 
+12/31/2021 14:18:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:18:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:18:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR200000110 JSME call 
+12/31/2021 14:18:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:18:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:18:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR200000110 JSME call 
+12/31/2021 14:18:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:18:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:18:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:18:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR200000110 JSME call 
+12/31/2021 14:18:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:18:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:19:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 102647.8167 milliseconds
+12/31/2021 14:19:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 102959.0163 milliseconds
+12/31/2021 14:19:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR200000110 JSME call 
+12/31/2021 14:19:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 102959.8993 milliseconds
+12/31/2021 14:19:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 103059.082 milliseconds
+12/31/2021 14:19:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 102607.7443 milliseconds
+12/31/2021 14:19:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 102914.2077 milliseconds
+12/31/2021 14:19:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR200000110 JSME call 
+12/31/2021 14:19:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 102915.031 milliseconds
+12/31/2021 14:19:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 102915.8343 milliseconds
+12/31/2021 14:19:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 101087.8454 milliseconds
+12/31/2021 14:19:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 101101.654 milliseconds
+12/31/2021 14:19:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR200000110 JSME call 
+12/31/2021 14:19:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 101102.6709 milliseconds
+12/31/2021 14:19:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 101103.2951 milliseconds
+12/31/2021 14:19:54 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 105013.7055 milliseconds
+12/31/2021 14:19:54 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 105033.5185 milliseconds
+12/31/2021 14:19:54 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR200000110 JSME call 
+12/31/2021 14:19:54 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 105034.7938 milliseconds
+12/31/2021 14:19:54 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 105035.6863 milliseconds
+12/31/2021 14:20:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 153550.0719 milliseconds
+12/31/2021 14:20:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 153564.9441 milliseconds
+12/31/2021 14:20:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR200000110 JSME call 
+12/31/2021 14:20:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 153790.9377 milliseconds
+12/31/2021 14:20:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 153792.0063 milliseconds
+12/31/2021 14:29:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/31/2021 14:29:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 38.4035 milliseconds
+12/31/2021 14:29:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 1042856.9322 milliseconds
+12/31/2021 14:29:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 1042858.1194 milliseconds
+12/31/2021 14:29:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+12/31/2021 14:29:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 14:29:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/31/2021 14:29:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 114.9754 milliseconds
+12/31/2021 14:29:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 14:29:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 2.814 milliseconds
+12/31/2021 14:29:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/31/2021 14:29:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 94.583 milliseconds
+12/31/2021 14:29:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 213.5514 milliseconds
+12/31/2021 14:29:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 214.0173 milliseconds
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 250.1124 milliseconds
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.1565 milliseconds
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1545 milliseconds
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.5653 milliseconds
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/31/2021 14:33:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8495.9495 milliseconds
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8497.0939 milliseconds
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo200 JSME call 
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8497.7415 milliseconds
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8498.4758 milliseconds
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 3.6472 milliseconds
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForConfiguration' started:
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForConfiguration' execution ended: Time elapsed 160.9497 milliseconds
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 8982.2875 milliseconds
+12/31/2021 14:33:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 8983.5776 milliseconds

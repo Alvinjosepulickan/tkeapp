@@ -1,0 +1,5 @@
+﻿CREATE SEQUENCE [dbo].[QuoteSequence]
+    AS BIGINT
+    START WITH 202150000001
+    INCREMENT BY 1;
+

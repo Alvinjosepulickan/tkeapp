@@ -1,0 +1,527 @@
+{
+  "Projects": [
+    {
+      "id": 1,
+      "name": "500 Harbour Island",
+      "location": {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA"
+      },
+      "noOfUnits": 18,
+      "client": {
+        "id": 1,
+        "name": "Framework Group, LLC",
+        "contactPerson": {
+          "id": 1,
+          "firstName": "Hettie",
+          "lastName": "Howell"
+        },
+        "logo": "https://uilogos.co/img/logomark/atica.png"
+      },
+      "totalPrice": {
+        "currency": "USD",
+        "price": 100412.13
+      },
+      "statusStats": [
+        {
+          "status": "Estimating",
+          "count": 3
+        },
+        {
+          "status": "CSC Review",
+          "count": 2
+        },
+        {
+          "status": "Booked",
+          "count": 1
+        },
+        {
+          "status": "Released",
+          "count": 0
+        }
+      ],
+      "completedDate": "2019-12-21 20:02:21.550",
+      "bidDate": "2019-12-21 20:02:21.550",
+      "bookDate": "2019-12-21 20:02:21.550",
+      "accessibleBy": "79023",
+      "createdBy": {
+        "id": "79023",
+        "firstName": "Raja Sekhar",
+        "lastName": "Veeramalla"
+      },
+      "createdOn": "2019-12-21 20:02:21.550",
+      "modifiedBy": {
+        "id": "79023",
+        "firstName": "Raja Sekhar",
+        "lastName": "Veeramalla"
+      },
+      "modifiedOn": "2019-12-22 14:05:26.900"
+    },
+    {
+      "id": 2,
+      "name": "The View",
+      "location": {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA"
+      },
+      "noOfUnits": 18,
+      "client": {
+        "id": 1,
+        "name": "Framework Group, LLC",
+        "contactPerson": {
+          "id": 1,
+          "firstName": "Hettie",
+          "lastName": "Howell"
+        },
+        "logo": "https://uilogos.co/img/logomark/atica.png"
+      },
+      "totalPrice": {
+        "currency": "USD",
+        "price": 100412.13
+      },
+      "statusStats": [
+        {
+          "status": "Estimating",
+          "count": 3
+        },
+        {
+          "status": "CSC Review",
+          "count": 2
+        },
+        {
+          "status": "Booked",
+          "count": 1
+        },
+        {
+          "status": "Released",
+          "count": 0
+        }
+      ],
+      "completedDate": "2019-12-21 20:02:21.550",
+      "bidDate": "2019-12-21 20:02:21.550",
+      "bookDate": "2019-12-21 20:02:21.550",
+      "accessibleBy": "1015019",
+      "createdBy": {
+        "id": "1015019",
+        "firstName": "Bhadra",
+        "lastName": "Jayachandran"
+      },
+      "createdOn": "2019-12-21 20:02:21.550",
+      "modifiedBy": {
+        "id": "1015019",
+        "firstName": "Bhadra",
+        "lastName": "Jayachandran"
+      },
+      "modifiedOn": "2019-12-22 14:05:26.900"
+    },
+    {
+      "id": 3,
+      "name": "Solstice",
+      "location": {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA"
+      },
+      "noOfUnits": 18,
+      "client": {
+        "id": 1,
+        "name": "Framework Group, LLC",
+        "contactPerson": {
+          "id": 1,
+          "firstName": "Hettie",
+          "lastName": "Howell"
+        },
+        "logo": "https://uilogos.co/img/logomark/atica.png"
+      },
+      "totalPrice": {
+        "currency": "USD",
+        "price": 100412.13
+      },
+      "statusStats": [
+        {
+          "status": "Estimating",
+          "count": 3
+        },
+        {
+          "status": "CSC Review",
+          "count": 2
+        },
+        {
+          "status": "Booked",
+          "count": 1
+        },
+        {
+          "status": "Released",
+          "count": 0
+        }
+      ],
+      "completedDate": "2019-12-21 20:02:21.550",
+      "bidDate": "2019-12-21 20:02:21.550",
+      "bookDate": "2019-12-21 20:02:21.550",
+      "accessibleBy": "780315",
+      "createdBy": {
+        "id": "780315",
+        "firstName": "Nicky",
+        "lastName": "Prusty"
+      },
+      "createdOn": "2019-12-21 20:02:21.550",
+      "modifiedBy": {
+        "id": "780315",
+        "firstName": "Nicky",
+        "lastName": "Prusty"
+      },
+      "modifiedOn": "2019-12-22 14:05:26.900"
+    },
+    {
+      "id": 4,
+      "name": "125 Novus",
+      "location": {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA"
+      },
+      "noOfUnits": 18,
+      "client": {
+        "id": 1,
+        "name": "Framework Group, LLC",
+        "contactPerson": {
+          "id": 1,
+          "firstName": "Hettie",
+          "lastName": "Howell"
+        },
+        "logo": "https://uilogos.co/img/logomark/atica.png"
+      },
+      "totalPrice": {
+        "currency": "USD",
+        "price": 100412.13
+      },
+      "statusStats": [
+        {
+          "status": "Estimating",
+          "count": 3
+        },
+        {
+          "status": "CSC Review",
+          "count": 2
+        },
+        {
+          "status": "Booked",
+          "count": 1
+        },
+        {
+          "status": "Released",
+          "count": 0
+        }
+      ],
+      "completedDate": "2019-12-21 20:02:21.550",
+      "bidDate": "2019-12-21 20:02:21.550",
+      "bookDate": "2019-12-21 20:02:21.550",
+      "accessibleBy": "1037390",
+      "createdBy": {
+        "id": "1037390",
+        "firstName": "sathiraju",
+        "lastName": "chaitanya"
+      },
+      "createdOn": "2019-12-21 20:02:21.550",
+      "modifiedBy": {
+        "id": "1037390",
+        "firstName": "sathiraju",
+        "lastName": "chaitanya"
+      },
+      "modifiedOn": "2019-12-22 14:05:26.900"
+    },
+    {
+      "id": 5,
+      "name": "Varela",
+      "location": {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA"
+      },
+      "noOfUnits": 18,
+      "client": {
+        "id": 1,
+        "name": "Framework Group, LLC",
+        "contactPerson": {
+          "id": 1,
+          "firstName": "Hettie",
+          "lastName": "Howell"
+        },
+        "logo": "https://uilogos.co/img/logomark/atica.png"
+      },
+      "totalPrice": {
+        "currency": "USD",
+        "price": 100412.13
+      },
+      "statusStats": [
+        {
+          "status": "Estimating",
+          "count": 3
+        },
+        {
+          "status": "CSC Review",
+          "count": 2
+        },
+        {
+          "status": "Booked",
+          "count": 1
+        },
+        {
+          "status": "Released",
+          "count": 0
+        }
+      ],
+      "completedDate": "2019-12-21 20:02:21.550",
+      "bidDate": "2019-12-21 20:02:21.550",
+      "bookDate": "2019-12-21 20:02:21.550",
+      "accessibleBy": "773098",
+      "createdBy": {
+        "id": "773098",
+        "firstName": "satwik",
+        "lastName": "chaudhry"
+      },
+      "createdOn": "2019-12-21 20:02:21.550",
+      "modifiedBy": {
+        "id": "773098",
+        "firstName": "satwik",
+        "lastName": "chaudhry"
+      },
+      "modifiedOn": "2019-12-22 14:05:26.900"
+    },
+    {
+      "id": 6,
+      "name": "ARCOS",
+      "location": {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA"
+      },
+      "noOfUnits": 18,
+      "client": {
+        "id": 1,
+        "name": "Framework Group, LLC",
+        "contactPerson": {
+          "id": 1,
+          "firstName": "Hettie",
+          "lastName": "Howell"
+        },
+        "logo": "https://uilogos.co/img/logomark/atica.png"
+      },
+      "totalPrice": {
+        "currency": "USD",
+        "price": 100412.13
+      },
+      "statusStats": [
+        {
+          "status": "Estimating",
+          "count": 3
+        },
+        {
+          "status": "CSC Review",
+          "count": 2
+        },
+        {
+          "status": "Booked",
+          "count": 1
+        },
+        {
+          "status": "Released",
+          "count": 0
+        }
+      ],
+      "completedDate": "2019-12-21 20:02:21.550",
+      "bidDate": "2019-12-21 20:02:21.550",
+      "bookDate": "2019-12-21 20:02:21.550",
+      "accessibleBy": "1064849",
+      "createdBy": {
+        "id": "1064849",
+        "firstName": "saket",
+        "lastName": "jha"
+      },
+      "createdOn": "2019-12-21 20:02:21.550",
+      "modifiedBy": {
+        "id": "1064849",
+        "firstName": "saket",
+        "lastName": "jha"
+      },
+      "modifiedOn": "2019-12-22 14:05:26.900"
+    },
+    {
+      "id": 7,
+      "name": "The Napier",
+      "location": {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA"
+      },
+      "noOfUnits": 18,
+      "client": {
+        "id": 1,
+        "name": "Framework Group, LLC",
+        "contactPerson": {
+          "id": 1,
+          "firstName": "Hettie",
+          "lastName": "Howell"
+        },
+        "logo": "https://uilogos.co/img/logomark/atica.png"
+      },
+      "totalPrice": {
+        "currency": "USD",
+        "price": 100412.13
+      },
+      "statusStats": [
+        {
+          "status": "Estimating",
+          "count": 3
+        },
+        {
+          "status": "CSC Review",
+          "count": 2
+        },
+        {
+          "status": "Booked",
+          "count": 1
+        },
+        {
+          "status": "Released",
+          "count": 0
+        }
+      ],
+      "completedDate": "2019-12-21 20:02:21.550",
+      "bidDate": "2019-12-21 20:02:21.550",
+      "bookDate": "2019-12-21 20:02:21.550",
+      "accessibleBy": "768518",
+      "createdBy": {
+        "id": "768518",
+        "firstName": "Pavithra",
+        "lastName": "Ramanan"
+      },
+      "createdOn": "2019-12-21 20:02:21.550",
+      "modifiedBy": {
+        "id": "768518",
+        "firstName": "Pavithra",
+        "lastName": "Ramanan"
+      },
+      "modifiedOn": "2019-12-22 14:05:26.900"
+    },
+    {
+      "id": 8,
+      "name": "Mirroton",
+      "location": {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA"
+      },
+      "noOfUnits": 18,
+      "client": {
+        "id": 1,
+        "name": "Framework Group, LLC",
+        "contactPerson": {
+          "id": 1,
+          "firstName": "Hettie",
+          "lastName": "Howell"
+        },
+        "logo": "https://uilogos.co/img/logomark/atica.png"
+      },
+      "totalPrice": {
+        "currency": "USD",
+        "price": 100412.13
+      },
+      "statusStats": [
+        {
+          "status": "Estimating",
+          "count": 3
+        },
+        {
+          "status": "CSC Review",
+          "count": 2
+        },
+        {
+          "status": "Booked",
+          "count": 1
+        },
+        {
+          "status": "Released",
+          "count": 0
+        }
+      ],
+      "completedDate": "2019-12-21 20:02:21.550",
+      "bidDate": "2019-12-21 20:02:21.550",
+      "bookDate": "2019-12-21 20:02:21.550",
+      "accessibleBy": "733012",
+      "createdBy": {
+        "id": "733012",
+        "firstName": "Naga Visaradha",
+        "lastName": "Nalam"
+      },
+      "createdOn": "2019-12-21 20:02:21.550",
+      "modifiedBy": {
+        "id": "733012",
+        "firstName": "Naga Visaradha",
+        "lastName": "Nalam"
+      },
+      "modifiedOn": "2019-12-22 14:05:26.900"
+    },
+    {
+      "id": 9,
+      "name": "500 Harbour Island",
+      "location": {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA"
+      },
+      "noOfUnits": 18,
+      "client": {
+        "id": 1,
+        "name": "Framework Group, LLC",
+        "contactPerson": {
+          "id": 1,
+          "firstName": "Hettie",
+          "lastName": "Howell"
+        },
+        "logo": "https://uilogos.co/img/logomark/atica.png"
+      },
+      "totalPrice": {
+        "currency": "USD",
+        "price": 100412.13
+      },
+      "statusStats": [
+        {
+          "status": "Estimating",
+          "count": 3
+        },
+        {
+          "status": "CSC Review",
+          "count": 2
+        },
+        {
+          "status": "Booked",
+          "count": 1
+        },
+        {
+          "status": "Released",
+          "count": 0
+        }
+      ],
+      "completedDate": "2019-12-21 20:02:21.550",
+      "bidDate": "2019-12-21 20:02:21.550",
+      "bookDate": "2019-12-21 20:02:21.550",
+      "accessibleBy": "785628",
+      "createdBy": {
+        "id": "785628",
+        "firstName": "Ramya",
+        "lastName": "HS"
+      },
+      "createdOn": "2019-12-21 20:02:21.550",
+      "modifiedBy": {
+        "id": "785628",
+        "firstName": "Ramya",
+        "lastName": "HS"
+      },
+      "modifiedOn": "2019-12-22 14:05:26.900"
+    }
+
+  ]
+}

@@ -1,0 +1,3174 @@
+{
+  "Configurations": [
+    {
+      "ModelFileName": "CSC1003AAEXTE",
+      "ClmPlatformPackagePath": "CSC1003AAEXTE",
+      "Assignments": [
+        {
+          "Name": "Parameters.BLANDINGS",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CAPACITY",
+          "Value": "2100",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.DOORTYPF",
+          "Value": "1SRH",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDOHF",
+          "Value": "96",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.DOORTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ASTYPE",
+          "Value": "A17.1",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ASYEAR",
+          "Value": "2014",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BLDGCODE",
+          "Value": "LEGACY",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BMPRLSZS",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BOTF",
+          "Value": "1",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BRLTYPTF",
+          "Value": "CMRDFM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDOORST",
+          "Value": "LD16CABDR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDORFIN",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDORFINMAT",
+          "Value": "316",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDORFINTYP",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDOWF",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRBIND",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRBINDMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRBINDTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRKPLT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRKPLTMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRKPLTTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRLET",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRLETMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRLETTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRLMFIN",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABDRSTK",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABHGTUCT",
+          "Value": "104",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CABSILFIN",
+          "Value": "ALUM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CARID",
+          "Value": "3",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CARSPEED",
+          "Value": "200",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CONTROLLDG",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CONTROLOC",
+          "Value": "Q4",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CONTROLTYP",
+          "Value": "SLIM32T",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.CWTLOC",
+          "Value": "Q1Q4",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.DOROPTYPE",
+          "Value": "LD16MIDI",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ELEVDESG",
+          "Value": "E2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTCANFF",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTDOORSTF",
+          "Value": "M721",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTDOORSTR",
+          "Value": "M721",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTFASCIAF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTFASCIAFL",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTFASCIAR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTKEYHOLE",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTSTBUMP",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTSYS",
+          "Value": "M721",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.FIREDESG",
+          "Value": "3",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.FIREFLR",
+          "Value": "1",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.FIXTYP",
+          "Value": "TRAD",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.GRPDESG",
+          "Value": "G4",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.HALOCBTMF",
+          "Value": "WMBL",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.HALOCBTMR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.HALOCTOPF",
+          "Value": "WMTLS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.HALOCTOPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.HASRL",
+          "Value": "TRUE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.HLSOL",
+          "Value": "APPLIED",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.HOISTKEY",
+          "Value": "TRUE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.HS1QUAD",
+          "Value": "Q4",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.HS2QUAD",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.LADLOC",
+          "Value": "Q3",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.MAINFLR",
+          "Value": "1",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.OPNFRTP",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.OPNREARP",
+          "Value": "0",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.PITDEPTH",
+          "Value": "60",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.PLATDEP",
+          "Value": "59.875",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.PLATWID",
+          "Value": "69",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.REAROPEN",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.SAFEEDGTYP",
+          "Value": "2DPLUS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.TOPF",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.TYPSVC",
+          "Value": "PASS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BLDGADCNTY",
+          "Value": "USA",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BLDGADD",
+          "Value": "2 Test Case Lane",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BLDGCITY",
+          "Value": "Dummer",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BLDGNAME",
+          "Value": "Dummer Conference Center",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BNA",
+          "Value": "2 Test Case Lane, Dummer, New Hampshire, 03582",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.BLANDINGS",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "Parameters.ENTDOWF",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.LANDING",
+          "Value": "1",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.COLFACEF",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.COLFACER",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.COLPROJF",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.COLPROJR",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.COMBOF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.COMBOR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ELEVATION",
+          "Value": "209",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTCUTHWAF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTCUTHWAR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTCUTICONF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTCUTICONR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDORFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDORFINFMAT",
+          "Value": "316",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDORFINFTYP",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDORFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDORFINRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDORFINRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDORGA",
+          "Value": "18GA",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDOWF",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDOWR",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRBINDF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRBINDFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRBINDFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRBINDR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRBINDRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRBINDRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRKPLF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRKPLFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRKPLFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRKPLR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRKPLRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRKPLRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRLETF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRLETFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRLETFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRLETR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRLETRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRLETRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRLMFINF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTDRLMFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTF",
+          "Value": "TRUE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRAFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRAFINMATF",
+          "Value": "316",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRAFINMATR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRAFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRAFINTYPF",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRAFINTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRMOPF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRMOPMATF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRMOPMATR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRMOPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRMOPTYPF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTFRMOPTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTR",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTSILFINF",
+          "Value": "ALUM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTSILFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTTYPEF",
+          "Value": "WELD",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTTYPER",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTWLTHKF",
+          "Value": "11.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTWLTHKR",
+          "Value": "6.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTWLTYPF",
+          "Value": "MASONRY",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.ENTWLTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.FLRMRKF",
+          "Value": "1",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.FLRMRKR",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.HLBRLFIN",
+          "Value": "4SBBC",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.HLBRLTYPE",
+          "Value": "APPLIEDEM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.HLORT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.LANDING",
+          "Value": "1",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.PITYPEF",
+          "Value": "CEPI",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.PITYPER",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.TORILANDF",
+          "Value": "TERMUP",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.TORILANDR",
+          "Value": "TERMUP",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.TRANSFACEF",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING001.Parameters.TRANSFACER",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.LANDING",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.COLFACEF",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.COLFACER",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.COLPROJF",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.COLPROJR",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.COMBOF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.COMBOR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ELEVATION",
+          "Value": "346",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTCUTHWAF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTCUTHWAR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTCUTICONF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTCUTICONR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDORFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDORFINFMAT",
+          "Value": "316",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDORFINFTYP",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDORFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDORFINRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDORFINRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDORGA",
+          "Value": "18GA",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDOWF",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDOWR",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRBINDF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRBINDFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRBINDFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRBINDR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRBINDRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRBINDRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRKPLF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRKPLFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRKPLFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRKPLR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRKPLRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRKPLRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRLETF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRLETFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRLETFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRLETR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRLETRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRLETRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRLMFINF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTDRLMFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTF",
+          "Value": "TRUE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRAFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRAFINMATF",
+          "Value": "316",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRAFINMATR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRAFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRAFINTYPF",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRAFINTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRMOPF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRMOPMATF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRMOPMATR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRMOPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRMOPTYPF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTFRMOPTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTR",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTSILFINF",
+          "Value": "ALUM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTSILFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTTYPEF",
+          "Value": "WELD",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTTYPER",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTWLTHKF",
+          "Value": "11.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTWLTHKR",
+          "Value": "6.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTWLTYPF",
+          "Value": "MASONRY",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.ENTWLTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.FLRMRKF",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.FLRMRKR",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.HLBRLFIN",
+          "Value": "4SBBC",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.HLBRLTYPE",
+          "Value": "APPLIEDEM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.HLORT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.LANDING",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.PITYPEF",
+          "Value": "CEPI",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.PITYPER",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.TORILANDF",
+          "Value": "INTER",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.TORILANDR",
+          "Value": "TERMUP",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.TRANSFACEF",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING002.Parameters.TRANSFACER",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.LANDING",
+          "Value": "3",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.COLFACEF",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.COLFACER",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.COLPROJF",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.COLPROJR",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.COMBOF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.COMBOR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ELEVATION",
+          "Value": "487",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTCUTHWAF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTCUTHWAR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTCUTICONF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTCUTICONR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDORFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDORFINFMAT",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDORFINFTYP",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDORFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDORFINRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDORFINRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDORGA",
+          "Value": "16GA",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDOWF",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDOWR",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRBINDF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRBINDFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRBINDFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRBINDR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRBINDRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRBINDRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRKPLF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRKPLFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRKPLFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRKPLR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRKPLRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRKPLRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRLETF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRLETFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRLETFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRLETR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRLETRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRLETRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRLMFINF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTDRLMFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTF",
+          "Value": "TRUE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRAFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRAFINMATF",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRAFINMATR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRAFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRAFINTYPF",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRAFINTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRMOPF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRMOPMATF",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRMOPMATR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRMOPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRMOPTYPF",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTFRMOPTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTR",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTSILFINF",
+          "Value": "ALUM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTSILFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTTYPEF",
+          "Value": "KDOWNT",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTTYPER",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTWLTHKF",
+          "Value": "13.25",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTWLTHKR",
+          "Value": "6.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTWLTYPF",
+          "Value": "DRYWALL",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.ENTWLTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.FLRMRKF",
+          "Value": "F3",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.FLRMRKR",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.HLBRLFIN",
+          "Value": "4SBBC",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.HLBRLTYPE",
+          "Value": "APPLIEDEM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.HLORT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.LANDING",
+          "Value": "3",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.PITYPEF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.PITYPER",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.TORILANDF",
+          "Value": "INTER",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.TORILANDR",
+          "Value": "TERMUP",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.TRANSFACEF",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING003.Parameters.TRANSFACER",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.LANDING",
+          "Value": "4",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.COLFACEF",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.COLFACER",
+          "Value": "2",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.COLPROJF",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.COLPROJR",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.COMBOF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.COMBOR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ELEVATION",
+          "Value": "632",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTCUTHWAF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTCUTHWAR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTCUTICONF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTCUTICONR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDORFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDORFINFMAT",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDORFINFTYP",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDORFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDORFINRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDORFINRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDORGA",
+          "Value": "16GA",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDOWF",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDOWR",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRBINDF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRBINDFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRBINDFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRBINDR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRBINDRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRBINDRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRKPLF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRKPLFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRKPLFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRKPLR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRKPLRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRKPLRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRLETF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRLETFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRLETFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRLETR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRLETRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRLETRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRLMFINF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTDRLMFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTF",
+          "Value": "TRUE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRAFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRAFINMATF",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRAFINMATR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRAFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRAFINTYPF",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRAFINTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRMOPF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRMOPMATF",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRMOPMATR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRMOPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRMOPTYPF",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTFRMOPTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTR",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTSILFINF",
+          "Value": "ALUM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTSILFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTTYPEF",
+          "Value": "KDOWNT",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTTYPER",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTWLTHKF",
+          "Value": "13.25",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTWLTHKR",
+          "Value": "6.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTWLTYPF",
+          "Value": "DRYWALL",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.ENTWLTYPR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.FLRMRKF",
+          "Value": "F4",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.FLRMRKR",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.HLBRLFIN",
+          "Value": "4SBBC",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.HLBRLTYPE",
+          "Value": "APPLIEDEM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.HLORT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.LANDING",
+          "Value": "4",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.PITYPEF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.PITYPER",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.TORILANDF",
+          "Value": "INTER",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.TORILANDR",
+          "Value": "TERMUP",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.TRANSFACEF",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING004.Parameters.TRANSFACER",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.LANDING",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.COLFACEF",
+          "Value": "3",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.COLFACER",
+          "Value": "3",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.COLPROJF",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.COLPROJR",
+          "Value": "0.75",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.COMBOF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.COMBOR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ELEVATION",
+          "Value": "773",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTCUTHWAF",
+          "Value": "LH",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTCUTHWAR",
+          "Value": "LH",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTCUTICONF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTCUTICONR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDORFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDORFINFMAT",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDORFINFTYP",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDORFINR",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDORFINRMAT",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDORFINRTYP",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDORGA",
+          "Value": "16GA",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDOWF",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDOWR",
+          "Value": "36",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRBINDF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRBINDFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRBINDFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRBINDR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRBINDRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRBINDRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRKPLF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRKPLFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRKPLFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRKPLR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRKPLRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRKPLRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRLETF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRLETFMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRLETFTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRLETR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRLETRMAT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRLETRTYP",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRLMFINF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTDRLMFINR",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTF",
+          "Value": "TRUE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRAFINF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRAFINMATF",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRAFINMATR",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRAFINR",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRAFINTYPF",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRAFINTYPR",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRMOPF",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRMOPMATF",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRMOPMATR",
+          "Value": "SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRMOPR",
+          "Value": "4SS",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRMOPTYPF",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTFRMOPTYPR",
+          "Value": "441",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTR",
+          "Value": "FALSE",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTSILFINF",
+          "Value": "ALUM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTSILFINR",
+          "Value": "ALUM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTTYPEF",
+          "Value": "KDOWNT",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTTYPER",
+          "Value": "KDOWNT",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTWLTHKF",
+          "Value": "13.25",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTWLTHKR",
+          "Value": "13.25",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTWLTYPF",
+          "Value": "DRYWALL",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.ENTWLTYPR",
+          "Value": "DRYWALL",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.FLRMRKF",
+          "Value": "F5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.FLRMRKR",
+          "Value": "5R",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.HLBRLFIN",
+          "Value": "4SBBC",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.HLBRLTYPE",
+          "Value": "APPLIEDEM",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.HLORT",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.LANDING",
+          "Value": "5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.PITYPEF",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.PITYPER",
+          "Value": "NR",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.TORILANDF",
+          "Value": "TERMDN",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.TORILANDR",
+          "Value": "TERMDN",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.TRANSFACEF",
+          "Value": "3",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        },
+        {
+          "Name": "FloorMatrix.LANDING005.Parameters.TRANSFACER",
+          "Value": "1.5",
+          "Type": 0,
+          "ExcludeFromRounding": false,
+          "ExcludeFromMatching": false
+        }
+      ]
+    }
+  ]
+}

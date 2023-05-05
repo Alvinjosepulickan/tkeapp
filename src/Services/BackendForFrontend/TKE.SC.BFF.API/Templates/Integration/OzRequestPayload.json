@@ -1,0 +1,92 @@
+{
+  "ProjectInformation": {
+    "JobName": "{{Data.Quotation.OpportunityInfo.JobName}}{{OpportunityName}}",
+    "Branch": {
+      "Name": "{{Data.Quotation.OpportunityInfo.Branch}}{{Branch}}",
+      "Identifier": {
+        "OracleId": 0
+      }
+    },
+    "JobSite": {
+      "AddressLine1": "{{Data.Quotation.Building.AddressLine1}}{{AccountAddress.AccountAddressStreetAddress}}",
+      "AddressLine2": "{{Data.Quotation.Building.AddressLine2}}{{AccountAddress.AccountAddressStreetAddress2}}",
+      "City": "{{Data.Quotation.Building.City}}{{AccountAddress.AccountAddressCity}}",
+      "StateProvince": "{{Data.Quotation.Building.State}}{{AccountAddress.AccountAddressAddressZipCode}}",
+      "PostalCode": "{{Data.Quotation.Building.ZipCode}}{{AccountAddress.AccountAddressState}}"
+    },
+    "GeneralContractor": {
+      "Name": "{{Data.Quotation.GC.AccountName}}",
+      "Address": {
+        "Contact": {
+          "FirstName": "{{Data.Quotation.Contact.FirstName}}",
+          "LastName": "{{Data.Quotation.Contact.LastName}}",
+          "FullName": "{{Data.Quotation.Contact.FirstName}} {{Data.Quotation.Contact.LastName}}",
+          "Email": "{{Data.Quotation.Contact.Email}}"
+        },
+        "AddressLine1": "{{Data.Quotation.GC.AddressLine1}}",
+        "AddressLine2": "{{Data.Quotation.GC.AddressLine2}}",
+        "City": "{{Data.Quotation.GC.City}}",
+        "StateProvince": "{{Data.Quotation.GC.State}}",
+        "PostalCode": "{{Data.Quotation.GC.ZipCode}}",
+        "CountryRegion": "{{Data.Quotation.GC.Country}}"
+      }
+    },
+    "SalesRepresentative": [
+      {
+        "Person": {
+          "Email": "{{Data.Quotation.OpportunityInfo.SalesEmail}}{{SalesRepEmail}}"
+        }
+      }
+    ],
+    "OperationsContact": [
+      {
+        "Person": {
+          "Email": "{{Data.Quotation.OpportunityInfo.Superintendent}}{{OperationContactEmail}}"
+        }
+      }
+    ],
+    "ProjectIdentifier": {
+      "QuoteId": "",
+      "TransactionId": "",
+      "OpportunityId": "",
+      "ProjectId": "{{Data.Quotation.OpportunityInfo.OpportunityId}}",
+      "ProjectVersionId": "{{Data.Quotation.Quote.UIVersionId}}"
+    },
+    "LineOfBusiness": "New Installation",
+    "BookingType": "CSC"
+  },
+  "Equipment": [
+    {
+      "DesignOnDemand": {
+        "IsDoD": false,
+        "OutForApproval": false,
+        "ForFinal": false,
+        "ForReviseResubmit": false
+        
+      },
+      "General": {
+        "Designation": "1",
+        "Units": 1,
+        "Product": {
+          "ProductLineIdName": "Traction - evolution 200"
+        },
+        "Model": {
+          "ProductModel": "evolution 200 40/35"
+        }
+      },
+      "EstimateIdentifier": {
+        "LineId": "8"
+      }
+    }
+  ],
+  "RequestedDrawing\r\n": {
+    "Layout": false,
+    "Entrance": false,
+    "Cab": false,
+    "CarStation": false,
+    "HallStation": false,
+    "LobbyPanel": false,
+    "Freight": false
+  }
+}
+

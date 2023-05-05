@@ -1,0 +1,93 @@
+﻿{
+  "sections": [
+    {
+      "id": "hallRisers",
+      "sections": [
+        {
+          "id": "riserLocations",
+          "variables": [
+            {
+              "id": "Parameters_SP.fixtureStrategy_SP"
+            },
+            {
+              "id": "Parameters_SP.HS1F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS2F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS3F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS4F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS5F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS6F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS7F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS8F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS9F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS10F_SP"
+            },
+            {
+              "id": "Parameters_SP.HS1R_SP"
+            },
+            {
+              "id": "Parameters_SP.HS2R_SP"
+            },
+            {
+              "id": "Parameters_SP.HS3R_SP"
+            },
+            {
+              "id": "Parameters_SP.HS4R_SP"
+            },
+            {
+              "id": "Parameters_SP.HS5R_SP"
+            },
+            {
+              "id": "Parameters_SP.HS6R_SP"
+            },
+            {
+              "id": "Parameters_SP.HS7R_SP"
+            },
+            {
+              "id": "Parameters_SP.HS8R_SP"
+            },
+            {
+              "id": "Parameters_SP.HS9R_SP"
+            },
+            {
+              "id": "Parameters_SP.HS10R_SP"
+            },
+            {
+              "id": "Parameters_SP.FDG1_SP"
+            },
+            {
+              "id": "Parameters_SP.FDG2_SP"
+            },
+            {
+              "id": "Parameters_SP.FDG3_SP"
+            },
+            {
+              "id": "Parameters_SP.FDG4_SP"
+            },
+            {
+              "id": "Parameters_SP.FDG5_SP"
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+}

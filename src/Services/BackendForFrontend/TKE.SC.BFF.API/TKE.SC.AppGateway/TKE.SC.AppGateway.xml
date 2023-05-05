@@ -1,0 +1,1662 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TKE.SC.BFF.API</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "F:TKE.CPQ.AppGateway.Api.V1.AuthController._logger" -->
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.AuthController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IAuth,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IGenerateToken,Microsoft.AspNetCore.Http.IHttpContextAccessor,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Api.V1.AuthController})">
+            <summary>
+            Constructor for AuthController
+            </summary>
+            <param Name="auth"></param>
+            <param Name="generateToken"></param>
+            <param Name="httpContextAccessor"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.AuthController.GetUserDetails">
+            <summary>
+            This api used to get user information by user Id.
+            </summary>
+            <param Name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IBuildingConfiguration,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IBuildingEquipment,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Api.V1.BuildingsController})">
+            <summary>
+            BuildingConfigurationController
+            </summary>
+            <param Name="building"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.SaveBuildingConfigurationForProject(TKE.CPQ.AppGateway.Model.UIModel.BuildingConfiguration)">
+            <summary>
+            SaveBuildingConfigurationForProject
+            </summary>
+            <param Name="quoteId"></param>
+            <param Name="buildingConfiguration"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.UpdateBuildingConfigurationForProject(System.String,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            update Building Configuration
+            </summary>
+            <param Name="projectId"></param>
+            <param Name="BuildingId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.SaveBuildingElevation(TKE.CPQ.AppGateway.Model.UIModel.BuildingElevation)">
+            <summary>
+            Save Building elevation details
+            </summary>
+            <param Name="buildingElevation"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.UpdateBuildingElevation(TKE.CPQ.AppGateway.Model.UIModel.BuildingElevation)">
+            <summary>
+            Update the Building Elevation
+            </summary>
+            <param Name="buildingElevation"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.GetBuildingElevationById(System.Int32)">
+            <summary>
+            Get building elevation details
+            </summary>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.DeleteBuildingConfigurationById(System.Int32)">
+            <summary>
+            Delete Building configuration By BuildingId
+            </summary>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.ChangeBuildingConfigure(Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Change configure
+            </summary>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.GetBuildingConfigurationSectionTab(System.Int32)">
+            <summary>
+            Get Building Tabs for getting the isDisabled1
+            </summary>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.StartBuildingEquipmentConfigure(Newtonsoft.Json.Linq.JObject,System.Int32)">
+            <summary>
+            Get/Start API for Building Equipment
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.ChangeBuildingEquipmentConfigure(Newtonsoft.Json.Linq.JObject,System.Int32)">
+            <summary>
+            ChangeBuildingEquipmentConfigure
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.SaveAssignGroups(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.BuildingEquipmentData)">
+            <summary>
+            SaveAssignGroups
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.UpdateAssignGroups(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.BuildingEquipmentData)">
+            <summary>
+            To Update Assigned Groups
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.DuplicateBuildingEquipmentConsole(System.Int32,System.Int32)">
+            <summary>
+            To Duplicate Building Equipment Console
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.DeleteBuildingEquipmentConsole(System.Int32,System.Int32)">
+            <summary>
+            API for DeleteBuildingEquipmentConsole 
+            </summary>
+            <param Name="consoleId"></param>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.SaveBuildingEquipmentConfiguration(System.Int32,Newtonsoft.Json.Linq.JObject,System.Boolean)">
+            <summary>
+            To Save Building Equipments
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.UpdateBuildingEquipmentConfiguration(System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            UpdateBuildingEquipment
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.StartBuildingEquipmentConsole(System.Int32,Newtonsoft.Json.Linq.JObject,System.Int32)">
+            <summary>
+            StartBuildingEquipmentConsole
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.BuildingsController.ChangeBuildingEquipmentConsoleConfigure(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.BuildingEquipmentData)">
+            <summary>
+            ChangeBuildingEquipmentConsoleConfigure
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="objUnitHallFixtureConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.QuotesController.GetListOfConfigurationForProject(System.String)">
+            <summary>
+            Get List of configurations for a quoteId
+            </summary>
+            <param Name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.QuotesController.QuickConfigurationSummary(System.String,System.String)">
+            <summary>
+            QuickConfigurationSummary
+            </summary>
+            <param Name="type"></param>
+            <param Name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.QuotesController.GetFieldDrawingsByProjectId(System.String)">
+            <summary>
+             This is the initial method for GetFieldDrawingsByProjectId
+            </summary>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.QuotesController.SaveSendToCoordination(Newtonsoft.Json.Linq.JObject,System.String)">
+            <summary>
+            Method for saving send to coordination data
+            </summary>
+            <param Name="sendToCoordinationObj"></param>
+            <param Name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.QuotesController.GetSendToCoordinationByProjectId(System.String)">
+            <summary>
+            This method is to get the group details and its Coordination questions
+            </summary>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.QuotesController.SaveConfigurationToExternalSystem(System.String)">
+            <summary>
+            This method saves configuration to an external system
+            </summary>
+            <param Name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Api.V1.QuotesController.GenerateViewConfigurationRequest(System.String)">
+            <summary>
+            This method will generate the configuration request for VIEW
+            </summary>
+            <param Name="OpportunityId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.CoOrdinationController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IOzBL,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.APIController.CoOrdinationController})">
+            <summary>
+            OZController
+            </summary>
+            <param Name="oz"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.CoOrdinationController.BookingRequest(System.String)">
+            <summary>
+             Booking Request Payload Excecution for OZ API
+            </summary>
+            <param Name="quoteId"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.StartFieldDrawingConfigure(System.Int32,System.String)">
+            <summary>
+            This is the initial method which will return FDA Assigments and Output Types
+            </summary>
+            <param Name="groupid"></param>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.ChangeFieldDrawingConfigure(Newtonsoft.Json.Linq.JObject,System.Int32)">
+            <summary>
+             This is the initial method for ChangeFieldDrawingConfigure
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="groupid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.GetRequestQueueByGroupId(System.Int32)">
+            <summary>
+             This is the initial method for GetRequestQueueByGroupId
+            </summary>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.SaveFieldDrawingConfigure(Newtonsoft.Json.Linq.JObject,System.Int32,System.String)">
+            <summary>
+            This is the initial method for SaveFieldDrawingConfigure
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="groupid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.UpdateLockedGroupsByProjectId(System.String,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.OnlyString)">
+            <summary>
+             This is the initial method for GetLockeGroups
+            </summary>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.RequestFieldDrawingConfigure(Newtonsoft.Json.Linq.JObject,System.Int32,System.String)">
+            <summary>
+             This is the initial method for Lift Designer
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="groupid"></param>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.GetGroupConfigurationDetailsByGroupId(System.Int32,System.Int32,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            GetGroupConfigurationDetailsByGroupId
+            </summary>
+            <param name="groupConfigurationId"></param>
+            <param name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.SaveGroupConfigurationDetails(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupConfigurationSave)">
+            <summary>
+            SaveGroupConfigurationDetails
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="groupConfiguration"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.GetGroupConfigurationByBuildingId(System.String)">
+            <summary>
+            This method will return      configuration details by BuildingId
+            </summary>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.UpdateGroupConfigurationDetails(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            UpdateGroupConfigurationDetails
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="GroupConfigurationId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.StartGroupConfigure(System.String,System.Int32,System.String,System.Int32,System.Int32,System.String,Newtonsoft.Json.Linq.JObject,System.String)">
+            <summary>
+            This method is used to start configuring a group
+            </summary>
+            <param Name="modelNumber"></param>
+            <param Name="parentCode"></param>
+            <param Name="BuildingId"></param>
+            <param Name="groupId"></param>
+            <param Name="selectedTab"></param>
+            <param Name="variableAssignments"></param>
+            <param Name="locale"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.ChangeGroupConfigure(Newtonsoft.Json.Linq.JObject,System.Int32,System.String,System.String)">
+            <summary>
+            this method is used to change the configuration of a group
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="groupId"></param>
+            <param Name="selectedTab"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.DeleteGroupConfiguration(System.Int32)">
+            <summary>
+            This Method is used to delete Group Configuration By GroupId
+            </summary>
+            <param Name="GroupId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.SaveGroupHallFixture(System.Int32,System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupHallFixturesData)">
+            <summary>
+            To Save Group Hall Fixtures
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="groupHallFixturesData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.StartGroupConsole(System.Int32,System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            StartGroupConsole
+            </summary>
+            <param Name="consoleId"></param>
+            <param Name="groupId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.DeleteGroupHallFixtureConfigure(System.Int32,System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            DeleteGroupHallFixtureConfigure
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.GetStartGroupHallFixture(System.Int32,System.Int32)">
+            <summary>
+            GetStartGroupHallFixture controller
+            </summary>
+            <param Name="groupId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.ChangeGroupHallFixtureConfigure(System.Int32,System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupHallFixturesData)">
+            <summary>
+            ChangeGroupHallFixtureConfigure
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="groupHallFixturesData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.SaveGroupLayoutDetails(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupLayoutSave)">
+            <summary>
+            Method for saving group layout details
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="groupLayout"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.UpdateGroupLayoutDetails(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupLayoutSave)">
+            <summary>
+            Method for updating GroupLayoutDetails
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="groupLayout"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.UpdateOpeningLocation(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.OpeningLocations)">
+            <summary>
+            Method for updating opening location details
+            </summary>
+            <param Name="openingLocation"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.GroupsController.GetOpeningLocationByGoupId(System.Int32,System.Int32)">
+            <summary>
+            This method will  return Opening Location By group configuration Id
+            </summary>
+            <param Name="GroupConfigurationId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.ProductsController.#ctor(TKE.CPQ.AppGateway.DataAccess.Interfaces.IProductSelection,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.APIController.ProductsController})">
+            <summary>
+            ProductSelectionController
+            </summary>
+            <param Name="productSelection"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.ProductsController.ProductSelection(System.String,System.String,System.Collections.Generic.List{System.Int32},System.String)">
+            <summary>
+             Product Selection api
+            </summary>
+            <param Name="modelNumber"></param>
+            <param Name="parentCode"></param>
+            <param Name="locale"></param>
+            <param Name="UnitId"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.ProductsController.SaveProductSelection(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.ProductSelection)">
+            <summary>
+             save Product Selection api
+            </summary>
+            <param Name="GroupConfigurationId"></param>
+            <param Name="productSelectionRequestBody"></param>
+        </member>
+        <member name="F:TKE.CPQ.AppGateway.APIController.ProjectsController._project">
+            <summary>
+            Variables Collection
+            </summary>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.ProjectsController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IProject,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.APIController.ProjectsController})">
+            <summary>
+            Constructor for Initializing the Product details Business Logic object
+            </summary>
+            <param Name="paramSettings"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.ProjectsController.GetProjectDetails(System.String,System.String,System.String)">
+            <summary>
+            This method will get the project details for the entered oppportunityid and versionid
+            </summary>
+            <param Name="OpportunityId"></param>
+            <param Name="versionId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.ProjectsController.CreateProjects(System.String)">
+            <summary>
+            CreateProjects
+            </summary>
+            <param Name="variablesValues"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.ProjectsController.SaveAndUpdateMiniProjects(Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            SaveAndUpdateMiniProjects
+            </summary>
+            <param Name="variablesValues"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.ProjectsController.DeleteProjectById(System.String,System.String)">
+            <summary>
+            This method is used for deleting a project
+            </summary>
+            <param Name="projectId"></param>
+            <param Name="versionId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.StartUnitConfigure(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Get and Start API
+            </summary>
+            <param Name="groupid"></param>
+            <param Name="setId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.ChangeUnitConfigure(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject,System.String)">
+            <summary>
+            Change UnitConfiguration
+            </summary>
+            <param name="variableAssignments"></param>
+            <param name="sectionTab"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.SaveUnitConfiguration(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Save Unit Configuration
+            </summary>
+            <param Name="setId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.StartEntranceConfigure(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            StartEntranceConfigure
+            </summary>
+            <param Name="consoleId"></param>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.DeleteEntranceConfigure(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            DeleteEntranceConfigure
+            </summary>
+            <param name="consoleId"></param>
+            <param name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.SaveUnitHallFixtureConfiguration(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.UnitHallFixtureData)">
+            <summary>
+            Save Entrance Configuration
+            </summary>
+            <param Name="setId"></param>
+            <param Name="entranceConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.DeleteUnitHallFixtureConfigure(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            DeleteUnitHallFixtureConfigure
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.GetDetailsForTP2SummaryScreen(System.Int32)">
+            <summary>
+            GetDetailsForTP2SummaryScreen
+            </summary>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.ChangeUnitHallFixtureConfigure(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.UnitHallFixtureData)">
+            <summary>
+            ChangeUnitHallFixtureConfigure
+            </summary>
+            <param Name="setId"></param>
+            <param Name="objEntranceConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.SaveCarCallCutoutKeyswitchOpenings(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.CarcallCutoutData)">
+            <summary>
+            SaveCarCallCutoutKeyswitchOpenings
+            </summary>
+            <param Name="setId"></param>
+            <param Name="carcallCutoutData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.StartCarCallCutoutAssignOpenings(System.Int32)">
+            <summary>
+            StartCarCallCutoutAssignOpenings
+            </summary>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.GetLogHistory(System.Int32,TKE.CPQ.AppGateway.Model.CommonModel.LogHistoryRequestBody)">
+            <summary>
+            This method is used for getting log history details 
+            </summary>
+            <param Name="requestBody"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.GetSystemValidationForUnit(System.Int32)">
+            <summary>
+            System Validations
+            </summary>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:TKE.CPQ.AppGateway.APIController.SetsController.SaveEntranceConfiguration(System.Int32,System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.EntranceConfigurationData)" -->
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.UpdateEntranceConfiguration(System.Int32,System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.EntranceConfigurationData)">
+            <summary>
+            Update Entrance console configuration
+            </summary>
+            <param Name="setId"></param>
+            <param Name="entranceConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.EditUnitDesignation(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.UnitDesignation)">
+            <summary>
+            This method is used for editing the Unit designation for a particular Unit
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="UnitId"></param>
+            <param Name="unit"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.ResetEntranceConsoleConfigure(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            ResetEntranceConsoleConfigure
+            </summary>
+            <param Name="setId"></param>
+            <param Name="consoleId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.APIController.SetsController.ChangeEntranceConfigure(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.EntranceConfigurationData)">
+            <summary>
+            ChangeEntranceConfigure
+            </summary>
+            <param Name="setId"></param>
+            <param Name="objEntranceConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="F:TKE.CPQ.AppGateway.Controllers.AuthController._logger">
+            <summary>
+            Variables Collection
+            Controller Created
+            </summary>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.AuthController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IAuth,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IGenerateToken,Microsoft.AspNetCore.Http.IHttpContextAccessor,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.AuthController})">
+            <summary>
+            Constructor for AuthController
+            </summary>
+            <param Name="auth"></param>
+            <param Name="generateToken"></param>
+            <param Name="httpContextAccessor"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.AuthController.GetUserDetails">
+            <summary>
+            This api used to get user information by user Id.
+            </summary>
+            <param Name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.AuthController.ValidateToken(TKE.CPQ.AppGateway.Model.RequestModel.GigyaAttributes)">
+            <summary>
+            Validating user logged into TKE and returning a JWT Token as a token of authorization for valid user.
+            </summary>
+            <param Name="gigyaAttributes"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.AuthController.Logoff(TKE.CPQ.AppGateway.Model.RequestModel.GigyaAttributes)">
+            <summary>
+            Implementation of logout functionality-call business logic to clear cache data of current session
+            </summary>
+            <param Name="gigyaAttributes"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.AuthController.RequestConfiguration(TKE.CPQ.AppGateway.Model.ViewModel.SublineRequest)">
+            <summary>
+            Wrapper for RequestConfiguration API of configurator service
+            </summary>
+            <param Name="request"></param>
+            <returns>returns the Sublines response</returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.AutoSaveConfigurationController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IAutoSaveConfiguration,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.AutoSaveConfigurationController})">
+            <summary>
+            AutoSaveConfigurationController
+            </summary>
+            <param Name="autoSaveConfiguration"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.AutoSaveConfigurationController.AutoSaveConfiguration(TKE.CPQ.AppGateway.Model.UIModel.AutoSaveConfiguration)">
+            <summary>
+            controller method for autosave functionality
+            </summary>
+            <param Name="autoSaveRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.AutoSaveConfigurationController.DeleteAutoSaveConfigurationByUser">
+            <summary>
+            controller method for deleting autosave data by username
+            </summary>
+            <param Name="userName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.AutoSaveConfigurationController.GetAutoSaveConfigurationByUser">
+            <summary>
+            /controller method for fetching autosave data by username
+            </summary>
+            <param Name="username"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IBuildingConfiguration,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController})">
+            <summary>
+            BuildingConfigurationController
+            </summary>
+            <param Name="building"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.GetListOfConfigurationForProject(System.String)">
+            <summary>
+            Get All Building details for Project by projectId
+            </summary>
+            <param Name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.QuickConfigurationSummary(System.String,System.String)">
+            <summary>
+            QuickConfigurationSummary
+            </summary>
+            <param Name="type"></param>
+            <param Name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.SaveBuildingConfigurationForProject(System.String,TKE.CPQ.AppGateway.Model.UIModel.BuildingConfiguration)">
+            <summary>
+            SaveBuildingConfigurationForProject
+            </summary>
+            <param Name="quoteId"></param>
+            <param Name="buildingConfiguration"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.UpdateBuildingConfigurationForProject(System.String,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            UpdateBuildingConfigurationForProject
+            </summary>
+            <param Name="projectId"></param>
+            <param Name="BuildingId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.SaveBuildingElevation(TKE.CPQ.AppGateway.Model.UIModel.BuildingElevation)">
+            <summary>
+            Saving the Building Elevation
+            </summary>
+            <param Name="buildingElevation"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.UpdateBuildingElevation(TKE.CPQ.AppGateway.Model.UIModel.BuildingElevation)">
+            <summary>
+            Update the Building Elevation
+            </summary>
+            <param Name="buildingElevation"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.AutoSaveBuildingElevation(TKE.CPQ.AppGateway.Model.UIModel.BuildingElevation)">
+            <summary>
+            This method is used for auto-save of building elevation
+            </summary>
+            <param Name="buildingElevation"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.GetBuildingElevationById(System.Int32)">
+            <summary>
+            Get Building Elevation Details By BuildingId
+            </summary>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.DeleteBuildingConfigurationById(System.Int32)">
+            <summary>
+            Delete Building configuration By BuildingId
+            </summary>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.DeleteBuildingElevationById(System.Int32)">
+            <summary>
+            Delete Building Elevation By BuildingId
+            </summary>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.StartBuildingConfigure(System.String,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            StartBuildingConfigure
+            </summary>
+            <param Name="quoteId"></param>
+            <param Name="BuildingId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.ResetBuildingConfigure(System.String,System.Int32)">
+            <summary>
+            ResetBuildingConfigure
+            </summary>
+            <param Name="projectId"></param>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.ChangeBuildingConfigure(Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            ChangeBuildingConfigure
+            </summary>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingConfigurationController.GetBuildingConfigurationSectionTab(System.Int32)">
+            <summary>
+            Get Building Tabs for getting the isDisabled1
+            </summary>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IBuildingEquipment,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController})">
+            <summary>
+            BuildingEquipmentController
+            </summary>
+            <param Name="buildingEquipment"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.StartBuildingEquipmentConfigure(Newtonsoft.Json.Linq.JObject,System.Int32)">
+            <summary>
+            Get/Start API for Building Equipment
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.ChangeBuildingEquipmentConfigure(Newtonsoft.Json.Linq.JObject,System.Int32)">
+            <summary>
+            ChangeBuildingEquipmentConfigure
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.SaveAssignGroups(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.BuildingEquipmentData)">
+            <summary>
+            SaveAssignGroups
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.UpdateAssignGroups(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.BuildingEquipmentData)">
+            <summary>
+            To Update Assigned Groups
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.DuplicateBuildingEquipmentConsole(System.Int32,System.Int32)">
+            <summary>
+            To Duplicate Building Equipment Console
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.DeleteBuildingEquipmentConsole(System.Int32,System.Int32)">
+            <summary>
+            API for DeleteBuildingEquipmentConsole 
+            </summary>
+            <param Name="consoleId"></param>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.SaveBuildingEquipmentConfiguration(System.Int32,Newtonsoft.Json.Linq.JObject,System.Boolean)">
+            <summary>
+            To Save Building Equipments
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.UpdateBuildingEquipmentConfiguration(System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            SaveBuildingEquipment
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.StartBuildingEquipmentConsole(System.Int32,Newtonsoft.Json.Linq.JObject,System.Int32)">
+            <summary>
+            StartBuildingEquipmentConsole
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="consoleId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.BuildingEquipmentController.ChangeBuildingEquipmentConsoleConfigure(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.BuildingEquipmentData)">
+            <summary>
+            ChangeBuildingEquipmentConsoleConfigure
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="objUnitHallFixtureConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.DocumentsController.GetDataForDocumentGeneration(System.Int32,System.Int32)">
+            <summary>
+            GetDetailsForTP2SummaryScreen
+            </summary>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IFieldDrawingAutomation,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController})">
+            <summary>
+            FieldDrawingAutomationController
+            </summary>
+            <param Name="fieldDrawingAutomation"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.StartFieldDrawingConfigure(System.Int32,System.String)">
+            <summary>
+            This is the initial method which will return FDA Assigments and Output Types
+            </summary>
+            <param Name="groupid"></param>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.ChangeFieldDrawingConfigure(Newtonsoft.Json.Linq.JObject,System.Int32)">
+            <summary>
+             This is the initial method for ChangeFieldDrawingConfigure
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="groupid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.GetFieldDrawingsByProjectId(System.String)">
+            <summary>
+             This is the initial method for GetFieldDrawingsByProjectId
+            </summary>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.GetRequestQueueByGroupId(System.Int32)">
+            <summary>
+             This is the initial method for GetRequestQueueByGroupId
+            </summary>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.SaveFieldDrawingConfigure(Newtonsoft.Json.Linq.JObject,System.Int32,System.String)">
+            <summary>
+            This is the initial method for SaveFieldDrawingConfigure
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="groupid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.UpdateLockedGroupsByProjectId(System.String,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.OnlyString)">
+            <summary>
+             This is the initial method for GetLockeGroups
+            </summary>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.RequestFieldDrawingConfigure(Newtonsoft.Json.Linq.JObject,System.Int32,System.String)">
+            <summary>
+             This is the initial method for Lift Designer
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="groupid"></param>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.SaveSendToCoordination(Newtonsoft.Json.Linq.JObject,System.String)">
+            <summary>
+            Method for saving send to coordination data
+            </summary>
+            <param Name="sendToCoordinationObj"></param>
+            <param Name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.GetSendToCoordinationByProjectId(System.String)">
+            <summary>
+            This method is to get the group details and its Coordination questions
+            </summary>
+            <param Name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.FieldDrawingAutomationController.GetSendToCoordinationStatus(System.String)">
+            <summary>
+            check for enabling the send to coordination button
+            </summary>
+            <param name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IGroupConfiguration,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.GroupConfigurationController},TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IOpeningLocation)">
+            <summary>
+            GroupConfigurationController
+            </summary>
+            <param Name="group"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.GetGroupConfigurationDetailsByGroupId(System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            GetGroupConfigurationDetailsByGroupId
+            </summary>
+            <param name="groupConfigurationId"></param>
+            <param name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.SaveGroupConfigurationDetails(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupConfigurationSave)">
+            <summary>
+            SaveGroupConfigurationDetails
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="groupConfiguration"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.UpdateGroupConfigurationDetails(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            UpdateGroupConfigurationDetails
+            </summary>
+            <param Name="BuildingId"></param>
+            <param Name="GroupConfigurationId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.GetGroupConfigurationByBuildingId(System.String)">
+            <summary>
+            This method will return group configuration details by BuildingId
+            </summary>
+            <param Name="BuildingId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.StartGroupConfigure(System.String,System.String,System.Int32,System.Int32,System.String,Newtonsoft.Json.Linq.JObject,System.String)">
+            <summary>
+            This method is used to start configuring a group
+            </summary>
+            <param Name="modelNumber"></param>
+            <param Name="parentCode"></param>
+            <param Name="BuildingId"></param>
+            <param Name="groupId"></param>
+            <param Name="selectedTab"></param>
+            <param Name="variableAssignments"></param>
+            <param Name="locale"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.ChangeGroupConfigure(Newtonsoft.Json.Linq.JObject,System.Int32,System.String)">
+            <summary>
+            this method is used to change the configuration of a group
+            </summary>
+            <param Name="variableAssignments"></param>
+            <param Name="groupId"></param>
+            <param Name="selectedTab"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.DeleteGroupConfiguration(System.Int32)">
+            <summary>
+            This Method is used to delete Group Configuration By GroupId
+            </summary>
+            <param Name="GroupId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.SaveGroupHallFixture(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupHallFixturesData)">
+            <summary>
+            Save Entrance Configuration
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="groupHallFixturesData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.StartGroupConsole(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            StartGroupConsole
+            </summary>
+            <param Name="consoleId"></param>
+            <param Name="groupId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.GetStartGroupHallFixture(System.Int32)">
+            <summary>
+            GetStartGroupHallFixture controller
+            </summary>
+            <param Name="groupId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.ChangeGroupHallFixtureConfigure(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupHallFixturesData)">
+            <summary>
+            ChangeGroupHallFixtureConfigure
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="groupHallFixturesData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.DeleteGroupHallFixtureConfigure(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            DeleteGroupHallFixtureConfigure
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.ResetGroupHallFixture(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Save StartGroupConsole 
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="consoleId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupConfigurationController.GetBuildingConfigurationSectionTab(System.Int32)">
+            <summary>
+            Get Group Tabs for getting the isDisabled property
+            </summary>
+            <param Name="groupId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupLayoutController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IGroupLayout,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.GroupLayoutController})">
+            <summary>
+            GroupLayoutController
+            </summary>
+            <param Name="groupLayout"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupLayoutController.SaveGroupLayoutDetails(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupLayoutSave)">
+            <summary>
+            Method for saving group layout details
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="groupLayout"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.GroupLayoutController.UpdateGroupLayoutDetails(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.GroupLayoutSave)">
+            <summary>
+            Method for updating GroupLayoutDetails
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="groupLayout"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.OpeningLocationController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IOpeningLocation,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.OpeningLocationController})">
+            <summary>
+            OpeningLocationController
+            </summary>
+            <param Name="openingLocation"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.OpeningLocationController.UpdateOpeningLocation(TKE.CPQ.AppGateway.Model.UIModel.OpeningLocations)">
+            <summary>
+            Method for updating opening location details
+            </summary>
+            <param Name="openingLocation"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.OpeningLocationController.GetOpeningLocationByGoupId(System.Int32)">
+            <summary>
+            This method will  return Opening Location By group configuration Id
+            </summary>
+            <param Name="GroupConfigurationId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.OZController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IOzBL,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.OZController})">
+            <summary>
+            OZController
+            </summary>
+            <param Name="oz"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.OZController.BookingRequest(System.String)">
+            <summary>
+             Booking Request Payload Excecution for OZ API
+            </summary>
+            <param Name="quoteId"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.OZController.GenerateOzRequestBody(System.String)">
+            <summary>
+             Booking Request Payload Generation for OZ API
+            </summary>
+            <param Name="quoteId"></param>
+        </member>
+        <member name="F:TKE.CPQ.AppGateway.Controllers.ProductController._logger">
+            <summary>
+            Variables Collection
+            </summary>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProductController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IProduct,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.ProductController})">
+            <summary>
+            Constructor for ProductController
+            </summary>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProductController.GetListOfProductLine">
+            <summary>
+            Get All Product Details for ProductLine Page
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProductSelectionController.#ctor(TKE.CPQ.AppGateway.DataAccess.Interfaces.IProductSelection,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.ProductSelectionController})">
+            <summary>
+            ProductSelectionController
+            </summary>
+            <param Name="productSelection"></param>
+            <param Name="configure"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProductSelectionController.ProductSelection(System.String,System.Collections.Generic.List{System.Int32},System.String)">
+            <summary>
+             Product Selection api
+            </summary>
+            <param Name="modelNumber"></param>
+            <param Name="parentCode"></param>
+            <param Name="locale"></param>
+            <param Name="UnitId"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProductSelectionController.SaveProductSelection(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.ProductSelection)">
+            <summary>
+             save Product Selection api
+            </summary>
+            <param Name="GroupConfigurationId"></param>
+            <param Name="productSelectionRequestBody"></param>
+        </member>
+        <member name="F:TKE.CPQ.AppGateway.Controllers.ProjectsController._project">
+            <summary>
+            Variables Collection
+            </summary>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IProject,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.ProjectsController})">
+            <summary>
+            Constructor for Initializing the Product details Business Logic object
+            </summary>
+            <param Name="paramSettings"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.getListOfProjectsForUser(System.Int32)">
+            <summary>
+            This method will retunr list of projects for a particular user
+            </summary>
+            <param Name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.SearchUser(System.String)">
+            <summary>
+            This method will search for a user
+            </summary>
+            <param Name="searchText"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.GetProjectDetails(System.String,System.String)">
+            <summary>
+            This method will get the project details for the entered oppportunityid and versionid
+            </summary>
+            <param Name="OpportunityId"></param>
+            <param Name="versionId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.GenerateViewConfigurationRequest(System.String)">
+            <summary>
+            This method will generate the configuration request for VIEW
+            </summary>
+            <param Name="OpportunityId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.CreateProjects(System.String)">
+            <summary>
+            CreateProjects
+            </summary>
+            <param Name="variablesValues"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.SaveAndUpdateMiniProjects(Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            SaveAndUpdateMiniProjects
+            </summary>
+            <param Name="variablesValues"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.GetListOfProjectsDetails">
+            <summary>
+            This method gets the list of projects for a particular username
+            </summary>
+            <param Name="userName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.SaveConfigurationToExternalSystem(System.String)">
+            <summary>
+            This method saves configuration to an external system
+            </summary>
+            <param Name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.GetProjectInfo(System.String,System.String,System.Int32)">
+            <summary>
+            This method is used for getting project details for a particular opportunityid and versionid
+            </summary>
+            <param Name="OpportunityId"></param>
+            <param Name="versionId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.DeleteProjectById(System.String,System.String)">
+            <summary>
+            This method is used for deleting a project
+            </summary>
+            <param Name="projectId"></param>
+            <param Name="versionId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.AddQuoteForProject(System.String)">
+            <summary>
+            AddQuoteForProject
+            </summary>
+            <param name="projectId"></param>
+            <param name="versionId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.AddToPrimaryQuotes(System.String)">
+            <summary>
+            AddToPrimaryQuotes
+            </summary>
+            <param name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ProjectsController.DuplicateQuoteByQuoteId(System.String,System.String)">
+            <summary>
+            DuplicateQuoteByQuoteId
+            </summary>
+            <param name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ReleaseInfoController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IReleaseInfo,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.ReleaseInfoController})">
+            <summary>
+            ReleaseInfoController
+            </summary>
+            <param name="ReleaseInfo"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ReleaseInfoController.GetReleaseInfoByProjectId(System.String)">
+            <summary>
+            API for the release info tab to get BuildingId and group ID
+            </summary>
+            <param Name="quoteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ReleaseInfoController.GetReleaseToManufactureByGroupId(System.Int32)">
+            <summary>
+            API to get Unit configuration datapoints for the release info popup
+            </summary>
+            <param Name="groupId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.ReleaseInfoController.SaveUpdatReleaseInfoDetails(System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            API to save the release to manufacturing popup details and change the group status to released if conditions satisfies.
+            </summary>
+            <param Name="groupid"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.#ctor(TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IUnitConfiguration,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.IConfigure,TKE.CPQ.AppGateway.BusinessProcess.Interfaces.ILogHistory,Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.UnitConfigurationController})">
+            <summary>
+            UnitConfigurationController
+            </summary>
+            <param Name="unitConfiguration"></param>
+            <param Name="configure"></param>
+            <param Name="logHistory"></param>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.StartUnitConfigure(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Get and Start API
+            </summary>
+            <param Name="groupid"></param>
+            <param Name="setId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.ChangeUnitConfigure(Newtonsoft.Json.Linq.JObject,System.String,System.Int32)">
+            <summary>
+            Change UnitConfiguration
+            </summary>
+            <param name="variableAssignments"></param>
+            <param name="sectionTab"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.SaveUnitConfiguration(System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Save Unit Configuration
+            </summary>
+            <param Name="setId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.SaveEntranceConfiguration(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.EntranceConfigurationData)" -->
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.UpdateEntranceConfiguration(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.EntranceConfigurationData)">
+            <summary>
+            UpdateEntranceConfiguration
+            </summary>
+            <param Name="setId"></param>
+            <param Name="entranceConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.UpdateUnitConfiguration(System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Save Unit Configuration
+            </summary>
+            <param Name="setId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.SaveCabInteriorDetails(System.Int32,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Save Cab Interior Details Controller
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="productName"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.UpdateCabInteriorDetails(System.Int32,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            This method used to save cab interior details
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="productName"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.SaveHoistwayTractionEquipment(System.Int32,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            This method used to save hoistway traction equipment
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="productName"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.UpdateHoistwayTractionEquipment(System.Int32,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            This method used to save hoistway traction equipment
+            </summary>
+            <param Name="GroupConfigurationId"></param>
+            <param Name="userName"></param>
+            <param Name="configureRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.SaveGeneralInformation(System.Int32,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            SaveGeneralInformation
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.UpdateGeneralInformation(System.Int32,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            SaveGeneralInformation
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.SaveEntrances(System.Int32,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Save Entrance 
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.UpdateEntrances(System.Int32,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Save Entrance 
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="variableAssignments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.EditUnitDesignation(System.Int32,System.Int32,TKE.CPQ.AppGateway.Model.UIModel.UnitDesignation)">
+            <summary>
+            This method is used for editing the Unit designation for a particular Unit
+            </summary>
+            <param Name="groupId"></param>
+            <param Name="UnitId"></param>
+            <param Name="unit"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.StartEntranceConfigure(System.Int32,System.Int32)">
+            <summary>
+            StartEntranceConfigure
+            </summary>
+            <param Name="consoleId"></param>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.ChangeEntranceConfigure(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.EntranceConfigurationData)">
+            <summary>
+            ChangeEntranceConfigure
+            </summary>
+            <param Name="setId"></param>
+            <param Name="objEntranceConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.SaveUnitHallFixtureConfiguration(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.UnitHallFixtureData)">
+            <summary>
+            Save Entrance Configuration
+            </summary>
+            <param Name="setId"></param>
+            <param Name="entranceConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.GetDetailsForTP2SummaryScreen(System.Int32)">
+            <summary>
+            GetDetailsForTP2SummaryScreen
+            </summary>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.ChangeUnitHallFixtureConfigure(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.UnitHallFixtureData)">
+            <summary>
+            ChangeUnitHallFixtureConfigure
+            </summary>
+            <param Name="setId"></param>
+            <param Name="objEntranceConfigurationData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.DeleteEntranceConfigure(System.Int32,System.Int32)">
+            <summary>
+            DeleteEntranceConfigure
+            </summary>
+            <param name="consoleId"></param>
+            <param name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.DeleteUnitHallFixtureConfigure(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            DeleteUnitHallFixtureConfigure
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.ResetUnitHallFixtureConsoleConfigure(System.Int32,System.Int32,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            DeleteUnitHallFixtureConfigure
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.ResetEntranceConsoleConfigure(System.Int32,System.Int32)">
+            <summary>
+            ResetEntranceConsoleConfigure
+            </summary>
+            <param Name="setId"></param>
+            <param Name="consoleId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.SaveCarCallCutoutKeyswitchOpenings(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.CarcallCutoutData)">
+            <summary>
+            SaveCarCallCutoutKeyswitchOpenings
+            </summary>
+            <param Name="setId"></param>
+            <param Name="carcallCutoutData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.StartCarCallCutoutAssignOpenings(System.Int32)">
+            <summary>
+            StartCarCallCutoutAssignOpenings
+            </summary>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.GetLogHistory(TKE.CPQ.AppGateway.Model.CommonModel.LogHistoryRequestBody)">
+            <summary>
+            This method is used for getting log history details 
+            </summary>
+            <param Name="requestBody"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.GetSystemValidationForUnit(System.Int32)">
+            <summary>
+            System Validations
+            </summary>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.RefreshSystemValidationForUnit(System.Int32)">
+            <summary>
+            RefreshValidation API
+            </summary>
+            <param Name="setId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UnitConfigurationController.SavePriceForTP2SummaryScreen(System.Int32,TKE.CPQ.AppGateway.Model.UIModel.UnitSummaryUIModel)">
+            <summary>
+            Method for saving the final price from TP2 summary screen
+            </summary>
+            <param Name="setId"></param>
+            <param Name="priceDetails"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UtilityController.#ctor(Microsoft.Extensions.Logging.ILogger{TKE.CPQ.AppGateway.Controllers.UtilityController},Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            UtilityController
+            </summary>
+            <param Name="logger"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UtilityController.GetLogContent(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            API responsible for reading the log file and formatting it to the JSON format before returning
+            </summary>
+            <param Name="yyyyMMdd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Controllers.UtilityController.FetchGraphAPIDataAsync(System.String)">
+            <summary>
+            This method fetches data from the Graph API
+            </summary>
+            <param name="query"></param>
+            <returns></returns>
+        </member>
+        <member name="F:TKE.CPQ.AppGateway.Helper.Constant.LOGOUTPUTTEMPLATE">
+            <summary>
+            Constants Related to settings
+            Setting Constants are using for Couchbase Credentials and appsetiing extensions
+            </summary>
+        </member>
+        <member name="F:TKE.CPQ.AppGateway.Helper.Constant.INTERNALSERVERERROR">
+            <summary>
+            Constants Related to Status Code
+            Status Code Constants are using for Get http Response Values
+            </summary>
+        </member>
+        <member name="F:TKE.CPQ.AppGateway.Helper.Constant.TKEUID">
+             <summary>
+             Constants Related to Session
+            Session related constants are using to get TKe UID, error log etc values from appsettings.
+             </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "F:TKE.CPQ.AppGateway.Helper.Constant.INPUTMESSAGE" -->
+        <!-- Badly formed XML comment ignored for member "F:TKE.CPQ.AppGateway.Helper.Constant.TKEUUID" -->
+        <member name="M:TKE.CPQ.AppGateway.Helper.Utility.SerializeObjectValue(System.Object)">
+            <summary>
+            Serializes object to a string
+            </summary>
+            <param Name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Helper.Utility.DeserializeObjectValue``1(System.String)">
+            <summary>
+            Deserialize string Value to the specified object
+            </summary>
+            <typeparam Name="T"></typeparam>
+            <param Name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.Helper.Utility.CheckEquals(System.String,System.String)">
+            <summary>
+            String comparision
+            </summary>
+            <param Name="valueOne"></param>
+            <param Name="valueTwo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.InfosysJsonFormatter.Format(Serilog.Events.LogEvent,System.IO.TextWriter)">
+            <summary>
+            This method uses the serilog json formater and wraps those individual json objects into array
+            </summary>
+            <param Name="logEvent"></param>
+            <param Name="output"></param>
+        </member>
+        <member name="M:TKE.CPQ.AppGateway.ValidateSessionAttribute.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            Extracting out the JWT payload data and check for Session Id validity.
+            </summary>
+            <param Name="filterContext"></param>
+        </member>
+    </members>
+</doc>

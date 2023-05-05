@@ -1,0 +1,48 @@
+{
+  "Hoistway_Access": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HALOCTOPF": "EJMFLTL"
+  },
+  "Hall_Lantern": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLTYPEF": "TRIANGLE",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP": "4SS 441",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLCLRU": "WHITE",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLORT": "HORIZONTAL"
+  },
+  "Hall_PI": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PICOLOR": "BLUE",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PITYPEF": "CANPI",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP": "4SS 441"
+  },
+  "Combo_Hall_Lantern/PI": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.COMBOF": "TRICAN",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PICOLOR": "BLUE",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP": "4SS 441"
+  },
+  "Hall_Elevator_Designation_Plate": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDHallFlagType_SP": "Angled",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP": "4SS 441"
+  },
+  "Star_Of_Life": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLSOL": "APPLIED"
+  },
+  "Inconspicuous_Riser": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.INCONSWF": "FALSE"
+  },
+  "Lobby_Recall_Switch": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.RETURN": "FALSE"
+  },
+  "Car_Homing_and_Shutdown": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PARK": "FALSE"
+  },
+  "Braille": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLBRLTYPE": "APPLIED",
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLBRLFIN": "Black Plastic with White Characters"
+  },
+  "Hall_Target_Indicator": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDHallTargetIndicator_SP": "Segmented"
+  },
+  "Elevator_and_Floor_Designation_Braille": {
+    "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP": "Black Plastic with White Characters"
+  }
+
+}

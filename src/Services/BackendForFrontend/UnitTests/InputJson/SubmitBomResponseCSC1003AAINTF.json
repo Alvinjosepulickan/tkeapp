@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "materialName": "CSC1003AAINTF",
+      "configurationId": 1091924711,
+      "taskDetails": {
+        "id": "f034cc39-49cd-4227-9b04-8c585c62bfa7",
+        "created": "2022-01-04T16:01:36.04Z",
+        "started": "2022-01-04T16:01:36.1666667Z",
+        "finished": null,
+        "jobName": null,
+        "metadata": {},
+        "percentageCompleted": 0,
+        "status": 80,
+        "message": null
+      }
+    }
+  ]
+}

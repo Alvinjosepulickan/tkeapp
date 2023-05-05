@@ -1,0 +1,59 @@
+﻿{
+  "id": "Group_Validation.Parameters.Basic_Info.PRODUCTCATEGORY",
+  "name": "Product Category ",
+  "valueType": "String",
+  "allowMultipleAssignments": false,
+  "values": [
+    {
+      "type": "SingletonValue",
+      "name": "Elevator",
+      "value": "",
+      "properties": [],
+      "assigned": "byDefault",
+      "inCompatible": false,
+      "state": "Selected",
+      "justification": "Assignment"
+    },
+    {
+      "type": "SingletonValue",
+      "name": "Other",
+      "value": "",
+      "properties": [],
+      "inCompatible": false,
+      "state": "Available",
+      "justification": "None"
+    }
+  ],
+  "properties": [
+    {
+      "id": "fullyqualifiedname",
+      "value": "Group_Validation.Parameters.Basic_Info.PRODUCTCATEGORY",
+      "type": "String"
+    },
+    {
+      "id": "name",
+      "value": "Product Category ",
+      "type": "String"
+    },
+    {
+      "id": "fromgroup",
+      "value": true,
+      "type": "Boolean"
+    },
+    {
+      "id": "info",
+      "value": "Product Category ",
+      "type": "String"
+    },
+    {
+      "id": "showas",
+      "value": "Dropdown",
+      "type": "String"
+    },
+    {
+      "id": "sequence",
+      "value": "2",
+      "type": "number"
+    }
+  ]
+}

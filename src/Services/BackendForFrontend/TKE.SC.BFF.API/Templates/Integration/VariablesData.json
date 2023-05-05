@@ -1,0 +1,25 @@
+{
+  "variableDetails": {
+    "Projects.ProjectId": "",
+    "Projects.ProjectName": "",
+    "Projects.Branch": "",
+    "Projects.SalesStage": "Lead",
+    "LayoutDetails.Language": "EN-US",
+    "LayoutDetails.MeasuringUnit": "Metric",
+    "AccountDetails.AccountName": "",
+    "AccountDetails.Contact": "",
+    "AccountDetails.SiteAddress.AddressLine1": "",
+    "AccountDetails.SiteAddress.AddressLine2": "",
+    "AccountDetails.SiteAddress.City": "",
+    "AccountDetails.SiteAddress.State": "",
+    "AccountDetails.SiteAddress.Country": "",
+    "AccountDetails.SiteAddress.ZipCode": ""
+  },
+  "ProjectDisplayDetails": {
+    "Projects.ProjectId": "",
+    "proposedDate": "",
+    "ContractBookedDate": "",
+    "CreationDate": "",
+    "ModifiedDate": ""
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "Code": "code1",
+  "Data": {
+    "Quotation": {
+      "OpportunityInfo": {
+        "OpportunityId": "",
+        "OpportunityURL": "infyurl",
+        "BusinessLine": "",
+        "JobName": "Salesrep",
+        "Branch": "Mysore",
+        "SalesmanActiveDirectoryID": "",
+        "Salesman": "",
+        "Category": "",
+        "AwardClosedDate": "",
+        "ProposedDate": "",
+        "ContractBookedDate": "",
+        "SalesStage": "",
+        "OraclePSNumber": "",
+        "Superintendent": "",
+        "SalesEmail": ""
+      },
+      "Architect": {},
+      "Contact": {},
+      "GC": {},
+      "Owner": {},
+      "Billing": {},
+      "Building": {},
+      "Quote": {
+        "QuoteDescription": "",
+        "BaseBid": "",
+        "UIVersionId": "er4353",
+        "LatestViewVersion": "true",
+        "IsPrimary": "true"
+      },
+      "VersionId": "23",
+      "UnitsData": [
+        {
+          "BuildingInfo": {
+            "City": "Mysore",
+            "County": "India",
+            "State": "Karnataka",
+            "ZipCode_bldg": "324",
+            "AddressLine1_bldg": "32423",
+            "AddressLine2_bldg": "234"
+          }
+        },
+        {
+          "BuildingInfo": {
+            "City": "Coimabtore",
+            "County": "India",
+            "State": "TamilNadu",
+            "ZipCode_bldg": "4534",
+            "AddressLine1_bldg": "345",
+            "AddressLine2_bldg": "354"
+          }
+        }
+      ]
+    }
+  },
+  "Message":"The Value is set",
+  "ProjectInfoDetails": {
+      "Id": "1",
+      "OpportunityName": "Salesrep",
+      "OpportunityType": "Sales",
+      "SalesStage": "City",
+      "AccountId": "123",
+      "AccountName": "xyz",
+      "AccountType": "",
+      "AccountAddress": {
+        "AccountId": "123",
+        "AccountName": "xyz",
+        "AccountAddressCity": "Mysore",
+        "AccountAddressState": "Karnataka",
+        "AccountAddressAddressZipCode": "56676",
+        "AccountAddressCountry": "India",
+        "AccountAddressStreetAddress": "Hebbal",
+        "AccountAddressStreetAddress2": "Hebbal"
+      },
+      "ProposedDate": "",
+      "CreatedDate": "",
+      "ModifiedDate": "",
+      "LineOfBusiness": "",
+      "Region": "",
+      "Branch": "",
+      "MarketSegment": "",
+      "EagleSalesStage": "",
+      "ExpectedEagleRevenue": "50.0",
+      "Probability": "1.0",
+      "LeadSource": "",
+      "BookingDate": "",
+      "CloseDate": "",
+      "CreatedBy": "",
+      "CreatedByFirstName": "",
+      "Owner": "",
+      "OwnerFullName": "",
+      "OwnerId": "",
+      "CreatedById": "",
+      "CreatedByFullName": "",
+      "CreatedByAlias": "",
+      "QuoteId": "",
+      "QuoteStatus": "",
+      "MFileFolderPath": "",
+      "SalesRepEmail": "",
+      "OperationContactEmail": ""
+    },
+  "FactoryDetails": [
+      {
+        "FacotryJobId": "1",
+        "UEID": "First"
+      },
+      {
+        "FacotryJobId": "2",
+        "UEID": "Second"
+      },
+      {
+        "FacotryJobId": "3",
+        "UEID": "Third"
+      }
+    ]
+  }
+
+ 
+

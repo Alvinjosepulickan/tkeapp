@@ -1,0 +1,82 @@
+{
+  "PackagePath": "GroupValidation",
+  "currency": "USD",
+  "currentLineId": "ROOT",
+  "date": "2019-10-04T10:00:11.088Z",
+  "description": "",
+  "globalArguments": {
+    "plant": "US01",
+    "salesArea": {
+      "salesOrganization": "US01",
+      "distributionChannel": "01",
+      "salesDivision": "02"
+    },
+    "shipTo": {
+      "countryCode": "US"
+    },
+    "soldTo": {
+      "countryCode": "US"
+    },
+    "MaterialVariant": {
+      "Material": {
+        "ConfigurableMaterialName": "GroupValidation",
+        "ExternalId": "GroupValidation"
+      }
+    },
+    "Variants": []
+  },
+  "language": "English",
+  "line": {
+    "priceLineAssignments": [],
+    "product": {
+      "id": "GroupValidation",
+      "isConfigurable": true
+    },
+    "productId": "GroupValidation",
+    "quantity": {
+      "value": 1,
+      "unit": "EA"
+    },
+    "sublines": [],
+    "variableAssignments": [
+      {
+        "variableId": "Group_Validation.Parameters.Basic_Info.GRPDESG",
+        "value": "testgroup12345"
+      },
+      {
+        "variableId": "Elevator001.Parameters.Basic_Info.ELEVSYS",
+        "value": "EVO"
+      }
+    ]
+  },
+  "removedAssignments": {
+    "variableAssignments": [
+      {
+        "variable": {
+          "id": "ELEVATOR.Parameters.REAROPEN",
+          "name": "ELEVATOR.Parameters.REAROPEN",
+          "valueType": "String",
+          "allowMultipleAssignments": false
+        },
+        "value": {
+          "value": "TRUE",
+          "name": "TRUE",
+          "exclude": false
+        }
+      }
+    ],
+    "priceLineAssignments": []
+  },
+  "priceProcedureId": "ZRVA01",
+  "settings": {
+    "debug": false,
+    "includePriceLines": false,
+    "onlyPriceTotals": false
+  }
+}
+
+
+
+
+
+

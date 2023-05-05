@@ -1,0 +1,22 @@
+﻿{
+  "id": 1234,
+  "userId": "c2duser",
+  "firstName": "C2D",
+  "lastName": "User",
+  "email": "c2duser@infosys.com",
+  "profilePic": "http://infybubble//User%20Photos/profile%20pictures/ITLINFOSYS_c2duser.jpg",
+  "location": {
+    "id": "2",
+    "city": "Mysore",
+    "state": "KA",
+    "country": "India"
+  },
+  "role": {
+    "id": "1",
+    "name": "Sales Representative"
+  },
+  "AccountAddress": {
+    "AccountAddressCountry": "Canada"
+  },
+  "QuoteId": 1
+}

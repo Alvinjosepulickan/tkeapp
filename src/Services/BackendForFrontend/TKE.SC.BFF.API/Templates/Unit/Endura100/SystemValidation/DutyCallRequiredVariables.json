@@ -1,0 +1,48 @@
+{
+  "variableAssignments": [
+    {
+      "variableId": "Parameters.BPP",
+      "value": "3"
+    },
+    {
+      "variableId": "Parameters.DOORTYPF",
+      "value": "1SRH"
+    },
+    {
+      "variableId": "Parameters.ELEVSYS",
+      "value": "END100"
+    },
+    {
+      "variableId": "Parameters.GLOPU",
+      "value": "4000"
+    },
+    {
+      "variableId": "Parameters.JACKTYPE",
+      "value": "TWINPOST"
+    },
+    {
+      "variableId": "Parameters.NETAREA",
+      "value": "14.14"
+    },
+    {
+      "variableId": "Parameters.PDISPL",
+      "value": "0.734"
+    },
+    {
+      "variableId": "Parameters.PITDEPTH",
+      "value": "48"
+    },
+    {
+      "variableId": "Parameters.PSTNTYPE",
+      "value": "2S-TW"
+    },
+    {
+      "variableId": "Parameters.TOTTRAVEL",
+      "value": "120"
+    },
+    {
+      "variableId": "Parameters.BPV",
+      "value": "460"
+    }
+  ]
+}

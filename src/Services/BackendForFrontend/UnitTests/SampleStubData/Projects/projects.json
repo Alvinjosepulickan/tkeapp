@@ -1,0 +1,292 @@
+{
+ "Projects":[
+  {
+    "id": 1,
+    "location": {
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA"
+    },
+    "name": "500 Harbour Island",
+    "noOfUnits": 25,
+    "client": {
+      "id": 1,
+      "name": "Framework Group, LLC",
+      "contactPerson": {
+        "id": 1,
+        "firstName": "Hettie",
+        "lastName": "Howell"
+      },
+      "logo": "https://uilogos.co/img/logomark/atica.png"
+    },
+    "totalPrice": {
+      "currency": "USD",
+      "price": 100412.13
+    },
+    "createdBy": {
+      "id": "79023",
+      "firstName": "Raja Sekhar",
+      "lastName": "Veeramalla"
+    },
+    "createdOn": "2019-12-21 20:02:21.550",
+    "modifiedBy": {
+      "id": "79023",
+      "firstName": "Raja Sekhar",
+      "lastName": "Veeramalla"
+    },
+    "modifiedOn": "2019-12-22 14:05:26.900"
+  },
+  {
+    "id": 2,
+    "location": {
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA"
+    },
+    "name": "The View",
+    "noOfUnits": 12,
+    "client": {
+      "id": 2,
+      "name": "Swire Properties",
+      "contactPerson": {
+        "id": 2,
+        "firstName": "Theresa",
+        "lastName": "Adkins"
+      },
+      "logo": "https://uilogos.co/img/logomark/kyan.png"
+    },
+    "totalPrice": {
+      "currency": "USD",
+      "price": 100412.13
+    },
+    "createdBy": {
+      "id": "79023",
+      "firstName": "Raja Sekhar",
+      "lastName": "Veeramalla"
+    },
+    "createdOn": "2019-12-21 20:02:21.550",
+    "modifiedBy": {
+      "id": "79023",
+      "firstName": "Raja Sekhar",
+      "lastName": "Veeramalla"
+    },
+    "modifiedOn": "2019-12-22 14:05:26.900"
+  },
+  {
+    "id": 3,
+    "location": {
+      "city": "Fort Myers",
+      "state": "FL",
+      "country": "USA"
+    },
+    "name": "Solstice",
+    "noOfUnits": 48,
+    "client": {
+      "id": 3,
+      "name": "Boca Developers",
+      "contactPerson": {
+        "id": 3,
+        "firstName": "Mathilda",
+        "lastName": "Nichols"
+      },
+      "logo": "https://uilogos.co/img/logomark/leaf.png"
+    },
+    "totalPrice": {
+      "currency": "USD",
+      "price": 100412.13
+    },
+    "createdBy": {
+      "id": "79023",
+      "firstName": "Raja Sekhar",
+      "lastName": "Veeramalla"
+    },
+    "createdOn": "2019-12-21 20:02:21.550",
+    "modifiedBy": {
+      "id": "79023",
+      "firstName": "Raja Sekhar",
+      "lastName": "Veeramalla"
+    },
+    "modifiedOn": "2019-12-22 14:05:26.900"
+  },
+  {
+    "id": 4,
+    "location": {
+      "city": "Daytona Beach",
+      "state": "FL",
+      "country": "USA"
+    },
+    "name": "125 Novus",
+    "noOfUnits": 8,
+    "client": {
+      "id": 4,
+      "name": "The Related Group",
+      "contactPerson": {
+        "id": 4,
+        "firstName": "Sally",
+        "lastName": "Neal"
+      },
+      "logo": "https://uilogos.co/img/logomark/treva.png"
+    },
+    "totalPrice": {
+      "currency": "USD",
+      "price": 100412.13
+    },
+    "createdBy": {
+      "id": "1037390",
+      "firstName": "sathiraju",
+      "lastName": "chaitanya"
+    },
+    "createdOn": "2019-12-23 12:59:21.550",
+    "modifiedBy": {
+      "id": "1037390",
+      "firstName": "sathiraju",
+      "lastName": "chaitanya"
+    },
+    "modifiedOn": "2019-12-23 14:05:26.900"
+  },
+  {
+    "id": 5,
+    "location": {
+      "city": "Orlando",
+      "state": "FL",
+      "country": "USA"
+    },
+    "name": "Varela",
+    "noOfUnits": 16,
+    "client": {
+      "id": 5,
+      "name": "Butters Construction & Development",
+      "contactPerson": {
+        "id": 5,
+        "firstName": "Edith",
+        "lastName": "Osborne"
+      },
+      "logo": "https://uilogos.co/img/logomark/kyan.png"
+    },
+    "totalPrice": {
+      "currency": "USD",
+      "price": 100412.13
+    },
+    "createdBy": {
+      "id": "773098",
+      "firstName": "satwik",
+      "lastName": "chaudhry"
+    },
+    "createdOn": "2019-12-21 22:02:21.550",
+    "modifiedBy": {
+      "id": "79023",
+      "firstName": "Raja Sekhar",
+      "lastName": "Veeramalla"
+    },
+    "modifiedOn": "2019-12-22 14:05:26.900"
+  },
+  {
+    "id": 6,
+    "location": {
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA"
+    },
+    "name": "ARCOS",
+    "noOfUnits": 12,
+    "client": {
+      "id": 6,
+      "name": "Stiles",
+      "contactPerson": {
+        "id": 6,
+        "firstName": "Andrew",
+        "lastName": "Hoimes"
+      },
+      "logo": "https://uilogos.co/img/logomark/atica.png"
+    },
+    "totalPrice": {
+      "currency": "USD",
+      "price": 100412.13
+    },
+    "createdBy": {
+      "id": "1064849",
+      "firstName": "saket",
+      "lastName": "jha"
+    },
+    "createdOn": "2019-12-21 22:02:21.550",
+    "modifiedBy": {
+      "id": "1064849",
+      "firstName": "saket",
+      "lastName": "jha"
+    },
+    "modifiedOn": "2019-12-22 14:05:26.900"
+  },
+  {
+    "id": 7,
+    "location": {
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA"
+    },
+    "name": "The Napier",
+    "noOfUnits": 4,
+    "client": {
+      "id": 7,
+      "name": "The Altman Cos",
+      "contactPerson": {
+        "id": 7,
+        "firstName": "Issabella",
+        "lastName": "Garaza"
+      },
+      "logo": "https://uilogos.co/img/logomark/treva.png"
+    },
+    "totalPrice": {
+      "currency": "USD",
+      "price": 100412.13
+    },
+    "createdBy": {
+      "id": "768518",
+      "firstName": "Pavithra",
+      "lastName": "Ramanan"
+    },
+    "createdOn": "2019-12-21 12:45:21.550",
+    "modifiedBy": {
+      "id": "768518",
+      "firstName": "Pavithra",
+      "lastName": "Ramanan"
+    },
+    "modifiedOn": "2019-12-22 14:05:26.900"
+  },
+  {
+    "id": 8,
+    "location": {
+      "city": "Ocala",
+      "state": "FL",
+      "country": "USA"
+    },
+    "name": "Mirroton",
+    "noOfUnits": 9,
+    "client": {
+      "id": 8,
+      "name": "Foundry Commercial",
+      "contactPerson": {
+        "id": 8,
+        "firstName": "Helena",
+        "lastName": "Day"
+      },
+      "logo": "https://uilogos.co/img/logomark/atica.png"
+    },
+    "totalPrice": {
+      "currency": "USD",
+      "price": 100412.13
+    },
+    "createdBy": {
+      "id": "733012",
+      "firstName": "Naga Visaradha ",
+      "lastName": "Nalam "
+    },
+    "createdOn": "2019-12-22 10:22:21.550",
+    "modifiedBy": {
+      "id": "733012",
+      "firstName": "Naga Visaradha ",
+      "lastName": "Nalam "
+    },
+    "modifiedOn": "2019-12-23 14:25:26.900"
+  }
+  ]
+}

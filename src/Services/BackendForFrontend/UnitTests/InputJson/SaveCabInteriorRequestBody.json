@@ -1,0 +1,84 @@
+﻿{
+  "variableAssignments": [
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABHGTOVL",
+      "Value": "ABC"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABTOPGA",
+      "Value": "DEF"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.Cabin_Wall_Assembly.CABAPFINTYP",
+      "Value": "HIJ"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABAPFIN",
+      "Value": "KLM"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABBASEFIN",
+      "Value": "NOP"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABFRTFIN",
+      "Value": "QRS"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABDORFINTYP",
+      "Value": "TUV"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABDRKPLT",
+      "Value": "WXY"
+    },
+    {
+      "variableId": "Elevator.Parameters.Doors.Cabin_Door_Sill.CABSILFIN",
+      "Value": "ABC1"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABWLFIN",
+      "Value": "DEF1"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.Cabin_Wall_Assembly.CABWLFINTYP",
+      "Value": "GHI1"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.HNDRLTYP",
+      "Value": "JKL1"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.HNDRLHGT",
+      "Value": "MNO1"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.HNDRLFIN",
+      "Value": "PQR1"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABCEILTYP",
+      "Value": "STU1"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABCEILTYP.CABFRMFIN",
+      "Value": "VWX1"
+    },
+    {
+      "variableId": "Elevator.Parameters.Basic_Info.CABFINWT",
+      "Value": "ABC2"
+    },
+    {
+      "variableId": "Elevator.Parameters.Basic_Info.PLATTHK",
+      "Value": "DEF2"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.CABTOPLK",
+      "Value": "GHI2"
+    },
+    {
+      "variableId": "Elevator.Parameters.Car_Assembly.Cabin_Assembly.PROPADS",
+      "Value": "JKL2"
+    }
+  ]
+}

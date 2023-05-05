@@ -1,0 +1,163 @@
+{
+
+  "sections": [
+    {
+      "id": "addFixtures",
+      "variables": [
+        {
+          "id": "fixtures",
+          "values": [
+            {
+              "id": "Traditional_Hall_Stations",
+              "type": "SingletonValue",
+              "name": "Traditional Hall Stations",
+              "value": "Traditional Hall Stations",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "AGILE_Hall_Stations",
+              "type": "SingletonValue",
+              "name": "AGILE Hall Stations",
+              "value": "AGILE Hall Stations",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Appendix_H/O_Signage",
+              "type": "SingletonValue",
+              "name": "Appendix H/O Signage",
+              "value": "Appendix H/O Signage",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Fire_Service",
+              "type": "SingletonValue",
+              "name": "Fire Service",
+              "value": "Fire Service",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Emergency_Power",
+              "type": "SingletonValue",
+              "name": "Emergency Power",
+              "value": "Emergency Power",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Code_Blue_Key_Switch",
+              "type": "SingletonValue",
+              "name": "Code Blue Key Switch",
+              "value": "Code Blue Key Switch",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "VIP_Service_Switch",
+              "type": "SingletonValue",
+              "name": "VIP Service Switch",
+              "value": "VIP Service Switch",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Medical_Emergency_Key_Switch",
+              "type": "SingletonValue",
+              "name": "Medical Emergency Key Switch",
+              "value": "Medical Emergency Key Switch",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Elevator_Communication_Failure_Jewel",
+              "type": "SingletonValue",
+              "name": "Elevator Communication Failure Jewel",
+              "value": "Elevator Communication Failure Jewel",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Lobby_Recall_Switch",
+              "type": "SingletonValue",
+              "name": "Lobby Recall Switch",
+              "value": "Lobby Recall Switch",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Fire_Phone_Jack",
+              "type": "SingletonValue",
+              "name": "Fire Phone Jack",
+              "value": "Fire Phone Jack",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Card_Reader_Provision",
+              "type": "SingletonValue",
+              "name": "Card Reader Provision",
+              "value": "Card Reader Provision",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Hall_Call_Lockout",
+              "type": "SingletonValue",
+              "name": "Hall Call Lockout Key Switch",
+              "value": "Hall Call Lockout Key Switch",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+
+              "id": "Hall_Call_Registration",
+              "type": "SingletonValue",
+              "name": "Hall Call Registration",
+              "value": "Hall Call Registration",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "valueType": "String",
+          "allowMultipleAssignments": false
+        }
+      ]
+    },
+    {
+      "id": "consoles",
+      "sections": []
+    }
+  ]
+
+}

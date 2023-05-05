@@ -1,0 +1,115 @@
+{
+  "variableAssignments": [
+    {
+      "variableId": "Parameters_SP.fixtureStrategy_SP",
+      "value": "ETA"
+    },
+    {
+      "variableId": "Parameters.Layout.B1P1",
+      "value": "TRUE"
+    },
+    {
+      "variableId": "Parameters.Layout.B1P2",
+      "value": "TRUE"
+    },
+    {
+      "variableId": "Parameters.Layout.B1P3",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "Parameters.Layout.B1P4",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "Parameters.Layout.B2P1",
+      "value": "TRUE"
+    },
+    {
+      "variableId": "Parameters.Layout.B2P2",
+      "value": "TRUE"
+    },
+    {
+      "variableId": "Parameters.Layout.B2P3",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "Parameters.Layout.B2P4",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "B1P1.Parameters_SP.frontDoorTypeAndHand_SP",
+      "value": "Center"
+    },
+    {
+      "variableId": "B1P2.Parameters_SP.frontDoorTypeAndHand_SP",
+      "value": "Center"
+    },
+    {
+      "variableId": "B2P1.Parameters_SP.frontDoorTypeAndHand_SP",
+      "value": "Center"
+    },
+    {
+      "variableId": "B2P2.Parameters_SP.frontDoorTypeAndHand_SP",
+      "value": "Center"
+    }
+  ],
+  "displayVariableAssignments": [
+    {
+      "mappedTo": "Parameters.Layout.B1P1",
+      "variableId": "Parameters.Layout.B1P1",
+      "value": "TRUE",
+      "unitDesignation": "Abc",
+      "isFutureElevator": false
+
+    },
+    {
+      "mappedTo": "Parameters.Layout.B1P2",
+      "variableId": "Parameters.Layout.B1P2",
+      "value": "TRUE",
+      "unitDesignation": "U2",
+      "isFutureElevator": false
+    },
+    {
+      "mappedTo": "Parameters.Layout.B1P3",
+      "variableId": "Parameters.Layout.B1P3",
+      "value": "FALSE",
+      "unitDesignation": "",
+      "isFutureElevator": false
+    },
+    {
+      "mappedTo": "Parameters.Layout.B1P4",
+      "variableId": "Parameters.Layout.B1P4",
+      "value": "FALSE",
+      "unitDesignation": "",
+      "isFutureElevator": false
+    },
+    {
+      "mappedTo": "Parameters.Layout.B2P1",
+      "variableId": "Parameters.Layout.B2P1",
+      "value": "TRUE",
+      "unitDesignation": "U5",
+      "isFutureElevator": false
+    },
+    {
+      "mappedTo": "Parameters.Layout.B2P2",
+      "variableId": "Parameters.Layout.B2P2",
+      "value": "TRUE",
+      "unitDesignation": "U6",
+      "isFutureElevator": false
+    },
+    {
+      "mappedTo": "Parameters.Layout.B2P3",
+      "variableId": "Parameters.Layout.B2P3",
+      "value": "FALSE",
+      "unitDesignation": "",
+      "isFutureElevator": false
+    },
+    {
+      "mappedTo": "Parameters.Layout.B2P4",
+      "variableId": "Parameters.Layout.B2P4",
+      "value": "FALSE",
+      "unitDesignation": "",
+      "isFutureElevator": false
+    }
+  ]
+}

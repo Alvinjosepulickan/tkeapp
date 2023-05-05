@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DebugType>Full</DebugType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Connected Services\OracleCRMOD_Account\ConnectedService.json" />
+    <None Remove="Connected Services\OracleCRMOD_Opportunity\ConnectedService.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Connected Services\OracleCRMOD_Account\ConnectedService.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Connected Services\OracleCRMOD_Opportunity\ConnectedService.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IronXL.Excel" Version="2021.12.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />
+    <PackageReference Include="System.ServiceModel.Duplex" Version="4.7.0" />
+    <PackageReference Include="System.ServiceModel.Http" Version="4.7.0" />
+    <PackageReference Include="System.ServiceModel.NetTcp" Version="4.7.0" />
+    <PackageReference Include="System.ServiceModel.Security" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Common\TKE.SC.Common.Caching\TKE.SC.Common.Caching.csproj" />
+    <ProjectReference Include="..\..\..\..\Common\TKE.SC.Common.Database\TKE.SC.Common.Database.csproj" />
+    <ProjectReference Include="..\..\..\..\Common\TKE.SC.Common.Model\TKE.SC.Common.Model.csproj" />
+    <ProjectReference Include="..\..\BusinessProcess\TKE.SC.BFF.BusinessProcess.Interfaces\TKE.SC.BFF.BusinessProcess.Interfaces.csproj" />
+    <ProjectReference Include="..\..\BusinessProcess\TKE.SC.BFF.BusinessProcess.Services\TKE.SC.BFF.BusinessProcess.Services.csproj" />
+    <ProjectReference Include="..\TKE.SC.BFF.DataAccess.Helpers\TKE.SC.BFF.DataAccess.Helpers.csproj" />
+    <ProjectReference Include="..\TKE.SC.BFF.DataAccess.Interfaces\TKE.SC.BFF.DataAccess.Interfaces.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Configit.Configurator.Server.Common">
+      <HintPath>References\Configit.Configurator.Server.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Engineer.Grid">
+      <HintPath>References\Configit_OBOM_DA_Refs\Configit.Engineer.Grid.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Grid.Core">
+      <HintPath>References\Configit_OBOM_DA_Refs\Configit.Grid.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.Product.Search.Service">
+      <HintPath>References\Configit.Product.Search.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.Models">
+      <HintPath>References\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.Services">
+      <HintPath>References\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.DesignAutomation.WebApi">
+      <HintPath>References\Configit_OBOM_DA_Refs\Configit.TKE.DesignAutomation.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.CLMPlatform">
+      <HintPath>References\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.CLMPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.Models">
+      <HintPath>References\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.Services">
+      <HintPath>..\..\BusinessProcess\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.TKE.OrderBom.WebApi">
+      <HintPath>References\Configit_OBOM_DA_Refs\Configit.TKE.OrderBom.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Configit.VtSdk.Configurator.Service">
+      <HintPath>References\Configit.VtSdk.Configurator.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SqlClient">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.data.sqlclient\4.4.3\ref\netstandard2.0\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services" />
+  </ItemGroup>
+
+</Project>

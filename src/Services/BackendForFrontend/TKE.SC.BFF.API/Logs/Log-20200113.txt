@@ -1,0 +1,125 @@
+2020-01-13 10:08:29:571 +05:30 [Information] Request starting HTTP/1.1 DEBUG http://localhost:3521/  0
+2020-01-13 10:08:29:571 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:3521/api/values  
+2020-01-13 10:08:30:814 +05:30 [Information] Request finished in 1278.9579ms 200 
+2020-01-13 10:08:36:197 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[System.String] Get()" on controller "TKE.CPQ.AppGateway.Controllers.ValuesController" ("TKE.CPQ.AppGateway").
+2020-01-13 10:08:36:336 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.ValuesController.Get (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 10:08:36:378 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.ValuesController.Get (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 2.4264ms.
+2020-01-13 10:08:36:579 +05:30 [Information] Executing ObjectResult, writing value of type '"System.String[]"'.
+2020-01-13 10:08:37:978 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.ValuesController.Get (TKE.CPQ.AppGateway)" in 1756.3355ms
+2020-01-13 10:08:37:983 +05:30 [Information] Request finished in 8461.5818ms 200 application/json; charset=utf-8
+2020-01-13 10:11:01:969 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:3521/api/validateUser/79023  
+2020-01-13 10:11:02:045 +05:30 [Information] Route matched with "{action = \"ValidateUser\", controller = \"Login\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage] ValidateUser(Int32)" on controller "TKE.CPQ.AppGateway.Controllers.LoginController" ("TKE.CPQ.AppGateway").
+2020-01-13 10:11:02:393 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.LoginController.ValidateUser (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 10:11:02:471 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.LoginController.ValidateUser (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 78.1166ms.
+2020-01-13 10:11:02:481 +05:30 [Information] Executing ObjectResult, writing value of type '"TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage"'.
+2020-01-13 10:11:02:568 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.LoginController.ValidateUser (TKE.CPQ.AppGateway)" in 522.0933ms
+2020-01-13 10:11:02:568 +05:30 [Information] Request finished in 598.7737ms 200 application/json; charset=utf-8
+2020-01-13 10:11:18:299 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:3521/api/getUserInfo/79023  
+2020-01-13 10:11:18:305 +05:30 [Information] Route matched with "{action = \"GetUserInfo\", controller = \"Login\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage] GetUserInfo(Int32)" on controller "TKE.CPQ.AppGateway.Controllers.LoginController" ("TKE.CPQ.AppGateway").
+2020-01-13 10:11:18:308 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.LoginController.GetUserInfo (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 10:11:18:316 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.LoginController.GetUserInfo (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 7.9849ms.
+2020-01-13 10:11:18:316 +05:30 [Information] Executing ObjectResult, writing value of type '"TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage"'.
+2020-01-13 10:11:18:317 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.LoginController.GetUserInfo (TKE.CPQ.AppGateway)" in 11.3877ms
+2020-01-13 10:11:18:318 +05:30 [Information] Request finished in 18.2658ms 200 application/json; charset=utf-8
+2020-01-13 10:31:00:039 +05:30 [Information] Request starting HTTP/1.1 POST http://localhost:3521/api/generateToken application/json 24
+2020-01-13 10:31:00:057 +05:30 [Information] Route matched with "{action = \"ValidateToken\", controller = \"Login\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ValidateToken(TKE.CPQ.AppGateway.Model.RequestModel.GigyaAttributes)" on controller "TKE.CPQ.AppGateway.Controllers.LoginController" ("TKE.CPQ.AppGateway").
+2020-01-13 10:31:00:413 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.LoginController.ValidateToken (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 10:31:00:431 +05:30 [Information] Calling Validate token API : 
+2020-01-13 10:31:00:556 +05:30 [Information]  Gigya Validation completed.
+2020-01-13 10:31:00:557 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.LoginController.ValidateToken (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 143.7888ms.
+2020-01-13 10:31:00:557 +05:30 [Information] Executing ObjectResult, writing value of type '"Newtonsoft.Json.Linq.JObject"'.
+2020-01-13 10:31:00:558 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.LoginController.ValidateToken (TKE.CPQ.AppGateway)" in 501.1071ms
+2020-01-13 10:31:00:568 +05:30 [Information] Request finished in 528.663ms 200 application/json; charset=utf-8
+2020-01-13 10:31:55:050 +05:30 [Information] Request starting HTTP/1.1 POST http://localhost:3521/api/RequestConfiguration application/json 1228
+2020-01-13 10:31:55:059 +05:30 [Information] Route matched with "{action = \"RequestConfiguration\", controller = \"UnitConfigurator\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RequestConfiguration(TKE.CPQ.AppGateway.Model.ViewModel.SublineRequest)" on controller "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController" ("TKE.CPQ.AppGateway").
+2020-01-13 10:31:55:343 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController.RequestConfiguration (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 10:31:59:129 +05:30 [Information] Calling Request Configuration API : 
+2020-01-13 10:31:59:307 +05:30 [Information] Completed Request Configuration API : 
+2020-01-13 10:31:59:308 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController.RequestConfiguration (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 3965.2874ms.
+2020-01-13 10:31:59:323 +05:30 [Information] Executing ObjectResult, writing value of type '"Newtonsoft.Json.Linq.JObject"'.
+2020-01-13 10:31:59:325 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController.RequestConfiguration (TKE.CPQ.AppGateway)" in 4266.4681ms
+2020-01-13 10:31:59:326 +05:30 [Information] Request finished in 4275.6509ms 200 application/json; charset=utf-8
+2020-01-13 10:32:44:863 +05:30 [Information] Request starting HTTP/1.1 POST http://localhost:3521/api/changeConfigure?modelNumber=T251&parentCode=e94de2c4-c780-4ea8-9213-abfdd3f56d84&locale=en_US application/json 1287
+2020-01-13 10:32:44:877 +05:30 [Information] Route matched with "{action = \"ChangeConfigure\", controller = \"UnitConfigurator\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ChangeConfigure(TKE.CPQ.AppGateway.Model.ViewModel.ConfigurationRequest, System.String, System.String, System.String, System.String, System.String, System.String, Boolean)" on controller "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController" ("TKE.CPQ.AppGateway").
+2020-01-13 10:32:44:929 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController.ChangeConfigure (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 10:32:49:397 +05:30 [Information] Start processing HTTP request "POST" http://localhost:5555/configurator/v1/configure?packagePath=SalesValidation
+2020-01-13 10:32:49:414 +05:30 [Information] Sending HTTP request "POST" http://localhost:5555/configurator/v1/configure?packagePath=SalesValidation
+2020-01-13 10:32:53:541 +05:30 [Information] Received HTTP response after 4118.4831ms - OK
+2020-01-13 10:32:53:544 +05:30 [Information] End processing HTTP request after 4181.9918ms - OK
+2020-01-13 10:32:53:731 +05:30 [Information] Start processing HTTP request "POST" http://localhost:5555/configurator/v1/configure?packagePath=SalesValidation
+2020-01-13 10:32:53:731 +05:30 [Information] Sending HTTP request "POST" http://localhost:5555/configurator/v1/configure?packagePath=SalesValidation
+2020-01-13 10:32:53:847 +05:30 [Information] Received HTTP response after 115.4813ms - OK
+2020-01-13 10:32:53:847 +05:30 [Information] End processing HTTP request after 115.9582ms - OK
+2020-01-13 10:32:57:667 +05:30 [Information] Start processing HTTP request "POST" http://localhost:5555/configurator/v1/price?packagePath=SalesValidation
+2020-01-13 10:32:57:668 +05:30 [Information] Sending HTTP request "POST" http://localhost:5555/configurator/v1/price?packagePath=SalesValidation
+2020-01-13 10:32:59:340 +05:30 [Information] Received HTTP response after 1672.1102ms - OK
+2020-01-13 10:32:59:340 +05:30 [Information] End processing HTTP request after 1672.9848ms - OK
+2020-01-13 10:32:59:601 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController.ChangeConfigure (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 14670.6595ms.
+2020-01-13 10:32:59:610 +05:30 [Information] Executing ObjectResult, writing value of type '"Newtonsoft.Json.Linq.JObject"'.
+2020-01-13 10:32:59:618 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController.ChangeConfigure (TKE.CPQ.AppGateway)" in 14740.6359ms
+2020-01-13 10:32:59:625 +05:30 [Information] Request finished in 14762.5737ms 200 application/json; charset=utf-8
+2020-01-13 10:39:22:421 +05:30 [Information] Request starting HTTP/1.1 POST http://localhost:3521/api/changeConfigure?modelNumber=T251&parentCode=e94de2c4-c780-4ea8-9213-abfdd3f56d84&locale=en_US application/json 1691
+2020-01-13 10:39:22:424 +05:30 [Information] Route matched with "{action = \"ChangeConfigure\", controller = \"UnitConfigurator\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ChangeConfigure(TKE.CPQ.AppGateway.Model.ViewModel.ConfigurationRequest, System.String, System.String, System.String, System.String, System.String, System.String, Boolean)" on controller "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController" ("TKE.CPQ.AppGateway").
+2020-01-13 10:39:22:431 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController.ChangeConfigure (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 10:39:26:025 +05:30 [Information] Start processing HTTP request "POST" http://localhost:5555/configurator/v1/configure?packagePath=SalesValidation
+2020-01-13 10:39:26:026 +05:30 [Information] Sending HTTP request "POST" http://localhost:5555/configurator/v1/configure?packagePath=SalesValidation
+2020-01-13 10:39:26:314 +05:30 [Information] Received HTTP response after 288.5908ms - OK
+2020-01-13 10:39:26:314 +05:30 [Information] End processing HTTP request after 289.1875ms - OK
+2020-01-13 10:39:26:335 +05:30 [Information] Start processing HTTP request "POST" http://localhost:5555/configurator/v1/configure?packagePath=SalesValidation
+2020-01-13 10:39:26:335 +05:30 [Information] Sending HTTP request "POST" http://localhost:5555/configurator/v1/configure?packagePath=SalesValidation
+2020-01-13 10:39:26:398 +05:30 [Information] Received HTTP response after 62.7175ms - OK
+2020-01-13 10:39:26:398 +05:30 [Information] End processing HTTP request after 63.1041ms - OK
+2020-01-13 10:39:29:353 +05:30 [Information] Start processing HTTP request "POST" http://localhost:5555/configurator/v1/price?packagePath=SalesValidation
+2020-01-13 10:39:29:354 +05:30 [Information] Sending HTTP request "POST" http://localhost:5555/configurator/v1/price?packagePath=SalesValidation
+2020-01-13 10:39:29:365 +05:30 [Information] Received HTTP response after 10.7572ms - OK
+2020-01-13 10:39:29:365 +05:30 [Information] End processing HTTP request after 12.8046ms - OK
+2020-01-13 10:39:29:463 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController.ChangeConfigure (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 7031.3082ms.
+2020-01-13 10:39:29:464 +05:30 [Information] Executing ObjectResult, writing value of type '"Newtonsoft.Json.Linq.JObject"'.
+2020-01-13 10:39:29:467 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.UnitConfiguratorController.ChangeConfigure (TKE.CPQ.AppGateway)" in 7043.1101ms
+2020-01-13 10:39:29:467 +05:30 [Information] Request finished in 7046.8274ms 200 application/json; charset=utf-8
+2020-01-13 11:16:25:842 +05:30 [Information] Request starting HTTP/1.1 DEBUG http://localhost:3521/  0
+2020-01-13 11:16:25:842 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:3521/api/values  
+2020-01-13 11:16:26:395 +05:30 [Information] Request finished in 596.322ms 200 
+2020-01-13 11:16:29:112 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[System.String] Get()" on controller "TKE.CPQ.AppGateway.Controllers.ValuesController" ("TKE.CPQ.AppGateway").
+2020-01-13 11:16:29:244 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.ValuesController.Get (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 11:16:29:267 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.ValuesController.Get (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 2.3678ms.
+2020-01-13 11:16:29:358 +05:30 [Information] Executing ObjectResult, writing value of type '"System.String[]"'.
+2020-01-13 11:16:30:112 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.ValuesController.Get (TKE.CPQ.AppGateway)" in 807.0407ms
+2020-01-13 11:16:30:126 +05:30 [Information] Request finished in 4343.7224ms 200 application/json; charset=utf-8
+2020-01-13 11:16:40:635 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:3521/api/getProjectBasedUnits?id=1  
+2020-01-13 11:16:40:712 +05:30 [Information] Route matched with "{action = \"GetProjectBasedUnits\", controller = \"Units\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage] GetProjectBasedUnits(System.String)" on controller "TKE.CPQ.AppGateway.Controllers.UnitsController" ("TKE.CPQ.AppGateway").
+2020-01-13 11:16:40:913 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.UnitsController.GetProjectBasedUnits (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 11:16:41:025 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.UnitsController.GetProjectBasedUnits (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 111.9155ms.
+2020-01-13 11:16:41:033 +05:30 [Information] Executing ObjectResult, writing value of type '"TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage"'.
+2020-01-13 11:16:41:209 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.UnitsController.GetProjectBasedUnits (TKE.CPQ.AppGateway)" in 497.5196ms
+2020-01-13 11:16:41:210 +05:30 [Information] Request finished in 574.9703ms 200 application/json; charset=utf-8
+2020-01-13 11:17:12:234 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:3521/api/validateUser?id=79023  
+2020-01-13 11:17:12:244 +05:30 [Information] Route matched with "{action = \"ValidateUser\", controller = \"Login\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage] ValidateUser(Int32)" on controller "TKE.CPQ.AppGateway.Controllers.LoginController" ("TKE.CPQ.AppGateway").
+2020-01-13 11:17:12:325 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.LoginController.ValidateUser (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 11:17:12:361 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.LoginController.ValidateUser (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 35.7472ms.
+2020-01-13 11:17:12:361 +05:30 [Information] Executing ObjectResult, writing value of type '"TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage"'.
+2020-01-13 11:17:12:362 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.LoginController.ValidateUser (TKE.CPQ.AppGateway)" in 117.831ms
+2020-01-13 11:17:12:362 +05:30 [Information] Request finished in 128.0864ms 200 application/json; charset=utf-8
+2020-01-13 11:17:21:833 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:3521/api/getUserInfo?id=79023  
+2020-01-13 11:17:21:846 +05:30 [Information] Route matched with "{action = \"GetUserInfo\", controller = \"Login\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage] GetUserInfo(Int32)" on controller "TKE.CPQ.AppGateway.Controllers.LoginController" ("TKE.CPQ.AppGateway").
+2020-01-13 11:17:21:849 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.LoginController.GetUserInfo (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 11:17:21:859 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.LoginController.GetUserInfo (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 9.2409ms.
+2020-01-13 11:17:21:859 +05:30 [Information] Executing ObjectResult, writing value of type '"TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage"'.
+2020-01-13 11:17:21:859 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.LoginController.GetUserInfo (TKE.CPQ.AppGateway)" in 12.4684ms
+2020-01-13 11:17:21:859 +05:30 [Information] Request finished in 26.0496ms 200 application/json; charset=utf-8
+2020-01-13 11:18:59:257 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:3521/api/getAllProjectsDetails  
+2020-01-13 11:18:59:257 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:3521/api/values  
+2020-01-13 11:18:59:257 +05:30 [Information] Request starting HTTP/1.1 DEBUG http://localhost:3521/  0
+2020-01-13 11:18:59:793 +05:30 [Information] Request finished in 506.5925ms 200 
+2020-01-13 11:19:01:683 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[System.String] Get()" on controller "TKE.CPQ.AppGateway.Controllers.ValuesController" ("TKE.CPQ.AppGateway").
+2020-01-13 11:19:01:683 +05:30 [Information] Route matched with "{action = \"GetAllProjectsDetails\", controller = \"Projects\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage] GetAllProjectsDetails()" on controller "TKE.CPQ.AppGateway.Controllers.ProjectsController" ("TKE.CPQ.AppGateway").
+2020-01-13 11:19:01:814 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.ValuesController.Get (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 11:19:01:814 +05:30 [Information] Executing action method "TKE.CPQ.AppGateway.Controllers.ProjectsController.GetAllProjectsDetails (TKE.CPQ.AppGateway)" - Validation state: Valid
+2020-01-13 11:19:01:838 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.ValuesController.Get (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 2.5281ms.
+2020-01-13 11:19:01:947 +05:30 [Information] Executing ObjectResult, writing value of type '"System.String[]"'.
+2020-01-13 11:19:01:947 +05:30 [Information] Executed action method "TKE.CPQ.AppGateway.Controllers.ProjectsController.GetAllProjectsDetails (TKE.CPQ.AppGateway)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 132.1426ms.
+2020-01-13 11:19:01:962 +05:30 [Information] Executing ObjectResult, writing value of type '"TKE.CPQ.AppGateway.Model.CommonModel.ResponseMessage"'.
+2020-01-13 11:19:02:375 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.ValuesController.Get (TKE.CPQ.AppGateway)" in 666.1287ms
+2020-01-13 11:19:02:383 +05:30 [Information] Request finished in 3173.9943ms 200 application/json; charset=utf-8
+2020-01-13 11:19:02:431 +05:30 [Information] Executed action "TKE.CPQ.AppGateway.Controllers.ProjectsController.GetAllProjectsDetails (TKE.CPQ.AppGateway)" in 737.5731ms
+2020-01-13 11:19:02:432 +05:30 [Information] Request finished in 3225.6135ms 200 application/json; charset=utf-8

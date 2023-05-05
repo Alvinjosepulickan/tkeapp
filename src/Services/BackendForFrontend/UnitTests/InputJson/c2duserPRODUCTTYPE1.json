@@ -1,0 +1,10 @@
+﻿[
+  {
+    "VariableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACEF",
+    "Value": "EVO_200"
+  },
+  {
+    "VariableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER",
+    "Value": "BSS"
+  }
+]

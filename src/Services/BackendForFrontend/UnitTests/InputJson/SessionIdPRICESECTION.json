@@ -1,0 +1,1134 @@
+﻿{
+  "priceSections": [
+    {
+      "name": "Car Sling & Platform",
+      "id": "carfixture",
+      "section": "1",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_01CAR2029",
+          "partDescription": "Car sling & platform 2100",
+          "componentName": "Car Sling and Platform",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_01CAR2037",
+          "partDescription": "Side Post Design",
+          "componentName": "Car Sling and Platform",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_01CAR2061",
+          "partDescription": "Toe Guard, 14 ga.",
+          "componentName": "Toe Guard (Front)",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_EVO_2008",
+          "partDescription": "Belts",
+          "componentName": "Suspension",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_EVO_2453",
+          "partDescription": "Governor Rope",
+          "componentName": "Governor Rope",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_EVO_2015",
+          "partDescription": "Balance Weights",
+          "componentName": "Car Sling and Platform",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_EVO_2016",
+          "partDescription": "Loadweigher Kit",
+          "componentName": "Loadweigher",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_08MAC2899",
+          "partDescription": "Counterweight Compounding Sheaves",
+          "componentName": "Counterweight",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_EVO_2011",
+          "partDescription": "Belt Stretch Compensator",
+          "componentName": "Counterweight",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_01MAC2087",
+          "partDescription": "Car Belt Shackles",
+          "componentName": "Suspension",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_01MAC2088",
+          "partDescription": "Cwt Belt Shackles",
+          "componentName": "Suspension",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_01PIT2094",
+          "partDescription": "Counterweight Frame 1 capacity 2100 - 3000",
+          "componentName": "Counterweight",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_01PIT2104",
+          "partDescription": "Cwt Slide guides for 8/15 lb rails (set of 4)",
+          "componentName": "Counterweight Guides",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "1",
+          "itemNumber": "TK_EVO_2017",
+          "partDescription": "Counterweight Fillers",
+          "componentName": "Counterweight",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Machine",
+      "id": "",
+      "section": "2",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "2",
+          "itemNumber": "TK_EVO_2508",
+          "partDescription": "Machine Application Adjustment Mechanism",
+          "componentName": "Machine",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "2",
+          "itemNumber": "TK_EVO_2024",
+          "partDescription": "Machine support and accessories",
+          "componentName": "Machine",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Hoistway Entrances",
+      "id": "unithallfixture",
+      "section": "4",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "4",
+          "itemNumber": "TK_04HWY2478",
+          "partDescription": "Bottom Pit Fascia",
+          "componentName": "Fascia",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Governor",
+      "id": "unithallfixture",
+      "section": "6",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "6",
+          "itemNumber": "TK_06GOV2720",
+          "partDescription": "12\" Self Resetting Governor with Encoder (includes Tail Sheave) & remote switch",
+          "componentName": "Governor",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "6",
+          "itemNumber": "TK_06GOV2711",
+          "partDescription": "Over 300' of Travel (governor add)",
+          "componentName": "Governor",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Controller",
+      "id": "carfixture",
+      "section": "7",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_EVO_2075",
+          "partDescription": "Car Independent",
+          "componentName": "Controller",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_07CNT2834",
+          "partDescription": "TAC 32T Slimline Controller (Includes options listed below)",
+          "componentName": "Controller",
+          "leadTime": "14",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_EVO_2076",
+          "partDescription": "Car Riding Lantern",
+          "componentName": "Controller",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_EVO_2077",
+          "partDescription": "Car Riding Lantern - Rear",
+          "componentName": "Controller",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_EVO_2430",
+          "partDescription": "Door Operator Controls",
+          "componentName": "Controller",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_EVO_2434",
+          "partDescription": "Hoistway Enable/Inspection Operation",
+          "componentName": "Controller",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_EVO_2083",
+          "partDescription": "Hospital Emergency Service",
+          "componentName": "Controller",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_EVO_2432",
+          "partDescription": "Loadweigher Controls",
+          "componentName": "Controller",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_EVO_2086",
+          "partDescription": "Remote Governor Reset",
+          "componentName": "Controller",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "7",
+          "itemNumber": "TK_EVO_2433",
+          "partDescription": "User Interface Tool",
+          "componentName": "Controller",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Safety",
+      "id": "",
+      "section": "9",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "9",
+          "itemNumber": "TK_08MAC2895",
+          "partDescription": "Car Compounding Sheaves",
+          "componentName": "Car Sheaves",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Cab",
+      "id": "cabinterior",
+      "section": "14",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "TK_EVO_2242",
+          "partDescription": "Canopy (14 Gauge steel)",
+          "componentName": "Cab Shell",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "TK_14CAB3215",
+          "partDescription": "Sound Deadening",
+          "componentName": "Cab Shell",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "TK_14CAR6273",
+          "partDescription": "Fan:  Two Speed",
+          "componentName": "Car Top Equipment",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "AA_EVO_1001",
+          "partDescription": "Ceiling By Others",
+          "componentName": "Ceiling",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "TK_EVO_2244",
+          "partDescription": "Car Top/Canopy Finish - Powder Coated F-114 (White)",
+          "componentName": "Cab Shell",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "TK_14CAB3235",
+          "partDescription": "Base:  #4 Stainless Steel (441)",
+          "componentName": "Cab Shell",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "TK_14CAB3258",
+          "partDescription": "Ceiling: Downlight LED (Formed Metal Pan)  #4 S/S (441)",
+          "componentName": "Ceiling",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "TK_14CAB6261",
+          "partDescription": "Emergency Light Integral with Downlight Ceiling",
+          "componentName": "Ceiling",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "TK_14CAR6268",
+          "partDescription": "5 Pin Lock with electric contact for Car Top Exit",
+          "componentName": "Car Top Equipment",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "14",
+          "itemNumber": "TK_EVO_2099",
+          "partDescription": "TKS Steel Shell (16 gauge steel)",
+          "componentName": "Cab Shell",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Door Operator",
+      "id": "",
+      "section": "17",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "17",
+          "itemNumber": "TK_17CAR6281",
+          "partDescription": "Car Top Inspection Station",
+          "componentName": "Car Top Equipment",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "17",
+          "itemNumber": "TK_EVO_2441",
+          "partDescription": "LD 16 Plus",
+          "componentName": "Door Operator",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Wiring",
+      "id": "",
+      "section": "18",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "18",
+          "itemNumber": "TK_18HWY6383",
+          "partDescription": "TAC 32T Standard New Installation Evolution 200 Wiring Package:  ^Includes single flat traveling cable with coax^hoistway wiring^interlock wiring^interlock connectors^Serial wiring ",
+          "componentName": "Wiring",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Hoistway Accessories",
+      "id": "",
+      "section": "19",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "19",
+          "itemNumber": "TK_19HWY6417",
+          "partDescription": "Tape Selector  / Limit Switch Package  Includes: ^limit switches^ETSD^normal terminal stopping device^final limit switches)",
+          "componentName": "Positioning System",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "19",
+          "itemNumber": "TK_19HWY6387",
+          "partDescription": "Alarm Bell",
+          "componentName": "Alarm Bell",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Machine-room Wiring",
+      "id": "",
+      "section": "21",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "21",
+          "itemNumber": "TK_21CNT6425",
+          "partDescription": "Machine Room Wiring Package",
+          "componentName": "Wiring",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Car Fixtures",
+      "id": "carfixture",
+      "section": "22",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6536",
+          "partDescription": "^#4 Stainless Steel Finish 316",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6552",
+          "partDescription": "^ADA Phone System integral with COP (Rath)",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6563",
+          "partDescription": "^Emergency Stop Switch, Alarm and Door Open/Close Buttons",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6565",
+          "partDescription": "^Fire Phone Jack",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6567",
+          "partDescription": "^Handicap Signal (Passing signal)",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6566",
+          "partDescription": "^GFI Outlet",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6575",
+          "partDescription": "^Hospital Emergency Service",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6581",
+          "partDescription": "^Hoistway Enable",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6519",
+          "partDescription": "^Independent Service",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6591",
+          "partDescription": "^Fan/Light Combo Keyswitch",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6583",
+          "partDescription": "^Seismic Operation Jewel",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_EVO_2259",
+          "partDescription": "Main Car Station Traditional with the following features",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "22",
+          "itemNumber": "TK_22CFX6590",
+          "partDescription": "^Traditional Floor Buttons (T2) with stainless steel halo",
+          "componentName": "Main Car Operating Panel",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Hall Fixtures",
+      "id": "",
+      "section": "23",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "23",
+          "itemNumber": "TK_23HFX6792",
+          "partDescription": "Star of Life (Emergency Medical Signage)",
+          "componentName": "Braille",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "23",
+          "itemNumber": "TK_EVO_2365",
+          "partDescription": "Standalone Emergency Power Keyswitch",
+          "componentName": "Standalone Devices",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "23",
+          "itemNumber": "TK_EVO_2368",
+          "partDescription": "Standalone Emergency Power Selector Bar",
+          "componentName": "Standalone Devices",
+          "leadTime": "18",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "23",
+          "itemNumber": "TK_EVO_2373",
+          "partDescription": "Standalone Fire Service Phase I with Instructions",
+          "componentName": "Standalone Devices",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "23",
+          "itemNumber": "TK_EVO_2485",
+          "partDescription": "Standalone Medical Emergency Keyswitch",
+          "componentName": "Standalone Devices",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    },
+    {
+      "name": "Rails, Brackets, Buffers",
+      "id": "",
+      "section": "26",
+      "priceKeyInfo": [
+        {
+          "priceKeyId": 0,
+          "section": "26",
+          "itemNumber": "TK_26PIT6945",
+          "partDescription": "Oil Buffers for up to 200 FPM (2.75\" Stroke)",
+          "componentName": "Buffers",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "26",
+          "itemNumber": "TK_26HWY6914",
+          "partDescription": "15 lb. Car Rails and Splice",
+          "componentName": "Rails",
+          "qty": 0,
+          "isCustomPriceLine": false
+        },
+        {
+          "priceKeyId": 0,
+          "section": "26",
+          "itemNumber": "TK_26PIT69611",
+          "partDescription": "Pit Template (Installation Pattern)",
+          "componentName": "Pit Equipment",
+          "qty": 0,
+          "isCustomPriceLine": false
+        }
+      ]
+    }
+  ],
+  "priceValue": {
+    "tK_EVO_2365": {
+      "unit": "USD",
+      "quantity": 12,
+      "unitPrice": 98.96,
+      "totalPrice": 1187.52
+    },
+    "tK_EVO_2373": {
+      "unit": "USD",
+      "quantity": 12,
+      "unitPrice": 98.96,
+      "totalPrice": 1187.52
+    },
+    "tK_EVO_2485": {
+      "unit": "USD",
+      "quantity": 12,
+      "unitPrice": 92.37,
+      "totalPrice": 1108.44
+    },
+    "tK_23HFX6792": {
+      "unit": "USD",
+      "quantity": 12,
+      "unitPrice": 48.24,
+      "totalPrice": 578.88
+    },
+    "tK_06GOV2720": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 974.11,
+      "totalPrice": 974.11
+    },
+    "tK_06GOV2711": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_18HWY6383": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 1150.42,
+      "totalPrice": 1150.42
+    },
+    "tK_19HWY6387": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 70.04,
+      "totalPrice": 70.04
+    },
+    "tK_19HWY6417": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 802.22,
+      "totalPrice": 802.22
+    },
+    "tK_01CAR2029": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 675.8,
+      "totalPrice": 675.8
+    },
+    "tK_01CAR2037": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_01CAR2061": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 96.16,
+      "totalPrice": 96.16
+    },
+    "tK_EVO_2015": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 270.2,
+      "totalPrice": 270.2
+    },
+    "tK_EVO_2016": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 530.18,
+      "totalPrice": 530.18
+    },
+    "tK_EVO_2011": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 24.37,
+      "totalPrice": 24.37
+    },
+    "tK_EVO_2024": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 294.87,
+      "totalPrice": 294.87
+    },
+    "tK_EVO_2075": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 39.21,
+      "totalPrice": 39.21
+    },
+    "tK_EVO_2076": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 83.03,
+      "totalPrice": 83.03
+    },
+    "tK_EVO_2077": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 83.03,
+      "totalPrice": 83.03
+    },
+    "tK_EVO_2083": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 39.21,
+      "totalPrice": 39.21
+    },
+    "tK_EVO_2086": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 124.75,
+      "totalPrice": 124.75
+    },
+    "tK_08MAC2899": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_01MAC2087": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 45.89,
+      "totalPrice": 45.89
+    },
+    "tK_01MAC2088": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 45.89,
+      "totalPrice": 45.89
+    },
+    "tK_01PIT2094": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 628.76,
+      "totalPrice": 628.76
+    },
+    "tK_01PIT2104": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 206.53,
+      "totalPrice": 206.53
+    },
+    "tK_EVO_2508": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_EVO_2430": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_EVO_2434": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_EVO_2432": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_EVO_2433": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_08MAC2895": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_EVO_2242": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_EVO_2244": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_14CAB3215": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 568.11,
+      "totalPrice": 568.11
+    },
+    "tK_14CAB3235": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 159.23,
+      "totalPrice": 159.23
+    },
+    "tK_14CAB3258": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 2452.91,
+      "totalPrice": 2452.91
+    },
+    "tK_14CAB6261": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 716.97,
+      "totalPrice": 716.97
+    },
+    "tK_EVO_2441": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 1787.59,
+      "totalPrice": 1787.59
+    },
+    "tK_22CFX6536": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 249.3,
+      "totalPrice": 249.3
+    },
+    "tK_22CFX6552": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 463.13,
+      "totalPrice": 463.13
+    },
+    "tK_22CFX6565": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 45.46,
+      "totalPrice": 45.46
+    },
+    "tK_22CFX6566": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_22CFX6567": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_22CFX6591": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 28.74,
+      "totalPrice": 28.74
+    },
+    "tK_22CFX6581": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 27.85,
+      "totalPrice": 27.85
+    },
+    "tK_22CFX6575": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 28.96,
+      "totalPrice": 28.96
+    },
+    "tK_22CFX6519": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 28.96,
+      "totalPrice": 28.96
+    },
+    "tK_22CFX6583": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 28.74,
+      "totalPrice": 28.74
+    },
+    "tK_EVO_2259": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 304.11,
+      "totalPrice": 304.11
+    },
+    "tK_21CNT6425": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 313.23,
+      "totalPrice": 313.23
+    },
+    "tK_14CAR6273": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 87.8,
+      "totalPrice": 87.8
+    },
+    "tK_22CFX6563": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 0.0,
+      "totalPrice": 0.0
+    },
+    "tK_14CAR6268": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 177.26,
+      "totalPrice": 177.26
+    },
+    "tK_17CAR6281": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 56.38,
+      "totalPrice": 56.38
+    },
+    "totalPrice": {
+      "unit": "USD",
+      "quantity": 1,
+      "unitPrice": 17771.76,
+      "totalPrice": 17771.76
+    }
+  },
+  "variables": [
+    {
+      "id": "CorporateAssistance",
+      "value": "0",
+      "properties": [
+        {
+          "id": "maxValue",
+          "value": 17771.76,
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Value should be between 0 and 17771.76",
+          "type": "String"
+        }
+      ],
+      "allowMultipleAssignments": false
+    },
+    {
+      "id": "CorporateSubsidies",
+      "value": "0",
+      "properties": [
+        {
+          "id": "maxValue",
+          "value": 17771.76,
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Value should be between 0 and 17771.76",
+          "type": "String"
+        }
+      ],
+      "allowMultipleAssignments": false
+    },
+    {
+      "id": "StrategicDiscount",
+      "value": "0",
+      "properties": [
+        {
+          "id": "maxValue",
+          "value": 17771.76,
+          "type": "String"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Value should be between 0 and 17771.76",
+          "type": "String"
+        }
+      ],
+      "allowMultipleAssignments": false
+    },
+    {
+      "id": "ManufacturingComments",
+      "value": "",
+      "properties": [],
+      "allowMultipleAssignments": false
+    }
+  ],
+  "conflictAssignments": {
+    "resolvedAssignments": [],
+    "pendingAssignments": [
+      {
+        "value": "Center",
+        "variableId": "ELEVATOR.Parameters_SP.frontDoorTypeAndHand_SP",
+        "name": "ELEVATOR.Parameters_SP.frontDoorTypeAndHand_SP"
+      }
+    ]
+  },
+  "allBeamsSelected": false,
+  "units": [
+    {
+      "unitid": 7558,
+      "unitname": "U1",
+      "ueid": "NICA2091500588US",
+      "price": 17771.76,
+      "setId": 0,
+      "productName": "EVOLUTION 200"
+    }
+  ],
+  "readOnly": false,
+  "enrichedData": {
+  },
+  "permissions": [ "UNIT_UPDATE", "UNIT_DELETE" ],
+  "egressDistanceExceeded": false,
+  "lobbyRecallSwitchConfigured": false,
+  "buildingEquipmentConfigured": false,
+  "allGroupsNotAssigned": false,
+  "allOpeningsSelected": false
+}

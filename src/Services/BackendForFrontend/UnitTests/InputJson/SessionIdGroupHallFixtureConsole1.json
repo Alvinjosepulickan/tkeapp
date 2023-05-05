@@ -1,0 +1,695 @@
+﻿[
+  {
+    "consoleId": 1,
+    "consoleName": "Appendix H/O Signage",
+    "isController": true,
+    "assignOpenings": false,
+    "noOfFloor": 0,
+    "openings": {
+      "front": true,
+      "rear": false
+    },
+    "variableAssignments": [
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.EMERSIGNF",
+        "value": "APPHS"
+      }
+    ],
+    "groupHallFixtureLocations": [
+      {
+        "floorNumber": 1,
+        "unitId": 0,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      },
+      {
+        "floorNumber": 2,
+        "unitId": 0,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      }
+    ],
+    "fixtureAssignments": null,
+    "unitDetails": [
+      {
+        "unitId": 0,
+        "uniDesgination": "",
+        "mainEgress": null,
+        "alternateEgress": null,
+        "unitName": null,
+        "occupiedSpaceBelow": false,
+        "openingDoors": null,
+        "noOfFloors": 0,
+        "openingsAssigned": null,
+        "unitGroupValues": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": true
+            },
+            "unitDesignation": "",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": true
+            },
+            "unitDesignation": "",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          }
+        ],
+        "hallStationName": "Parameters_SP.HS3F_SP"
+      }
+    ],
+    "groupHallFixtureType": "Appendix_H/O_Signage",
+    "hallStations": [
+      {
+        "hallStationId": "Parameters_SP.HS3F_SP",
+        "hallStationName": "HS3F",
+        "openingDoors": null,
+        "noOfFloors": 2,
+        "openingsAssigned": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "consoleId": 1,
+    "consoleName": "Traditional Hall Stations 1",
+    "isController": false,
+    "assignOpenings": true,
+    "noOfFloor": 0,
+    "openings": {
+      "front": true,
+      "rear": false
+    },
+    "variableAssignments": [
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLPBIM",
+        "value": "WHITE"
+      },
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLPBTP",
+        "value": "T2"
+      },
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP",
+        "value": "4SS 441"
+      }
+    ],
+    "groupHallFixtureLocations": [
+      {
+        "floorNumber": 1,
+        "unitId": 0,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      },
+      {
+        "floorNumber": 2,
+        "unitId": 0,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      }
+    ],
+    "fixtureAssignments": null,
+    "unitDetails": [
+      {
+        "unitId": 0,
+        "uniDesgination": "",
+        "mainEgress": null,
+        "alternateEgress": null,
+        "unitName": null,
+        "occupiedSpaceBelow": false,
+        "openingDoors": null,
+        "noOfFloors": 0,
+        "openingsAssigned": null,
+        "unitGroupValues": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": true
+            },
+            "unitDesignation": "",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": true
+            },
+            "unitDesignation": "",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          }
+        ],
+        "hallStationName": "Parameters_SP.HS3F_SP"
+      }
+    ],
+    "groupHallFixtureType": "Traditional_Hall_Stations",
+    "hallStations": [
+      {
+        "hallStationId": "Parameters_SP.HS3F_SP",
+        "hallStationName": "HS3F",
+        "openingDoors": null,
+        "noOfFloors": 2,
+        "openingsAssigned": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "consoleId": 2,
+    "consoleName": "Traditional Hall Stations 2",
+    "isController": false,
+    "assignOpenings": true,
+    "noOfFloor": 0,
+    "openings": {
+      "front": true,
+      "rear": false
+    },
+    "variableAssignments": [
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLPBIM",
+        "value": "GREEN"
+      },
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HALLPBTP",
+        "value": "T2"
+      },
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP",
+        "value": "4SS 441"
+      }
+    ],
+    "groupHallFixtureLocations": [
+      {
+        "floorNumber": 1,
+        "unitId": 0,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      },
+      {
+        "floorNumber": 2,
+        "unitId": 0,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      }
+    ],
+    "fixtureAssignments": null,
+    "unitDetails": [
+      {
+        "unitId": 0,
+        "uniDesgination": "",
+        "mainEgress": null,
+        "alternateEgress": null,
+        "unitName": null,
+        "occupiedSpaceBelow": false,
+        "openingDoors": null,
+        "noOfFloors": 0,
+        "openingsAssigned": null,
+        "unitGroupValues": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": true
+            },
+            "unitDesignation": "",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": true
+            },
+            "unitDesignation": "",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          }
+        ],
+        "hallStationName": "Parameters_SP.HS3F_SP"
+      }
+    ],
+    "groupHallFixtureType": "Traditional_Hall_Stations",
+    "hallStations": [
+      {
+        "hallStationId": "Parameters_SP.HS3F_SP",
+        "hallStationName": "HS3F",
+        "openingDoors": null,
+        "noOfFloors": 2,
+        "openingsAssigned": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "consoleId": 1,
+    "consoleName": "Emergency Power",
+    "isController": true,
+    "assignOpenings": false,
+    "noOfFloor": 0,
+    "openings": {
+      "front": true,
+      "rear": false
+    },
+    "variableAssignments": [
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.EMPI",
+        "value": "TRUE"
+      },
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.HOISTKEY",
+        "value": "TRUE"
+      }
+    ],
+    "groupHallFixtureLocations": [
+      {
+        "floorNumber": 1,
+        "unitId": 0,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      },
+      {
+        "floorNumber": 2,
+        "unitId": 0,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      }
+    ],
+    "fixtureAssignments": null,
+    "unitDetails": [
+      {
+        "unitId": 31414,
+        "uniDesgination": "U1",
+        "mainEgress": null,
+        "alternateEgress": null,
+        "unitName": null,
+        "occupiedSpaceBelow": false,
+        "openingDoors": null,
+        "noOfFloors": 0,
+        "openingsAssigned": null,
+        "unitGroupValues": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": true
+            },
+            "unitDesignation": "U1",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": true
+            },
+            "unitDesignation": "U1",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          }
+        ],
+        "hallStationName": "Parameters_SP.HS3F_SP"
+      }
+    ],
+    "groupHallFixtureType": "Emergency_Power",
+    "hallStations": [
+      {
+        "hallStationId": "Parameters_SP.HS3F_SP",
+        "hallStationName": "HS3F",
+        "openingDoors": null,
+        "noOfFloors": 2,
+        "openingsAssigned": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "consoleId": 2,
+    "consoleName": "Fire Service",
+    "isController": true,
+    "assignOpenings": false,
+    "noOfFloor": 0,
+    "openings": {
+      "front": true,
+      "rear": false
+    },
+    "variableAssignments": [
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIRE",
+        "value": "HS"
+      },
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIREBOX",
+        "value": "TRUE"
+      },
+      {
+        "variableId": "Sales_UI_Screens.Group_HallFixtures_SP.Parameters.FIRESIGN",
+        "value": "APPLIED"
+      }
+    ],
+    "groupHallFixtureLocations": [
+      {
+        "floorNumber": 1,
+        "unitId": 0,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": true,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      },
+      {
+        "floorNumber": 2,
+        "unitId": 0,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": false,
+          "notAvailable": false
+        },
+        "rear": null,
+        "unitDesignation": null,
+        "hallStationName": null
+      }
+    ],
+    "fixtureAssignments": null,
+    "unitDetails": [
+      {
+        "unitId": 31414,
+        "uniDesgination": "U1",
+        "mainEgress": null,
+        "alternateEgress": null,
+        "unitName": null,
+        "occupiedSpaceBelow": false,
+        "openingDoors": null,
+        "noOfFloors": 0,
+        "openingsAssigned": null,
+        "unitGroupValues": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": true
+            },
+            "unitDesignation": "U1",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": false
+            },
+            "rear": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": true
+            },
+            "unitDesignation": "U1",
+            "hallStationName": "Parameters_SP.HS3F_SP"
+          }
+        ],
+        "hallStationName": "Parameters_SP.HS3F_SP"
+      }
+    ],
+    "groupHallFixtureType": "Fire_Service",
+    "hallStations": [
+      {
+        "hallStationId": "Parameters_SP.HS3F_SP",
+        "hallStationName": "HS3F",
+        "openingDoors": null,
+        "noOfFloors": 2,
+        "openingsAssigned": [
+          {
+            "floorNumber": 1,
+            "unitId": 0,
+            "floorDesignation": "1",
+            "front": {
+              "inCompatible": false,
+              "value": true,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          },
+          {
+            "floorNumber": 2,
+            "unitId": 0,
+            "floorDesignation": "2",
+            "front": {
+              "inCompatible": false,
+              "value": false,
+              "notAvailable": false
+            },
+            "rear": null,
+            "unitDesignation": null,
+            "hallStationName": null
+          }
+        ]
+      }
+    ]
+  }
+]

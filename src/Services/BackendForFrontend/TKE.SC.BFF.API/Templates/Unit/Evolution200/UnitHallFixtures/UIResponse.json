@@ -1,0 +1,149 @@
+{
+  "sections": [
+    {
+      "id": "addFixtures",
+      "variables": [
+        {
+          "id": "fixtures",
+          "values": [
+            {
+              "id": "Hoistway_Access",
+              "type": "SingletonValue",
+              "name": "Hoistway Access",
+              "value": "Hoistway Access",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Braille",
+              "type": "SingletonValue",
+              "name": "Braille",
+              "value": "Braille",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Elevator_and_Floor_Designation_Braille",
+              "type": "SingletonValue",
+              "name": "Elevator & Floor Designation Braille",
+              "value": "Elevator & Floor Designation Braille",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Hall_Lantern",
+              "type": "SingletonValue",
+              "name": "Hall Lantern",
+              "value": "Hall Lantern",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Hall_PI",
+              "type": "SingletonValue",
+              "name": "Hall Position Indicator",
+              "value": "Hall Position Indicator",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Combo_Hall_Lantern/PI",
+              "type": "SingletonValue",
+              "name": "Combo Hall Lantern/ PI",
+              "value": "Combo Hall Lantern/ PI",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Hall_Elevator_Designation_Plate",
+              "type": "SingletonValue",
+              "name": "Hall Elevator Designation Plate",
+              "value": "Hall Elevator Designation Plate",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Hall_Target_Indicator",
+              "type": "SingletonValue",
+              "name": "Hall Target Indicator",
+              "value": "Hall Target Indicator",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Star_of_Life",
+              "type": "SingletonValue",
+              "name": "Star of Life",
+              "value": "Star of Life",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Inconspicuous_Riser",
+              "type": "SingletonValue",
+              "name": "Inconspicuous Riser",
+              "value": "Inconspicuous Riser",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Chicago_Fire",
+              "type": "SingletonValue",
+              "name": "Chicago Fire",
+              "value": "Chicago Fire",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Lobby_Recall_Switch",
+              "type": "SingletonValue",
+              "name": "Lobby Recall Switch",
+              "value": "Lobby Recall Switch",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "Car_Homing_and_Shutdown",
+              "type": "SingletonValue",
+              "name": "Car Homing and Shutdown",
+              "value": "Car Homing and Shutdown",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "id": "VIP_Service_Key_Switch",
+              "type": "SingletonValue",
+              "name": "VIP Service Key Switch",
+              "value": "VIP Service Key Switch",
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            }
+          ],
+          "valueType": "String",
+          "allowMultipleAssignments": false
+        }
+      ]
+    },
+    {
+      "id": "consoles",
+      "sections": []
+    }
+  ]
+}
+

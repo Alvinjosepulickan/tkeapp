@@ -1,0 +1,10 @@
+{
+  "sections": [
+    {
+      "id": "parameters",
+      "variables": [
+            { "id": "Parameters.CONTROLLDG" }
+        ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+	"Variables": {
+		"Travel": "Parameters.TRAVEL",
+		"TOTTravel": "Parameters.TOTTRAVEL",
+		"TotalOpenings": "Parameters.BLANDINGS",
+		"CounterWeightSaftey": "Parameters.CWTSFTY",
+		"NumberFrontOpenings": "Parameters.OPNFRTP",
+		"NumberRearOpenings": "Parameters.OPNREARP",
+		"FLRHTF": "Parameters.FLRHTF",
+		"TotalOpening": "Parameters.TOTOPN",
+		"NumberOfUnitsInGroup": "Parameters.CONTGS",
+		"CONTROLLOCATION": "controllerLocation_SP",
+		"TOPF": "Parameters.TOPF",
+		"TOPR": "Parameters.TOPR",
+		"LandingParameter": "FloorMatrix.{0}.Parameters.{1}",
+		"LandingParameterForElevator": "ELEVATOR.FloorMatrix.LANDING{0}.Parameters.{1}",
+		"BUILDINCITY": "Building_Configuration.Parameters.BLDGADCNTY",
+		"FRONTDOORTYPE": "Parameters_SP.frontDoorTypeAndHand_SP",
+		"REARDOORTYPE": "Parameters_SP.rearDoorTypeAndHand_SP"
+	},
+	"EVO_200": {
+		"DOORS": "MR200000110",
+		"TRACTION": "MR100124075",
+		"SIGNALIZATION": "MR100174485",
+		"CARANDSLING": "MR100217846",
+		//"ELECTRICALSYSTEM": "MR100223093"
+		//	,
+		"SHAFTMECHANICS": "MR100174102"
+	},
+	"EVO_100": {
+		"DOORS": "MR100289447",
+		"TRACTION": "MR100124075",
+		"SIGNALIZATION": "MR100174485",
+		"CARANDSLING": "MR100000689",
+		"ELECTRICALSYSTEM": "MR10001371",
+		"SHAFTMECHANICS": "MR100000525"
+	},
+	"OBOM": [
+		"Coordination",
+		"Released"
+	],
+	"ElectricalCalculation": {
+		"EVO_100": {
+			"R100222634": "R100222634",
+			"R100275665": "R100275665"
+		},
+		"EVO_200": {
+			"R100222634": "R100222634",
+			"R100275665": "R100275665"
+		},
+		"ENDURA_100": {
+			"R100222634": "R100222634",
+			"R100275665": "R100275665"
+		},
+		"ENDURA_200": {
+			"R100222634": "R100222634",
+			"R100275665": "R100275665"
+		}
+	},
+	"ElectricalCalculationHardCodedVariable": [
+		// hardcoded for now will be available in unit validation
+		{
+			"variableId": "Parameters.AVGBTCON",
+			"value": "120"
+		},
+		{
+			"variableId": "Parameters.EXTBTCON",
+			"value": "0"
+		},
+		//will be removed from input in future
+		{
+			"variableId": "Parameters.COAX",
+			"value": "2"
+		},
+		{
+			"variableId": "Parameters.TPSUM",
+			"value": "5"
+		}
+	]
+}

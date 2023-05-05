@@ -1,0 +1,43 @@
+{
+  "BuildingConstantMapper": {
+    "ELEVATORCODE": "Building_Configuration.Parameters.ASTYPE",
+    "TOTALBUILDINGFLOORTOFLOORHEIGHT": "Building_Configuration.Parameters_SP.totalBuildingFloorToFloorHeight_SP",
+    "BUILDINGPARAMETERS": "Building_Configuration.Parameters",
+    "BUILDINGNAMEVARIABLEID": "Building_Configuration.Parameters.BLDGNAME",
+    "BLANDINGS": "Building_Configuration.Parameters.BLANDINGS",
+    "BUILDINGCODE": "Building_Configuration.Parameters.BLDGCODE",
+    "AVGHEIGHT": "Building_Configuration.Parameters.AVGRFHT",
+    "BUILDINGYEAR": "Building_Configuration.Parameters.ASYEAR",
+    "FLOORDESIGNATION": "Floor Designation"
+  },
+  "BuildingEquipmentVariables": {
+    "FIXTURESTETERGY": "Building_Configuration.Parameters_SP.fixtureStrategy_SP",
+    "CONTROLLOCATIONTYPE": "Parameters_SP.fixtureStrategy_SP",
+    "FIREPHONEJACK": "Building_Configuration.Parameters.PHJKF",
+    "FIREBOX": "Building_Configuration.Parameters.FIREBOX",
+    "PARAMETERSMARTRESCUEPHONE5": "Building_Configuration.Parameters.Smart_Rescue_Phone_5",
+    "FEATURESPERPANELL": "LobbyPanel.FeaturesPerPanel",
+    "TOPLANDINGELEVATION": "Building_Configuration.TopLandingElevation",
+    "MAINEGRESSELEVATION": "Building_Configuration.MainEgressElevation",
+    "BUTTOMLANDINGELEVATION": "Building_Configuration.ButtomLandingElevation",
+    "EGRESSFLAG": "Building_Configuration.Flag_EgressDistance",
+    "EMERGENCYPOWERSWITCHLOBBY": "Building_Configuration.Parameters_SP.emergencyPowerSwitchLobby_SP"
+  },
+  "BuildingVariablesForBuildingCode": [
+    "Building_Configuration.Parameters.IBCSDC",
+    "Building_Configuration.Parameters.IBCIP",
+    "Building_Configuration.Parameters.ELEVBASE",
+    "Building_Configuration.Parameters.AVGRFHT",
+    "Building_Configuration.Parameters.IBCSDS",
+    "Building_Configuration.Parameters.IBCIP",
+    "Building_Configuration.Parameters.NBCCPDB",
+    "Building_Configuration.Parameters.NBCCPDB",
+    "Building_Configuration.Parameters.NBCCIE",
+    "Building_Configuration.Parameters.NBCCFA",
+    "Building_Configuration.Parameters.NBCCSA02"
+  ],
+  "NCPVariables": {
+    "QUOTEPRICE": "Parameters.Factory_Quote_Price",
+    "UNITDISPOSITION": "Parameters.Unit_Position"
+  }
+}

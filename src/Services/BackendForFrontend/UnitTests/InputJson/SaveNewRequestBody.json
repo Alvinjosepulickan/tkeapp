@@ -1,0 +1,30 @@
+﻿{
+
+  "operation": 0,
+  "buildingIDs": [
+    619
+  ],
+  "variableAssignments": [
+    {
+      "variableId": "Building_Configuration.Parameters.BLDGNAME",
+      "value": "B19"
+    },
+    {
+      "variableId": "Building_Configuration.Parameters.BLANDINGS",
+      "value": 3
+    },
+    {
+      "variableId": "Building_Configuration.Parameters_SP.totalBuildingFloorToFloorHeight_SP",
+      "value": 792
+    },
+    {
+      "variableId": "Building_Configuration.Parameters.BPV",
+      "value": "575"
+    },
+    {
+      "variableId": "Building_Configuration.Parameters.BLDGCODE",
+      "value": "LEGACY"
+    }
+  ],
+  "quoteId": "CA-2021-50000179"
+}

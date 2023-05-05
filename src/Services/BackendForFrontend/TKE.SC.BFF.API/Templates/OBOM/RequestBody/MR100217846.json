@@ -1,0 +1,504 @@
+[
+  {
+    "Id": "TP0000145-TC0001",
+    "Type": "OBOM",
+    "Name": "TC0001",
+    "PartNumber": "R100217846",
+    "NumberOfLandings": 0,
+    "NumberOfElevators": 1,
+    "ExportTypes": [],
+    "AvailableDrawings": [],
+    "SelectedDrawingFilePaths": [],
+    "GlobalParameters": {
+      "PLATISO": {
+        "Value": "FALSE",
+        "Included": true
+      },
+      "REAROPEN": {
+        "Value": "FALSE",
+        "Included": true
+      },
+      "SFTYTYP": {
+        "Value": "DONG",
+        "Included": true
+      }
+    },
+    "ElevatorParameters": [
+      {}
+    ],
+    "FloorMatrixParameters": [
+      []
+    ],
+    "OutputBOM": [
+      {
+        "ParametersValues": [
+          {
+            "QTY": {
+              "Value": "",
+              "Included": false
+            }
+          }
+        ],
+        "ChildParts": [
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "1",
+                  "Included": true
+                },
+                "A": {
+                  "Value": "",
+                  "Included": false
+                },
+                "T": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873990209_0.7984625896732322",
+            "PartNumber": "1803DH001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": true,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "",
+                  "Included": false
+                },
+                "A": {
+                  "Value": "",
+                  "Included": false
+                },
+                "B": {
+                  "Value": "",
+                  "Included": false
+                },
+                "R": {
+                  "Value": "",
+                  "Included": false
+                },
+                "T": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873990694_1.9565802693100887",
+            "PartNumber": "1803DK001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": false,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "",
+                  "Included": false
+                },
+                "A": {
+                  "Value": "",
+                  "Included": false
+                },
+                "T": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873991320_1.989588237057447",
+            "PartNumber": "1803DL001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": false,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "",
+                  "Included": false
+                },
+                "A": {
+                  "Value": "",
+                  "Included": false
+                },
+                "B": {
+                  "Value": "",
+                  "Included": false
+                },
+                "R": {
+                  "Value": "",
+                  "Included": false
+                },
+                "T": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873991897_3.7530933363466357",
+            "PartNumber": "1803DM001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": false,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "1",
+                  "Included": true
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873992494_2.81719875937261",
+            "PartNumber": "168RH001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": true,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873993103_4.251230679770359",
+            "PartNumber": "168RJ001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": false,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "1",
+                  "Included": true
+                },
+                "DOORCONFIG": {
+                  "Value": "",
+                  "Included": false
+                },
+                "HNDRLCONFIG": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873993778_2.354827041319605",
+            "PartNumber": "1501AH001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": true,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          }
+        ],
+        "Id": "id_1623248625873_4.465890131093965",
+        "PartNumber": "R100217846",
+        "Parent": "",
+        "IsPerLandingComp": false,
+        "IsParentPLC": false,
+        "Included": true,
+        "FullyQualifiedName": "",
+        "AssemblyFile": ""
+      }
+    ],
+    "OutputParameters": {},
+    "GlobalFlrMatrxParameters": [],
+    "NumberOfLandingsPerElev": 0,
+    "OutputGlobalFlrMatrxParameters": [],
+    "OutputElevatorParameters": [
+      {}
+    ],
+    "OutputElevFloorMatrixParameters": [],
+    "AssemblyFile": ""
+  },
+  {
+    "Id": "TP0000145-TC0002",
+    "Type": "OBOM",
+    "Name": "TC0002",
+    "PartNumber": "R100217846",
+    "NumberOfLandings": 0,
+    "NumberOfElevators": 1,
+    "ExportTypes": [],
+    "AvailableDrawings": [],
+    "SelectedDrawingFilePaths": [],
+    "GlobalParameters": {
+      "PLATISO": {
+        "Value": "TRUE",
+        "Included": true
+      },
+      "REAROPEN": {
+        "Value": "TRUE",
+        "Included": true
+      },
+      "SFTYTYP": {
+        "Value": "FLEX",
+        "Included": true
+      }
+    },
+    "ElevatorParameters": [
+      {}
+    ],
+    "FloorMatrixParameters": [
+      []
+    ],
+    "OutputBOM": [
+      {
+        "ParametersValues": [
+          {
+            "QTY": {
+              "Value": "",
+              "Included": false
+            }
+          }
+        ],
+        "ChildParts": [
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "",
+                  "Included": false
+                },
+                "A": {
+                  "Value": "",
+                  "Included": false
+                },
+                "T": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873990209_0.7984625896732322",
+            "PartNumber": "1803DH001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": false,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "",
+                  "Included": false
+                },
+                "A": {
+                  "Value": "",
+                  "Included": false
+                },
+                "B": {
+                  "Value": "",
+                  "Included": false
+                },
+                "R": {
+                  "Value": "",
+                  "Included": false
+                },
+                "T": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873990694_1.9565802693100887",
+            "PartNumber": "1803DK001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": false,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "",
+                  "Included": false
+                },
+                "A": {
+                  "Value": "",
+                  "Included": false
+                },
+                "T": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873991320_1.989588237057447",
+            "PartNumber": "1803DL001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": false,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "1",
+                  "Included": true
+                },
+                "A": {
+                  "Value": "",
+                  "Included": false
+                },
+                "B": {
+                  "Value": "",
+                  "Included": false
+                },
+                "R": {
+                  "Value": "",
+                  "Included": false
+                },
+                "T": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873991897_3.7530933363466357",
+            "PartNumber": "1803DM001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": true,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873992494_2.81719875937261",
+            "PartNumber": "168RH001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": false,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "1",
+                  "Included": true
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873993103_4.251230679770359",
+            "PartNumber": "168RJ001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": true,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          },
+          {
+            "ParametersValues": [
+              {
+                "QTY": {
+                  "Value": "1",
+                  "Included": true
+                },
+                "DOORCONFIG": {
+                  "Value": "",
+                  "Included": false
+                },
+                "HNDRLCONFIG": {
+                  "Value": "",
+                  "Included": false
+                }
+              }
+            ],
+            "ChildParts": [],
+            "Id": "id_1623873993778_2.354827041319605",
+            "PartNumber": "1501AH001",
+            "Parent": "R100217846",
+            "IsPerLandingComp": false,
+            "IsParentPLC": false,
+            "Included": true,
+            "FullyQualifiedName": "",
+            "AssemblyFile": ""
+          }
+        ],
+        "Id": "id_1623248625873_4.465890131093965",
+        "PartNumber": "R100217846",
+        "Parent": "",
+        "IsPerLandingComp": false,
+        "IsParentPLC": false,
+        "Included": true,
+        "FullyQualifiedName": "",
+        "AssemblyFile": ""
+      }
+    ],
+    "OutputParameters": {},
+    "GlobalFlrMatrxParameters": [],
+    "NumberOfLandingsPerElev": 0,
+    "OutputGlobalFlrMatrxParameters": [],
+    "OutputElevatorParameters": [
+      {}
+    ],
+    "OutputElevFloorMatrixParameters": [],
+    "AssemblyFile": ""
+  }
+]

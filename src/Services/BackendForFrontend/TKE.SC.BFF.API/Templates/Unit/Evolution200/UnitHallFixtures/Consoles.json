@@ -1,0 +1,348 @@
+{
+  "sections": 
+  [
+    {
+      "id": "Hoistway_Access",
+      "name": "Hoistway_Access",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HALOCTOPF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HALOCBTMF"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Braille",
+      "name": "Braille",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLBRLTYPE"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Elevator_and_Floor_Designation_Braille",
+      "name": "Elevator_and_Floor_Designation_Braille",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDBraille_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Hall_Elevator_Designation_Plate",
+      "name": "Hall_Elevator_Designation_Plate",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDHallFlagIllumination_SP"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDHallFlagType_SP"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Hall_Target_Indicator",
+      "name": "Hall_Target_Indicator",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.dDHallTargetIndicator_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Hall_Lantern",
+      "name": "Hall_Lantern",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLTYPEF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLORT"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLCLRU"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Hall_PI",
+      "name": "Hall_PI",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PITYPEF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PICOLOR"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "7",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Combo_Hall_Lantern/PI",
+      "name": "Combo_Hall_Lantern/PI",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.COMBOF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PICOLOR"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.HALLFINMAT_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "8",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Star_of_Life",
+      "name": "Star_of_Life",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.HLSOL"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "9",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Inconspicuous_Riser",
+      "name": "Inconspicuous_Riser",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.INCONSWF"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.INCONF"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "10",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Chicago_Fire",
+      "name": "Chicago_Fire",
+      "sections": [],
+      "variables": [
+
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "11",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Lobby_Recall_Switch",
+      "name": "Lobby_Recall_Switch",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.RETURN"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.RETURN_Loc_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "12",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "Car_Homing_and_Shutdown",
+      "name": "Car_Homing_and_Shutdown",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PARK"
+        },
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.PARK_Loc_SP"
+        }
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "13",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "id": "VIP_Service_Key_Switch",
+      "name": "VIP_Service_Key_Switch",
+      "sections": [],
+      "variables": [
+        {
+          "id": "ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP.vIPSwitch_SP"
+        }
+
+      ],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "14",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "",
+          "type": "String"
+        }
+      ]
+    }
+  ]
+}

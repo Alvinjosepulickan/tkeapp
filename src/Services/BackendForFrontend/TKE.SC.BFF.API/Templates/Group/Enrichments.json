@@ -1,0 +1,142 @@
+﻿{
+  "variables": {
+    "groupDesignation": {
+      "name": "groupDesignation",
+      "properties": [
+        {
+          "id": "key",
+          "value": "groupDesignation",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "InputField",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Group Name",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Group Name",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        }
+      ]
+    },
+    "productCategory": {
+      "name": "productCategory",
+      "properties": [
+        {
+          "id": "key",
+          "value": "productCategory",
+          "type": "String"
+        },
+        {
+          "id": "info",
+          "value": "Product Category ",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "Dropdown",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Product Category",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        }
+      ]
+    },
+    "noOfUnits": {
+      "name": "noOfUnits",
+      "properties": [
+        {
+          "id": "key",
+          "value": "noOfUnits",
+          "type": "String"
+        },
+        {
+          "id": "info",
+          "value": "Number of Units",
+          "type": "String"
+        },
+        {
+          "id": "showas",
+          "value": "InputField",
+          "type": "String"
+        },
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "displayname",
+          "value": "Number of Units",
+          "type": "String"
+        },
+        {
+          "id": "isRequired",
+          "value": true,
+          "type": "boolean"
+        },
+        {
+          "id": "requiredValidationMessage",
+          "value": "Please Enter Number of units",
+          "type": "String"
+        },
+        {
+          "id": "minValue",
+          "value": 1,
+          "type": "Number"
+        },
+        {
+          "id": "maxValue",
+          "value": 100,
+          "type": "Number"
+        },
+        {
+          "id": "rangeValidationMessage",
+          "value": "Number of units should be between 1 and 100",
+          "type": "String"
+        },
+        {
+          "id": "layout",
+          "value": "col-12",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  "options": {
+
+  }
+}

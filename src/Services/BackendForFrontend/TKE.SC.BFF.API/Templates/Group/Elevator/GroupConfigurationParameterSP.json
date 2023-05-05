@@ -1,0 +1,60 @@
+﻿{
+  "id": "Parameters_SP",
+  "name": "Parameters_SP",
+  "sections": [],
+  "variables": [
+    {
+      "id": "Parameters_SP.controlRoomFloor_SP",
+      "name": "Control Floor",
+      "valueType": "Number",
+      "numberOfFloors": 0,
+      "allowMultipleAssignments": false,
+      "values": [
+        {
+          "assigned": "",
+          "inCompatible": true,
+          "justification": "Assignment",
+          "name": "1",
+          "state": "",
+          "type": "SingletonValue",
+          "value": "3"
+        },
+        {
+          "assigned": "",
+          "inCompatible": true,
+          "justification": "Assignment",
+          "name": "2",
+          "state": "Selected",
+          "type": "SingletonValue",
+          "value": "3"
+        },
+        {
+          "assigned": "",
+          "inCompatible": true,
+          "justification": "Assignment",
+          "name": "3",
+          "state": "Selected",
+          "type": "SingletonValue",
+          "value": "3"
+        }
+      ],
+      "properties": [
+
+      ]
+    }
+
+  ],
+  "properties": [
+    {
+      "id": "fullyqualifiedname",
+      "value": "Parameters",
+      "type": "String"
+    },
+    {
+      "id": "name",
+      "value": "Parameters",
+      "type": "String"
+    }
+  ]
+}
+			

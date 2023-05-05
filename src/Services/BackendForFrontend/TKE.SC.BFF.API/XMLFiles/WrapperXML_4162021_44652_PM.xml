@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BODY>
+  <COMMON>
+    <VALUES>&lt;item&gt;
+  &lt;NAME&gt;ELEVSYS&lt;/NAME&gt;
+  &lt;VALUE&gt;EVO&lt;/VALUE&gt;
+&lt;/item&gt;&lt;item&gt;
+  &lt;NAME&gt;LAYREV&lt;/NAME&gt;
+  &lt;VALUE&gt;&lt;/VALUE&gt;
+&lt;/item&gt;&lt;item&gt;
+  &lt;NAME&gt;ACROSS_THE_HALL_DISTANCE&lt;/NAME&gt;
+  &lt;VALUE&gt;&lt;/VALUE&gt;
+&lt;/item&gt;&lt;item&gt;
+  &lt;NAME&gt;BANKOFFSET&lt;/NAME&gt;
+  &lt;VALUE&gt;&lt;/VALUE&gt;
+&lt;/item&gt;&lt;item&gt;
+  &lt;NAME&gt;SEISZONE&lt;/NAME&gt;
+  &lt;VALUE&gt;&lt;/VALUE&gt;
+&lt;/item&gt;&lt;item&gt;
+  &lt;NAME&gt;LAYLANG&lt;/NAME&gt;
+  &lt;VALUE&gt;EN-US&lt;/VALUE&gt;
+&lt;/item&gt;&lt;item&gt;
+  &lt;NAME&gt;LAYUNITS&lt;/NAME&gt;
+  &lt;VALUE&gt;MET&lt;/VALUE&gt;
+&lt;/item&gt;&lt;item&gt;
+  &lt;NAME&gt;SUBSTAT&lt;/NAME&gt;
+  &lt;VALUE&gt;&lt;/VALUE&gt;
+&lt;/item&gt;</VALUES>
+  </COMMON>
+  <UNITS>&lt;UNIT&gt;&lt;CARPOS&gt;B1P1&lt;/CARPOS&gt;&lt;DBTYP&gt;&lt;/DBTYP&gt;&lt;DBW&gt;&lt;/DBW&gt;&lt;DBH&gt;&lt;/DBH&gt;&lt;ELEVDESG&gt;&lt;/ELEVDESG&gt;&lt;HS1QUAD&gt;Q3&lt;/HS1QUAD&gt;&lt;HS2QUAD&gt;NR&lt;/HS2QUAD&gt;&lt;MAINFLR&gt;1&lt;/MAINFLR&gt;&lt;FIREFLR&gt;&lt;/FIREFLR&gt;&lt;FIREFLRALT&gt;&lt;/FIREFLRALT&gt;&lt;ENTF&gt;TRUE&lt;/ENTF&gt;&lt;ENTR&gt;&lt;/ENTR&gt;&lt;COLFACEF&gt;&lt;/COLFACEF&gt;&lt;COLFACER&gt;&lt;/COLFACER&gt;&lt;ENTWLTHKF&gt;&lt;/ENTWLTHKF&gt;&lt;LAYGRPSZ&gt;&lt;/LAYGRPSZ&gt;&lt;SHAFTIX&gt;&lt;/SHAFTIX&gt;&lt;FLRMRKF&gt;&lt;/FLRMRKF&gt;&lt;FLRMRKR&gt;&lt;/FLRMRKR&gt;&lt;ENTWLTHKR&gt;&lt;/ENTWLTHKR&gt;&lt;TRANSFACEF&gt;2&lt;/TRANSFACEF&gt;&lt;TRANSFACER&gt;&lt;/TRANSFACER&gt;&lt;ARCH&gt;&lt;/ARCH&gt;&lt;BLDGADD&gt;&lt;/BLDGADD&gt;&lt;BLDGCITY&gt;&lt;/BLDGCITY&gt;&lt;BLDGNAME&gt;&lt;/BLDGNAME&gt;&lt;BPF&gt;60&lt;/BPF&gt;&lt;BPP&gt;3&lt;/BPP&gt;&lt;MJOBNUM&gt;&lt;/MJOBNUM&gt;&lt;GENCONT&gt;&lt;/GENCONT&gt;&lt;INSERTS&gt;&lt;/INSERTS&gt;&lt;NOARROW&gt;&lt;/NOARROW&gt;&lt;ASYEAR&gt;2016&lt;/ASYEAR&gt;&lt;BPV&gt;460&lt;/BPV&gt;&lt;DBUBOX&gt;FALSE&lt;/DBUBOX&gt;&lt;TRAVEL&gt;&lt;/TRAVEL&gt;&lt;CWTBAL&gt;&lt;/CWTBAL&gt;&lt;CAPACITY&gt;4000&lt;/CAPACITY&gt;&lt;TYPSVC&gt;PASS&lt;/TYPSVC&gt;&lt;CLCARDEP&gt;&lt;/CLCARDEP&gt;&lt;CLCARWID&gt;&lt;/CLCARWID&gt;&lt;CARSPEED&gt;350&lt;/CARSPEED&gt;&lt;HWYDEP&gt;&lt;/HWYDEP&gt;&lt;HWYWID&gt;&lt;/HWYWID&gt;&lt;OVHEAD&gt;&lt;/OVHEAD&gt;&lt;PITDEPTH&gt;&lt;/PITDEPTH&gt;&lt;CWTLOC&gt;Q1Q4&lt;/CWTLOC&gt;&lt;NUMSUSP&gt;&lt;/NUMSUSP&gt;&lt;REAROPEN&gt;FALSE&lt;/REAROPEN&gt;&lt;ENTDOHF&gt;&lt;/ENTDOHF&gt;&lt;ENTDOHR&gt;&lt;/ENTDOHR&gt;&lt;ENTDOWF&gt;48&lt;/ENTDOWF&gt;&lt;ENTDOWR&gt;48&lt;/ENTDOWR&gt;&lt;BUFFSW&gt;FALSE&lt;/BUFFSW&gt;&lt;CARGUIDES&gt;&lt;/CARGUIDES&gt;&lt;CIT&gt;FALSE&lt;/CIT&gt;&lt;CONTROLLDG&gt;&lt;/CONTROLLDG&gt;&lt;CONTROLOC&gt;CTRLCLST&lt;/CONTROLOC&gt;&lt;CWTRLTYP&gt;T15&lt;/CWTRLTYP&gt;&lt;MACHPN&gt;&lt;/MACHPN&gt;&lt;PITLADCLR&gt;&lt;/PITLADCLR&gt;&lt;SUMPTYP&gt;CAN&lt;/SUMPTYP&gt;&lt;CUSTXFMR&gt;NR&lt;/CUSTXFMR&gt;&lt;BLDGCODE&gt;IBC&lt;/BLDGCODE&gt;&lt;AVGRFHT&gt;&lt;/AVGRFHT&gt;&lt;ELEVBASE&gt;&lt;/ELEVBASE&gt;&lt;IBCIP&gt;1.0&lt;/IBCIP&gt;&lt;IBCSDC&gt;A&lt;/IBCSDC&gt;&lt;IBCSDS&gt;&lt;/IBCSDS&gt;&lt;ISSEISMIC&gt;FALSE&lt;/ISSEISMIC&gt;&lt;NBCCFA&gt;&lt;/NBCCFA&gt;&lt;NBCCIE&gt;&lt;/NBCCIE&gt;&lt;NBCCPDB&gt;FALSE&lt;/NBCCPDB&gt;&lt;NBCCSA02&gt;&lt;/NBCCSA02&gt;&lt;CABHGTOVL&gt;&lt;/CABHGTOVL&gt;&lt;FINFLR&gt;0.375&lt;/FINFLR&gt;&lt;FINFLRWT&gt;&lt;/FINFLRWT&gt;&lt;CABTYP&gt;REMAP&lt;/CABTYP&gt;&lt;CABAPTHK&gt;&lt;/CABAPTHK&gt;&lt;CABCEILHGT&gt;&lt;/CABCEILHGT&gt;&lt;CABFINWT&gt;&lt;/CABFINWT&gt;&lt;COPMAIN&gt;WRAP&lt;/COPMAIN&gt;&lt;COPAUX&gt;WRAP&lt;/COPAUX&gt;&lt;COPLOCM&gt;Q4&lt;/COPLOCM&gt;&lt;COPLOCA&gt;&lt;/COPLOCA&gt;&lt;DOORTYPF&gt;1SRH&lt;/DOORTYPF&gt;&lt;DOORTYPR&gt;1SLH&lt;/DOORTYPR&gt;&lt;APRONWT&gt;&lt;/APRONWT&gt;&lt;BRKSPALOW&gt;&lt;/BRKSPALOW&gt;&lt;BRKSPAUP&gt;&lt;/BRKSPAUP&gt;&lt;BUFFSTK&gt;&lt;/BUFFSTK&gt;&lt;CABWT&gt;&lt;/CABWT&gt;&lt;CARBALWT&gt;&lt;/CARBALWT&gt;&lt;CARF1LOW&gt;&lt;/CARF1LOW&gt;&lt;CARF1UP&gt;&lt;/CARF1UP&gt;&lt;CARF2LOW&gt;&lt;/CARF2LOW&gt;&lt;CARF2UP&gt;&lt;/CARF2UP&gt;&lt;CARGUIDEH&gt;&lt;/CARGUIDEH&gt;&lt;CCOMP1SIZE&gt;&lt;/CCOMP1SIZE&gt;&lt;CCOMP2SIZE&gt;&lt;/CCOMP2SIZE&gt;&lt;CCOMPQTY&gt;&lt;/CCOMPQTY&gt;&lt;COMPDAMP&gt;&lt;/COMPDAMP&gt;&lt;COMPTYP&gt;NR&lt;/COMPTYP&gt;&lt;COMPWT&gt;&lt;/COMPWT&gt;&lt;CONTAMP&gt;&lt;/CONTAMP&gt;&lt;CONTHL&gt;&lt;/CONTHL&gt;&lt;CWTF1LOW&gt;&lt;/CWTF1LOW&gt;&lt;CWTF1UP&gt;&lt;/CWTF1UP&gt;&lt;CWTF2LOW&gt;&lt;/CWTF2LOW&gt;&lt;CWTF2UP&gt;&lt;/CWTF2UP&gt;&lt;DECREGKW&gt;&lt;/DECREGKW&gt;&lt;DRIVEAMP&gt;&lt;/DRIVEAMP&gt;&lt;DRIVEHP&gt;&lt;/DRIVEHP&gt;&lt;ECARWT&gt;&lt;/ECARWT&gt;&lt;FILLHT&gt;&lt;/FILLHT&gt;&lt;HSREGKW&gt;&lt;/HSREGKW&gt;&lt;MAXACCAMP&gt;&lt;/MAXACCAMP&gt;&lt;MAXNFXCAR&gt;&lt;/MAXNFXCAR&gt;&lt;MAXNFXCWT&gt;&lt;/MAXNFXCWT&gt;&lt;MAXNFYCAR&gt;&lt;/MAXNFYCAR&gt;&lt;MAXNFYCWT&gt;&lt;/MAXNFYCWT&gt;&lt;MAXSFXCAR&gt;&lt;/MAXSFXCAR&gt;&lt;MAXSFXCWT&gt;&lt;/MAXSFXCWT&gt;&lt;MAXSFYCAR&gt;&lt;/MAXSFYCAR&gt;&lt;MAXSFYCWT&gt;&lt;/MAXSFYCWT&gt;&lt;MCWT&gt;&lt;/MCWT&gt;&lt;NUMCARBUFF&gt;&lt;/NUMCARBUFF&gt;&lt;NUMCWTBUFF&gt;&lt;/NUMCWTBUFF&gt;&lt;PITR1&gt;&lt;/PITR1&gt;&lt;PITR2&gt;&lt;/PITR2&gt;&lt;PITR3&gt;&lt;/PITR3&gt;&lt;PITR4&gt;&lt;/PITR4&gt;&lt;PITR5&gt;&lt;/PITR5&gt;&lt;PITR6&gt;&lt;/PITR6&gt;&lt;PLATWT&gt;&lt;/PLATWT&gt;&lt;Q1AIQTY&gt;&lt;/Q1AIQTY&gt;&lt;Q1AOQTY&gt;&lt;/Q1AOQTY&gt;&lt;Q1BIQTY&gt;&lt;/Q1BIQTY&gt;&lt;Q1BOQTY&gt;&lt;/Q1BOQTY&gt;&lt;Q2AIQTY&gt;&lt;/Q2AIQTY&gt;&lt;Q2AOQTY&gt;&lt;/Q2AOQTY&gt;&lt;Q2BIQTY&gt;&lt;/Q2BIQTY&gt;&lt;Q2BOQTY&gt;&lt;/Q2BOQTY&gt;&lt;Q3AIQTY&gt;&lt;/Q3AIQTY&gt;&lt;Q3AOQTY&gt;&lt;/Q3AOQTY&gt;&lt;Q3BIQTY&gt;&lt;/Q3BIQTY&gt;&lt;Q3BOQTY&gt;&lt;/Q3BOQTY&gt;&lt;Q4AIQTY&gt;&lt;/Q4AIQTY&gt;&lt;Q4AOQTY&gt;&lt;/Q4AOQTY&gt;&lt;Q4BIQTY&gt;&lt;/Q4BIQTY&gt;&lt;Q4BOQTY&gt;&lt;/Q4BOQTY&gt;&lt;RAILFCAR&gt;&lt;/RAILFCAR&gt;&lt;RAILFCWT&gt;&lt;/RAILFCWT&gt;&lt;REEVING&gt;2&lt;/REEVING&gt;&lt;SFTYTYP&gt;FLEX&lt;/SFTYTYP&gt;&lt;SHTCTAMP&gt;&lt;/SHTCTAMP&gt;&lt;SLINGWT&gt;&lt;/SLINGWT&gt;&lt;TOTAMP&gt;&lt;/TOTAMP&gt;&lt;TRACTIONHL&gt;&lt;/TRACTIONHL&gt;&lt;ZHEIGHTX&gt;&lt;/ZHEIGHTX&gt;&lt;/UNIT&gt;&lt;UNIT&gt;&lt;/UNIT&gt;&lt;UNIT&gt;&lt;/UNIT&gt;&lt;UNIT&gt;&lt;/UNIT&gt;</UNITS>
+</BODY>

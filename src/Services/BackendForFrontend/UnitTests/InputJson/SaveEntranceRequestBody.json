@@ -1,0 +1,86 @@
+{
+  "ConsoleName": "1",
+  "EntranceConsoleId": "1",
+  "EntranceLocations": [
+    {
+      "FloorNumber": 1,
+      "Front": false,
+      "Rear": false
+    }
+  ],
+  "variableAssignments": [
+    {
+      "variableId": "Elevator.Parameters.CAPACITY",
+      "Value": "Test1"
+    },
+    {
+      "variableId": "Elevator.Parameters.User_Interface_devices.Car_Operating_Panel_COP.BRLTYPTF",
+      "Value": "Test2"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.HLSOL",
+      "Value": "Test3"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.INCONF",
+      "Value": "Test4"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP.INCONR",
+      "Value": "Test5"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTDORFINF",
+      "Value": "Test6"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTDORFINR",
+      "Value": "Test7"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTDRKPLF",
+      "Value": "Test8"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTDRKPLR",
+      "Value": "Test9"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTFRAFINTYPF",
+      "Value": "Test10"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTFRAFINTYPR",
+      "Value": "Test11"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTFRAFINF",
+      "Value": "Test12"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTFRAFINR",
+      "Value": "Test13"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTWLTYPF",
+      "Value": "Test14"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTWLTYPRF",
+      "Value": "Test15"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTWLTHKF",
+      "Value": "Test16"
+    },
+    {
+      "variableId": "Elevator.Landing001.Parameters.Doors.Landing_Doors_Assembly.ENTWLTHKR",
+      "Value": "Test17"
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.User_Interface_Devices.Car_Operating_Panel_COP.LOCKREG",
+      "value": "NR"
+    }
+      
+  ]
+}

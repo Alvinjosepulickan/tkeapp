@@ -1,0 +1,25 @@
+{
+  "fieldDrawingAutomation": {
+    "FRONTDOOR_SP": "frontDoorTypeAndHand_SP",
+    "REARDOOR_SP": "rearDoorTypeAndHand_SP",
+    "PRODUCTCATEGORY": "productCategory",
+    "ELEVATOR": "ELEVATOR00",
+    "SUMPQTY": ".Parameters.SUMPQTY",
+    "COUNTERWTLOCATION": ".Parameters.CWTLOC",
+    "TOTALNUMLANDINGS_SP": ".Parameters_SP.totalNumLandings_SP",
+    "OPNFRTP": ".Parameters.OPNFRTP",
+    "CWTSFTY": ".Parameters.CWTSFTY",
+    "OPNREARP": ".Parameters.OPNREARP",
+    "TOPR": ".Parameters.TOPR",
+    "TOPF": ".Parameters.TOPF",
+    "TOTOPN": ".Parameters.TOTOPN",
+    "TRAVEL": ".Parameters.TRAVEL",
+    "ENTF": ".Parameters.ENTF",
+    "ENTR": ".Parameters.ENTR",
+    "ELEVATION": ".Parameters.ELEVATION",
+    "FLRHTF": ".Parameters.FLRHTF",
+    "FLRHTR": ".Parameters.FLRHTR",
+    "SUMPQTY_SP": ".Parameters_SP.SUMPQTY_SP",
+    "GOVACCESS": ".Parameters.GOVACCESS"
+  }
+}

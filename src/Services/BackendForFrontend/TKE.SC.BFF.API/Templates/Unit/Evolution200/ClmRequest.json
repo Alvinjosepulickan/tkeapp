@@ -1,0 +1,50 @@
+{
+  "PackagePath": "unitvalidation",
+  "currency": "USD",
+  "currentLineId": "ROOT",
+  "date": "2019-10-04T10:00:11.088Z",
+  "description": "",
+  "globalArguments": {
+    "plant": "US01",
+    "salesArea": {
+      "salesOrganization": "US01",
+      "distributionChannel": "01",
+      "salesDivision": "02"
+    },
+    "shipTo": {
+      "countryCode": "US"
+    },
+    "soldTo": {
+      "countryCode": "US"
+    },
+    "MaterialVariant": {
+      "Material": {
+        "ConfigurableMaterialName": "Unit_Validation_EVO200",
+        "ExternalId": "Unit_Validation_EVO200"
+      }
+    },
+    "Variants": []
+  },
+  "language": "English",
+  "line": {
+    "product": {
+      "id": "Unit_Validation_EVO200",
+      "isConfigurable": true
+    },
+    "productId": "Unit_Validation_EVO200",
+    "quantity": {
+      "value": 1,
+      "unit": "EA"
+    },
+    "sublines": [],
+    "variableAssignments": [
+
+    ]
+  },
+  "settings": {
+    "debug": true,
+    "includePriceLines": false,
+    "includeSections": [ "" ],
+    "onlyPriceTotals": false
+  }
+} 

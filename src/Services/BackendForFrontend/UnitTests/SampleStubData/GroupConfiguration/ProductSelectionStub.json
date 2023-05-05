@@ -1,0 +1,56 @@
+{
+	"PackagePath": "productselection",
+	"currency": "USD",
+	"currentLineId": "ROOT",
+	"date": "2019-10-04T10:00:11.088Z",
+	"description": "",
+	"globalArguments": {
+		"plant": "US01",
+		"salesArea": {
+			"salesOrganization": "US01",
+			"distributionChannel": "01",
+			"salesDivision": "02"
+		},
+		"shipTo": {
+			"countryCode": "US"
+		},
+		"soldTo": {
+			"countryCode": "US"
+		},
+		"MaterialVariant": {
+			"Material": {
+				"ConfigurableMaterialName": "Product_Selection_Master",
+				"ExternalId": "Product_Selection_Master"
+			}
+		},
+		"Variants": []
+	},
+	"language": "Name",
+	"line": {
+		"priceLineAssignments": [],
+		"product": {
+			"id": "Product_Selection_Master",
+			"isConfigurable": true
+		},
+		"productId": "Product_Selection_Master",
+		"quantity": {
+			"value": 1,
+			"unit": "EA"
+		},
+		"sublines": [],
+		"variableAssignments": [
+			
+		]
+	},
+	"priceProcedureId": "ZRVA01",
+	"settings": {
+		"debug": true,
+
+		"includePriceLines": false,
+		"onlyPriceTotals": false
+
+
+
+
+	}
+} 

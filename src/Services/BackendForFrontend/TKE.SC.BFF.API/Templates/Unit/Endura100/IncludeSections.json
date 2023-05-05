@@ -1,0 +1,64 @@
+﻿{
+  "generalinformation": [
+    "ELEVATOR",
+    "ELEVATOR.ELEVATOR.Parameters",
+    "ELEVATOR.ELEVATOR.Parameters_SP"
+  ],
+  "cabinterior": [
+    "ELEVATOR",
+    "ELEVATOR.ELEVATOR.Parameters",
+    "ELEVATOR.ELEVATOR.Parameters_SP"
+  ],
+  "carfixture": [
+    "ELEVATOR",
+    "ELEVATOR.ELEVATOR.Parameters",
+    "ELEVATOR.ELEVATOR.Parameters_SP"
+  ],
+  "unithallfixture": [
+    "ELEVATOR",
+    "ELEVATOR.ELEVATOR.Parameters",
+    "ELEVATOR.ELEVATOR.Parameters_SP",
+    "ELEVATOR.ELEVATOR.FloorMatrix",
+    "ELEVATOR.ELEVATOR.FloorMatrix.ELEVATOR.FloorMatrix.LANDING001"
+  ],
+  "entrances": [
+    "ELEVATOR",
+    "ELEVATOR.ELEVATOR.Parameters",
+    "ELEVATOR.ELEVATOR.Sales_UI_Screens",
+    "ELEVATOR.ELEVATOR.Sales_UI_Screens.ELEVATOR.Sales_UI_Screens.Entrance_Config_SP",
+    "ELEVATOR.ELEVATOR.Sales_UI_Screens.ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters",
+    "ELEVATOR.ELEVATOR.Sales_UI_Screens.ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP"
+  ],
+  "tractionhoistwayequipment": [
+    "ELEVATOR",
+    "ELEVATOR.ELEVATOR.Parameters",
+    "ELEVATOR.ELEVATOR.Parameters_SP",
+    "ELEVATOR.ELEVATOR.FloorMatrix",
+    "ELEVATOR.ELEVATOR.FloorMatrix.ELEVATOR.FloorMatrix.LANDING001"
+  ],
+  "unithallfixtureconsoles": [
+    {
+      "consoleNumber": "0",
+      "includeSections": [
+        "ELEVATOR",
+        "ELEVATOR.ELEVATOR.Parameters",
+        "ELEVATOR.ELEVATOR.Parameters_SP",
+        "ELEVATOR.ELEVATOR.Sales_UI_Screens",
+        "ELEVATOR.ELEVATOR.Sales_UI_Screens.ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP",
+        "ELEVATOR.ELEVATOR.Sales_UI_Screens.ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters",
+        "ELEVATOR.ELEVATOR.Sales_UI_Screens.ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.ELEVATOR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters_SP"
+      ]
+    },
+    {
+      "consoleNumber": "{0}",
+      "includeSections": [
+        "ELEVATOR",
+        "ELEVATOR.ELEVATOR.FloorMatrix",
+        "ELEVATOR.ELEVATOR.FloorMatrix.ELEVATOR.FloorMatrix.LANDING{0}",
+        "ELEVATOR.ELEVATOR.FloorMatrix.ELEVATOR.FloorMatrix.LANDING{0}.ELEVATOR.FloorMatrix.LANDING{0}.Parameters.ELEVATOR.FloorMatrix.LANDING{0}.Parameters.User_Interface_Devices",
+        "ELEVATOR.ELEVATOR.FloorMatrix.ELEVATOR.FloorMatrix.LANDING{0}.ELEVATOR.FloorMatrix.LANDING{0}.Parameters.ELEVATOR.FloorMatrix.LANDING{0}.Parameters.User_Interface_Devices.ELEVATOR.FloorMatrix.LANDING{0}.Parameters.User_Interface_Devices.Landing_Operating_Panel_LOP",
+        "ELEVATOR.ELEVATOR.FloorMatrix.ELEVATOR.FloorMatrix.LANDING{0}.ELEVATOR.FloorMatrix.LANDING{0}.Parameters.ELEVATOR.FloorMatrix.LANDING{0}.Parameters.User_Interface_Devices.ELEVATOR.FloorMatrix.LANDING{0}.Parameters.User_Interface_Devices.Landing_Indicator_Panel_LIP"
+      ]
+    }
+  ]
+}

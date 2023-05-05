@@ -1,0 +1,50 @@
+﻿{
+  "consoleId": "1",
+  "consoleName": "Lobby 1",
+  "isController": 0,
+  "IsLobbyPanel": 1,
+  "configuredGroups": [
+    {
+      "groupid": 1,
+      "groupName": "G1",
+      "isChecked": true
+    },
+    {
+      "groupid": 2,
+      "groupName": "G2",
+      "isChecked": true
+    }
+  ],
+  "ExistingGroups": [
+    {
+      "groupName": "G3",
+      "noOfUnits": 2,
+      "units": [
+        {
+          "unitname": "U1",
+          "factoryId": "ABCD"
+        },
+        {
+          "unitname": "U2",
+          "factoryId": "EFGH"
+        }
+      ]
+    }
+  ],
+  "FutureGroups": [
+    {
+      "groupName": "G4",
+      "noOfUnits": 3
+    }
+  ],
+  "variableAssignments": [
+    {
+      "VariableId": "Building_Configuration.Parameters.BLDGNAME",
+      "Value": "25"
+    },
+    {
+      "VariableId": "Building_Configuration.Parameters.ASYEAR",
+      "Value": "BSS"
+    }
+  ]
+}

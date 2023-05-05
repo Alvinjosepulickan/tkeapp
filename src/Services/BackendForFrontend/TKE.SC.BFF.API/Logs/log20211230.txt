@@ -1,0 +1,809 @@
+12/30/2021 00:36:16 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 encountered an exception while sending heartbeat
+12/30/2021 08:46:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution DelayedJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/30/2021 08:46:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution Worker is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/30/2021 08:47:25 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 encountered an exception while sending heartbeat
+12/30/2021 08:47:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution RecurringJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/30/2021 08:47:55 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 encountered an exception while sending heartbeat
+12/30/2021 08:48:34 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 encountered an exception while sending heartbeat
+12/30/2021 08:49:05 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 encountered an exception while sending heartbeat
+12/30/2021 08:49:50 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 encountered an exception while sending heartbeat
+12/30/2021 08:50:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution ServerWatchdog is in the Failed state now due to an exception, execution will be retried no more than in 00:00:16
+12/30/2021 08:50:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution CountersAggregator is in the Failed state now due to an exception, execution will be retried no more than in 00:00:16
+12/30/2021 08:50:20 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 encountered an exception while sending heartbeat
+12/30/2021 08:51:08 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 encountered an exception while sending heartbeat
+12/30/2021 08:51:39 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 encountered an exception while sending heartbeat
+12/30/2021 08:51:39 +05:30 [ERR] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:36040:a283bbb3 will be restarted due to server time out
+12/30/2021 08:51:39 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:36040:a283bbb3 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+12/30/2021 08:51:40 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:36040:a283bbb3 there was an exception, server may not be removed
+12/30/2021 08:51:41 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/30/2021 08:51:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:15.6415693 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:52:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:48.9679788 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:52:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:04.4337127 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:53:01 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:20.0810935 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:53:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:35.6429054 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:53:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:05.9210599 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:54:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:21.5279625 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:54:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:37.0991930 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:54:33 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:52.5126023 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:55:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:25.8327939 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:55:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:41.3741448 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:55:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:56.8448498 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:55:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:12.3577044 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:56:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:45.7662655 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:56:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:01.1672630 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:56:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:16.6324083 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:57:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:32.0899276 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:57:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:05.7191725 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:58:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:21.1687271 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:58:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:36.5783349 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:58:33 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:52.1575022 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:59:03 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:22.1660908 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:59:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:37.6063351 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:59:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:53.1282832 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 08:59:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:08.6732546 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:00:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:42.3227492 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:00:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:57.8045863 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:00:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:13.2279990 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:01:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:28.7803127 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:01:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:58.9545003 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:01:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:10:14.3905798 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:02:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:10:29.8982273 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:02:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:10:45.3734860 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:02:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:11:15.5434165 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:03:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:11:31.1507458 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:03:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:12:07.7063347 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:04:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:12:23.2708401 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:04:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:12:56.7631091 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:04:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:13:12.1797607 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:05:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:13:27.8393430 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:05:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:13:43.2974778 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:05:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:13.9716878 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:06:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:29.5028423 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:06:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:45.0234990 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:06:41 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:15:00.5081656 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:07:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:15:31.9289879 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:07:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:15:47.4875458 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:07:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:16:02.9749872 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:07:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:16:18.4565777 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:08:33 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:16:52.0671247 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:08:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:17:07.5514868 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:09:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:17:23.0390984 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:09:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:17:38.4644745 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:09:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:18:08.6753072 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:10:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:18:24.0864216 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:10:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:18:39.4855667 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:10:36 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:18:55.0753565 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:11:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:28.6789043 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:11:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:44.2081844 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:11:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:59.6846082 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:11:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:20:15.1303068 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:12:29 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:20:48.6214270 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:12:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:21:04.1649825 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:13:00 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:21:19.6278341 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:13:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:21:35.0445785 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:13:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:22:08.5066458 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:14:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:22:23.9360275 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:14:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:22:39.4154415 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:14:36 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:22:54.8198427 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:15:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:23:27.9883957 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:15:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:23:43.4431657 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:15:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:23:59.0860565 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:15:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:24:14.5346190 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:16:29 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:24:48.1824724 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:16:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:25:03.6031139 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:17:00 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:25:19.1305880 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:17:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:25:34.6201338 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:17:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:08.1345910 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:18:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:23.5719622 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:18:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:39.2775589 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:18:36 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:54.8494670 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:19:06 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:27:25.1349951 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:19:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:27:40.6896231 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:19:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:27:56.2429718 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:19:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:28:11.7368241 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:20:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:28:43.1454018 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:20:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:28:58.6321237 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:20:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:29:14.1528197 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:21:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:29:29.6670324 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:21:41 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:29:59.8525005 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:21:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:15.2468328 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:22:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:30.6737193 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:22:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:46.1456655 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:23:01 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:19.9340250 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:23:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:35.5134396 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:23:32 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:51.0152892 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:23:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:32:06.5191758 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:24:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:32:40.2416720 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:24:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:32:55.8058009 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:24:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:33:11.3492502 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:25:08 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:33:26.7776012 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:25:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:33:56.9721653 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:25:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:34:12.4947569 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:26:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:34:27.9207525 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:26:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:34:43.3677782 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:26:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:16.7502848 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:27:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:32.2418178 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:27:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:47.6531853 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:27:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:36:03.1005021 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:28:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:36:33.2763426 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:28:29 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:36:48.5878299 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:28:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:37:03.9179907 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:29:00 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:37:19.2434495 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:29:33 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:37:52.1030361 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:29:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:38:07.4421346 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:30:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:38:22.8013574 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:30:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:38:38.1574783 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:30:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:39:11.1317472 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:31:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:39:26.4560358 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:31:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:39:41.8052288 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:31:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:39:57.2437256 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:32:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:40:30.4572541 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:32:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:40:45.9018294 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:32:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:01.2249333 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:32:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:16.5487403 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:33:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:49.2043590 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:33:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:42:04.5162195 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:34:01 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:42:19.8554708 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:34:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:42:35.1792335 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:34:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:43:08.0579075 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:35:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:43:23.4103615 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:35:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:43:38.7457426 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:35:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:43:54.2517228 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:36:08 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:44:26.9762665 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:36:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:44:42.3424080 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:36:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:44:57.6816671 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:36:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:45:13.4926392 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:37:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:45:46.6351721 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:37:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:01.9962657 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:37:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:17.7542919 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:38:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:33.1301216 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:38:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:47:06.2599366 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:39:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:47:21.6213775 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:39:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:47:36.9589198 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:39:33 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:47:52.2775537 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:40:06 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:48:25.0562830 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:40:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:48:40.3984558 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:40:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:48:55.7922999 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:40:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:49:11.2759735 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:41:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:49:44.2110138 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:41:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:49:59.6441220 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:41:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:50:15.0016535 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:42:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:50:30.3425207 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:42:44 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:51:03.0260344 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:42:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:51:18.4143353 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:43:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:51:33.7505936 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:43:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:51:49.1898772 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:44:03 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:52:22.3467560 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:44:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:52:37.6984695 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:44:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:52:53.0824888 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:44:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:53:08.4442654 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:45:22 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:53:41.4804005 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:45:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:53:57.2783193 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:45:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:54:12.6058518 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:46:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:54:27.9290051 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:46:41 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:55:00.6142000 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:46:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:55:15.9581396 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:47:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:55:31.2973466 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:47:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:55:46.6451252 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:48:00 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:56:19.5090365 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:48:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:56:34.9202219 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:48:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:56:50.2835374 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:48:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:57:05.6645125 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:49:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:57:38.5175477 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:49:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:57:53.8658316 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:49:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:58:09.2587838 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:50:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:58:24.6694365 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:50:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:58:57.4806975 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:50:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:59:12.8732877 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:51:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:59:28.3087112 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:51:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:59:43.6896141 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:51:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:00:16.5915597 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:52:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:00:34.1210197 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:52:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:00:49.9968454 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:52:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:01:05.3504980 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:53:19 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:01:38.2366509 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:53:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:01:53.5679028 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:53:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:02:08.9289733 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:54:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:02:24.2804557 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:54:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:02:57.5539605 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:54:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:03:12.9430767 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:55:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:03:28.2776548 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:55:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:03:43.5946887 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:55:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:04:16.1868192 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:56:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:04:31.5103204 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:56:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:04:46.8021209 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:56:43 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:05:02.1486154 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:57:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:05:34.9843043 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:57:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:05:50.2990382 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:57:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:06:05.6421871 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:58:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:06:20.9566557 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:58:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:06:53.5476642 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:58:50 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:07:08.9015265 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:59:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:07:24.2229746 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:59:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:07:39.5598253 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 09:59:53 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:08:12.2744786 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:00:08 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:08:27.5762340 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:00:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:08:42.9081692 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:00:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:08:58.2436505 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:01:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:09:31.0442485 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:01:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:09:46.3660718 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:01:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:10:01.6803093 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:01:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:10:16.9787063 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:02:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:10:49.6315109 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:02:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:11:04.9444860 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:03:01 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:11:20.2671154 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:03:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:11:35.5893546 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:03:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:12:08.2291803 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:04:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:12:23.5582217 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:04:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:12:38.8556070 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:04:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:12:54.1466009 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:05:08 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:13:27.0317553 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:05:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:13:42.3935076 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:05:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:13:57.7271183 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:05:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:14:13.0912383 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:06:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:14:45.8501309 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:06:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:15:01.1714996 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:06:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:15:16.5219903 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:07:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:15:31.8356091 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:07:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:16:04.5018403 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:08:01 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:16:19.8124436 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:08:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 01:16:35.1087652 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:09:19 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/30/2021 10:09:20 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration. Retrying...
+12/30/2021 10:09:21 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) An exception occurred while trying to perform the migration.
+12/30/2021 10:09:21 +05:30 [WRN] (Hangfire.SqlServer.SqlServerObjectsInstaller) Was unable to perform the Hangfire schema migration due to an exception. Ignore this message unless you've just installed or upgraded Hangfire.
+12/30/2021 10:09:21 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/30/2021 10:09:22 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/30/2021 10:09:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:32.7729922 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:10:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:05.2497051 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:10:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:20.5501502 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:11:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:53.1210974 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:11:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:08.4558016 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:11:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:23.7680282 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:12:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:56.3655494 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:12:33 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:11.8174098 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:12:37 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 10:12:37 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 10:12:37 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 10:12:41 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+12/30/2021 10:12:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:27.1898492 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:13:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:42.5304148 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:13:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:13.8458063 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 10:13:47 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 10:13:47 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 10:13:47 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 10:13:49 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 1490.7072 milliseconds
+12/30/2021 10:13:49 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 1594.934 milliseconds
+12/30/2021 10:13:49 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 1596.4137 milliseconds
+12/30/2021 10:13:49 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/30/2021 10:13:49 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+12/30/2021 10:13:49 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 4.3724 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 88.5756 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 2.4987 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 2.9714 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 3.6878 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 330.2828 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 320.7029 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 59.0649 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' execution ended: Time elapsed 588.2397 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 74.736 milliseconds
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+12/30/2021 10:13:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 10:13:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 10:13:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 232.041 milliseconds
+12/30/2021 10:13:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' execution ended: Time elapsed 1026.3443 milliseconds
+12/30/2021 10:13:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+12/30/2021 10:13:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/30/2021 10:13:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/30/2021 10:13:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 5563.5037 milliseconds
+12/30/2021 10:13:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 5859.3773 milliseconds
+12/30/2021 10:13:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 436.3841 milliseconds
+12/30/2021 10:13:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 10:13:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 88.6284 milliseconds
+12/30/2021 10:13:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/30/2021 10:13:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 379.8778 milliseconds
+12/30/2021 10:13:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 999.3566 milliseconds
+12/30/2021 10:13:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 1004.0122 milliseconds
+12/30/2021 10:14:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 15834.31 milliseconds
+12/30/2021 10:14:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 16013.404 milliseconds
+12/30/2021 10:14:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo200 JSME call 
+12/30/2021 10:14:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 16016.624 milliseconds
+12/30/2021 10:14:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 16021.1105 milliseconds
+12/30/2021 10:14:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 10:14:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 145.3558 milliseconds
+12/30/2021 10:14:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForConfiguration' started:
+12/30/2021 10:14:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForConfiguration' execution ended: Time elapsed 303.4243 milliseconds
+12/30/2021 10:14:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 17586.472 milliseconds
+12/30/2021 10:14:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetListOfConfigurationForProject' execution ended: Time elapsed 17597.0536 milliseconds
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetSystemValidationMainValues' started:
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'SystemValidationForUnitBl' started:
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 15.2649 milliseconds
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2343 milliseconds
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.7082 milliseconds
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of unitvalidationevo100 JSME call 
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/30/2021 10:45:31 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/30/2021 10:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 14842.7501 milliseconds
+12/30/2021 10:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 14844.8439 milliseconds
+12/30/2021 10:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of unitvalidationevo100 JSME call 
+12/30/2021 10:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 14846.333 milliseconds
+12/30/2021 10:45:46 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 14847.8329 milliseconds
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 5.9658 milliseconds
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2321 milliseconds
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.6286 milliseconds
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of Evo100_CabWt_R100289460 JSME call 
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/30/2021 10:45:47 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 621.2321 milliseconds
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 623.325 milliseconds
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of Evo100_CabWt_R100289460 JSME call 
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 623.9841 milliseconds
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 624.5862 milliseconds
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 4.3665 milliseconds
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 6.1815 milliseconds
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.2243 milliseconds
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of Evo100_SlingWt_R100289458 JSME call 
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/30/2021 10:45:48 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 447.7053 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 448.7255 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of Evo100_SlingWt_R100289458 JSME call 
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 449.3021 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 449.8003 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.5423 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of Evo100_Empty_R100289459 JSME call 
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 637.3417 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 638.6453 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of Evo100_Empty_R100289459 JSME call 
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 639.5624 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 642.8835 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 6.8588 milliseconds
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/30/2021 10:45:49 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2696 milliseconds
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.9964 milliseconds
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.258 milliseconds
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1478 milliseconds
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.6211 milliseconds
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' started:
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Start of Evo100_Duty_R100205358 JSME call 
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' started:
+12/30/2021 10:45:50 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' started:
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigureOrPrice' execution ended: Time elapsed 766.3786 milliseconds
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'Configure' execution ended: Time elapsed 767.4225 milliseconds
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) End of Evo100_Duty_R100205358 JSME call 
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 767.9606 milliseconds
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'ConfigurationBl' execution ended: Time elapsed 768.5561 milliseconds
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 4.1341 milliseconds
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' started:
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' started:
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.2247 milliseconds
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.7326 milliseconds
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'SystemValidationForUnitBl' execution ended: Time elapsed 19284.3846 milliseconds
+12/30/2021 10:45:51 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetLatestSystemsValValues' started:
+12/30/2021 10:45:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetLatestSystemsValValues' execution ended: Time elapsed 877.391 milliseconds
+12/30/2021 10:45:52 +05:30 [DBG] (TKE.SC.BFF.BusinessProcess.Services.UnitConfigurationBL) Method 'GetSystemValidationMainValues' execution ended: Time elapsed 20242.5968 milliseconds
+12/30/2021 13:50:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution DelayedJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/30/2021 13:50:39 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:50:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution RecurringJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/30/2021 13:50:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution Worker is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+12/30/2021 13:51:09 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:51:40 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:52:19 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:53:07 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:53:55 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:54:29 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:54:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution ServerWatchdog is in the Failed state now due to an exception, execution will be retried no more than in 00:00:09
+12/30/2021 13:55:06 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:55:06 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution CountersAggregator is in the Failed state now due to an exception, execution will be retried no more than in 00:00:09
+12/30/2021 13:55:37 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:56:09 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 encountered an exception while sending heartbeat
+12/30/2021 13:56:09 +05:30 [ERR] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:42048:de27a201 will be restarted due to server time out
+12/30/2021 13:56:10 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:42048:de27a201 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+12/30/2021 13:56:10 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:42048:de27a201 there was an exception, server may not be removed
+12/30/2021 13:56:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+12/30/2021 13:56:26 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:15.5100842 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 13:56:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:48.5075902 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 13:57:33 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:22.4495573 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 13:58:06 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:55.5876099 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 13:58:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:28.4433332 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 13:59:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:01.5102449 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 13:59:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:34.4529770 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:00:18 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:07.4133381 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:00:51 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:40.2299344 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:01:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:13.4971771 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:01:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:46.7729348 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:02:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:20.4117066 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:03:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:53.9685957 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:03:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:27.2972258 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:04:12 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:01.1405095 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:04:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:41.1820847 due to an exception, will be retried no more than in 00:00:15
+12/30/2021 14:14:48 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/30/2021 14:15:36 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 14:15:36 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 14:15:36 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 14:15:37 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+12/30/2021 14:15:38 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/30/2021 14:15:39 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 1947.6481 milliseconds
+12/30/2021 14:15:39 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 2845.475 milliseconds
+12/30/2021 14:15:39 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 3009.9984 milliseconds
+12/30/2021 14:15:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/30/2021 14:15:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' started:
+12/30/2021 14:15:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' started:
+12/30/2021 14:15:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/30/2021 14:15:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 4.277 milliseconds
+12/30/2021 14:15:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' started:
+12/30/2021 14:15:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 33.4775 milliseconds
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' started:
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 6.5616 milliseconds
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' started:
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 166.8556 milliseconds
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 5.9211 milliseconds
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' started:
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' execution ended: Time elapsed 451.4228 milliseconds
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' started:
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 936.34 milliseconds
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 4.5107 milliseconds
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 176.7681 milliseconds
+12/30/2021 14:15:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' execution ended: Time elapsed 934.7263 milliseconds
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 1233.3497 milliseconds
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 1241.8114 milliseconds
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 1450.0427 milliseconds
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 1493.8406 milliseconds
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 157.3458 milliseconds
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 163.4184 milliseconds
+12/30/2021 14:15:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 166.8084 milliseconds
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 205.9088 milliseconds
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 39.1436 milliseconds
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 191.1794 milliseconds
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 469.9503 milliseconds
+12/30/2021 14:16:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 475.2674 milliseconds
+12/30/2021 14:16:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' started:
+12/30/2021 14:16:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/30/2021 14:16:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/30/2021 14:16:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 680.6405 milliseconds
+12/30/2021 14:16:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 14:16:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 73.2223 milliseconds
+12/30/2021 14:16:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/30/2021 14:16:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 287.4395 milliseconds
+12/30/2021 14:16:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 1440.4592 milliseconds
+12/30/2021 14:16:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' execution ended: Time elapsed 1443.8087 milliseconds
+12/30/2021 14:16:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/30/2021 14:16:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/30/2021 14:16:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/30/2021 14:16:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 3.7527 milliseconds
+12/30/2021 14:16:11 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+12/30/2021 14:16:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+12/30/2021 14:16:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 322.7157 milliseconds
+12/30/2021 14:16:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 14:16:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 57.6963 milliseconds
+12/30/2021 14:16:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/30/2021 14:16:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:16:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:16:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+12/30/2021 14:16:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:16:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 11082.5767 milliseconds
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 11108.2599 milliseconds
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of buildingconfiguration JSME call 
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11112.3486 milliseconds
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11113.6631 milliseconds
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 11148.3162 milliseconds
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 62.615 milliseconds
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.9915 milliseconds
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of groupconfiguration JSME call 
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:16:35 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:17:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 29624.5168 milliseconds
+12/30/2021 14:17:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 29628.6677 milliseconds
+12/30/2021 14:17:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of groupconfiguration JSME call 
+12/30/2021 14:17:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 29630.6324 milliseconds
+12/30/2021 14:17:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 29634.0453 milliseconds
+12/30/2021 14:17:04 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 29692.8961 milliseconds
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 15.57 milliseconds
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 13.3095 milliseconds
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo100 JSME call 
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:17:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:17:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 5362.8657 milliseconds
+12/30/2021 14:17:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 5366.8875 milliseconds
+12/30/2021 14:17:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo100 JSME call 
+12/30/2021 14:17:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5367.9859 milliseconds
+12/30/2021 14:17:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5368.9845 milliseconds
+12/30/2021 14:17:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 5508.8515 milliseconds
+12/30/2021 14:20:40 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+12/30/2021 14:22:13 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/30/2021 14:42:01 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/30/2021 14:42:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/30/2021 14:42:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/30/2021 14:42:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/30/2021 14:42:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 69.2338 milliseconds
+12/30/2021 14:42:18 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+12/30/2021 14:42:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+12/30/2021 14:42:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 316.4465 milliseconds
+12/30/2021 14:42:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 14:42:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 75.2611 milliseconds
+12/30/2021 14:42:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/30/2021 14:42:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:42:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:42:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+12/30/2021 14:42:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:42:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 846.2559 milliseconds
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 896.9174 milliseconds
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of buildingconfiguration JSME call 
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 899.6987 milliseconds
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 901.3274 milliseconds
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 976.9767 milliseconds
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 148.6478 milliseconds
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.0106 milliseconds
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of groupconfiguration JSME call 
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:42:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 11474.8622 milliseconds
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 11479.5244 milliseconds
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of groupconfiguration JSME call 
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11480.2613 milliseconds
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11481.4956 milliseconds
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 11619.7753 milliseconds
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 17.5777 milliseconds
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 14.3504 milliseconds
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo100 JSME call 
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:42:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 5560.5185 milliseconds
+12/30/2021 14:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 5564.3024 milliseconds
+12/30/2021 14:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo100 JSME call 
+12/30/2021 14:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5565.2698 milliseconds
+12/30/2021 14:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5566.559 milliseconds
+12/30/2021 14:42:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 5749.2148 milliseconds
+12/30/2021 14:46:45 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+12/30/2021 14:48:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' started:
+12/30/2021 14:48:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+12/30/2021 14:48:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' started:
+12/30/2021 14:48:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/30/2021 14:48:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' started:
+12/30/2021 14:48:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/30/2021 14:48:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+12/30/2021 14:48:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+12/30/2021 14:48:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 280.8254 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 47.2415 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 527.3873 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 3.6955 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 2.928 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 2.9086 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 175.0279 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 792.8507 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 816.503 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 4.5896 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' execution ended: Time elapsed 404.7953 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' started:
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 187.4845 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' execution ended: Time elapsed 830.2898 milliseconds
+12/30/2021 14:48:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 1373.8775 milliseconds
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 13.5074 milliseconds
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 176.6073 milliseconds
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 1739.852 milliseconds
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' execution ended: Time elapsed 1762.2513 milliseconds
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 1409.2274 milliseconds
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 1933.5128 milliseconds
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 175.6984 milliseconds
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 186.3939 milliseconds
+12/30/2021 14:48:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 190.8429 milliseconds
+12/30/2021 14:48:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/30/2021 14:48:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+12/30/2021 14:48:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+12/30/2021 14:48:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 34.1017 milliseconds
+12/30/2021 14:48:55 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+12/30/2021 14:48:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+12/30/2021 14:48:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 307.6422 milliseconds
+12/30/2021 14:48:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 14:48:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 49.228 milliseconds
+12/30/2021 14:48:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/30/2021 14:48:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:48:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:48:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+12/30/2021 14:48:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:48:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 935.0785 milliseconds
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 956.8142 milliseconds
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of buildingconfiguration JSME call 
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 961.0969 milliseconds
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 962.2455 milliseconds
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 999.182 milliseconds
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 70.9501 milliseconds
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 5.3522 milliseconds
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of groupconfiguration JSME call 
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:49:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 9933.1638 milliseconds
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 9942.5502 milliseconds
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of groupconfiguration JSME call 
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 9944.1435 milliseconds
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 9946.1453 milliseconds
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 9989.9013 milliseconds
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 14.6483 milliseconds
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 11.4409 milliseconds
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo100 JSME call 
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:49:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:49:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4244.6512 milliseconds
+12/30/2021 14:49:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4249.2168 milliseconds
+12/30/2021 14:49:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo100 JSME call 
+12/30/2021 14:49:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4253.1205 milliseconds
+12/30/2021 14:49:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4255.5157 milliseconds
+12/30/2021 14:49:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 4454.9076 milliseconds
+12/30/2021 14:50:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:50:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:50:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/30/2021 14:50:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:50:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100124075 JSME call 
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 53917.1513 milliseconds
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 54104.0256 milliseconds
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 54105.894 milliseconds
+12/30/2021 14:51:14 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 54108.3633 milliseconds
+12/30/2021 14:51:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:51:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:51:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+12/30/2021 14:51:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:51:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:51:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 31011.1443 milliseconds
+12/30/2021 14:51:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 31044.3978 milliseconds
+12/30/2021 14:51:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100124075 JSME call 
+12/30/2021 14:51:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 31083.3017 milliseconds
+12/30/2021 14:51:45 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 31084.9332 milliseconds
+12/30/2021 14:52:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:52:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:52:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/30/2021 14:52:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:52:20 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:54:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:54:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:54:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100000689 JSME call 
+12/30/2021 14:54:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:54:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:54:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 166535.1226 milliseconds
+12/30/2021 14:54:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 166542.9477 milliseconds
+12/30/2021 14:54:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+12/30/2021 14:54:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 166614.8465 milliseconds
+12/30/2021 14:54:31 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 166617.7235 milliseconds
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 132266.4107 milliseconds
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 132267.265 milliseconds
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 132267.9081 milliseconds
+12/30/2021 14:54:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 132268.624 milliseconds
+12/30/2021 14:55:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:55:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:55:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+12/30/2021 14:55:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:55:10 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 41386.6493 milliseconds
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 41387.508 milliseconds
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100000689 JSME call 
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 41388.2277 milliseconds
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 41389.5395 milliseconds
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:55:11 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 40190.6978 milliseconds
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 40191.924 milliseconds
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 40193.0819 milliseconds
+12/30/2021 14:55:12 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 40194.0935 milliseconds

@@ -1,0 +1,1018 @@
+01/11/2022 00:24:42 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:20156:353c4805 encountered an exception while sending heartbeat
+01/11/2022 08:30:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution RecurringJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:16
+01/11/2022 08:30:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution Worker is in the Failed state now due to an exception, execution will be retried no more than in 00:00:16
+01/11/2022 08:30:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution DelayedJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:16
+01/11/2022 08:31:09 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:20156:353c4805 encountered an exception while sending heartbeat
+01/11/2022 08:31:09 +05:30 [ERR] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:20156:353c4805 will be restarted due to server time out
+01/11/2022 08:31:09 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:20156:353c4805 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+01/11/2022 08:31:09 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:20156:353c4805 there was an exception, server may not be removed
+01/11/2022 08:31:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+01/11/2022 08:31:41 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:31.5990879 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:32:13 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:03.3647529 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:32:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:35.1990947 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:33:16 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:07.0111064 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:33:48 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:02:38.7801435 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:34:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:10.5453271 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:34:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:03:42.2310608 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:35:23 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:13.9433915 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:35:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:04:45.4887637 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:36:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:17.5033652 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:36:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:05:49.2965894 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:37:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:21.0029082 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:38:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:06:52.7396259 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:38:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:24.5888740 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:39:06 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:07:56.3340850 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:39:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:28.0915176 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:40:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:08:59.7792859 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:40:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:14.7838266 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:40:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:09:46.4222869 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:41:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:10:18.0766546 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:41:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:10:50.0725575 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:42:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:11:21.8035164 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:43:03 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:11:53.5466721 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:43:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:12:25.3549130 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:44:06 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:12:57.0610812 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:44:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:13:28.9464635 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:45:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:00.5823817 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:45:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:15.5863657 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:45:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:14:47.1103270 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:46:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:15:18.8429963 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:47:00 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:15:50.4800524 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:47:32 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:16:22.4179265 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:48:03 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:16:54.1029498 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:48:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:17:25.8155870 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:49:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:17:57.4692757 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:49:38 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:18:29.1034186 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:50:10 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:00.7178114 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:50:25 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:15.7272938 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:50:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:19:47.4278562 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:51:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:20:19.1045569 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:52:00 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:20:50.8241755 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:52:32 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:21:22.4954200 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:53:04 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:21:54.1613730 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:53:35 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:22:25.9181306 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:54:07 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:22:57.7951802 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:54:39 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:23:29.4748089 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:55:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:24:01.3439970 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:55:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:24:32.8459696 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:56:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:25:04.3508258 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:56:45 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:25:36.0406604 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:57:17 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:07.4972426 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:57:49 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:26:39.1686042 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:58:20 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:27:10.9961756 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:58:52 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:27:42.5072480 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:59:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:28:14.1690698 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 08:59:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:28:45.9963893 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:00:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:29:17.7400132 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:00:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:29:49.4700763 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:01:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:21.1950343 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:02:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:30:52.9804654 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:02:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:24.5117931 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:03:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:31:56.0447970 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:03:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:32:27.7495483 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:04:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:32:59.4314071 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:04:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:33:14.4354566 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:04:56 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:33:46.1922851 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:05:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:34:17.8160865 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:05:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:34:49.2981266 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:06:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:21.0247926 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:07:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:35:52.7062098 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:07:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:36:24.3676633 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:08:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:36:56.0627135 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:08:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:37:27.6439901 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:09:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:37:59.3838421 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:09:24 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:38:14.3938722 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:09:55 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:38:45.9420405 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:10:27 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:39:17.5952279 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:10:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:39:49.2591656 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:11:30 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:40:20.9158109 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:12:02 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:40:52.6789708 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:12:34 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:24.3722784 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:13:05 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:41:55.9198614 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:13:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:42:27.6201517 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:14:09 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:42:59.2201664 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:14:40 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:43:30.8341451 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:15:11 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:44:01.4822850 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:15:42 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:44:33.0409472 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:16:14 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:45:04.8689790 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:16:46 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:45:36.3492067 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:17:15 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:05.7341174 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:17:47 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:46:37.3606557 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 09:32:59 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+01/11/2022 09:40:51 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 142.9263 milliseconds
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 164.8483 milliseconds
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 178.0382 milliseconds
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 7.3563 milliseconds
+01/11/2022 09:40:51 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 36.7732 milliseconds
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetViewUserCheck' execution ended: Time elapsed 3.4977 milliseconds
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 2.1998 milliseconds
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 2.2287 milliseconds
+01/11/2022 09:40:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' started:
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetMiniProjectValues' execution ended: Time elapsed 70.4892 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' started:
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 49.7571 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateProjectsBL' execution ended: Time elapsed 195.7526 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectInfo' execution ended: Time elapsed 357.5317 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectDetails' execution ended: Time elapsed 406.7034 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 779.5696 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 3.0787 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 907.2053 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 911.702 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 53.3508 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 56.8186 milliseconds
+01/11/2022 09:40:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 60.2504 milliseconds
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 68.8786 milliseconds
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 4.6432 milliseconds
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 48.8429 milliseconds
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 142.0698 milliseconds
+01/11/2022 09:44:19 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 147.6104 milliseconds
+01/11/2022 09:50:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+01/11/2022 09:50:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+01/11/2022 09:50:59 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' started:
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 760.2602 milliseconds
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 5.0718 milliseconds
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 842.9119 milliseconds
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetFieldDrawingsByProjectId' execution ended: Time elapsed 845.1792 milliseconds
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' started:
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 50.0831 milliseconds
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 59.2302 milliseconds
+01/11/2022 09:51:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetSendToCoordinationStatus' execution ended: Time elapsed 60.7592 milliseconds
+01/11/2022 09:51:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+01/11/2022 09:51:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+01/11/2022 09:51:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+01/11/2022 09:51:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 62.7525 milliseconds
+01/11/2022 09:51:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+01/11/2022 09:51:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 5.0386 milliseconds
+01/11/2022 09:51:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+01/11/2022 09:51:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 53.5517 milliseconds
+01/11/2022 09:51:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 124.1911 milliseconds
+01/11/2022 09:51:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' execution ended: Time elapsed 125.952 milliseconds
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ReleaseInfoCLMCall' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 55.6064 milliseconds
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 1.1999 milliseconds
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 4.6279 milliseconds
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateIncludeSections' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateIncludeSections' execution ended: Time elapsed 1.5988 milliseconds
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:51:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3186.5866 milliseconds
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3207.9643 milliseconds
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo200 JSME call 
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3212.1005 milliseconds
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3212.9044 milliseconds
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 3953.315 milliseconds
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 4.3006 milliseconds
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 53.5876 milliseconds
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 4083.4049 milliseconds
+01/11/2022 09:51:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' execution ended: Time elapsed 4086.5654 milliseconds
+01/11/2022 09:53:28 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ReleaseInfoCLMCall' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 59.7324 milliseconds
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.3879 milliseconds
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 2.6004 milliseconds
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateIncludeSections' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateIncludeSections' execution ended: Time elapsed 6.5078 milliseconds
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:53:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3523.0084 milliseconds
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3551.2144 milliseconds
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo200 JSME call 
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3555.9517 milliseconds
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3556.9902 milliseconds
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 4270.1854 milliseconds
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 48.9814 milliseconds
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 64.972 milliseconds
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 4512.459 milliseconds
+01/11/2022 09:53:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' execution ended: Time elapsed 4529.4455 milliseconds
+01/11/2022 09:54:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+01/11/2022 09:54:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+01/11/2022 09:54:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+01/11/2022 09:54:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 7.2393 milliseconds
+01/11/2022 09:54:38 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+01/11/2022 09:54:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+01/11/2022 09:54:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 601.7472 milliseconds
+01/11/2022 09:54:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 09:54:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 4.0887 milliseconds
+01/11/2022 09:54:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:54:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:54:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:54:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+01/11/2022 09:54:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:54:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:54:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 2307.4697 milliseconds
+01/11/2022 09:54:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 2310.4622 milliseconds
+01/11/2022 09:54:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of buildingconfiguration JSME call 
+01/11/2022 09:54:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 2312.0286 milliseconds
+01/11/2022 09:54:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 2314.4556 milliseconds
+01/11/2022 09:54:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 2321.8425 milliseconds
+01/11/2022 09:54:41 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+01/11/2022 09:54:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 74.5363 milliseconds
+01/11/2022 09:54:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 09:54:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 5.187 milliseconds
+01/11/2022 09:54:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:54:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:54:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:54:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of groupconfiguration JSME call 
+01/11/2022 09:54:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:54:42 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:54:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8771.5395 milliseconds
+01/11/2022 09:54:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8777.6724 milliseconds
+01/11/2022 09:54:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of groupconfiguration JSME call 
+01/11/2022 09:54:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8778.9839 milliseconds
+01/11/2022 09:54:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8780.7845 milliseconds
+01/11/2022 09:54:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 8833.9718 milliseconds
+01/11/2022 09:54:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+01/11/2022 09:54:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 18.5414 milliseconds
+01/11/2022 09:54:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 09:54:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 12.9488 milliseconds
+01/11/2022 09:54:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:54:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:54:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:54:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo100 JSME call 
+01/11/2022 09:54:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:54:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:54:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4646.5562 milliseconds
+01/11/2022 09:54:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4650.7869 milliseconds
+01/11/2022 09:54:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo100 JSME call 
+01/11/2022 09:54:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4651.8946 milliseconds
+01/11/2022 09:54:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4653.1522 milliseconds
+01/11/2022 09:54:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 4810.108 milliseconds
+01/11/2022 09:54:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 18327.5356 milliseconds
+01/11/2022 09:54:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 18334.0582 milliseconds
+01/11/2022 09:57:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+01/11/2022 09:57:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+01/11/2022 09:57:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+01/11/2022 09:57:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 6.9033 milliseconds
+01/11/2022 09:57:07 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+01/11/2022 09:57:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+01/11/2022 09:57:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 448.9512 milliseconds
+01/11/2022 09:57:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 09:57:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.4531 milliseconds
+01/11/2022 09:57:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:57:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+01/11/2022 09:57:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:57:08 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 896.4459 milliseconds
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 898.513 milliseconds
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of buildingconfiguration JSME call 
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 899.3985 milliseconds
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 900.308 milliseconds
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 904.6359 milliseconds
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 47.8954 milliseconds
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 2.8084 milliseconds
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of groupconfiguration JSME call 
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:57:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:57:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8740.0846 milliseconds
+01/11/2022 09:57:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8742.7618 milliseconds
+01/11/2022 09:57:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of groupconfiguration JSME call 
+01/11/2022 09:57:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8743.254 milliseconds
+01/11/2022 09:57:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8744.0139 milliseconds
+01/11/2022 09:57:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 8774.2559 milliseconds
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 18.6907 milliseconds
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 3.8496 milliseconds
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo100 JSME call 
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:57:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:57:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4617.1299 milliseconds
+01/11/2022 09:57:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4619.1892 milliseconds
+01/11/2022 09:57:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo100 JSME call 
+01/11/2022 09:57:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4619.9225 milliseconds
+01/11/2022 09:57:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4620.2564 milliseconds
+01/11/2022 09:57:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 4690.0405 milliseconds
+01/11/2022 09:57:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:57:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of R100222634 JSME call 
+01/11/2022 09:57:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:57:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 1744.886 milliseconds
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 1752.3538 milliseconds
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of R100222634 JSME call 
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1752.7979 milliseconds
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1753.2405 milliseconds
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 1778.101 milliseconds
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of R100275665 JSME call 
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:57:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 1750.6515 milliseconds
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 1759.2581 milliseconds
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of R100275665 JSME call 
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1759.8446 milliseconds
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1760.371 milliseconds
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 1784.3251 milliseconds
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 6.2738 milliseconds
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of R100222634 JSME call 
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:57:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 717.3004 milliseconds
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 726.4035 milliseconds
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of R100222634 JSME call 
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 727.0547 milliseconds
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 727.643 milliseconds
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 752.1805 milliseconds
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of R100275665 JSME call 
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:57:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 766.3471 milliseconds
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 781.0959 milliseconds
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of R100275665 JSME call 
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 782.2966 milliseconds
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 782.8964 milliseconds
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 881.5914 milliseconds
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 3.743 milliseconds
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 22497.8048 milliseconds
+01/11/2022 09:57:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 22499.4311 milliseconds
+01/11/2022 09:59:17 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+01/11/2022 09:59:17 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+01/11/2022 09:59:17 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+01/11/2022 09:59:17 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 76.48 milliseconds
+01/11/2022 09:59:17 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 88.4708 milliseconds
+01/11/2022 09:59:17 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' execution ended: Time elapsed 90.6967 milliseconds
+01/11/2022 09:59:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseInfo' started:
+01/11/2022 09:59:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+01/11/2022 09:59:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetProjectReleaseInfo' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectDetails' execution ended: Time elapsed 5.1564 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectInfo' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 2.6326 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetViewUserCheck' execution ended: Time elapsed 2.5118 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 82.6357 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetRoleName' execution ended: Time elapsed 2.2245 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionForReleaseInfo' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'CreateProjectsBL' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetUserId' execution ended: Time elapsed 2.2813 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.APIController.ProjectsController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 63.4451 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetUserDetails' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetProjectReleaseInfo' execution ended: Time elapsed 167.0822 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetReleaseInfo' execution ended: Time elapsed 169.691 milliseconds
+01/11/2022 09:59:18 +05:30 [ERR] (TKE.SC.BFF.ExceptionHandlingMiddleware) Object reference not set to an instance of an object.
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetRoleName' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetRoleName' execution ended: Time elapsed 24.8059 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetMiniProjectValues' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetMiniProjectValues' execution ended: Time elapsed 86.4794 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetPermissionForProjectScreen' started:
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetPermissionForProjectScreen' execution ended: Time elapsed 65.2566 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'CreateProjectsBL' execution ended: Time elapsed 303.8386 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetProjectInfo' execution ended: Time elapsed 435.5395 milliseconds
+01/11/2022 09:59:18 +05:30 [DBG] (TKE.SC.BFF.Api.V1.AuthController) Method 'GetProjectDetails' execution ended: Time elapsed 472.7853 milliseconds
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ReleaseInfoCLMCall' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 1.2188 milliseconds
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'UpdateVariableAssignments' execution ended: Time elapsed 0.1536 milliseconds
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetBaseConfigureRequest' execution ended: Time elapsed 0.4995 milliseconds
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateIncludeSections' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GenerateIncludeSections' execution ended: Time elapsed 0.9119 milliseconds
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo200 JSME call 
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 09:59:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3112.0422 milliseconds
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3112.8193 milliseconds
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo200 JSME call 
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3113.2297 milliseconds
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3113.8846 milliseconds
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 3329.0845 milliseconds
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' started:
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetRoleName' execution ended: Time elapsed 4.9568 milliseconds
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' started:
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetPermissionForReleaseInfo' execution ended: Time elapsed 69.9093 milliseconds
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetGroupReleaseInfo' execution ended: Time elapsed 3433.1522 milliseconds
+01/11/2022 09:59:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetReleaseToManufactureByGroupId' execution ended: Time elapsed 3433.7926 milliseconds
+01/11/2022 10:00:31 +05:30 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+01/11/2022 10:01:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+01/11/2022 10:01:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' started:
+01/11/2022 10:01:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+01/11/2022 10:01:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 56.1822 milliseconds
+01/11/2022 10:01:39 +05:30 [VRB] (TTKE.SC.BFF.Api.V1.QuotesController)  SaveUpdateReleaseInfo DL call Initiated
+01/11/2022 10:01:39 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' started:
+01/11/2022 10:01:40 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetailsDL' execution ended: Time elapsed 574.6456 milliseconds
+01/11/2022 10:01:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 10:01:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 36.5456 milliseconds
+01/11/2022 10:01:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 10:01:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:01:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:01:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of buildingconfiguration JSME call 
+01/11/2022 10:01:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:01:46 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:01:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 1034.2074 milliseconds
+01/11/2022 10:01:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 1050.8296 milliseconds
+01/11/2022 10:01:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of buildingconfiguration JSME call 
+01/11/2022 10:01:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1052.6029 milliseconds
+01/11/2022 10:01:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1053.353 milliseconds
+01/11/2022 10:01:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 1084.5841 milliseconds
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 73.9027 milliseconds
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 4.377 milliseconds
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of groupconfiguration JSME call 
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:01:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8628.2189 milliseconds
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8633.6866 milliseconds
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of groupconfiguration JSME call 
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8635.5637 milliseconds
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8636.4265 milliseconds
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 8688.3994 milliseconds
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' started:
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GeneratevariableAssignmentsForCrosspackageDependecy' execution ended: Time elapsed 20.7988 milliseconds
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' started:
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'CreateConfigurationRequestWithTemplate' execution ended: Time elapsed 11.876 milliseconds
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of unitvalidationevo100 JSME call 
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:01:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:02:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4162.48 milliseconds
+01/11/2022 10:02:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4166.1741 milliseconds
+01/11/2022 10:02:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of unitvalidationevo100 JSME call 
+01/11/2022 10:02:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4168.1638 milliseconds
+01/11/2022 10:02:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4170.6928 milliseconds
+01/11/2022 10:02:01 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 4293.7354 milliseconds
+01/11/2022 10:02:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 10:02:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:02:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:02:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of R100222634 JSME call 
+01/11/2022 10:02:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:02:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 705.5537 milliseconds
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 716.551 milliseconds
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of R100222634 JSME call 
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 717.6796 milliseconds
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 719.345 milliseconds
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 743.1257 milliseconds
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of R100275665 JSME call 
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:02:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 779.0363 milliseconds
+01/11/2022 10:02:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 799.3078 milliseconds
+01/11/2022 10:02:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of R100275665 JSME call 
+01/11/2022 10:02:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 800.793 milliseconds
+01/11/2022 10:02:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 801.484 milliseconds
+01/11/2022 10:02:52 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 822.5604 milliseconds
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100124075 JSME call 
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100000689 JSME call 
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100000525 JSME call 
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 7365.6045 milliseconds
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 7371.9575 milliseconds
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 7372.887 milliseconds
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 7373.6519 milliseconds
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 7879.1286 milliseconds
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 7885.7815 milliseconds
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100124075 JSME call 
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 7886.6428 milliseconds
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 7887.4291 milliseconds
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8465.728 milliseconds
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8472.5703 milliseconds
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100000689 JSME call 
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8473.145 milliseconds
+01/11/2022 10:03:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8474.1431 milliseconds
+01/11/2022 10:03:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 2994.7965 milliseconds
+01/11/2022 10:03:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3002.7952 milliseconds
+01/11/2022 10:03:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:03:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3003.3718 milliseconds
+01/11/2022 10:03:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3010.9429 milliseconds
+01/11/2022 10:03:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3474.2656 milliseconds
+01/11/2022 10:03:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3478.4465 milliseconds
+01/11/2022 10:03:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:03:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3478.9067 milliseconds
+01/11/2022 10:03:28 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3479.7255 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4857.9425 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4864.1545 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4864.7632 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4865.3814 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4830.1614 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4835.6375 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4836.1142 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4836.9453 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 5173.2705 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 5178.6561 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5179.3056 milliseconds
+01/11/2022 10:03:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5180.0369 milliseconds
+01/11/2022 10:03:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 15786.7123 milliseconds
+01/11/2022 10:03:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 15795.0817 milliseconds
+01/11/2022 10:03:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100000525 JSME call 
+01/11/2022 10:03:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 15796.6918 milliseconds
+01/11/2022 10:03:33 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 15797.4734 milliseconds
+01/11/2022 10:03:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 30380.1624 milliseconds
+01/11/2022 10:03:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 30388.9567 milliseconds
+01/11/2022 10:03:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:03:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 30389.5183 milliseconds
+01/11/2022 10:03:47 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 30390.0258 milliseconds
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 35922.2589 milliseconds
+01/11/2022 10:03:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 35929.7537 milliseconds
+01/11/2022 10:03:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:03:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 35930.2252 milliseconds
+01/11/2022 10:03:53 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 35930.7604 milliseconds
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 9843.4243 milliseconds
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 9850.5255 milliseconds
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 9851.2976 milliseconds
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 9852.0809 milliseconds
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:03:58 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:04:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 12596.2837 milliseconds
+01/11/2022 10:04:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 12601.8002 milliseconds
+01/11/2022 10:04:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:04:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 12602.2901 milliseconds
+01/11/2022 10:04:00 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 12602.8185 milliseconds
+01/11/2022 10:04:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4324.3465 milliseconds
+01/11/2022 10:04:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4335.3744 milliseconds
+01/11/2022 10:04:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:04:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4335.9104 milliseconds
+01/11/2022 10:04:02 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4337.5772 milliseconds
+01/11/2022 10:04:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 14693.5336 milliseconds
+01/11/2022 10:04:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 14702.7613 milliseconds
+01/11/2022 10:04:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:04:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 14703.2263 milliseconds
+01/11/2022 10:04:03 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 14703.7264 milliseconds
+01/11/2022 10:04:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 6480.2735 milliseconds
+01/11/2022 10:04:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 6488.2758 milliseconds
+01/11/2022 10:04:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:04:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 6488.8068 milliseconds
+01/11/2022 10:04:05 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 6489.2298 milliseconds
+01/11/2022 10:04:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 8193.7632 milliseconds
+01/11/2022 10:04:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 8199.0851 milliseconds
+01/11/2022 10:04:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:04:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8199.59 milliseconds
+01/11/2022 10:04:06 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 8200.025 milliseconds
+01/11/2022 10:04:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 19501.2393 milliseconds
+01/11/2022 10:04:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 19508.2706 milliseconds
+01/11/2022 10:04:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:04:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 19508.828 milliseconds
+01/11/2022 10:04:07 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 19509.416 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 10518.3913 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 10524.9697 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 10525.3893 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 10526.1779 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 10572.2438 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 10675.9582 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 10677.0987 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 10684.531 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 20982.144 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 20988.5188 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20988.9586 milliseconds
+01/11/2022 10:04:09 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 20989.4366 milliseconds
+01/11/2022 10:04:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+01/11/2022 10:04:43 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 6.5837 milliseconds
+01/11/2022 10:06:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 10:06:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of R100222634 JSME call 
+01/11/2022 10:06:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:16 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 1237.6104 milliseconds
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 1243.2155 milliseconds
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of R100222634 JSME call 
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1243.7176 milliseconds
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1244.1916 milliseconds
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 1265.8582 milliseconds
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' started:
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of R100275665 JSME call 
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:17 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 774.5236 milliseconds
+01/11/2022 10:06:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 780.9327 milliseconds
+01/11/2022 10:06:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of R100275665 JSME call 
+01/11/2022 10:06:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 789.1622 milliseconds
+01/11/2022 10:06:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 789.9959 milliseconds
+01/11/2022 10:06:18 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetByDefaultOrRulevaluesFromPackage' execution ended: Time elapsed 808.7329 milliseconds
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100124075 JSME call 
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100000689 JSME call 
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100000525 JSME call 
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:21 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 1054.3029 milliseconds
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 1059.8465 milliseconds
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1060.3628 milliseconds
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1060.9623 milliseconds
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100289447 JSME call 
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:22 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 1408.7261 milliseconds
+01/11/2022 10:06:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 1414.5642 milliseconds
+01/11/2022 10:06:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:06:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1415.0983 milliseconds
+01/11/2022 10:06:23 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 1415.7248 milliseconds
+01/11/2022 10:06:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3051.6823 milliseconds
+01/11/2022 10:06:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3058.0571 milliseconds
+01/11/2022 10:06:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100124075 JSME call 
+01/11/2022 10:06:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3058.4372 milliseconds
+01/11/2022 10:06:24 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3058.869 milliseconds
+01/11/2022 10:06:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3662.7872 milliseconds
+01/11/2022 10:06:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3675.257 milliseconds
+01/11/2022 10:06:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:06:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3675.9428 milliseconds
+01/11/2022 10:06:25 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3676.6479 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 3810.5181 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 3816.8065 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3817.7004 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 3818.7911 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 4446.41 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 4451.4346 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4451.9882 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 4452.4778 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 5787.0254 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 5792.8689 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100000525 JSME call 
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5793.4741 milliseconds
+01/11/2022 10:06:26 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 5794.0937 milliseconds
+01/11/2022 10:06:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 6545.7053 milliseconds
+01/11/2022 10:06:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 6551.6611 milliseconds
+01/11/2022 10:06:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100000689 JSME call 
+01/11/2022 10:06:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 6554.9087 milliseconds
+01/11/2022 10:06:27 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 6555.6075 milliseconds
+01/11/2022 10:06:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 7791.4723 milliseconds
+01/11/2022 10:06:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 7799.692 milliseconds
+01/11/2022 10:06:29 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100289447 JSME call 
+01/11/2022 10:06:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 7800.1487 milliseconds
+01/11/2022 10:06:30 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 7800.7035 milliseconds
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 11061.8385 milliseconds
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 11139.8326 milliseconds
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11140.3686 milliseconds
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11140.9499 milliseconds
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 11420.3201 milliseconds
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 11427.3437 milliseconds
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11427.7486 milliseconds
+01/11/2022 10:06:32 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11428.1727 milliseconds
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR10001371 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Start of MR100174485 JSME call 
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' started:
+01/11/2022 10:06:38 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' started:
+01/11/2022 10:06:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 6486.9595 milliseconds
+01/11/2022 10:06:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 6502.536 milliseconds
+01/11/2022 10:06:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:06:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 6503.1436 milliseconds
+01/11/2022 10:06:44 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 6503.7587 milliseconds
+01/11/2022 10:06:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 10615.2709 milliseconds
+01/11/2022 10:06:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 10622.4749 milliseconds
+01/11/2022 10:06:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:06:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 10623.1769 milliseconds
+01/11/2022 10:06:48 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 10623.6526 milliseconds
+01/11/2022 10:06:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 11114.3208 milliseconds
+01/11/2022 10:06:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 11120.8527 milliseconds
+01/11/2022 10:06:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:06:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11121.354 milliseconds
+01/11/2022 10:06:49 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11123.3121 milliseconds
+01/11/2022 10:06:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 11662.5953 milliseconds
+01/11/2022 10:06:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 11697.9734 milliseconds
+01/11/2022 10:06:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:06:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11698.5206 milliseconds
+01/11/2022 10:06:50 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 11699.0283 milliseconds
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 13040.7361 milliseconds
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 13052.63 milliseconds
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 13053.1882 milliseconds
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 13053.741 milliseconds
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 12999.2808 milliseconds
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 13007.4632 milliseconds
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR10001371 JSME call 
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 13008.0393 milliseconds
+01/11/2022 10:06:51 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 13008.5766 milliseconds
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 16961.794 milliseconds
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 16968.0988 milliseconds
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 16968.5296 milliseconds
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 17033.122 milliseconds
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 17230.5132 milliseconds
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 17238.3758 milliseconds
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 17239.0439 milliseconds
+01/11/2022 10:06:55 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 17239.7574 milliseconds
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 18124.7843 milliseconds
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 18135.3418 milliseconds
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 18135.8437 milliseconds
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 18136.6241 milliseconds
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigureOrPrice' execution ended: Time elapsed 18061.5377 milliseconds
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'Configure' execution ended: Time elapsed 18073.4731 milliseconds
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) End of MR100174485 JSME call 
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 18073.9261 milliseconds
+01/11/2022 10:06:56 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'ConfigurationBl' execution ended: Time elapsed 18074.7044 milliseconds
+01/11/2022 10:07:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' started:
+01/11/2022 10:07:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'GetUserId' execution ended: Time elapsed 6.185 milliseconds
+01/11/2022 10:07:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 335677.7845 milliseconds
+01/11/2022 10:07:15 +05:30 [DBG] (TTKE.SC.BFF.Api.V1.QuotesController) Method 'SaveUpdatReleaseInfoDetails' execution ended: Time elapsed 335694.8141 milliseconds
+01/11/2022 12:36:06 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e encountered an exception while sending heartbeat
+01/11/2022 12:36:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution RecurringJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:09
+01/11/2022 12:36:28 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution Worker is in the Failed state now due to an exception, execution will be retried no more than in 00:00:09
+01/11/2022 12:36:29 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution DelayedJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:09
+01/11/2022 12:36:37 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e encountered an exception while sending heartbeat
+01/11/2022 12:37:12 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e encountered an exception while sending heartbeat
+01/11/2022 12:38:01 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e encountered an exception while sending heartbeat
+01/11/2022 12:38:49 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e encountered an exception while sending heartbeat
+01/11/2022 12:39:36 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e encountered an exception while sending heartbeat
+01/11/2022 12:39:57 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution ServerWatchdog is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+01/11/2022 12:39:59 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution CountersAggregator is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+01/11/2022 12:40:06 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e encountered an exception while sending heartbeat
+01/11/2022 12:40:54 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e encountered an exception while sending heartbeat
+01/11/2022 12:41:42 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e encountered an exception while sending heartbeat
+01/11/2022 12:41:42 +05:30 [ERR] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:9c84298e will be restarted due to server time out
+01/11/2022 12:41:42 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:37604:9c84298e stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+01/11/2022 12:41:58 +05:30 [WRN] (Hangfire.Server.BackgroundServerProcess) Server myshec313077l:37604:9c84298e there was an exception, server may not be removed
+01/11/2022 12:41:58 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is in the Failed state now due to an exception, execution will be retried no more than in 00:00:15
+01/11/2022 12:42:31 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:00:32.4479621 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 12:43:03 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution BackgroundServerProcess is still in the Failed state for 00:01:05.2891103 due to an exception, will be retried no more than in 00:00:15
+01/11/2022 14:10:34 +05:30 [WRN] (Hangfire.Server.ServerHeartbeatProcess) Server myshec313077l:37604:295e7ee9 encountered an exception while sending heartbeat
+01/11/2022 14:10:37 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution DelayedJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+01/11/2022 14:10:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution RecurringJobScheduler is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+01/11/2022 14:10:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution ServerWatchdog is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04
+01/11/2022 14:10:54 +05:30 [ERR] (Hangfire.Processing.BackgroundExecution) Execution Worker is in the Failed state now due to an exception, execution will be retried no more than in 00:00:04

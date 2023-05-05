@@ -1,0 +1,8 @@
+{
+  "RangeValues": [
+    "ELEVATOR.Parameters.HWYDEP",
+    "ELEVATOR.Parameters.PITDEPTH",
+    "ELEVATOR.Parameters.HWYWID",
+    "ELEVATOR.Parameters.OVHEAD"
+  ]
+}

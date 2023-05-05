@@ -1,0 +1,44 @@
+{
+  "consoleId": "2",
+  "consoleName": "Hall_Lantern1",
+  "assignOpenings": true,
+  "isController": false,
+  "fixtureType": "Hall_Lantern",
+  "fixtureLocations": {
+    "openings": {
+      "front": true,
+      "rear": true
+    },
+    "fixtureAssignments": [
+      {
+        "floorNumber": 2,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 1,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": false,
+          "value": false
+        }
+      }
+    ]
+  },
+  "VariableAssignments": []
+
+
+
+
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseName>TKE.SC.BFF.DatabaseSchema</TargetDatabaseName>
+    <DeployScriptFileName>TKE.SC.BFF.DatabaseSchema.sql</DeployScriptFileName>
+    <BlockWhenDriftDetected>False</BlockWhenDriftDetected>
+    <RegisterDataTierApplication>False</RegisterDataTierApplication>
+    <BlockOnPossibleDataLoss>True</BlockOnPossibleDataLoss>
+    <BackupDatabaseBeforeChanges>True</BackupDatabaseBeforeChanges>
+    <ProfileVersionNumber>1</ProfileVersionNumber>
+  </PropertyGroup>
+</Project>

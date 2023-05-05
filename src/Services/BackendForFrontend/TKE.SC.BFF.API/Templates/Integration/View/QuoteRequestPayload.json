@@ -1,0 +1,539 @@
+{
+	"RopeSize": {
+		"value": ".BELTTYP",
+		"type": "string"
+	},
+	"Mainlinevoltage": {
+		"value": ".BPV",
+		"type": "string"
+	},
+	"BuildingLabel": {
+		"value": ".BLDGNAME",
+		"type": "string"
+	},
+	"CabHeight": {
+		"value": "CabHeight",
+		"type": "string"
+	},
+	"Capacity": {
+		"value": "CAPACITY",
+		"type": "string"
+	},
+	"CardReader": {
+		"value": "CardReader",
+		"type": "string"
+	},
+	"Speed": {
+		"value": "SPEED",
+		"type": "string"
+	},
+	"Compensation": {
+		"value": "Compensation",
+		"type": "string"
+	},
+	"Compdampeningwheel": {
+		"value": "Comp_Dampening_Wheel",
+		"type": "boolean"
+	},
+	"Numofrisersingroup": {
+		"value": ".CONTDR",
+		"type": "int"
+	},
+	"Numunitsingroup": {
+		"value": ".CONTGS",
+		"type": "int"
+	},
+	"Bacnet": {
+		"value": ".controllerBACNet_SP",
+		"type": "boolean"
+	},
+	"ControllerLocation": {
+		"value": ".controllerLocation_SP",
+		"type": "string"
+	},
+	"RoboticControllerInterface": {
+		"value": ".controllerRobotic_SP",
+		"type": "boolean"
+	},
+	"X_axisRemoteControlDistance": {
+		"value": ".controlRoomXdimension_SP",
+		"type": "decimal"
+	},
+	"Y_axisRemoteControlDistance": {
+		"value": ".controlRoomYdimension_SP",
+		"type": "decimal"
+	},
+	"ControllerModel": {
+		"value": ".CONTROLTYP",
+		"type": "string"
+	},
+	"CounterweightSafety": {
+		"value": ".CWTSFTY",
+		"type": "boolean"
+	},
+	"FrontDoorComplexity": {
+		"value": ".DOORTYPF",
+		"type": "string"
+	},
+	"RearDoorComplexity": {
+		"value": ".DOORTYPR",
+		"type": "string"
+	},
+	"DriveType": {
+		"value": ".DRIVETYP",
+		"type": "string"
+	},
+	"CarWeight": {
+		"value": ".ECARWT",
+		"type": "decimal"
+	},
+	"NumberOfStops": {
+		"value": "FloorServed",
+		"type": "int"
+	},
+	"UnitDesignation": {
+		"value": ".ELEVDESG",
+		"type": "string"
+	},
+	"AgileDestinationControls": {
+		"value": ".ELEVOPER",
+		"type": "string"
+	},
+	"FlooringThickness": {
+		"value": "FlooringThickness",
+		"type": "string"
+	},
+	"NumLPsAssignedToGroup": {
+		"value": ".groupsInPanel_SP",
+		"type": "int"
+	},
+	"NumberOfUnits": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"ControllerType": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"ControllerManufacturer": {
+		"value": "Controller_Manufacturer",
+		"type": "string"
+	},
+	"EquipmentManufacturer": {
+		"value": "Default_Manufacturer_SP",
+		"type": "string"
+	},
+	"MachineManufacturer": {
+		"value": "Default_Manufacturer_SP",
+		"type": "string"
+	},
+	"ManufacturingFactory": {
+		"value": "Default_Factory_SP",
+		"type": "string"
+	},
+	"IntergroupEmergencyPower": {
+		"value": ".interGroupEmergencyPower_SP",
+		"type": "string"
+	},
+	"JackType": {
+		"value": ".JackType_SP",
+		"type": "string"
+	},
+	"MachineModel": {
+		"value": ".MACHPN",
+		"type": "string"
+	},
+	"MachineRoomPhone": {
+		"value": ".MRP",
+		"type": "string"
+	},
+	"NumberOfRopes": {
+		"value": "Num_Belts_Or_Ropes",
+		"type": "int"
+	},
+	"Numofbelts": {
+		"value": "Num_Belts_Or_Ropes",
+		"type": "int"
+	},
+	"FrontOpenings": {
+		"value": "FrontOpenings",
+		"type": "int"
+	},
+	"RearOpenings": {
+		"value": "RearOpenings",
+		"type": "int"
+	},
+	"Overhead": {
+		"value": ".OVHEAD",
+		"type": "decimal"
+	},
+	"Numof2019BCCPanels": {
+		"value": "Num_of_2019_BCC_Panels",
+		"type": "int"
+	},
+	"Numof2019CommBoxes": {
+		"value": "Num_of_2019_Comm_boxes",
+		"type": "int"
+	},
+	"ReceivedDate": {
+		"value": ".!!!!!!!!",
+		"type": "Date"
+	},
+	"ManufacturingAdjustments": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"ManufacturingDiscount": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"BuildingID": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"GroupID": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"GroupName": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"NumofSmartRescueDevices": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"UnitNickname": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"Z_axisRemoteControlDistance": {
+		"value": ".NXV",
+		"type": "decimal"
+	},
+	"Numofpassedfloors": {
+		"value": ".NXV",
+		"type": "int"
+	},
+	"Arrangement": {
+		"value": ".Arrangement",
+		"type": "string"
+	},
+	"BalustradeType": {
+		"value": ".Ballustrade_Type",
+		"type": "string"
+	},
+	"RiseLength_ft": {
+		"value": ".Rise",
+		"type": "string"
+	},
+	"StepWidth": {
+		"value": ".StepWidth",
+		"type": "string"
+	},
+	"MachineRoomLocation": {
+		"value": ".controllerLocation_SP",
+		"type": "string"
+	},
+	"IsDoD": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"OutForApproval": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"ForFinal": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"ForReviseResubmit": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"SentDate": {
+		"value": ".!!!!!!!!",
+		"type": "Date"
+	},
+	"LayoutSubmittal": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"EntranceSubmittal": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"CabSubmittal": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"CarFixtureSubmittal": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"HallFixtureSubmittal": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"LobbyPanelSubmittal": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"FreightSubmittal": {
+		"value": ".!!!!!!!!",
+		"type": "boolean"
+	},
+	"LobbyPanelQty": {
+		"value": ".qty_LobbyPanels_SP",
+		"type": "int"
+	},
+	"NumCombinationHL_PI": {
+		"value": ".qty_ComboHL_PI_SP",
+		"type": "int"
+	},
+	"NumInconspicuousstations": {
+		"value": ".qty_InconStations_SP",
+		"type": "int"
+	},
+	"NumOfBrailleHallFixtures": {
+		"value": ".qty_StandaloneBraille_SP",
+		"type": "int"
+	},
+	"NumPositionIndicators": {
+		"value": ".qty_PositionIndicators_SP",
+		"type": "int"
+	},
+	"EstimateStatus": {
+		"value": ".qty_PositionIndicators_SP",
+		"type": "string"
+	},
+	"ProductTechnology_A": {
+		"value": "Product_Technology_A_SP",
+		"type": "string"
+	},
+	"SubmodelType": {
+		"value": "SubModelType_SP",
+		"type": "string"
+	},
+	"ItemType": {
+		"value": "ItemType_SP",
+		"type": "string"
+	},
+	"ManufacturingLeadTime": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"Batch1LeadTime": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"Batch2LeadTime": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"Batch3LeadTime": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"Batch4LeadTime": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"Batch5LeadTime": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"Batch6LeadTime": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"ProductModel": {
+		"value": "ProductModel_SP",
+		"type": "string"
+	},
+	"TKE_FACTORY_PRODUCT": {
+		"value": "Product_Selection.TKE_FACTORY_PRODUCT_SP",
+		"type": "string"
+	},
+	"EquipmentModel": {
+		"value": "ModelType_SP",
+		"type": "string"
+	},
+	"ProductTechnology_B": {
+		"value": "Product_Technology_B_SP",
+		"type": "string"
+	},
+	"WBSTemplate": {
+		"value": "NEW_WBS_SP",
+		"type": "string"
+	},
+	"PitDepth_in": {
+		"value": "PitDepth",
+		"type": "decimal"
+	},
+	"NumAuxilliaryCOPs": {
+		"value": "Qty_AuxCOPs",
+		"type": "int"
+	},
+	"RopeConfiguration": {
+		"value": ".REEVING",
+		"type": "string"
+	},
+	"SeismicZoneEquivalent": {
+		"value": ".SEISZONE",
+		"type": "string"
+	},
+	"BufferExtensions": {
+		"value": "Buffer_Extensions",
+		"type": "string"
+	},
+	"FactoryMaterialCost": {
+		"value": ".Factory_Quote_Price",
+		"type": "string"
+	},
+	"MaterialCost": {
+		"value": ".Factory_Quote_Price",
+		"type": "string"
+	},
+	"Travel": {
+		"value": "Travel",
+		"type": "string"
+	},
+	"TypeOfUsage": {
+		"value": ".TYPSVC",
+		"type": "string"
+	},
+	"LineID": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"OrderType": {
+		"value": "OrderType_SP",
+		"type": "string"
+	},
+	"ProductType": {
+		"value": "ProductType_SP",
+		"type": "string"
+	},
+	"EquipmentType": {
+		"value": "Equipment_Type_SP",
+		"type": "string"
+	},
+	"NumberOfNonStandardEntrances": {
+		"value": "Non_standard_entrances",
+		"type": "int"
+	},
+	"NumberofTransomOpenings": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"FeetOfBlindFascia": {
+		"value": ".!!!!!!!!",
+		"type": "decimal"
+	},
+	"NumberOfFloorsOver14Feet": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"NumberOfNonTKEKeyswitches": {
+		"value": "Num_NonTKE_KeySwitch",
+		"type": "int"
+	},
+	"NumberOfNonStandardHallFixtures": {
+		"value": "Num_NonStd_HallFixtures",
+		"type": "int"
+	},
+	"GlassBack": {
+		"value": "Glass_Back",
+		"type": "boolean"
+	},
+	"SideAndRearGlassPanels": {
+		"value": "Side_And_Rear_GlassPanels",
+		"type": "string"
+	},
+	"Shrouds": {
+		"value": "Shrouds",
+		"type": "boolean"
+	},
+	"NumberOfPowerFreightDoors": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"NumberOfManualFreightDoors": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"DualDriveDoorOperators": {
+		"value": "Dual_Drive_Door_Operators",
+		"type": "boolean"
+	},
+	"Cornerpost": {
+		"value": "CornerPost",
+		"type": "boolean"
+	},
+	"NumberOfHoledJackJoints": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"CounterweightLocation": {
+		"value": "CounterWeight_Location",
+		"type": "string"
+	},
+	"LargeMachine": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"PowerPhase": {
+		"value": ".BPP",
+		"type": "int"
+	},
+	"NumberOfFlatSteps": {
+		"value": ".Num_FlatSteps",
+		"type": "string"
+	},
+	"CarGuideRailType": {
+		"value": ".CARGUIDES",
+		"type": "string"
+	},
+	"NumberOfGroupsInBuilding": {
+		"value": ".!!!!!!!!",
+		"type": "int"
+	},
+	"NumberOfTraditionalEntrances": {
+		"value": "Traditional_Entrances",
+		"type": "int"
+	},
+	"MRAbove_BelowLowestFloor": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"TKE_FACTORY_MODEL": {
+		"value": "Product_Selection.TKE_FACTORY_MODEL_SP",
+		"type": "string"
+	},
+	"Transformer": {
+		"value": "Transformer",
+		"type": "string"
+	},
+	"Jack Location": {
+		"value": ".Location",
+		"type": "string"
+	},
+	"WallMountedController": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	},
+	"ProductSubsidy": {
+		"value": ".!!!!!!!!",
+		"type": "decimal"
+	},
+	"CorporateAssistance": {
+		"value": ".!!!!!!!!",
+		"type": "decimal"
+	},
+	"SetDescription": {
+		"value": ".!!!!!!!!",
+		"type": "string"
+	}
+}
+	

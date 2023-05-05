@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <Name>TKE.SC.BFF.DatabaseSchema</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>4.1</ProjectVersion>
+    <ProjectGuid>{902ddc2d-39e5-468a-837f-d0bc186ba055}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
+    <OutputType>Database</OutputType>
+    <RootPath>
+    </RootPath>
+    <RootNamespace>TKE.CPQ.AppGateway.DatabaseSchema.TKECPQ_Development</RootNamespace>
+    <AssemblyName>TKE.CPQ.AppGateway.DatabaseSchema.TKECPQ_Development</AssemblyName>
+    <ModelCollation>1033,CI</ModelCollation>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DeployToDatabase>True</DeployToDatabase>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetLanguage>CS</TargetLanguage>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SqlServerVerification>False</SqlServerVerification>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+    <DefaultCollation>SQL_Latin1_General_CP1_CI_AS</DefaultCollation>
+    <DefaultFilegroup>PRIMARY</DefaultFilegroup>
+    <TargetDatabase>TKE.SC.BFF.DatabaseSchema</TargetDatabase>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+    <!-- Default to the v11.0 targets path if the targets file for the current VS version is not found -->
+    <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
+    <VisualStudioVersion Condition="'$(SSDTExists)' == ''">11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Condition="'$(SQLDBExtensionsRefPath)' != ''" Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <ItemGroup>
+    <Folder Include="Properties" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Tables\" />
+    <Folder Include="HangFire\" />
+    <Folder Include="HangFire\Tables\" />
+    <Folder Include="dbo\Functions\" />
+    <Folder Include="dbo\Stored Procedures\" />
+    <Folder Include="dbo\User Defined Types\" />
+    <Folder Include="Security\" />
+    <Folder Include="dbo\Sequences\" />
+    <Folder Include="Deployment" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\BuildingConfigHistory.sql" />
+    <Build Include="dbo\Tables\Quotes.sql" />
+    <Build Include="dbo\Tables\Systems.sql" />
+    <Build Include="dbo\Tables\TempUnit.sql" />
+    <Build Include="dbo\Tables\BuildingConfiguration.sql" />
+    <Build Include="HangFire\Tables\Schema.sql" />
+    <Build Include="dbo\Tables\CarCallCutoutLocations.sql" />
+    <Build Include="HangFire\Tables\Job.sql" />
+    <Build Include="HangFire\Tables\State.sql" />
+    <Build Include="HangFire\Tables\JobParameter.sql" />
+    <Build Include="HangFire\Tables\JobQueue.sql" />
+    <Build Include="dbo\Tables\TempSet.sql" />
+    <Build Include="HangFire\Tables\Server.sql" />
+    <Build Include="HangFire\Tables\List.sql" />
+    <Build Include="dbo\Tables\ProjectSource.sql" />
+    <Build Include="dbo\Tables\AccountDetails.sql" />
+    <Build Include="HangFire\Tables\Set.sql" />
+    <Build Include="dbo\Tables\UnitConfigHistory.sql" />
+    <Build Include="HangFire\Tables\Counter.sql" />
+    <Build Include="dbo\Tables\TempUnitHallFixture.sql" />
+    <Build Include="HangFire\Tables\Hash.sql" />
+    <Build Include="HangFire\Tables\AggregatedCounter.sql" />
+    <Build Include="dbo\Tables\Branch.sql" />
+    <Build Include="dbo\Tables\FieldDrawingMethodMaster.sql" />
+    <Build Include="dbo\Tables\UnitHallFixtureConfiguration.sql" />
+    <Build Include="dbo\Tables\FieldDrawingAutomationProcessDetails.sql" />
+    <Build Include="dbo\Tables\UserRoleMaster.sql" />
+    <Build Include="dbo\Tables\AutoSaveConfiguration.sql" />
+    <Build Include="dbo\Tables\PermissionMapping.sql" />
+    <Build Include="dbo\Tables\Building.sql" />
+    <Build Include="dbo\Tables\BuildingElevation.sql" />
+    <Build Include="dbo\Tables\BldgEquipmentConfiguration.sql" />
+    <Build Include="dbo\Tables\ControlLocation.sql" />
+    <Build Include="dbo\Tables\FieldDrawingIntegratedSystem.sql" />
+    <Build Include="dbo\Tables\CoordinationQuestions.sql" />
+    <Build Include="dbo\Tables\Doors.sql" />
+    <Build Include="dbo\Tables\ResetConsoleTable.sql" />
+    <Build Include="dbo\Tables\Status.sql" />
+    <Build Include="dbo\Tables\BldgEquipmentGroupCategoryMaster.sql" />
+    <Build Include="dbo\Tables\EntranceConfiguration.sql" />
+    <Build Include="dbo\Tables\EntranceConsole.sql" />
+    <Build Include="dbo\Tables\EntranceLocations.sql" />
+    <Build Include="dbo\Tables\Permissions.sql" />
+    <Build Include="dbo\Tables\BldgEquipmentConsole.sql" />
+    <Build Include="dbo\Tables\GroupConfiguration.sql" />
+    <Build Include="dbo\Tables\DuplicateUnit.sql" />
+    <Build Include="dbo\Tables\GroupHallFixtureConfiguration.sql" />
+    <Build Include="dbo\Tables\GroupConfigurationDetails.sql" />
+    <Build Include="dbo\Tables\Units.sql" />
+    <Build Include="dbo\Tables\MeasuringUnits.sql" />
+    <Build Include="dbo\Tables\BusinessLine.sql" />
+    <Build Include="dbo\Tables\GroupHallFixtureLocations.sql" />
+    <Build Include="dbo\Tables\Sales.sql" />
+    <Build Include="dbo\Tables\GroupHallFixtureTypes.sql" />
+    <Build Include="dbo\Tables\Projects.sql" />
+    <Build Include="dbo\Tables\HallRiser.sql" />
+    <Build Include="dbo\Tables\BldgEquipmentGroupMapping.sql" />
+    <Build Include="dbo\Tables\GroupConfigHistory.sql" />
+    <Build Include="dbo\Tables\Location.sql" />
+    <Build Include="dbo\Tables\OpeningLocation.sql" />
+    <Build Include="dbo\Tables\ProductCategory.sql" />
+    <Build Include="dbo\Tables\ProductLine.sql" />
+    <Build Include="dbo\Tables\TempOpeningLocation.sql" />
+    <Build Include="dbo\Tables\TempUnitTable.sql" />
+    <Build Include="dbo\Tables\UnitConfiguration.sql" />
+    <Build Include="dbo\Tables\GroupHallFixtureConsole.sql" />
+    <Build Include="dbo\Tables\UnitHallFixtureConsole.sql" />
+    <Build Include="dbo\Tables\UnitHallFixtureLocations.sql" />
+    <Build Include="dbo\Tables\BldgEquipmentConsoleCnfgn.sql" />
+    <Build Include="dbo\Tables\UnitHallFixtureTypes.sql" />
+    <Build Include="dbo\Tables\BldgEquipmentCategoryCnfgn.sql" />
+    <Build Include="dbo\Tables\UnitNameMasterTable.sql" />
+    <Build Include="dbo\Tables\FieldDrawingMaster.sql" />
+    <Build Include="dbo\Tables\SystemsMasterValues.sql" />
+    <Build Include="dbo\Tables\UnitSet.sql" />
+    <Build Include="dbo\Tables\FieldDrawingAutomation.sql" />
+    <Build Include="dbo\Tables\FieldDrawingIntegrationMaster.sql" />
+    <Build Include="dbo\Functions\Fn_GetTotalGroupsCount.sql" />
+    <Build Include="dbo\Functions\Fn_GetTotalUnitsCount.sql" />
+    <Build Include="dbo\Functions\Fn_GetLastDateForHistoryBuilding.sql" />
+    <Build Include="dbo\Functions\Fn_GetGroupsNoLobbyCount.sql" />
+    <Build Include="dbo\Functions\Fn_GetUnitsNoLobbyCount.sql" />
+    <Build Include="dbo\Functions\Fn_GetDoorVariableFromDoors.sql" />
+    <Build Include="dbo\Functions\Fn_GetBuildingEquipmentBybuildingId.sql" />
+    <Build Include="dbo\Functions\Fn_GetLobbyChecked.sql" />
+    <Build Include="dbo\Functions\Fn_GetLastDateForHistory.sql" />
+    <Build Include="dbo\Functions\Fn_GetFDAUnitNameByGroupid.sql" />
+    <Build Include="dbo\Functions\Fn_GetUnitDetailsForUnitListingScreen.sql" />
+    <Build Include="dbo\Functions\FnGetBuildingTableValueFromBldJson.sql" />
+    <Build Include="dbo\Functions\Fn_GetUnitsCount.sql" />
+    <Build Include="dbo\Functions\Fn_GetLastDateForHistoryGroup.sql" />
+    <Build Include="dbo\Functions\Fn_IsAllCoordinationGroupsSaved.sql" />
+    <Build Include="dbo\Functions\Fn_GetGroupsCount.sql" />
+    <Build Include="dbo\Stored Procedures\usp_AutoSaveConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CheckUnitSet.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DeleteAutoSaveConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DeleteBuildingConfigurationById.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DuplicateUnitToGroup.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetVariablesForLiftDesigner.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DeleteBuildingElevationById.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetListOfProjects.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DeleteGroupConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_EditUnitDesignation.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetAutoSaveConfigurationByUser.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingConfigurationById.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CheckUnitConfigured.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingElevationById.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CheckGroupExist.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetdetailsForTP2Summary.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetEntranceConfigurationBySetId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveWrapperFieldDrawingAutomation.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetFixtureStrategy.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetFloorDesignationByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetGroupConfigurationByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetGroupHallFixture.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingLogHistory.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingTab.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetGroupHallFixtureTypes.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetGroupLayoutConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetHallLanternConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetProductType.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetListOfConfigurationForProject.sql" />
+    <Build Include="dbo\Stored Procedures\usp_getQuoteDetails.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DuplicateBuildingByBuildingid.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetListOfProjectsForUser.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetNumberOfBuildings.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetNumberOfGroups.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetOpeningLocationBygroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetProductCategory.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveCarCallOutKeyswitchLocations.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetProductLineDetails.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetQuickConfigurationSummary.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetCarCallCutoutKeyswitchOpenings.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetUnitAndFloorById.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveWrapperFieldLayout.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetUnitConfigurationById.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DuplicateGroupToDifferentBuilding.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetUnitLogHistory.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetUnitHallFixtureTypes.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetFieldDrawingAutomationByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetVariableValuesForVIEW.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetUnitVariableAssignments.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveGroupLayoutFloorPlan.sql" />
+    <Build Include="dbo\Stored Procedures\usp_InsertBuildingElevation.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveBuildingEquipmentConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingEquipmentAllGroups.sql" />
+    <Build Include="dbo\Stored Procedures\usp_InsertUnitDetails.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveUnitConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveBuildingConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveEntanceConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveGroupConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetCarCutoutSavedOpenings.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveFDA.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveUnitHallFixtureConfiguration_backup_.sql" />
+    <Build Include="dbo\Stored Procedures\usp_UpdateLockGroupPropertyForFDA.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveUpdateProductSelection.sql" />
+    <Build Include="dbo\Stored Procedures\usp_UpdateBuildingConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_UpdateBuildingElevation.sql" />
+    <Build Include="dbo\Stored Procedures\usp_UpdateGroupConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_UpdateOpeningLocation.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DeleteEntranceConsole.sql" />
+    <Build Include="dbo\Stored Procedures\usp_UpdateFDADrawingMethodByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DeleteUnitHallFixtureConsole.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetDrawings.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingConfigurationByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveUpdateGroupHallFixtures.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DeleteGroupHallFixtureConsole.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetInProgressSystemsValues.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingEquipmentConsoleConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetdetailsForOBOMXMLGeneration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetProjectIdVersionId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DeleteProjectById.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveAndUpdateSystemValidation.sql" />
+    <Build Include="dbo\Stored Procedures\usp_UpdateWorkflowStatus.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveSendToCoordination.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBranchId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetVariableByQuoteId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_ResetUnitHallFixtureConsoleNew.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetTravelValueForUnitConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CreateUpdateProject.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CheckRequestIdByFDAIntegrationId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetPermissionByRoleName.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetValidationStatus.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetGroupLogHistory.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetSendToCoordination.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingEquipmentConfigurationById.sql" />
+    <Build Include="dbo\Stored Procedures\usp_WrapperAPIXmlGeneration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetMiniProjectValues.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetVariableValuesForOZ.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveAssignedGroups.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetRequestQueueDetails.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DuplicateBuildingEquipmentConsole.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DeleteBuildingEquipmentConsole.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveUnitHallFixtureConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\GetGroupVariableDetails.sql" />
+    <Build Include="dbo\User Defined Types\EntranceConfigurationDataTable.sql" />
+    <Build Include="dbo\User Defined Types\EntranceConsoleInfoDataTable.sql" />
+    <Build Include="dbo\User Defined Types\EntranceLocationDataTable.sql" />
+    <Build Include="dbo\User Defined Types\GroupHallFixtureLocationDataTable.sql" />
+    <Build Include="dbo\User Defined Types\layoutDataTable.sql" />
+    <Build Include="dbo\User Defined Types\OpeningLocationDataTableType.sql" />
+    <Build Include="dbo\User Defined Types\tblBE.sql" />
+    <Build Include="dbo\User Defined Types\unitConfigurationDataTable.sql" />
+    <Build Include="dbo\User Defined Types\unitDataTable.sql" />
+    <Build Include="dbo\User Defined Types\UnitHallFixtureConsoleInfoDataTable.sql" />
+    <Build Include="dbo\User Defined Types\UnitIDList.sql" />
+    <Build Include="dbo\User Defined Types\AssignedGroupsDataTable.sql" />
+    <Build Include="dbo\User Defined Types\BuildingEquipmentConsoleDataTable.sql" />
+    <Build Include="dbo\User Defined Types\FutureGroupsDataTable.sql" />
+    <Build Include="dbo\User Defined Types\ExistingGroupsDataTableForBldgEquipment.sql" />
+    <Build Include="dbo\User Defined Types\BuildingIDList.sql" />
+    <Build Include="dbo\User Defined Types\CarPositionList.sql" />
+    <Build Include="dbo\User Defined Types\FieldDrawingAutomationDataTable.sql" />
+    <Build Include="dbo\User Defined Types\GroupVariablesForAutomationDataTable.sql" />
+    <Build Include="dbo\User Defined Types\HistoryTable.sql" />
+    <Build Include="dbo\User Defined Types\VariableList.sql" />
+    <Build Include="dbo\User Defined Types\MiniProjectsDetailsListValuesData.sql" />
+    <Build Include="dbo\User Defined Types\SendToCordinationDataTable.sql" />
+    <Build Include="dbo\User Defined Types\SystemsMetaData.sql" />
+    <Build Include="Security\HangFire.sql" />
+    <Build Include="dbo\Tables\UnitHallStationMapping.sql" />
+    <Build Include="dbo\Tables\SystemsVariables.sql" />
+    <Build Include="dbo\Tables\SpecMemoVersion.sql" />
+    <Build Include="dbo\Tables\ReleaseInfoData.sql" />
+    <Build Include="dbo\Tables\ProcedureLog.sql" />
+    <Build Include="dbo\Tables\PrimaryQuotes.sql" />
+    <Build Include="dbo\Tables\PriceDetails.sql" />
+    <Build Include="dbo\Tables\LeadTimeDetails.sql" />
+    <Build Include="dbo\Tables\GroupVariables.sql" />
+    <Build Include="dbo\Tables\GroupReleaseQueries.sql" />
+    <Build Include="dbo\Tables\Entity.sql" />
+    <Build Include="dbo\Tables\DeviceSlotsConfiguration.sql" />
+    <Build Include="dbo\Tables\Category.sql" />
+    <Build Include="dbo\Tables\AzureGuidRoleMapping.sql" />
+    <Build Include="dbo\Tables\AzureGuidBranchMapping.sql" />
+    <Build Include="Security\tke-user.sql" />
+    <Build Include="Security\ITLINFOSYS_RajaSekhar_V01.sql" />
+    <Build Include="Security\RoleMemberships.sql" />
+    <Build Include="dbo\Functions\Fn_GetUnitToLiftDesignerByGroupid.sql" />
+    <Build Include="dbo\Functions\Fn_GetSystemValidationForQuickSummaryScreen.sql" />
+    <Build Include="dbo\Functions\Fn_GetSeriesStartValueForUUID.sql" />
+    <Build Include="dbo\Functions\Fn_GetSeriesStartValueForQuoteId.sql" />
+    <Build Include="dbo\Functions\Fn_GetRoofHeight.sql" />
+    <Build Include="dbo\Functions\Fn_GetFLRMRKFrontForLD.sql" />
+    <Build Include="dbo\Functions\Fn_GetFLLDistances.sql" />
+    <Build Include="dbo\Functions\Fn_GetENTRForLD.sql" />
+    <Build Include="dbo\Functions\Fn_GetEntranceRearOpeningForLD.sql" />
+    <Build Include="dbo\Functions\Fn_GetEntranceFrontOpeningForLD.sql" />
+    <Build Include="dbo\Functions\Fn_GetENTFForLD.sql" />
+    <Build Include="dbo\Functions\Fn_GetCEDetailsForQuickSummaryScreen.sql" />
+    <Build Include="dbo\Stored Procedures\usp_UpdateFDARequestStatus.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SetPrimaryQuotes.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveUpdateReleaseInfo.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveUpdateGroupHallFixtures1.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveUnitsForNonConfigurableProducts.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveUnitConfigurationForNCP.sql" />
+    <Build Include="dbo\Stored Procedures\usp_SaveBuildingConfiguration_1.sql" />
+    <Build Include="dbo\Stored Procedures\usp_Log_ProcedureCall.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetUserDetails.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetUnitVariableAssignmentsForWrapper.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetUnitVariableAssignmentsBySetId1.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetUnitVariableAssignmentsBySetId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetSumPitQuantity.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetSendToCoordinationStatus.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetReleaseInfoByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetReleaseInfo.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetProjectStatusForFDA.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetProductCategoryByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetOutputTypesForXMLGeneration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetOpportunityAndVersionIdByQuoteId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetLDResponseJson.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetGroupTab.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetGroupStatusForFDA.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetGroupInfoDetailsByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetGroupHallFixture1.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetFDAStatusForRefresh.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetFDAQuoteIdByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetDrawingStatusForFDA.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetDrawingsByGroupIdForRefresh.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetCarPositionFromJson.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetCarPositionByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingIdByGroupId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingGroupVariableAssignmentsForWrapper.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBuildingEquipmentConsoleConfiguration1.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GenerateUEID.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GenerateQuoteId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_DuplicateQuoteByQuoteId.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CreateUpdateProject1.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CreateUpdateProject_1.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CreateDefaultsForUHF.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CreateDefaultsForEntranceConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CheckHallStationDataForGroupHallFixtures1.sql" />
+    <Build Include="dbo\Stored Procedures\usp_CheckHallStationDataForGroupHallFixtures.sql" />
+    <Build Include="dbo\Stored Procedures\SavePriceDetails.sql" />
+    <Build Include="dbo\Stored Procedures\CleanUpScript.sql" />
+    <Build Include="dbo\User Defined Types\VariableMapper.sql" />
+    <Build Include="dbo\User Defined Types\SystemVariables.sql" />
+    <Build Include="dbo\User Defined Types\ReleaseInfoDataPoints.sql" />
+    <Build Include="dbo\User Defined Types\ProjectsAccountDetails.sql" />
+    <Build Include="dbo\User Defined Types\MiniProjectsDetailsListValuesData1.sql" />
+    <Build Include="dbo\User Defined Types\ListOfGuids.sql" />
+    <Build Include="dbo\User Defined Types\DefaultConfigurationTable.sql" />
+    <Build Include="dbo\Sequences\UEIDSequence.sql" />
+    <Build Include="dbo\Sequences\QuoteSequence.sql" />
+    <Build Include="Deployment\DEV-Delta-Deployment.sql" />
+    <Build Include="Deployment\UAT-Delta-Deployment.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TKE.CPQ.AppGateway.DatabaseSchema.TKECPQ_Development.jfm" />
+    <None Include="TKE.SC.BFF.DatabaseSchema.dbmdl" />
+    <None Include="TKE.SC.BFF.DatabaseSchema.jfm" />
+    <None Include="TKE.SC.BFF.DatabaseSchema.sqlproj.user" />
+    <None Include="TKE.SC.BFF.DatabaseSchema.publish.xml" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+﻿[
+  {
+    "id": "sequence",
+    "value": "1",
+    "type": "number"
+  },
+  {
+    "id": "sectionname",
+    "value": "Lobby Pannel Section",
+    "type": "String"
+  }
+]

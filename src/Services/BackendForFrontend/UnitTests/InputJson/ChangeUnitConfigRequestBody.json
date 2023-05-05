@@ -1,0 +1,18 @@
+
+  {
+    "variableAssignments": [
+
+      {
+        "VariableId": "ELEVATOR.Parameters_SP.fixtureStrategy_SP",
+        "Value": "ETA"
+      },
+        {
+          "VariableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER",
+          "Value": "BSS"
+        }
+      
+    ]
+
+  }
+ 
+

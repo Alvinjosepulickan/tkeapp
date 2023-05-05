@@ -1,0 +1,64 @@
+{
+  "variableAssignments": [
+    {
+      "variableId": "Parameters.CABDOWF",
+      "value": 36
+    },
+    {
+      "variableId": "Parameters.CABFAN",
+      "value": "2SP"
+    },
+    {
+      "variableId": "Parameters.CAPACITY",
+      "value": 2100
+    },
+    {
+      "variableId": "Parameters.CARTOPRL",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "Parameters.COPLOCM",
+      "value": "Q4"
+    },
+    {
+      "variableId": "Parameters.DOORTYPF",
+      "value": "1SRH"
+    },
+    {
+      "variableId": "Parameters.FINFLRWT",
+      "value": "300"
+    },
+    {
+      "variableId": "Parameters.PLATDEP",
+      "value": "59.688"
+    },
+    {
+      "variableId": "Parameters.PLATFACE",
+      "value": "7.413"
+    },
+    {
+      "variableId": "Parameters.PLATWID",
+      "value": "69"
+    },
+    {
+      "variableId": "Parameters.REAROPEN",
+      "value": "FALSE"
+    },
+    {
+      "variableId": "Parameters.RETDEPTH",
+      "value": "4.25"
+    },
+    {
+      "variableId": "Parameters.SAFEEDGTYP",
+      "value": "3DCABSAFE"
+    },
+    {
+      "variableId": "Parameters.SHELDEP",
+      "value": "51.875"
+    },
+    {
+      "variableId": "Parameters.SHELWID",
+      "value": "69"
+    }
+  ]
+}

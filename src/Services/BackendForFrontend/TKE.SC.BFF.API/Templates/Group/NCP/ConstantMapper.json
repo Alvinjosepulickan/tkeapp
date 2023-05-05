@@ -1,0 +1,6 @@
+{
+  "CustomEngineeredConstantMapper": {
+    "PRODUCTCATEGORY": "productCategory",
+    "PARAMMODEL": "Parameters.Model"
+  }
+}

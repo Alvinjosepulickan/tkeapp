@@ -1,0 +1,120 @@
+{
+	"sections": [
+		{
+			"id": "Product_Selection_Master",
+			"name": "Product_Selection_Master",
+			"sections": [],
+			"variables": [
+				{
+					"id": "productSelection_SP",
+					"name": "productSelection_SP",
+					"valueType": "String",
+					"distinctValueCount": 4,
+					"allowMultipleAssignments": false,
+					"values": [
+						{
+							"type": "SingletonValue",
+							"name": "EVO_100",
+							"value": "EVO_100",
+							"properties": [
+								{
+									"id": "fullyqualifiedname",
+									"value": "EVO_100",
+									"type": "String"
+								},
+								{
+									"id": "name",
+									"value": "EVO_100",
+									"type": "String"
+								}
+							],
+							"incompatible": false
+						},
+						{
+							"type": "SingletonValue",
+							"name": "EVO_200",
+							"value": "EVO_200",
+							"properties": [
+								{
+									"id": "fullyqualifiedname",
+									"value": "EVO_200",
+									"type": "String"
+								},
+								{
+									"id": "name",
+									"value": "EVO_200",
+									"type": "String"
+								}
+							],
+							"assigned": "byUser",
+							"incompatible": false
+						},
+						{
+							"type": "SingletonValue",
+							"name": "ENDURA_100",
+							"value": "ENDURA_100",
+							"properties": [
+								{
+									"id": "fullyqualifiedname",
+									"value": "ENDURA_100",
+									"type": "String"
+								},
+								{
+									"id": "name",
+									"value": "ENDURA_100",
+									"type": "String"
+								}
+							],
+							"incompatible": false
+						},
+						{
+							"type": "SingletonValue",
+							"name": "ENDURA_200",
+							"value": "ENDURA_200",
+							"properties": [
+								{
+									"id": "fullyqualifiedname",
+									"value": "ENDURA_200",
+									"type": "String"
+								},
+								{
+									"id": "name",
+									"value": "ENDURA_200",
+									"type": "String"
+								}
+							],
+							"incompatible": false
+						}
+					],
+					"properties": [
+						{
+							"id": "fullyqualifiedname",
+							"value": "productSelection_SP",
+							"type": "String"
+						},
+						{
+							"id": "name",
+							"value": "productSelection_SP",
+							"type": "String"
+						}
+					]
+				}
+			],
+			"properties": []
+		}
+	],
+	"removedAssignments": {
+		"variableAssignments": [],
+		"priceLineAssignments": []
+	},
+	"arguments": {
+		"Configuration": {
+			"productSelection_SP": "EVO_200",
+			"ProductSelection_EVO_200.Invalid_EVO_200": false
+		}
+	},
+	"isComplete": false,
+	"isConfigurable": true,
+	"debug": {},
+	"packagePath": "productselection~a90fe448-0651-4076-8c7d-ce2f08aff9d4"
+}

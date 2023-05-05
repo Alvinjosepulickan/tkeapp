@@ -1,0 +1,32 @@
+﻿{
+  "sections": [
+    {
+      "id": "controlRoom",
+      "sections": [
+        {
+          "id": "controlLocation",
+          "variables": [
+            {
+              "id": "Parameters_SP.controllerLocation_SP"
+            },
+            {
+              "id": "Parameters_SP.controlRoomQuad_SP"
+            },
+            {
+              "id": "Parameters.NXVM"
+            },
+            {
+              "id": "Parameters_SP.controlRoomXdimension_SP"
+            },
+            {
+              "id": "Parameters_SP.controlRoomYdimension_SP"
+            },
+            {
+              "id": "Parameters_SP.controlRoomFloor_SP"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

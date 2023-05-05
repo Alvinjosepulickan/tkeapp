@@ -1,0 +1,23 @@
+{
+  "variableDetails": {
+    "Projects.ProjectId": "2",
+    "Projects.ProjectName": "Sampleproj",
+    "Projects.Branch,": "ENG",
+    "Projects.SalesStage": "Final",
+    "LayoutDetails.Language": "English",
+    "LayoutDetails.MeasuringUnit": "Inches",
+    "AccountDetails.AccountName": "Sample",
+    "AccountDetails.Contact": "3432",
+    "AccountDetails.SiteAddress.AddressLine1": "122",
+    "AccountDetails.SiteAddress.AddressLine2": "123",
+    "AccountDetails.SiteAddress.City": "Mysore",
+    "AccountDetails.SiteAddress.State": "Karnataka",
+    "AccountDetails.SiteAddress.Country": "India",
+    "AccountDetails.SiteAddress.ZipCode": "32424",
+    "Projects.VersionId": "1",
+    "Projects.AwardCloseDate": "",
+    "Projects.Description": "This is created",
+    "Projects.SalesEmail": "asdad",
+    "Projects.OperationContactEmail": "sadasd"
+  }
+}

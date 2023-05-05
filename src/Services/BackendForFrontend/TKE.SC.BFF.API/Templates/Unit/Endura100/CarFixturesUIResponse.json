@@ -1,0 +1,126 @@
+{
+  "sections": [
+    {
+      "id": "carfixture",
+      "sections": [
+        {
+          "id": "carFixture.carOperatingPanel",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.cOPType_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.COPFINMAT_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters.PBILUM"
+            },
+            {
+              "id": "ELEVATOR.Parameters.COPPI"
+            },
+            {
+              "id": "ELEVATOR.Parameters.BRLTYPTF"
+            },
+            {
+              "id": "ELEVATOR.Parameters.CEVOCE"
+            },
+            {
+              "id": "ELEVATOR.Parameters.VOICETYP"
+            },
+            {
+              "id": "ELEVATOR.Parameters.LOGO"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "carFixture.capacityPlate",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.COPENC"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "carFixture.copAndLockedCompartment",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.DRHOLDPB_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.DOORHOLD_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.ELITELOCM_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.EMERTEST_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.sTOP_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.cARDRDR_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.GFCI_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.LIGHT_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.seismicJewel_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.FAN_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.VOICETONE_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.fireServiceSwitch_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.HWYENB_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.IND_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.FIREJACK_SP"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.LIGHTFAN_SP"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "carFixture.carRidingLantern",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters.CRLTYPE"
+            },
+            {
+              "id": "ELEVATOR.Parameters.CRLCU"
+            },
+            {
+              "id": "ELEVATOR.Parameters_SP.carRidingLanternQty_SP"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "carFixture.agileCarFixtures",
+          "variables": [
+            {
+              "id": "ELEVATOR.Parameters_SP.CARTARG_SP"
+            }
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ]
+}

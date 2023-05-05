@@ -1,0 +1,2346 @@
+﻿{
+  "PriceKeyDetails": [
+    {
+      "ItemNumber": "AA-EVO-1002",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Interior",
+      "PartDescription": "Applied Panels By Others",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK_123761",
+      "Qty": "2",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Car Riding Lantern",
+      "PartDescription": "Car Riding Lantern (Standard) #4 S/S (441)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK_123762",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Car Riding Lantern",
+      "PartDescription": "Car Riding Lantern (Standard) #4 S/S (441)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK_123770",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Keybox",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-01CAR2030",
+      "Qty": "1",
+      "Section": "1",
+      "Section Name": "Car",
+      "Component Name": "Car Sling",
+      "PartDescription": "Car sling & platform 2500",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-01CAR2037",
+      "Qty": "1",
+      "Section": "1",
+      "Section Name": "Car",
+      "Component Name": "Car Sling",
+      "PartDescription": "Side Post Design",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-01CAR2038",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Capacity Plate Standard",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-01CAR2061",
+      "Qty": "1",
+      "Section": "1",
+      "Section Name": "Car",
+      "Component Name": "Car Sling Components",
+      "PartDescription": "Toe Guard, 14 ga.",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-01CAR2062",
+      "Qty": "1",
+      "Section": "1",
+      "Section Name": "Car",
+      "Component Name": "Car Sling Components",
+      "PartDescription": "Toe Guard, 14 ga.",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-04HDE2198",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Frames",
+      "PartDescription": "Entrance Frames (Powder Coated)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-04HDE2400",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Hoistway Doors",
+      "PartDescription": "Hoistway doors (SSSS, #4 S/S (316))",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-04HDE2403",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Hoistway Doors",
+      "PartDescription": "Hoistway doors (SSSS, #4 S/S (441))",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-04HDE2409",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Hoistway Doors",
+      "PartDescription": "Hoistway doors (SSSS, #8 S/S)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-04HDE2418",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Hoistway Doors",
+      "PartDescription": "Hoistway doors (SSSS, Powder Coated)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-04HDE2460",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Hoistway Sills",
+      "PartDescription": "Hoistway Sills (SSSS, Aluminum)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-04HWY2478",
+      "Qty": "1",
+      "Section": "4",
+      "Section Name": "Hoistway Equipment",
+      "Component Name": "Fascia",
+      "PartDescription": "Bottom Pit Fascia",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-04HWY2479",
+      "Qty": "1",
+      "Section": "4",
+      "Section Name": "Hoistway Equipment",
+      "Component Name": "Fascia",
+      "PartDescription": "Partial Fascia",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-07CNT2763",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Emergency Power (Intergroup) software",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-07CNT2784",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Medical Emergency Service",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6715",
+      "Qty": "1",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Station Features Group",
+      "PartDescription": "Fire Service Phase I Key Switch and Signage (Engraved)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-07CNT7008",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "eMax Monitoring Device",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB3123",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Car Door",
+      "PartDescription": "Car Door - 16ga. (SSSS, #4 S/S (441))",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB3182",
+      "Qty": "1",
+      "Section": "1",
+      "Section Name": "Cab",
+      "Component Name": "Car Sill",
+      "PartDescription": "Car Sill (SSCO, Aluminum)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB3183",
+      "Qty": "1",
+      "Section": "1",
+      "Section Name": "Cab",
+      "Component Name": "Car Sill",
+      "PartDescription": "Car Sill (SSCO, Aluminum)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB3227",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Enclosure Components",
+      "PartDescription": "Fronts:  Wrap Return #4 S/S (441)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB3258",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Interior",
+      "PartDescription": "Ceiling: Downlight LED (Formed Metal Pan)  #4 S/S (441)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB3487",
+      "Qty": "3",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Interior",
+      "PartDescription": "Handrails Cylindrical 1 1/2\", Ends returned to wall#4 S/S (300 Series)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB3488",
+      "Qty": "2",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Interior",
+      "PartDescription": "Handrails Cylindrical 1 1/2\", Ends returned to wall#4 S/S (300 Series)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB3489",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Interior",
+      "PartDescription": "Handrails Cylindrical 1 1/2\", Ends returned to wall#4 S/S (300 Series)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB3541",
+      "Qty": "8",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Interior",
+      "PartDescription": "Applied Panels: 7/8 in, Formica (color selection TBD)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB6261",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Interior Components",
+      "PartDescription": "Emergency Light Integral with Downlight Ceiling",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB6263",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Interior Components",
+      "PartDescription": "Pad Hooks",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAB6264",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Interior Components",
+      "PartDescription": "Protective Pads (Set)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-14CAR6268",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Car",
+      "Component Name": "Car Top Equipment",
+      "PartDescription": "5 Pin Lock with electric contact for Car Top Exit",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-17CAR6281",
+      "Qty": "1",
+      "Section": "17",
+      "Section Name": "Car",
+      "Component Name": "Car Top Equipment",
+      "PartDescription": "Car Top Inspection Station",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6912",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Off / On Keyswitch",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2268",
+      "Qty": "1",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Station Features Group",
+      "PartDescription": "Fire Service Phase I Key Switch and Signage (Plastic)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-19HWY6417",
+      "Qty": "1",
+      "Section": "19",
+      "Section Name": "Hoistway Equipment",
+      "Component Name": "Landing System",
+      "PartDescription": "Tape Selector  / Limit Switch Package  Includes: limit switchesETSDnormal terminal stopping devicefinal limit switches)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-19HWY6423",
+      "Qty": "1",
+      "Section": "19",
+      "Section Name": "Hoistway Equipment",
+      "Component Name": "Landing System Components",
+      "PartDescription": "Emergency Terminal Speed Limiting (reduced stroke)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6466",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Auxiliary Car Station (COP)",
+      "PartDescription": "Cast Braille Plates for Car Features",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6467",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Auxiliary Car Station (COP)",
+      "PartDescription": "Digital Position Indicators (2 in. Dot Matrix)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6476",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Auxiliary Car Station (COP)",
+      "PartDescription": "Wrap Swing Return",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6479",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Auxiliary Car Station (COP)",
+      "PartDescription": "Traditional Floor Buttons (T2) with stainless steel halo",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6509",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Intercom",
+      "PartDescription": "Smart Rescue Phone 10",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6510",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Intercom",
+      "PartDescription": "Smart Rescue Phone 5",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6511",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Intercom",
+      "PartDescription": "Smart Rescue Phone Machine Room",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6519",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Independent Service",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6531",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "#4 Stainless Steel Finish (441)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6551",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "2004 and later Fire Service Phase II Features in Lock Box (includes instructions)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6552",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "ADA Phone System integral with COP (Rath)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6559",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Digital Position Indicators (2 in. Dot Matrix)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6560",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Door Hold Open Button",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6563",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Emergency Stop Switch, Alarm and Door Open/Close Buttons",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6565",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Fire Phone Jack",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6567",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Handicap Signal (Passing signal)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6569",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Light Dimmer Switch",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6572",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Wrap Swing Return",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6575",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Hospital Emergency Service",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6576",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Medical Emergency Keyswitch",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6581",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Hoistway Enable",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6585",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Light Keyswitch",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6586",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Standard Braille Plates for Car Features",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6587",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Fan Keyswitch",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6590",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Traditional Floor Buttons (T2) with stainless steel halo",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6591",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Fan/Light Combo Keyswitch",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-22CFX6593",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Voice Annunciator (mounted in COP)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2457",
+      "Qty": "1",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Station Features Group",
+      "PartDescription": "Fire Service Phase I and Signage (Engraved) Key Switch by Others",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6661",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons (#4 S/S (441)) ",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6669",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons Appendix O (Engraved)(#4 S/S (441))",
+      "LeadTime": "20",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6672",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#4 S/S (316))",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6673",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#4 S/S (441))",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6675",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#8 S/S)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6707",
+      "Qty": "1",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Station Features Group",
+      "PartDescription": "2009 & 2010 Elevator Communications Failure add",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6710",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Station Features Group",
+      "PartDescription": "Emergency Power Jewel in Hall Station (Per unit)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6711",
+      "Qty": "1",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Station Features Group",
+      "PartDescription": "Emergency Power Jewel and Keyswitch (up to 2 elevators)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6712",
+      "Qty": "1",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Station Features Group",
+      "PartDescription": "Emergency Power Jewel and Keyswitch (up to 7 elevators)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2458",
+      "Qty": "1",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Station Features Group",
+      "PartDescription": "Fire Service Phase I and Signage (Plastic) Key Switch by Others",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6718",
+      "Qty": "1",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Station Features Per Unit",
+      "PartDescription": "Hoistway Access Switch in Hall Stations",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6726",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons (#4 S/S (441)) ",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6734",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons Appendix O (Engraved)(#4 S/S (441))",
+      "LeadTime": "20",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6737",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#4 S/S (316))",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6738",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#4 S/S (441))",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6740",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#8 S/S)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6786",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Hoistway Access Station",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6787",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Appendix O (Polycarbonate)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2566",
+      "Qty": "1",
+      "Section": "30",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Two-way Communication Boxes",
+      "PartDescription": "Two-way Communication Machine Room Equipment (Primary Box)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6791",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Jamb Braille",
+      "PartDescription": "Jamb Braille Cast Inlaid in Frame",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6792",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Jamb Braille",
+      "PartDescription": "Star of Life (Emergency Medical Signage)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6815",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Position Indicators",
+      "PartDescription": "2 in. Dot Matrix PI (#4 S/S (441))",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6849",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Position Indicators",
+      "PartDescription": "2 in. CE (#4 S/S (441))",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6860",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "#4 Stainless Steel 316 Finish",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6865",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Fire Command Center Panel",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6866",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Fire Key Box",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6867",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Fire Phone Jack",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6868",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Mounting Provisions for Monitor",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6870",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Serial (CGA) Configuration",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6876",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Fire Service Key Switch (2 position)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6877",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Car Homing and shutdown switch",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6878",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Digital Position Indicators",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6879",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Door Open Signal Jewel",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6880",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Emergency Power Jewel",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6890",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "#4 Stainless Steel Finish",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6894",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Fire Phone Jack",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6895",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Lobby Signal Fixture",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6896",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Mounting Provisions for Monitor",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6898",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Serial (CGA) Configuration",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6899",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Space for Intercom (Speaker Pattern)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6901",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Emergency Power Keyswitches (up to 2 elevators)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6902",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Emergency Power Rotary Switch ( up to 7 elevators)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6903",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Emergency Power Selector Bar",
+      "LeadTime": "18",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6904",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Fire Service Key Switch (2 position)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6908",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Emergency Power Jewel",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6909",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Jewel",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2567",
+      "Section": "30",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Two-way Communication Boxes",
+      "PartDescription": "Two-way Communication Machine Room Equipment (Auxillary Box)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-24HFX6913",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Operating Status Indicators (In Service Jewels)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-26PIT6961",
+      "Qty": "1",
+      "Section": "26",
+      "Section Name": "Pit Equipment",
+      "Component Name": "Pit Template",
+      "PartDescription": "Pit Template (Installation Pattern)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-30CNT7009",
+      "Qty": "1",
+      "Section": "30",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "eMax Monitoring Device",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2000",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Survey",
+      "Component Name": "Survey",
+      "PartDescription": "ADA Phone Survey Check",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2001",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Survey",
+      "Component Name": "Survey",
+      "PartDescription": "Cab Shell Survey Check",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2003",
+      "Qty": "1",
+      "Section": "1",
+      "Section Name": "Car",
+      "Component Name": "Car Sling",
+      "PartDescription": "Per Opening Add > 2  < 11",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2009",
+      "Qty": "1",
+      "Section": "1",
+      "Section Name": "Car",
+      "Component Name": "Car Sling Components",
+      "PartDescription": "One layer of plywood through 3500 pounds",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2568",
+      "Section": "30",
+      "Section Name": "Car Fixtures",
+      "Component Name": "BCC Panel",
+      "PartDescription": "BCC Panel for Two-way Communication",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2752",
+      "Qty": "1",
+      "Section": "21",
+      "Section Name": "Controller",
+      "Component Name": "Wiring Package",
+      "PartDescription": "Remote BCC and Separate Machine Room Wiring for 2019 Code",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2057",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Frames",
+      "PartDescription": "Hoistway Access Switch in Frame",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-07CNT2838",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Tenant Security 3.1",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2061",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Frames",
+      "PartDescription": "Door Open Strut Bumpers ",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2064",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Hoistway Doors",
+      "PartDescription": "Keyholes",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2065",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Hoistway Doors",
+      "PartDescription": "Kickplates #4 S/S (316)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2067",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Hoistway Doors",
+      "PartDescription": "Kickplates #8 S/S",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2262",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Bilingual French/English Car Station Markings",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2069",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Frames",
+      "PartDescription": "Add for Thickness",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2073",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Auto Fan Light Shutdown (Sleep Mode)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2075",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Car IND Service",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2076",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Car Riding Lantern",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2078",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Emergency Power (10D4A)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2080",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Fire Service ",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2081",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Hall Lanterns",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2083",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Hospital Emergency Service",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2055",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Frames",
+      "PartDescription": "Add for Cutouts",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2100",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Enclosure",
+      "PartDescription": "TKS Steel Shell (14 gauge steel)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2242",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Enclosure Components",
+      "PartDescription": "Canopy (14 Gauge steel)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2244",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Enclosure Components",
+      "PartDescription": "Car Top/Canopy Finish - Powder Coated F-114 (White)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2258",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Auxiliary Car Station (COP)",
+      "PartDescription": "Emergency Light mounted in COP (Light Up or Dummy)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2259",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Main Car Station Traditional with the following features",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2261",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Emergency Light mounted in COP",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2056",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Frames",
+      "PartDescription": "Chicago Fire in Frame",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2265",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Door Hold Open Keyswitch",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2266",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Emergency Light test keyswitch (constant pressure)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2267",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Capacity Plate Engraved",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2060",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Frames",
+      "PartDescription": "Incon Riser Hall Fixture in Frame",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2274",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons (#4 S/S (441)) ",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2277",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons Appendix O (Engraved)(#4 S/S (441))",
+      "LeadTime": "20",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2279",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#4 S/S (316))",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2280",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#4 S/S (441))",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2281",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Terminal Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#8 S/S)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2304",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons (#4 S/S (441)) ",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2307",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons Appendix O (Engraved)(#4 S/S (441))",
+      "LeadTime": "20",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2309",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#4 S/S (316))",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2310",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#4 S/S (441))",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2311",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Stations",
+      "PartDescription": "Intermediate Hall Stations with Traditional Buttons Appendix O (Polycarbonate insert flame with engraved verbiage)(#8 S/S)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2348",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Appendix O (Engraved)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2349",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Appendix O (Engraved)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2350",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Appendix O (Polycarbonate)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2351",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Appendix O (Polycarbonate)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2358",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Elevator Communication Failure",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2359",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Elevator Communication Failure",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2360",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Elevator Communication Failure",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2361",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Keybox",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2362",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Keybox",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2363",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Power Keyswitch",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2364",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Power Keyswitch",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2365",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Power Keyswitch",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2366",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Power Selector Bar",
+      "LeadTime": "18",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2367",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Power Selector Bar",
+      "LeadTime": "18",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2368",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Power Selector Bar",
+      "LeadTime": "18",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2369",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Fire Keybox",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2370",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Fire Keybox",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2371",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Fire Keybox",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2372",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Fire Service Phase I with Instructions",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2373",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Fire Service Phase I with Instructions",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2374",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Fire Service Phase I with Instructions",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2375",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Fire Service Phase I with Instructions",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2376",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Fire Service Phase I with Instructions",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2377",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Hall Call Lockout Keyswitch",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2383",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Hoistway Access Station",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2068",
+      "Section": "4",
+      "Section Name": "Hoistway Door Equipment",
+      "Component Name": "Frames",
+      "PartDescription": "Add for Cutouts",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2385",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Hoistway Access Station",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2386",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Hoistway Access Station",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2387",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Hoistway Access Station",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2409",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Fire Service Phase I with Instructions",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2411",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Lobby Signal Panel Features cont'd",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2412",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "add for cars greater than 2",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6620",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Hall Lanterns",
+      "PartDescription": "Hall Lantern and Chime (#4 S/S (441))",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2421",
+      "Section": "30",
+      "Section Name": "Controller",
+      "Component Name": "IMS Components",
+      "PartDescription": "Cat 5 Cable (Enter length required)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2422",
+      "Section": "30",
+      "Section Name": "Controller",
+      "Component Name": "IMS Components",
+      "PartDescription": "CGA Devices",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2425",
+      "Section": "30",
+      "Section Name": "Controller",
+      "Component Name": "IMS Components",
+      "PartDescription": "Inter Group Star Box",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2426",
+      "Section": "30",
+      "Section Name": "Controller",
+      "Component Name": "IMS Components",
+      "PartDescription": "Media Converter and Power Source",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2428",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Locked Service Cabinet Flush",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2430",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Door Operator Controls",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2431",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Group Operation",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2433",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "User Interface Tool",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2434",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Hoistway Enable/Inspection Operation",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2450",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Appendix O (Engraved)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-23HFX6789",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Jamb Braille",
+      "PartDescription": "Jamb Braille Black Plastic with White Characters",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2384",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Hoistway Access Station",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2456",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Jamb Braille",
+      "PartDescription": "Car Identification Plate for Main Egress Floor (Pair) (Section 2.29)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2461",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Enclosure Components",
+      "PartDescription": "Fronts:  Column Type Swing Return #4 S/S (441)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2465",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Enclosure Components",
+      "PartDescription": "Fronts:  Column Type Swing Return #4 S/S (316)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2466",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Cab",
+      "Component Name": "Enclosure Components",
+      "PartDescription": "Fronts:  Column Type Swing Return #4 S/S (441)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2469",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "add for cars greater than 2",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2491",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Position Indicators",
+      "PartDescription": "1 in. Dot Matrix PI (#4 S/S (441))",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2509",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Fire Key Box",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2517",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Lowering Sequence Complete Jewel",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2520",
+      "Qty": "1",
+      "Section": "23",
+      "Section Name": "Pit Equipment",
+      "Component Name": "Pit Switches",
+      "PartDescription": "Pit Stop Switch",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2521",
+      "Qty": "2",
+      "Section": "23",
+      "Section Name": "Pit Equipment",
+      "Component Name": "Pit Switches",
+      "PartDescription": "Pit Stop Switch",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2522",
+      "Qty": "2",
+      "Section": "23",
+      "Section Name": "Pit Equipment",
+      "Component Name": "Pit Switches",
+      "PartDescription": "Pit Stop Switch",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2523",
+      "Qty": "1",
+      "Section": "26",
+      "Section Name": "Pit Equipment",
+      "Component Name": "Pit Ladder",
+      "PartDescription": "No Pit Ladder (Field to provide their own as per code)",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2524",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Smart Rescue Phone 10",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2525",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Smart Rescue Phone 5",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2526",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Smart Rescue Phone 10",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2527",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Smart Rescue Phone 5",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2528",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Power Jewel",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2529",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Power Jewel",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2530",
+      "Section": "23",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Standalone Devices",
+      "PartDescription": "Standalone Emergency Power Jewel",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2535",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Engraved Capacity Plate for 2016 NYC Fire Service",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2536",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Voice Annunciator (mounted in COP) NYC 2016",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2537",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "Overload Jewel ",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2544",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Serial (CGA) Configuration",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2545",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "#4 Stainless Steel Finish",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2546",
+      "Qty": "1",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "#4 Stainless Steel 316 Finish",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2549",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Emergency Power Keyswitches (up to 2 elevators)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2550",
+      "Section": "24",
+      "Section Name": "Hall Fixtures",
+      "Component Name": "Lobby / Fire Command Panel",
+      "PartDescription": "Emergency Power Rotary Switch ( up to 7 elevators)",
+      "GroupMaterial": "TRUE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2559",
+      "Qty": "1",
+      "Section": "14",
+      "Section Name": "Car",
+      "Component Name": "Car Top Equipment",
+      "PartDescription": "2019 Two-way Communication Camera (dome), Ethernet Extender (kit), & Battery Backup",
+      "LeadTime": "20",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-17CDE6296",
+      "Qty": "1",
+      "Section": "17",
+      "Section Name": "Car Door Equipment",
+      "Component Name": "Door Detector",
+      "PartDescription": "Micro Light",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2564",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Auxiliary Car Station (COP)",
+      "PartDescription": "Two-way Communication Position Indicator",
+      "LeadTime": "20",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2565",
+      "Qty": "1",
+      "Section": "22",
+      "Section Name": "Car Fixtures",
+      "Component Name": "Main Car Station (COP)",
+      "PartDescription": "Two-way Communication Position Indicator",
+      "LeadTime": "20",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-17CDE6297",
+      "Qty": "1",
+      "Section": "17",
+      "Section Name": "Car Door Equipment",
+      "Component Name": "Door Detector",
+      "PartDescription": "Micro Light 3D",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2562",
+      "Qty": "1",
+      "Section": "17",
+      "Section Name": "Car Door Equipment",
+      "Component Name": "Door Detector",
+      "PartDescription": "Micro Light 3D 2019",
+      "LeadTime": "20",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2418",
+      "Qty": "1",
+      "Section": "26",
+      "Section Name": "Hoistway Equipment",
+      "Component Name": "Rail Brackets",
+      "PartDescription": "Standard Brackets for guide rails",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2571",
+      "Qty": "1",
+      "Section": "18",
+      "Section Name": "Hoistway Equipment",
+      "Component Name": "Hoistway Wiring",
+      "PartDescription": "Base Wiring Package for 2019 Code",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2827",
+      "Qty": "1",
+      "Section": "26",
+      "Section Name": "Hoistway Equipment",
+      "Component Name": "Rail Brackets",
+      "PartDescription": "Standard Brackets for guide rails",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    },
+    {
+      "ItemNumber": "TK-EVO-2085",
+      "Qty": "1",
+      "Section": "7",
+      "Section Name": "Controller",
+      "Component Name": "Controller",
+      "PartDescription": "MK II Shut Down",
+      "GroupMaterial": "FALSE",
+      "BatchNo": "2"
+    }
+  ],
+  "SECTIONTOBATCH": {
+    2: 1,
+    3: 1,
+    6: 1,
+    7: 1,
+    8: 1,
+    10: 1,
+    27: 1,
+    1: 2,
+    9: 2,
+    18: 2,
+    19: 2,
+    21: 2,
+    25: 2,
+    26: 2,
+    4: 3,
+    23: 3,
+    11: 4,
+    14: 4,
+    17: 4,
+    22: 4,
+    16: 5,
+    24: 5,
+    30: 5
+  }
+}

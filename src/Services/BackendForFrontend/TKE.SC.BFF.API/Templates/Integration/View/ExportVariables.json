@@ -1,0 +1,30 @@
+{
+  "BuildingConfiguration": [
+    "Building_Configuration.Parameters.BLDGNAME",
+    "Building_Configuration.Parameters.BPV"
+  ],
+  "BuildingEquipmentConsoleConfiguration": [
+    "Building_Configuration.Parameters_SP.interGroupEmergencyPower_SP"
+  ],
+  "BuildingEquipmentConfiguration": [
+    "Building_Configuration.Parameters_SP.controllerRobotic_SP",
+    "Building_Configuration.Parameters_SP.controllerBACNet_SP"
+  ],
+  "ControlLocation": [
+    "Parameters_SP.controllerLocation_SP",
+    "Parameters_SP.controlRoomXdimension_SP",
+    "Parameters_SP.controlRoomYdimension_SP"
+  ],
+  "UnitConfiguration": [
+    "ELEVATOR.Parameters.CAPACITY",
+    "ELEVATOR.Parameters.CARSPEED",
+    "ELEVATOR.Parameters.PITDEPTH",
+    "ELEVATOR.Parameters.CABHGTOVL",
+    "ELEVATOR.Parameters.OVHEAD",
+    "ELEVATOR.Parameters.FINFLR",
+    "ELEVATOR.Parameters_SP.qtyOfAuxiliaryCOPs_SP",
+    "ELEVATOR.Parameters_SP.cARDRDR_SP",
+    "ELEVATOR.Parameters.DOORTYPF",
+    "ELEVATOR.Parameters.DOORTYPR"
+  ]
+}

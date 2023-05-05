@@ -1,0 +1,31 @@
+{
+	"packagePath": "MR100124075",
+	"viewId": null,
+	"currentLineId": null,
+	"language": null,
+	"currency": null,
+	"date": "2021-09-29T13:48:49.3056315-05:00",
+	"globalArguments": null,
+	"priceProcedureId": null,
+	"line": {
+		"productId": "MR100124075",
+		"variableAssignments": [],
+		"priceLineAssignments": null,
+		"arguments": null,
+		"product": null,
+		"quantity": null,
+		"priceSheet": null,
+		"stateHash": null,
+		"isComplete": null,
+		"sublines": null
+	},
+	"settings": {
+		"debug": true,
+		"includeStateAndJustification": true,
+		"includeAllValues": true,
+		"assignmentResolutionOrder": null,
+		"includePriceLines": false,
+		"onlyPriceTotals": false,
+		"includeSections": [  ]
+	}
+}

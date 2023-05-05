@@ -1,0 +1,60 @@
+{
+  "variableAssignments": [
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B1P1",
+      "Value": "TRUE"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B1P2",
+      "Value": "FALSE"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B1P3",
+      "Value": "TRUE"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B1P4",
+      "Value": "TRUE"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B2P1",
+      "Value": "TRUE"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B2P2",
+      "Value": "FALSE"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B2P3",
+      "Value": "TRUE"
+    },
+    {
+      "variableId": "Group_Validation.Parameters.Layout.B2P4",
+      "Value": "TRUE"
+    },
+    {
+      "variableId": "Elevator001.Parameters.Layout.HS1QUAD",
+      "Value": "Q3"
+    },
+    {
+      "variableId": "Elevator001.Parameters.Layout.HS2QUAD",
+      "Value": "Q1"
+    },
+    {
+      "variableId": "Elevator001.Parameters.Doors.Landing_Doors_Assembly.DOORTYPF",
+      "Value": "1SLH"
+    },
+    {
+      "variableId": "Elevator001.Parameters.Doors.Landing_Doors_Assembly.DOORTYPR",
+      "Value": "1SRH"
+    },
+    {
+      "variableId": "Elevator001.Parameters.Electrical_System.CONTROLOC",
+      "Value": "CTRLCLST"
+    },
+    {
+      "variableId": "ELEVATOR001.Parameters.Basic_Info.REAROPEN",
+      "Value": "TRUE"
+    }
+  ]
+}

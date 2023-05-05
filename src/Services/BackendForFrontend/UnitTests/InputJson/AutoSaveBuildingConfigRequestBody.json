@@ -1,0 +1,82 @@
+{
+  "userName": "alvin.j",
+  "RequestMessage": {
+    "PackagePath": "buildingconfiguration",
+    "currency": "USD",
+    "currentLineId": "ROOT",
+    "date": "2019-10-04T10:00:11.088Z",
+    "description": "",
+    "globalArguments": {
+      "plant": "US01",
+      "salesArea": {
+        "salesOrganization": "US01",
+        "distributionChannel": "01",
+        "salesDivision": "02"
+      },
+      "shipTo": {
+        "countryCode": "US"
+      },
+      "soldTo": {
+        "countryCode": "US"
+      },
+      "MaterialVariant": {
+        "Material": {
+          "ConfigurableMaterialName": "Building_Configuration",
+          "ExternalId": "Building_Configuration"
+        }
+      },
+      "Variants": []
+    },
+    "language": "English",
+    "line": {
+      "priceLineAssignments": [],
+      "product": {
+        "id": "Building_Configuration",
+        "isConfigurable": true
+      },
+      "productId": "Building_Configuration",
+      "quantity": {
+        "value": 1,
+        "unit": "EA"
+      },
+      "sublines": [],
+      "variableAssignments": [
+        {
+          "variableId": "Building_Configuration.Parameters.Basic_Info.BLDGNAME",
+          "value": "testbuilding"
+        },
+
+        {
+          "variableId": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+          "value": 2
+        },
+        {
+          "variableId": "Building_Configuration.Parameters.Layout.ELEVBASE",
+          "value": "30.0"
+        },
+        {
+          "variableId": "Building_Configuration.Parameters.Layout.BLDGCODE",
+          "value": "IBC-2"
+        },
+        {
+          "variableId": "Building_Configuration.Parameters.Basic_Info.ASYEAR",
+          "value": "1996"
+        },
+        {
+          "variableId": "Building_Configuration.Parameters.Electrical_System.BPV",
+          "value": "208"
+        },
+        {
+          "variableId": "Building_Configuration.Parameters.Electrical_System.BPF",
+          "value": 0
+        }
+      ]
+    },
+    "priceProcedureId": "ZRVA01",
+    "settings": {
+      "debug": false,
+      "includePriceLines": false,
+      "onlyPriceTotals": false
+    }
+  }
+}

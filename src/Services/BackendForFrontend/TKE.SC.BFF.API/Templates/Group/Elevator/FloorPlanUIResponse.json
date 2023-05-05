@@ -1,0 +1,51 @@
+﻿{
+
+  "sections": [
+    {
+      "id": "floorPlanLayout",
+      "sections": [
+        {
+          "id": "floorPlan",
+          "variables": [
+            {
+              "id": "Parameters.BNKOFF"
+            },
+            {
+              "id": "Parameters.BNKDIST"
+            }
+          ]
+        },
+        {
+          "id": "bankPositions",
+          "variables": [
+            {
+              "id": "Parameters.B1P1"
+            },
+            {
+              "id": "Parameters.B1P2"
+            },
+            {
+              "id": "Parameters.B1P3"
+            },
+            {
+              "id": "Parameters.B1P4"
+            },
+            {
+              "id": "Parameters.B2P1"
+            },
+            {
+              "id": "Parameters.B2P2"
+            },
+            {
+              "id": "Parameters.B2P3"
+            },
+            {
+              "id": "Parameters.B2P4"
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+}

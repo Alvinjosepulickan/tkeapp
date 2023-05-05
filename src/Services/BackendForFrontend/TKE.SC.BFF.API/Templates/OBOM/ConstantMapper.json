@@ -1,0 +1,22 @@
+{
+	"unitprice": {
+		"ClassName": "ORDER",
+		"CharacName": [ "LISTPRICE"]
+	},
+	"totalprice": {
+		"ClassName": "ORDER",
+		"CharacName": [ "NETPRICE" ]
+	},
+	"corporateassistance": {
+		"ClassName": "ORDER",
+		"CharacName": [ "CORPORATEASSISTANCE" ]
+	},
+	"productsubsidies": {
+		"ClassName": "ORDER",
+		"CharacName": [ "PRODUCTSUBSIDIES" ]
+	},
+	"strategicdiscount": {
+		"ClassName": "ORDER",
+		"CharacName": [ "STRATEGICDISCOUNT" ]
+	}
+}

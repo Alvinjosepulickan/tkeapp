@@ -1,0 +1,22 @@
+﻿
+[
+  {
+    "UnitId": 1,
+    "UniDesgination": "",
+    "MainEgress": "",
+    "AlternateEgress": "",
+    "unitName": "",
+    "OccupiedSpaceBelow": false,
+    "NoOfFloors": 2,
+    "HallStationName": "",
+    "openingDoors": {
+
+    },
+    "openingsAssigned": [
+
+    ],
+    "UnitGroupValues": [
+
+    ]
+  }
+]

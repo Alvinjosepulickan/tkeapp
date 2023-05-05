@@ -1,0 +1,289 @@
+﻿[
+  {
+    "entranceConsoleId": 1,
+    "consoleName": "EntranceConsoleWithController",
+    "isController": true,
+    "assignOpenings": false,
+    "productName": "EVO_200",
+    "noOfFloor": 4,
+    "openings": {
+      "front": true,
+      "rear": true
+    },
+    "variableAssignments": [
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTHKF",
+        "value": "ELEVATOR.Parameters_SP.fixtureStrategy_SP"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.COLFACEF",
+        "value": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTYPF",
+        "value": "ELEVATOR.Parameters_SP.fixtureStrategy_SP"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTTYPEF",
+        "value": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTSILFINF",
+        "value": "ELEVATOR.Parameters_SP.fixtureStrategy_SP"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTKEYHOLE",
+        "value": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTFRAFINMATF_SP",
+        "value": "ELEVATOR.Parameters_SP.fixtureStrategy_SP"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTDORFINMATF_SP",
+        "value": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER"
+      }
+    ],
+    "fixtureLocations": [
+      {
+        "floorNumber": 4,
+        "floorDesignation": "4",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 3,
+        "floorDesignation": "3",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 2,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 1,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      }
+    ]
+  },
+  {
+    "entranceConsoleId": 2,
+    "consoleName": "EntranceConsole1",
+    "isController": false,
+    "assignOpenings": true,
+    "productName": "EVO_200",
+    "noOfFloor": 4,
+    "openings": {
+      "front": true,
+      "rear": true
+    },
+    "variableAssignments": [
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTHKF",
+        "value": "ELEVATOR.Parameters_SP.fixtureStrategy_SP"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.COLFACEF",
+        "value": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTYPF",
+        "value": "ELEVATOR.Parameters_SP.fixtureStrategy_SP"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTTYPEF",
+        "value": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTSILFINF",
+        "value": "ELEVATOR.Parameters_SP.fixtureStrategy_SP"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTKEYHOLE",
+        "value": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTFRAFINMATF_SP",
+        "value": "ELEVATOR.Parameters_SP.fixtureStrategy_SP"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTDORFINMATF_SP",
+        "value": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACER"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTDORFINFMAT",
+        "value": "304"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTFRAFINMATF",
+        "value": "304"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTKEYHOLE",
+        "value": "TRUE"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTSILFINF",
+        "value": "ALUM"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTTYPEF",
+        "value": "KDOWNT"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTWLTHKF",
+        "value": "5.5"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.ENTWLTYPF",
+        "value": "DRYWALL"
+      },
+      {
+        "variableId": "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.Doors.Landing_Doors_Assembly.Landing_Door_Jamb.COLFACEF",
+        "value": "2"
+      }
+    ],
+    "fixtureLocations": [
+      {
+        "floorNumber": 4,
+        "floorDesignation": "4",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 3,
+        "floorDesignation": "3",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 2,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": true
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 1,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": true
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      }
+    ]
+  },
+  {
+    "entranceConsoleId": 0,
+    "consoleName": "EntranceConsole1",
+    "isController": false,
+    "assignOpenings": true,
+    "productName": "EVO_200",
+    "noOfFloor": 0,
+    "openings": {
+      "front": true,
+      "rear": true
+    },
+    "variableAssignments": [],
+    "fixtureLocations": [
+      {
+        "floorNumber": 4,
+        "floorDesignation": "4",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 3,
+        "floorDesignation": "3",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 2,
+        "floorDesignation": "2",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      },
+      {
+        "floorNumber": 1,
+        "floorDesignation": "1",
+        "front": {
+          "inCompatible": false,
+          "value": false
+        },
+        "rear": {
+          "inCompatible": true,
+          "value": false
+        }
+      }
+    ]
+  }
+]

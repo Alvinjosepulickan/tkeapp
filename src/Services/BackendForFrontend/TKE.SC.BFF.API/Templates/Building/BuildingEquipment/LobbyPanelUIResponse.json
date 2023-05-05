@@ -1,0 +1,94 @@
+{
+  "sections": [
+    {
+      "id": "LobbyPanel",
+      "sections": [
+        {
+          "id": "LobbyPanel.FixtureType",
+          "variables": [
+            {
+              "id": "Building_Configuration.Parameters_SP.lobbyPanel_SP"
+            }
+          ]
+        },
+        {
+          "id": "LobbyPanel.Finish",
+          "variables": [
+            {
+              "id": "Building_Configuration.Parameters.HALLFIN"
+            }
+          ]
+        },
+        {
+          "id": "LobbyPanel.FeaturesPerPanel",
+          "variables": [
+            {
+              "id": "Building_Configuration.Parameters.FIREBOX"
+            },
+            {
+              "id": "Building_Configuration.Parameters.PHJKF"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.mountingProvisionsForMonitor_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.intercomSpace_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.specialEngraving_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.IsSmartRescue10_Bool_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.IsSmartRescue5_Bool_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone10_Lobby_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.qtyOfSmartRescuePhone5_Lobby_SP"
+            }
+          ]
+        },
+        {
+          "id": "LobbyPanel.FeaturesPerGroup",
+          "variables": [
+            {
+              "id": "Building_Configuration.Parameters_SP.emergencyPowerSwitchLobby_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.FIREAD_SP"
+            }
+          ]
+        },
+        {
+          "id": "LobbyPanel.FeaturesPerUnit",
+          "variables": [
+            {
+              "id": "Building_Configuration.Parameters_SP.digitalPI_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters.EMPI"
+            },
+            {
+              "id": "Building_Configuration.Parameters.RETURN"
+            },
+            {
+              "id": "Building_Configuration.Parameters.PARK"
+            },            
+            {
+              "id": "Building_Configuration.Parameters_SP.doorOpenSignalJewel_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.inServiceJewel_SP"
+            },
+            {
+              "id": "Building_Configuration.Parameters_SP.loweringSequenceJewel_SP"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}  

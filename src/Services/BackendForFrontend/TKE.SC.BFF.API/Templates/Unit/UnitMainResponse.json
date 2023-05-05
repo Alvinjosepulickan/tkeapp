@@ -1,0 +1,150 @@
+{
+  "sections": [
+    {
+      "id": "generalinformation",
+      "name": "General Information",
+      "sections": [],
+      "variables": [],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "1",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "General Information",
+          "type": "String"
+        }
+      ],
+      "allOpeningsSelected": false,
+      "isDelete": false
+    },
+    {
+      "id": "cabinterior",
+      "name": "Cab Interiors",
+      "sections": [],
+      "variables": [],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "2",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Cab Interior",
+          "type": "String"
+        }
+      ],
+      "allOpeningsSelected": false,
+      "isDelete": false
+    },
+    {
+      "id": "carfixture",
+      "name": "Car Fixtures",
+      "sections": [],
+      "variables": [],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "3",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Car Fixtures",
+          "type": "String"
+        }
+      ],
+      "allOpeningsSelected": false,
+      "isDelete": false
+    },
+    {
+      "id": "unithallfixture",
+      "name": "Unit Hall Fixtures",
+      "sections": [],
+      "variables": [],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "4",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Unit Hall Fixtures and Cutouts",
+          "type": "String"
+        },
+        {
+          "id": "showButtonWithOptions",
+          "value": true,
+          "type": "Boolean"
+        }
+      ],
+      "allOpeningsSelected": false,
+      "isDelete": false
+    },
+    {
+      "id": "entrances",
+      "name": "Entrances",
+      "sections": [],
+      "variables": [],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "5",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Entrances",
+          "type": "String"
+        }
+      ],
+      "allOpeningsSelected": false,
+      "isDelete": false
+    },
+    {
+      "id": "tractionhoistwayequipment",
+      "name": "Traction Hoistway Equipment",
+      "sections": [],
+      "variables": [],
+      "properties": [
+        {
+          "id": "sequence",
+          "value": "6",
+          "type": "number"
+        },
+        {
+          "id": "sectionname",
+          "value": "Other Equipment",
+          "type": "String"
+        }
+      ],
+      "allOpeningsSelected": false,
+      "isDelete": false
+    }
+  ],
+  "conflictManagement": {
+    "resolvedAssignments": [
+      {
+        "id": "ELEVATOR.Parameters.CARSPEED",
+        "value": "3200"
+      },
+      {
+        "id": "ELEVATOR.Parameters.CABTOPGA",
+        "value": "14GA"
+      }
+
+    ],
+    "pendingAssignments": [
+      {
+        "id": "ELEVATOR.Parameters.CAPACITY",
+        "value": "2100"
+      }
+
+    ]
+  }
+
+}

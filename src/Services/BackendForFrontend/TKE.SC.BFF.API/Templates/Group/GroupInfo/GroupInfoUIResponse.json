@@ -1,0 +1,82 @@
+{
+  "sections": [
+    {
+      "id": "groupConfiguration",
+      "sections": [],
+      "variables": [
+        {
+          "id": "groupDesignation",
+          "values": [
+            {
+              "type": "IntervalValue",
+              "inCompatible": false
+            },
+            {
+              "type": "SingletonValue",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Selected",
+              "justification": "Assignment"
+            }
+          ]
+        },
+        {
+          "id": "productCategory",
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "Elevator",
+              "value": "Elevator",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Selected",
+              "justification": "Assignment"
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Escalator",
+              "value": "Escalator/Moving-Walk",
+              "properties": [],
+              "inCompatible": false,
+              "state": "Available",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "name": "TWIN Elevator",
+              "value": "TWIN Elevator",
+              "properties": [],
+              "inCompatible": true,
+              "state": "Unavailable",
+              "justification": "None"
+            },
+            {
+              "type": "SingletonValue",
+              "name": "Other",
+              "value": "Other",
+              "properties": [],
+              "inCompatible": true,
+              "state": "Unavailable",
+              "justification": "None"
+            }
+          ]
+        },
+        {
+          "id": "noOfUnits",
+          "values": [
+            {
+              "type": "SingletonValue",
+              "name": "0",
+              "value": 0,
+              "properties": [],
+              "assigned": "byDefault",
+              "inCompatible": false,
+              "state": "Selected",
+              "justification": "Assignment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

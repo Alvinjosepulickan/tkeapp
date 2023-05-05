@@ -1,0 +1,53 @@
+{
+
+  "variableAssignments": [
+    {
+      "variableId": "ELEVATOR.Parameters.Basic_Info.CAPACITY",
+      "Value": "4500"
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Basic_Info.CARSPEED",
+      "Value": 500
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.DOORTYPF",
+      "Value": "1SLH"
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.DOORTYPR",
+      "Value": "1SLH"
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.ENTDOWF",
+      "Value": 108
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.ENTDOWR",
+      "Value": 48
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.ENTDOHF",
+      "Value": 84
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Doors.Landing_Doors_Assembly.ENTDOHR",
+      "Value": 108
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Basic_Info.HWYWID",
+      "Value": ""
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Basic_Info.HWYDEP",
+      "Value": ""
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Basic_Info.PITDEPTH",
+      "Value": ""
+    },
+    {
+      "variableId": "ELEVATOR.Parameters.Basic_Info.OVHEAD",
+      "Value": ""
+    }
+  ]
+} 

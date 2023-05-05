@@ -1,0 +1,23 @@
+{
+  "ControllerConsole": {
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.COLFACEF": "3",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTHKF": "8.5",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTYPF": "MASONRY",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTTYPEF": "KDOWNT",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTSILFINF": "ALUM",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTKEYHOLE": "TRUE",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTFRAFINMATF_SP": "F-112 CRS",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTDORFINMATF_SP": "F-112 CRS",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.R100194993.Control_Here": true
+  },
+  "NonControllerConsole": {
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.COLFACEF": "2",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTHKF": "6",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTWLTYPF": "MASONRY",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTTYPEF": "WELD",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTSILFINF": "ALUM",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters.ENTKEYHOLE": "TRUE",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTFRAFINMATF_SP": "F-112 CRS",
+    "ELEVATOR.Sales_UI_Screens.Entrance_Config_SP.Parameters_SP.ENTDORFINMATF_SP": "F-112 CRS"
+  }
+}

@@ -1,0 +1,32 @@
+﻿
+  {
+    "sections": [
+      {
+        "isHallStation": false,
+        "isDelete": false,
+        "lobbyRecallSwitchConfigured": false
+      }
+    ],
+    "variableDetails": {
+      "projects.ProjectId": "",
+      "projects.ProjectName": "",
+      "projects.Branch": "",
+      "projects.SalesStage": "",
+      "layoutDetails.Language": "",
+      "accountDetails.SiteAddress.AddressLine2": "",
+      "layoutDetails.MeasuringUnit": "",
+      "accountDetails.AccountName": "",
+      "accountDetails.SiteAddress.AddressLine1": "",
+      "accountDetails.SiteAddress.Country": "CANADA",
+      "accountDetails.SiteAddress.City": "",
+      "accountDetails.SiteAddress.State": "",
+      "accountDetails.SiteAddress.ZipCode": "",
+      "accountDetails.Contact": "",
+      "projects.AwardCloseDate": "02/02/21"
+    },
+    "permissions": [
+      "value"
+    ]
+  }
+
+

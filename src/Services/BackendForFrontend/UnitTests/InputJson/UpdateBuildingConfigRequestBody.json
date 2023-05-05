@@ -1,0 +1,33 @@
+{
+  "variableAssignments": [
+    {
+      "variableId": "Building_Configuration.Parameters.Basic_Info.BLDGNAME",
+      "value": "B1_crmodintegration"
+    },
+
+    {
+      "variableId": "Building_Configuration.Parameters.Basic_Info.BLANDINGS",
+      "value": 2
+    },
+    {
+      "variableId": "Building_Configuration.Parameters.Layout.ELEVBASE",
+      "value": "30.0"
+    },
+    {
+      "variableId": "Building_Configuration.Parameters.Layout.BLDGCODE",
+      "value": "IBC-2"
+    },
+    {
+      "variableId": "Building_Configuration.Parameters.Basic_Info.ASYEAR",
+      "value": "1996"
+    },
+    {
+      "variableId": "Building_Configuration.Parameters.Electrical_System.BPV",
+      "value": "208"
+    },
+    {
+      "variableId": "Building_Configuration.Parameters.Electrical_System.BPF",
+      "value": 0
+    }
+  ]
+}

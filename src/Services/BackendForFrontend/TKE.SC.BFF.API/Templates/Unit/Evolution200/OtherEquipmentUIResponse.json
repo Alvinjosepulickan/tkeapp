@@ -1,0 +1,85 @@
+{
+    "sections": [
+        {
+            "id": "otherEquipment",
+          "sections": [
+            {
+              "id": "otherequipment.tractionEquipment",
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters.CARGUIDES"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.CWTGUIDES"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.CWTSFTY"
+                }
+              ]
+            },
+            {
+              "id": "otherequipment.hoistwayEquipment",
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters.FLSLOC"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.CABTOPLK"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.FLSCONFIG"
+                }
+              ]
+            },
+            {
+              "id": "otherequipment.hoistwayWiring",
+              "variables": [
+                {
+                  "id": "unitsInSet"
+                },
+                {
+                  "id": "ELEVATOR.Parameters_SP.VFD_SP"
+                },
+                {
+                  "id": "ELEVATOR.Parameters_SP.additionalWiring_SP"
+                },
+                {
+                  "id": "ELEVATOR.Parameters_SP.totalWiring_SP"
+                }
+              ]
+            },
+            {
+              "id": "otherequipment.tenantSecuritySoftware",
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters_SP.CR31_SP"
+                },
+                {
+                  "id": "ELEVATOR.Parameters_SP.HS40_SP"
+                },
+                {
+                  "id": "ELEVATOR.Parameters_SP.CCLR60_SP"
+                }
+              ]
+            },
+            {
+              "id": "otherequipment.controlSystem",
+              "variables": [
+                {
+                  "id": "ELEVATOR.Parameters.CIT"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.REGEN"
+                },
+                {
+                  "id": "ELEVATOR.Parameters.NATAL"
+                },
+                {
+                  "id": "ELEVATOR.Parameters_SP.controllerSabbath_SP"
+                }
+              ]
+            }
+          ]
+        }
+    ]
+}
