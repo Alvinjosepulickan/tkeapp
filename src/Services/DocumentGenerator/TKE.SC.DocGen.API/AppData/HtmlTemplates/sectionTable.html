@@ -1,0 +1,34 @@
+﻿<div class="border-Box">
+    {{#SectionTable}}
+    <div class="table-name">
+        <h5>Section {{Section}}: {{TableName}}</h5>
+    </div>
+   
+<table id='products'>
+    <thead>
+        <tr>
+            <th style="width: 10%;text-align:center">Section</th>
+            <th style="width: 20%;text-align:center">Component</th>
+            <th style="width: 40%;text-align:center">Description</th>
+            <th style="width: 10%;text-align:center">Quantity</th>
+            <th style="width: 20%;text-align:center">Total Cost</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#TRow}}
+        <tr>
+            <td>{{Section}}</td>
+            <td align='left'>{{Component}}</td>
+            <td align='left'>{{Description}}</td>
+            <td align='center'>{{Quantity}}</td>
+            <td align='center'>{{TotalCost}}</td>
+        </tr>
+        {{/TRow}}
+    <tr>
+        <th colspan="4"style="text-align:center">   <span align='center'>Subtotal: </span></th>
+        <th style="text-align:center">   <span align='center'> {{SubTotalSum}}</span></th>
+    </tr>
+    </tbody>
+</table>
+{{/SectionTable}}
+</div>

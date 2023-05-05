@@ -1,0 +1,45 @@
+﻿<div class="border-Box">
+	{{#SectionTable}}
+	<div class="table-name">
+		<h5> {{TableName}}</h5>
+	</div>
+
+	<table id='products'>
+		<thead>
+			<tr>
+				<th rowspan="2">Floor</th>
+				<th colspan="2">Door Finish</th>
+				<th colspan="2">Door Finish Color</th>
+				<th colspan="2">Door Construction</th>
+				<th colspan="2">Keyholes</th>
+			</tr>
+			<tr>
+				<th>Front</th>
+				<th>Rear</th>
+				<th>Front</th>
+				<th>Rear</th>
+				<th>Front</th>
+				<th>Rear</th>
+				<th>Front</th>
+				<th>Rear</th>
+			</tr>
+		</thead>
+		<tbody>
+			{{#TRow}}
+			<tr>
+				<td>{{Floor}}</td>
+				<td align='left'>{{DoorFinishFront}}</td>
+				<td align='left'>{{DoorFinishRear}}</td>
+				<td align='left'>{{DoorFinishColorFront}}</td>
+				<td align='left'>{{DoorFinishColorRear}}</td>
+				<td align='right'>{{DoorConstructionFront}}</td>
+				<td align='right'>{{DoorConstructionRear}}</td>
+				<td align='right'>{{KeyholesFront}}</td>
+				<td align='right'>{{KeyholesRear}}</td>
+			</tr>
+			{{/TRow}}
+
+		</tbody>
+	</table>
+	{{/SectionTable}}
+</div>

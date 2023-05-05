@@ -1,0 +1,35 @@
+﻿<div class="border-Box">
+    {{#SectionTable}}
+    <div class="table-name">
+        <h5> {{TableName}}</h5>
+    </div>
+
+    <table id='products'>
+        <thead>
+            <tr>
+                <th rowspan="2" style="text-align:center">Floor</th>
+                <th colspan="2" style="text-align:center">Frame Finish</th>
+                <!--<th colspan="2" style="text-align:center">Frame Finish Color</th>-->
+            </tr>
+            <tr>
+                <th style="text-align:center">Front</th>
+                <th style="text-align:center">Rear</th>
+                <!--<th style="text-align:center">Front</th>
+                <th style="text-align:center">Rear</th>-->
+            </tr>
+        </thead>
+        <tbody>
+            {{#TRow}}
+            <tr>
+                <td style="text-align:center">{{Floor}}</td>
+                <td style="text-align:center">{{FrameFinishFront}}</td>
+                <td style="text-align:center">{{FrameFinishRear}}</td>
+                <!--<td style="text-align:center">{{FrameFinishColorFront}}</td>
+                <td style="text-align:center">{{FrameFinishColorRear}}</td>-->
+            </tr>
+            {{/TRow}}
+
+        </tbody>
+    </table>
+    {{/SectionTable}}
+</div>

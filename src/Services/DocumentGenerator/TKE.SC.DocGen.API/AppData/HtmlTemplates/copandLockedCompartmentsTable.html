@@ -1,0 +1,28 @@
+﻿<div class="border-Box">
+    {{#SectionTable}}
+    <div class="table-name">
+        <h5>{{TableName}}</h5>
+    </div>
+   
+<table id='products'>
+    <thead>
+        <tr>
+            <th style="width: 40%;text-align:center" align="center">Car Station Devices</th>
+            <th style="width: 20%;text-align:center" align="center">In Locked Compartment</th>
+            <th style="width: 20%;text-align:center" align="center">In Main Cop</th>
+            <th style="width: 20%;text-align:center" align="center">In Fire Compartment</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#TRow}}
+        <tr>
+            <td align='left'>{{CarStationDevices}}</td>
+            <td align='center'>{{InLockedCompartment}}</td>
+            <td align='center'>{{InMainCop}}</td>
+            <td align='center'>{{InFireCompartment}}</td>
+        </tr>
+        {{/TRow}}
+    </tbody>
+</table>
+{{/SectionTable}}
+</div>

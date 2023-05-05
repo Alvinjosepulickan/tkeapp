@@ -1,0 +1,45 @@
+﻿<div class="border-Box">
+    {{#SectionTable}}
+    <div class="table-name">
+        <h5> {{TableName}}</h5>
+    </div>
+
+    <table id='products'>
+        <thead>
+            <tr>
+                <th rowspan="2" style="text-align:center">Floor</th>
+                <th colspan="2" style="text-align:center">Hall Station Type</th>
+                <!--<th colspan="2">Hall Station Finish</th>-->
+                <!--<th colspan="2">Button Type & Color</th>
+                <th colspan="2">Hoistway Access</th>-->
+            </tr>
+            <tr>
+                <th style="text-align:center">Front</th>
+                <th style="text-align:center">Rear</th>
+                <!--<th>Front</th>
+                <th>Rear</th>
+                <th>Front</th>
+                <th>Rear</th>
+                <th>Front</th>
+                <th>Rear</th>-->
+            </tr>
+        </thead>
+        <tbody>
+            {{#TRow}}
+            <tr>
+                <td style="text-align:center">{{Floor}}</td>
+                <td style="text-align:center">{{HallStationTypeFront}}</td>
+                <td style="text-align:center">{{HallStationTypeRear}}</td>
+                <!--<td align='right'>{{HallStationFinishFront}}</td>
+                <td align='right'>{{HallStationFinishRear}}</td>
+                <td align='right'>{{ButtonTypeColorFront}}</td>
+                <td align='right'>{{ButtonTypeColorRear}}</td>
+                <td align='right'>{{HoistwayAccessFront}}</td>
+                <td align='right'>{{HoistwayAccessRear}}</td>-->
+            </tr>
+            {{/TRow}}
+
+        </tbody>
+    </table>
+    {{/SectionTable}}
+</div>

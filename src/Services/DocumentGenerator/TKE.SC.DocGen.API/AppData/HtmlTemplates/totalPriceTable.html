@@ -1,0 +1,40 @@
+﻿<div class="border-Box">
+    {{#SectionTable}}
+    <div class="table-name">
+        <h5> {{TableName}}</h5>
+    </div>
+
+<table id='products'>
+    <thead>
+        <tr>
+            <th style="width: 10%; text-align:center">Section</th>
+            <th style="width: 20%;text-align:center">Configuration List Price</th>
+            <th style="width: 20%;text-align:center">Corporate Assistance</th>
+            <th style="width: 20%;text-align:center">Product Subsidies</th>
+            <th style="width: 20%;text-align:center">Strategic Discount</th>
+            <th style="width: 20%;text-align:center">Net Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#TRow}}
+        <tr>
+            <td>{{Section}}</td>
+            <td align='right'>{{ConfigurationListPrice}}</td>
+            <td align='right'>{{CorporateAssistance}}</td>
+            <td align='right'>$0.00</td>
+            <td align='right'>{{StrategicDiscount}}</td>
+            <td align='right'>{{NetPrice}}</td>
+        </tr>
+        {{/TRow}}
+    <tr>
+        <th>   <span align='right'>Total: </span></th>
+        <th>   <span align='right'> {{ConfigurationListPriceTotal}}</span></th>
+        <th>   <span align='right'> {{CorporateAssistanceTotal}}</span></th>
+        <th>   <span align='right'> $0.00</span></th>
+        <th>   <span align='right'> {{StrategicDiscountTotal}}</span></th>
+        <th>   <span align='right'> {{TotalPrice}}</span></th>
+    </tr>   
+    </tbody>
+    </table>
+    {{/SectionTable}}
+</div>

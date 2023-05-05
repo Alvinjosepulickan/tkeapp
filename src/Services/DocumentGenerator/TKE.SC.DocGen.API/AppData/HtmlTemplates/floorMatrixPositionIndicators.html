@@ -1,0 +1,35 @@
+﻿<div class="border-Box">
+    {{#SectionTable}}
+    <div class="table-name">
+        <h5> {{TableName}}</h5>
+    </div>
+
+    <table id='products'>
+        <thead>
+            <tr>
+                <th rowspan="2" style="text-align:center">Floor</th>
+                <th colspan="2" style="text-align:center">PI Finish</th>
+                <th colspan="2" style="text-align:center">PI Color</th>
+            </tr>
+            <tr>
+                <th style="text-align:center">Front</th>
+                <th style="text-align:center">Rear</th>
+                <th style="text-align:center">Front</th>
+                <th style="text-align:center">Rear</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#TRow}}
+            <tr>
+                <td style="text-align:center">{{Floor}}</td>
+                <td style="text-align:center">{{PIFinishFront}}</td>
+                <td style="text-align:center">{{PIFinishRear}}</td>
+                <td style="text-align:center">{{PIColorFront}}</td>
+                <td style="text-align:center">{{PIColorRear}}</td>
+            </tr>
+            {{/TRow}}
+
+        </tbody>
+    </table>
+    {{/SectionTable}}
+</div>

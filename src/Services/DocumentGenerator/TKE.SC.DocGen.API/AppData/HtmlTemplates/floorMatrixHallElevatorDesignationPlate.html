@@ -1,0 +1,41 @@
+﻿<div class="border-Box">
+    {{#SectionTable}}
+    <div class="table-name">
+        <h5> {{TableName}}</h5>
+    </div>
+
+    <table id='products'>
+        <thead>
+            <tr>
+                <th rowspan="2" style="text-align:center">Floor</th>
+                <th colspan="2" style="text-align:center">Type</th>
+                <th colspan="2" style="text-align:center">Illumination</th>
+                <!--<th colspan="2" align="center">Lantern Color (Up/Down)</th>-->
+                <th colspan="2" style="text-align:center">Finish</th>
+            </tr>
+            <tr>
+                <th style="text-align:center">Front</th>
+                <th style="text-align:center">Rear</th>
+                <th style="text-align:center">Front</th>
+                <th style="text-align:center">Rear</th>
+                <th style="text-align:center">Front</th>
+                <th style="text-align:center">Rear</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#TRow}}
+            <tr>
+                <td style="text-align:center">{{Floor}}</td>
+                <td style="text-align:center">{{typeFront}}</td>
+                <td style="text-align:center">{{typeRear}}</td>
+                <td style="text-align:center">{{IlluminationFront}}</td>
+                <td style="text-align:center">{{IlluminationRear}}</td>
+                <td style="text-align:center">{{FinishFront}}</td>
+                <td style="text-align:center">{{FinishRear}}</td>
+            </tr>
+            {{/TRow}}
+
+        </tbody>
+    </table>
+    {{/SectionTable}}
+</div>

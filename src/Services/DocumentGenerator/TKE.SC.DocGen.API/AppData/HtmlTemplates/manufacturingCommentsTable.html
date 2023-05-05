@@ -1,0 +1,26 @@
+﻿<div class="border-Box">
+    {{#SectionTable}}
+    <div class="table-name">
+        <h5>{{TableName}}</h5>
+    </div>
+   
+<table id='products'>
+    <thead>
+        <tr>
+            <th style="width: 10%;text-align:center" >Date</th>
+            <th style="width: 20%;text-align:center">User</th>
+            <th style="width: 70%;text-align:center">Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#TRow}}
+        <tr>
+            <td align='left'>{{Date}}</td>
+            <td align='left'>{{User}}</td>
+            <td align='left'>{{Comments}}</td>
+        </tr>
+        {{/TRow}}
+    </tbody>
+</table>
+{{/SectionTable}}
+</div>

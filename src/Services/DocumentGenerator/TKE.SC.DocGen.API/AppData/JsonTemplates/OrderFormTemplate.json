@@ -1,0 +1,2170 @@
+{
+	"Sections": [
+		{
+			"template": "header",
+			"name": "Projet Details",
+			"culture": "en-US",
+			"variables": [
+				{
+					"displayName": "Project Name",
+					"key": "projectName",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "VIEW Project ID",
+					"key": "projectId",
+					"value": 1234,
+					"dataType": "numeric"
+				},
+				{
+					"displayName": "Branch",
+					"key": "branch",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Building Name",
+					"key": "building_Configuration.Parameters.BLDGNAME",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Quote Version #",
+					"key": "quoteVersion",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Primary Sales Rep",
+					"key": "SalesMan",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Group Name",
+					"key": "groupName",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Oracle Project #",
+					"key": "OraclePSNumber",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Primary Coordinator",
+					"key": "primaryCoordinator",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Unit Name",
+					"key": "unitname",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Unit MFG Job #",
+					"key": "factoryJobID",
+					"value": "11/14/2020",
+					"dataType": "date"
+				}
+			],
+			"tables": [
+			],
+			"subsections": []
+		},
+		{
+			"template": "projectSummary",
+			"name": "Projet Summary",
+			"culture": "en-US",
+			"variables": [
+				{
+					"displayName": "Customer Account",
+					"key": "Account",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Customer Contact",
+					"key": "Contact",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Site Address",
+					"key": "Address",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Project Sales Stage",
+					"key": "QuoteStatusKey",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Project Status",
+					"key": "ProjectStatusValue",
+					"value": 1234,
+					"dataType": "numeric"
+				},
+				{
+					"displayName": "Quoted Date",
+					"key": "QuotedDate",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Booked Date",
+					"key": "BookedDate",
+					"value": "11/14/2020",
+					"dataType": "date"
+				}
+			],
+			"tables": [
+				{
+					"name": "Project Summary",
+					"template": "ProjectSummaryTable",
+					"headers": [
+						{
+							"displayName": "Building Url",
+							"key": "Parameter3"
+						},
+						{
+							"displayName": "Group Url",
+							"key": "Parameter3Value"
+						},
+						{
+							"displayName": "Unit Url",
+							"key": "Parameter4"
+						},
+						{
+							"displayName": "Building Name",
+							"key": "Section"
+						},
+						{
+							"displayName": "Group Name",
+							"key": "ItemNumber"
+						},
+						{
+							"displayName": "Unit Names",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "No of Units",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Order Type",
+							"key": "BatchNo"
+						},
+						{
+							"displayName": "Product Line",
+							"key": "LeadTime"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				}
+			],
+			"subsections": []
+		},
+		{
+			"template": "buildingSummary",
+			"name": "Building Summary",
+			"culture": "en-US",
+			"variables": [
+				{
+					"displayName": "Building Name",
+					"key": "building_Configuration.Parameters.BLDGNAME",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Building Code",
+					"key": "building_Configuration.Parameters.BLDGCODE",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Building Code Year",
+					"key": "building_Configuration.Parameters.ASYEAR",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Elevator Code",
+					"key": "building_Configuration.Parameters.ASTYPE",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Mainline Voltage",
+					"key": "building_Configuration.Parameters.BPV",
+					"value": 1234,
+					"dataType": "numeric"
+				},
+				{
+					"displayName": "Power Phase",
+					"key": "building_Configuration.Parameters.BPP",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Frequency",
+					"key": "building_Configuration.Parameters.BPF",
+					"value": "11/14/2020",
+					"dataType": "date"
+				}
+			],
+			"tables": [],
+			"subsections": [
+				{
+					"template": "seismicdesigndetails",
+					"name": "Seismic Design Details:",
+					"culture": "en-US",
+					"variables": [
+						{
+							"displayName": "Equivalent Seismic Zone",
+							"key": "elevatoR.Parameters.SEISZONE",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Elevation at Bldg Rise",
+							"key": "building_Configuration.Parameters.ELEVBASE",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Average Roof Height",
+							"key": "building_Configuration.Parameters.AVGRFHT",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Seismic Design Category",
+							"key": "building_Configuration.Parameters.IBCSDC",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Comp. Importance Factor",
+							"key": "building_Configuration.Parameters.IBCIP",
+							"value": 1234,
+							"dataType": "numeric"
+						},
+						{
+							"displayName": "Elev Importance Factor",
+							"key": "building_Configuration.Parameters.IBCIP",
+							"value": 1234,
+							"dataType": "numeric"
+						},
+						{
+							"displayName": "Design Spectral Acceleration in Two Seconds",
+							"key": "building_Configuration.Parameters.NBCCSA02",
+							"value": "11/14/2020",
+							"dataType": "date"
+						},
+						{
+							"displayName": "Design Spectral Acceleration in Short Period",
+							"key": "building_Configuration.Parameters.IBCSDS",
+							"value": "11/14/2020",
+							"dataType": "date"
+						},
+						{
+							"displayName": "Post Disaster Building",
+							"key": "building_Configuration.Parameters.NBCCPDB",
+							"value": "11/14/2020",
+							"dataType": "date"
+						}
+					],
+					"subsections": [],
+					"tables": []
+				}
+			]
+		},
+		{
+			"template": "groupSummary",
+			"name": "Group Summary",
+			"culture": "en-US",
+			"variables": [
+				{
+					"displayName": "Group Name",
+					"key": "groupName",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Fixture Strategy",
+					"key": "parameters_SP.fixtureStrategy_SP",
+					"value": 1234,
+					"dataType": "numeric"
+				},
+				{
+					"displayName": "Control Location",
+					"key": "parameters_SP.controllerLocation_SP",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Control Floor",
+					"key": "parameters_SP.controlRoomFloor_SP",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Projected Lead Time",
+					"key": "projectedLeadTime",
+					"value": 1234,
+					"dataType": "numeric"
+				},
+				{
+					"displayName": "Requested On-site Date",
+					"key": "ELEVATOR.Parameters.Date",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Released Date",
+					"key": "ELEVATOR.Parameters.Date",
+					"value": "11/14/2020",
+					"dataType": "date"
+				}
+			],
+			"tables": [],
+			"subsections": [
+
+			]
+		},
+		{
+			"template": "unitSummary",
+			"name": "Unit Summary",
+			"culture": "en-US",
+			"variables": [
+				{
+					"displayName": "Unit Status",
+					"key": "unitStatus",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Unit Model",
+					"key": "commonName_SP",
+					"value": 1234,
+					"dataType": "numeric"
+				},
+				{
+					"displayName": "Capacity",
+					"key": "elevatoR.Parameters.CAPACITY",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Speed",
+					"key": "elevatoR.Parameters.CARSPEED",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Front Openings",
+					"key": "frontOpening",
+					"value": 1234,
+					"dataType": "numeric"
+				},
+				{
+					"displayName": "Rear Openings",
+					"key": "rearopening",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "No of Floors",
+					"key": "building_Configuration.Parameters.BLANDINGS",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Net Travel",
+					"key": "travel",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Front Door Type",
+					"key": "elevatoR.Parameters.DOORTYPF",
+					"value": 1234,
+					"dataType": "numeric"
+				},
+				{
+					"displayName": "Front Door Width",
+					"key": "elevatoR.Parameters.ENTDOWF",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Rear Door Type",
+					"key": "elevatoR.Parameters.DOORTYPR",
+					"value": "11/14/2020",
+					"dataType": "date"
+				},
+				{
+					"displayName": "Rear Door Width",
+					"key": "elevatoR.Parameters.ENTDOWR",
+					"value": 1234,
+					"dataType": "numeric"
+				},
+				{
+					"displayName": "Front Door Height",
+					"key": "elevatoR.Parameters.ENTDOHF",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Rear Door Height",
+					"key": "elevatoR.Parameters.ENTDOHR",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Item Type",
+					"key": "itemType_SP",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "WBS Template",
+					"key": "neW_WBS_SP",
+					"value": "Example Project",
+					"dataType": "string"
+				},
+				{
+					"displayName": "Product Configuration",
+					"key": "ProductConfiguration",
+					"value": "Example Project",
+					"dataType": "string"
+				}
+			],
+			"tables": [],
+			"subsections": [
+				{
+					"template": "tractionData",
+					"name": "Traction Data",
+					"culture": "en-US",
+					"variables": [
+						{
+							"displayName": "Machine Model",
+							"key": "MACHPN",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Machine Manufacturer",
+							"key": "Default_Manufacturer_SP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Roping",
+							"key": "elevatoR.Parameters.REEVING",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Pump Unit Type",
+							"key": "elevatoR.Parameters.REEVING",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Jack Type",
+							"key": "elevatoR.Parameters.REEVING",
+							"value": "Example Project",
+							"dataType": "string"
+						}
+					],
+					"tables": [],
+					"subsections": []
+				}
+			]
+		},
+		{
+			"template": "sectionTable",
+			"name": "",
+			"culture": "en-US",
+			"variables": [],
+			"tables": [
+				{
+					"name": "Car Sling & Platform",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Machine",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Hoistway Entrances",
+					"template": "SectionTableWithOpenings",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Openings(s)",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Governor",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Controller",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Safety",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Cab",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Door Operator",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Wiring",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Hoistway Accessories",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Machine-room Wiring",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Car Fixtures",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Hall Fixtures",
+					"template": "SectionTableWithOpenings",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Openings(s)",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Rails, Brackets, Buffers",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Building Management/Networking",
+					"template": "sectionTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "Section"
+						},
+						{
+							"displayName": "Component",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Description",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "Quantity",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "Total Cost",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "",
+							"value": "",
+							"dataType": "string"
+						},
+						{
+							"key": "Subtotal",
+							"value": "Subtotal",
+							"dataType": "string"
+						},
+						{
+							"key": "14,310.28",
+							"value": "14,310.28",
+							"dataType": "numeric"
+						}
+					]
+				},
+				{
+					"name": "Pricing Summary",
+					"template": "totalPriceTable",
+					"headers": [
+						{
+							"displayName": "Section",
+							"key": "",
+							"componentType": "label",
+							"dataType": "System.String",
+							"value": "Section"
+						},
+						{
+							"displayName": "Configuration List Price",
+							"key": "",
+							"componentType": "label",
+							"dataType": "PositiveSummation",
+							"value": "Total Cost"
+						},
+						{
+							"displayName": "Corporate Assistance",
+							"key": "CorporateAssistance",
+							"componentType": "label",
+							"dataType": "NegativeSummation",
+							"value": "Total Cost"
+						},
+						{
+							"displayName": "Product Subsidies",
+							"key": "ProductSubsidies",
+							"ComponentType": "label",
+							"dataType": "NegativeSummation",
+							"value": "Total Cost"
+						},
+						{
+							"displayName": "Strategic Discount",
+							"key": "StrategicDiscount",
+							"componentType": "label",
+							"dataType": "NegativeSummation",
+							"value": "Total Cost"
+						},
+						{
+							"displayName": "Net Price",
+							"key": "TotalPrice",
+							"componentType": "label",
+							"dataType": "System.String",
+							"value": "=RowSum"
+						}
+					],
+					"rows": [],
+					"footer": [
+						{
+							"key": "Total",
+							"value": "Total",
+							"dataType": "string"
+						},
+						{
+							"key": "ConfigurationListPriceTotal",
+							"value": "=ColSum",
+							"dataType": "calculation"
+						},
+						{
+							"key": "CorporateAssistanceTotal",
+							"value": "=ColSum",
+							"dataType": "calculation"
+						},
+						{
+							"key": "ProductSubsidiesTotal",
+							"value": "=ColSum",
+							"dataType": "calculation"
+						},
+						{
+							"key": "StrategicDiscountTotal",
+							"value": "=ColSum",
+							"dataType": "calculation"
+						},
+						{
+							"key": "TotalPrice",
+							"value": "=ColSum",
+							"dataType": "calculation"
+						}
+					]
+				}
+
+			],
+			"subsections": []
+		},
+		{
+			"template": "manufacturingCommentsTable",
+			"name": "",
+			"culture": "en-US",
+			"variables": [],
+			"tables": [
+				{
+					"name": "Manufacturing Comments",
+					"template": "manufacturingCommentsTable",
+					"headers": [
+						{
+							"displayName": "Date",
+							"key": "Section"
+						},
+						{
+							"displayName": "User",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "Comments",
+							"key": "PartDescription"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				}
+
+			],
+			"subsections": []
+		},
+		{
+			"template": "releaseinfo",
+			"name": "Release Information",
+			"culture": "en-US",
+			"variables": [
+			],
+			"tables": [],
+			"subsections": [
+				{
+					"template": "generalsystemdata",
+					"name": "General System Data",
+					"culture": "en-US",
+					"variables": [
+						{
+							"displayName": "Hoistway Width (in)",
+							"key": "elevatoR001.Parameters.HWYWID",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Hoistway Depth (in)",
+							"key": "elevatoR001.Parameters.HWYDEP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Overhead to Under Safety Beam",
+							"key": "",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Overhead Top Landing to Roof Cap",
+							"key": "",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Pit Depth (in)",
+							"key": "elevatoR001.Parameters.PITDEPTH",
+							"value": 1234,
+							"dataType": "numeric"
+						},
+						{
+							"displayName": "Main Egress Floor # (Marking)",
+							"key": "mainEgress",
+							"value": "11/14/2020",
+							"dataType": "date"
+						},
+						{
+							"displayName": "Alternate Egress Floor # (Marking)",
+							"key": "alternateEgress",
+							"value": "11/14/2020",
+							"dataType": "date"
+						}
+					],
+					"subsections": [],
+					"tables": []
+				},
+				{
+					"template": "cabdata",
+					"name": "Cab Data",
+					"culture": "en-US",
+					"variables": [
+						{
+							"displayName": "Cab Type",
+							"key": "elevatoR.Parameters_SP.panelType_SP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Cab Panel",
+							"key": "elevatoR.Parameters.CABTYP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Cab Ceiling",
+							"key": "elevatoR.Parameters.CABCEILTYP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Cab Ceiling Finish",
+							"key": "elevatoR.Parameters_SP.CABWLFINMAT_SP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Cab Door Finish",
+							"key": "elevatoR.Parameters_SP.CABDORFINMAT_SP",
+							"value": "example",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Cab Sills",
+							"key": "elevatoR.Parameters.CABSILFIN",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Cab Flooring Thickness (in)",
+							"key": "elevatoR.Parameters.FINFLR",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Cab Flooring Weight",
+							"key": "elevatoR.Parameters.FINFLRWT",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Fronts Finish",
+							"key": "elevatoR.Parameters_SP.CABFRTFINMAT_SP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Cab Handrail(s)",
+							"key": "elevatoR.Parameters_SP.handrailType_SP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Cab Handrail(s) Finish",
+							"key": "elevatoR.Parameters.HNDRLFIN",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Handrail Height AFF (in)",
+							"key": "elevatoR.Parameters.HNDRLHGT",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Car Top Exit Switch",
+							"key": "elevatoR.Parameters.CABTOPLK",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Bumper Rail(s)",
+							"key": "elevatoR.Parameters_SP.bumperRailType_SP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Bumper Rail(s) Finish",
+							"key": "elevatoR.Parameters.CABBRFIN",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Bumper Height AFF (in)",
+							"key": "elevatoR.Parameters.BMPRLHGT",
+							"value": "Example Project",
+							"dataType": "string"
+						}
+					],
+					"subsections": [],
+					"tables": []
+				},
+				{
+					"template": "fixturedata",
+					"name": "Fixture Data",
+					"culture": "en-US",
+					"variables": [
+						{
+							"displayName": "Nameplate Language",
+							"key": "elevatoR.Parameters.LAYLANG",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Voice Annunciator Language",
+							"key": "",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Voice Annunciator Floor Format",
+							"key": "",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Voice Annunciator Voice",
+							"key": "elevatoR.Parameters.VOICETYP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Nameplate Type",
+							"key": "",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Car PI Color",
+							"key": "elevatoR.Sales_UI_Screens.Unit_HallFixtures_SP.Parameters.PICOLOR",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Car Button Color",
+							"key": "elevatoR.Parameters.PBILUM",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Aux COP Emerg. Light",
+							"key": "elevatoR.Parameters_SP.ELITELOCA_SP",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Fastener Type",
+							"key": "",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "Appendix O Type",
+							"key": "",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "FrontRisers",
+							"key": "FrontRisers",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "FrontInconRisers",
+							"key": "FrontInconRisers",
+							"value": "Example Project",
+							"dataType": "string"
+						},
+						{
+							"displayName": "RearRisers",
+							"key": "RearRisers",
+							"value": "NoOfRearRisers",
+							"dataType": "string"
+						},
+						{
+							"displayName": "RearInconRisers",
+							"key": "RearInconRisers",
+							"value": "Example Project",
+							"dataType": "string"
+						}
+					],
+					"subsections": [],
+					"tables": [
+						{
+							"name": "COP and Locked Compartment",
+							"template": "copandLockedCompartmentsTable",
+							"headers": [
+								{
+									"displayName": "CarStationDevices",
+									"key": "Section"
+								},
+								{
+									"displayName": "InLockedCompartment",
+									"key": "PartDescription"
+								},
+								{
+									"displayName": "InMainCop",
+									"key": "ItemNumber"
+								},
+								{
+									"displayName": "InFireCompartment",
+									"key": "ComponentName"
+								}
+							],
+							"rows": [],
+							"footer": [
+							]
+						}
+					]
+				}
+
+			]
+		},
+		{
+			"template": "floorMatrixGeneralFloorProperties",
+			"name": "floorMatrix",
+			"culture": "en-US",
+			"variables": [],
+			"tables": [
+				{
+					"name": "Floor Matrix: General Floor Properties",
+					"template": "floorMatrixGeneralFloorProperties",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "FloorMarkingFront",
+							"key": "ItemNumber"
+						},
+						{
+							"displayName": "FloorMarkingRear",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "FloorHeight",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "WallThicknessFront",
+							"key": "Parameter3"
+						},
+						{
+							"displayName": "WallThicknessRear",
+							"key": "Parameter3Value"
+						},
+						{
+							"displayName": "FrameConstructionFront",
+							"key": "LeadTime"
+						},
+						{
+							"displayName": "FrameConstructionRear",
+							"key": "BatchNo"
+						},
+						{
+							"displayName": "FaceOfFrameFront",
+							"key": "Parameter4"
+						},
+						{
+							"displayName": "FaceOfFrameRear",
+							"key": "Parameter4Value"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Entrance Frames",
+					"template": "floorMatrixEntranceFrames",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "FrameFinishFront",
+							"key": "ItemNumber"
+						},
+						{
+							"displayName": "FrameFinishRear",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "FrameFinishColorFront",
+							"key": "Parameter3"
+						},
+						{
+							"displayName": "FrameFinishColorRear",
+							"key": "Parameter3Value"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Hoistway Doors",
+					"template": "floorMatrixHoistwayDoors",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "DoorFinishFront",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "DoorFinishRear",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "DoorFinishColorFront",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "DoorFinishColorRear",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "DoorConstructionFront",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "DoorConstructionRear",
+							"key": "Quantity"
+						},
+						{
+							"displayName": "KeyholesFront",
+							"key": "TotalPrice"
+						},
+						{
+							"displayName": "KeyholesRear",
+							"key": "TotalPrice"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Hoistway Sills",
+					"template": "floorMatrixHoistwaySills",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "SillTypeFront",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "SillTypeRear",
+							"key": "PartDescription"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Hall Stations",
+					"template": "floorMatrixHallStations",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "HallStationTypeFront",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "HallStationTypeRear",
+							"key": "ComponentName"
+						} //,
+						//{
+						//	"displayName": "HallStationFinishFront",
+						//	"key": "Quantity"
+						//},
+						//{
+						//	"displayName": "HallStationFinishRear",
+						//	"key": "TotalPrice"
+						//},
+						//{
+						//	"displayName": "ButtonTypeColorFront",
+						//	"key": "TotalPrice"
+						//},
+						//{
+						//	"displayName": "ButtonTypeColorRear",
+						//	"key": "TotalPrice"
+						//},
+						//{
+						//	"displayName": "HoistwayAccessFront",
+						//	"key": "TotalPrice"
+						//},
+						//{
+						//	"displayName": "HoistwayAccessRear",
+						//	"key": "TotalPrice"
+						//}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Hall Lanterns",
+					"template": "FloorMatrixHallLanterns",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						//{
+						//	"displayName": "HallLanternFinishFront",
+						//	"key": "ComponentName"
+						//},
+						//{
+						//	"displayName": "HallLanternFinishRear",
+						//	"key": "PartDescription"
+						//},
+						//{
+						//	"displayName": "OrientationFront",
+						//	"key": "Quantity"
+						//},
+						//{
+						//	"displayName": "OrientationRear",
+						//	"key": "TotalPrice"
+						//},
+						//{
+						//	"displayName": "LanternColorFront",
+						//	"key": "TotalPrice"
+						//},
+						//{
+						//	"displayName": "LanternColorRear",
+						//	"key": "TotalPrice"
+						//},
+						{
+							"displayName": "LanternShapeFront",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "LanternShapeRear",
+							"key": "ComponentName"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Position Indicators",
+					"template": "floorMatrixPositionIndicators",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "PIFinishFront",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "PIFinishRear",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "PIColorFront",
+							"key": "LeadTime"
+						},
+						{
+							"displayName": "PIColorRear",
+							"key": "ItemNumber"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Combo Hall Lantern/PI",
+					"template": "floorMatrixComboPositionIndicatorsHallLanterns",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "ComboFinishFront",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "ComboFinishRear",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "PIColorFront",
+							"key": "LeadTime"
+						},
+						{
+							"displayName": "PIColorRear",
+							"key": "ItemNumber"
+						},
+						//{
+						//	"displayName": "LanternColorFront",
+						//	"key": "TotalPrice"
+						//},
+						//{
+						//	"displayName": "LanternColorRear",
+						//	"key": "TotalPrice"
+						//},
+						{
+							"displayName": "LanternShapeFront",
+							"key": "Parameter3"
+						},
+						{
+							"displayName": "LanternShapeRear",
+							"key": "Parameter3Value"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Position Indicators",
+					"template": "floorMatrixPositionIndicatorETD",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "FrontType",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "RearType",
+							"key": "ComponentName"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Elevator & Floor Designation Braille",
+					"template": "floorMatrixPositionIndicatorETD",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "FrontType",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "RearType",
+							"key": "ComponentName"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Hall Elevator Designation Plate",
+					"template": "floorMatrixHallElevatorDesignationPlate",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "typeFront",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "typeRear",
+							"key": "ComponentName"
+						},
+						{
+							"displayName": "IlluminationFront",
+							"key": "LeadTime"
+						},
+						{
+							"displayName": "IlluminationRear",
+							"key": "ItemNumber"
+						},
+						{
+							"displayName": "FinishFront",
+							"key": "Parameter3"
+						},
+						{
+							"displayName": "FinishRear",
+							"key": "Parameter3Value"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Hall Target Indicator",
+					"template": "floorMatrixHallTargetIndicator",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "FrontType",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "RearType",
+							"key": "ComponentName"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				},
+				{
+					"name": "Floor Matrix: Braille",
+					"template": "floorMatrixHallTargetIndicator",
+					"headers": [
+						{
+							"displayName": "Floor",
+							"key": "Section"
+						},
+						{
+							"displayName": "FrontType",
+							"key": "PartDescription"
+						},
+						{
+							"displayName": "RearType",
+							"key": "ComponentName"
+						}
+					],
+					"rows": [],
+					"footer": [
+					]
+				}
+			],
+			"subsections": []
+		}
+	]
+}

@@ -1,0 +1,47 @@
+﻿<div class="border-Box">
+	{{#SectionTable}}
+	<div class="table-name">
+		<h5> {{TableName}}</h5>
+	</div>
+
+	<table id='products'>
+		<thead>
+			<tr>
+				<th rowspan="2" style="text-align:center">Floor</th>
+				<th colspan="2" style="text-align:center">Floor Markings</th>
+				<th rowspan="2" style="text-align:center">Floor Height</th>
+				<th colspan="2" style="text-align:center">Wall Thickness</th>
+				<th colspan="2" style="text-align:center">Frame Construction</th>
+				<th colspan="2" style="text-align:center">Face of Frame</th>
+			</tr>
+			<tr>
+				<th style="text-align:center">Front</thalign="center">
+				<th style="text-align:center">Rear</th>
+				<th style="text-align:center">Front</th>
+				<th style="text-align:center">Rear</th>
+				<th style="text-align:center">Front</th>
+				<th style="text-align:center">Rear</th>
+				<th style="text-align:center">Front</th>
+				<th style="text-align:center">Rear</th>
+			</tr>
+		</thead>
+		<tbody>
+			{{#TRow}}
+			<tr>
+				<td style="text-align:center">{{Floor}}</td>
+				<td style="text-align:center">{{FloorMarkingFront}}</td>
+				<td style="text-align:center">{{FloorMarkingRear}}</td>
+				<td style="text-align:center">{{FloorHeight}}</td>
+				<td style="text-align:center">{{WallThicknessFront}}</td>
+				<td style="text-align:center">{{WallThicknessRear}}</td>
+				<td style="text-align:center">{{FrameConstructionFront}}</td>
+				<td style="text-align:center">{{FrameConstructionRear}}</td>
+				<td style="text-align:center">{{FaceOfFrameFront}}</td>
+				<td style="text-align:center">{{FaceOfFrameRear}}</td>
+			</tr>
+			{{/TRow}}
+
+		</tbody>
+	</table>
+	{{/SectionTable}}
+</div>
