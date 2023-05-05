@@ -1,0 +1,75 @@
+@model LoginViewModel
+
+<div class="form-signin text-left">
+    <div class="card">
+        
+
+        <div class="card-body">
+            <img class="logo" src="~/tke_logo.svg" alt="TKE" height="100">
+
+            <partial name="_ValidationSummary" />
+
+            @if (Model.EnableLocalLogin)
+            {
+
+                <form asp-route="Login">
+                    <input type="hidden" asp-for="ReturnUrl" />
+
+                    <div class="form-group">
+                        <label asp-for="Username" class="m-0"></label>
+                        <input class="form-control" asp-for="Username" autofocus>
+                        <small class="form-text text-muted" id="pwdHelp">Enter your dev email address. It will end with tke.dev</small>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password" class="m-0"></label>
+                        <input type="password" class="form-control" asp-for="Password" autocomplete="off">
+                    </div>
+                    @if (Model.AllowRememberLogin)
+                    {
+                        <div class="form-group">
+                            <div class="form-check">
+                                <input class="form-check-input" asp-for="RememberLogin">
+                                <label class="form-check-label" asp-for="RememberLogin">
+                                    Remember me
+                                </label>
+                            </div>
+                        </div>
+                    }
+                    <div class="d-flex justify-content-end">
+                        <button class="btn btn-primary rounded-0 mr-1" name="button" value="login">Login</button>
+                        <button class="btn btn-light rounded-0" name="button" value="cancel">Cancel</button>
+                    </div>
+                </form>
+
+            }
+
+            @if (Model.VisibleExternalProviders.Any())
+            {
+                <ul class="list-inline mt-3">
+                    @foreach (var provider in Model.VisibleExternalProviders)
+                    {
+                        <li class="list-inline-item">
+                            <a class="btn btn-light rounded-0"
+                               asp-controller="External"
+                               asp-action="Challenge"
+                               asp-route-scheme="@provider.AuthenticationScheme"
+                               asp-route-returnUrl="@Model.ReturnUrl">
+                                @provider.DisplayName
+                            </a>
+                        </li>
+                    }
+                </ul>
+            }
+
+            @if (!Model.EnableLocalLogin && !Model.VisibleExternalProviders.Any())
+            {
+                <div class="alert alert-warning">
+                    <strong>Invalid login request</strong>
+                    There are no login schemes configured for this request.
+                </div>
+            }
+
+        </div>
+    </div>
+</div>
+
